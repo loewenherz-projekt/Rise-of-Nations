@@ -1,0 +1,26 @@
+﻿l_german:
+
+LW_infantry:0 "LW Feld Unit"
+LW_infantry_desc:0 "Leichte Truppen der deutschen Luftwaffe, nicht sehr gut ausgebildet, aber schnell zu trainieren und verfügen über einige Verteidigungsboni und gute Flugabwehrfähigkeiten."
+
+LW_flak:0 "LW-Flak-Einheit"
+LW_flak_desc:0 "Auf die Verteidigung von Städten, Häfen und Befestigungen spezialisierte Truppen mit starker Flakabwehr. Stark in der Verteidigung, aber langsam in der Bewegung und schwach in der Offensive."
+
+GER_LW_units_tech:0 "LW-Truppen"
+GER_LW_units_tech_desc:0 "Ermöglicht die Rekrutierung von LW-Truppen."
+
+ZDLW.1:0 "Die Luftwaffe"
+ZDLW.1.t:0 "Optionen für „Die Luftwaffe“ Mod"
+ZDLW.1.desc:0 "Sie haben vier Optionen:\n\n#1 Nur Skins und Modelle.\nDies ermöglicht den Zugriff auf die LW-Einheitenvorlage und alle Modelle. Es werden keine Einheiten jährlich geliefert.\n\n#2 Historische Einheiten.\nDies liefert die historischen jährlichen LW-Divisionen und Flugzeugbauten um den 30. Januar jedes Jahres 1940-45.\n\n#3 Historische Einheiten und Technik.\nDies liefert die historischen jährlichen LW-Divisionen und Flugzeugbauten sowie Lufttechnik um den 30. Januar jedes Jahres 1940-45.\n\n#4 Die Adler!\nLiefert jetzt alle LW-Einheiten, mit einigen Lufttechnikern."
+ZDLW.1.a:0 "Nur Skins und Modelle"
+ZDLW.1.a.tt:0 "Dies ermöglicht den Zugriff auf die LW-Einheitenvorlage und alle Modelle. Es werden keine Einheiten jährlich geliefert"
+ZDLW.1.b:0 "Historische Einheiten"
+ZDLW.1.b.tt:0 "Dies liefert die historischen jährlichen Einheitenbauten um den 30. Januar jedes Jahres 1940-45"
+ZDLW.1.c:0 "Historische Einheiten und Technik"
+ZDLW.1.c.tt:0 "Dies wird die historischen jährlichen Einheitenaufbauten und Lufttechnik um den 30. Januar jedes Jahres 1940-45 liefern"
+ZDLW.1.d:0 "Die Luftwaffe!"
+ZDLW.1.d.tt:0 "Liefert jetzt alle LW-Einheiten, mit einigen Lufttechnikern."
+ZDLW.100:0 "Die Luftwaffe Mod"
+ZDLW.100.t:0 "Die Luftwaffe Bericht "
+ZDLW.100.d:0 "Das Oberkommando der Luftwaffe meldet, dass alle LW-Einsätze für dieses Jahr wie befohlen abgeschlossen wurden.\n\nZeig Heil"
+ZDLW.100.a:0 "Anerkannt, Anerkannt!"

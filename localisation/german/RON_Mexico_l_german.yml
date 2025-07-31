@@ -1,0 +1,1555 @@
+﻿l_german:
+ # SOURCES
+ 
+  ## WW1 MEXICAN UPDATE 24/07/2022
+  MEX_WW1_prepare_1910_elections:0 "Bereiten Sie die Wahlen von 1910 vor"
+  MEX_WW1_prepare_1910_elections_desc:0 ""
+  MEX_WW1_path_of_democracy:0 "Der Weg der Demokratie"
+  MEX_WW1_path_of_democracy_desc:0 ""
+  MEX_WW1_anti_reelection_party:0 "Die Anti-Wiederwahl-Partei"
+  MEX_WW1_anti_reelection_party_desc:0 ""
+  MEX_WW1_pressure_aristocracy:0 "Druck auf die Aristokratie ausüben"
+  MEX_WW1_pressure_aristocracy_desc:0 ""
+  MEX_WW1_prepare_election_rigging:0 "Wahlmanipulation vorbereiten"
+  MEX_WW1_prepare_election_rigging_desc:0 ""
+  WW1_MEX_election_day:0 "Wahltag"
+  WW1_MEX_election_day_desc:0 ""
+  WW1_MEX_continue_economic_policies:0 "Fortsetzung unserer Wirtschaftspolitik"
+  WW1_MEX_continue_economic_policies_desc:0 ""
+  WW1_MEX_launch_pacification_expedition:0 "Starten Sie Befriedungsexpeditionen"
+  WW1_MEX_launch_pacification_expedition_desc:0 ""
+  WW1_MEX_pursue_romero_policy:0 "Romero-Richtlinie"
+  WW1_MEX_pursue_romero_policy_desc:0 ""
+  WW1_MEX_pursue_limantour_policy:0 "Limantour-Richtlinien"
+  WW1_MEX_pursue_limantour_policy_desc:0 ""
+  WW1_MEX_expand_rubber_farms:0 "Kautschukfarmen erweitern"
+  WW1_MEX_expand_rubber_farms_desc:0 ""
+  WW1_MEX_expand_northern_mines:0 "Erweitern Sie die nördlichen Minen"
+  WW1_MEX_expand_northern_mines_desc:0 ""
+  WW1_MEX_Maderos_ultimatum:0 "Maderos Ultimatum"
+  WW1_MEX_Maderos_ultimatum_desc:0 ""
+  WW1_MEX_organise_escape:0 "Organisieren Sie die Flucht"
+  WW1_MEX_organise_escape_desc:0 ""
+  WW1_MEX_plan_revolts:0 "Plane Revolten"
+  WW1_MEX_plan_revolts_desc:0 ""
+  WW1_MEX_criticize_diaz:0 "Kritisieren Sie Diaz"
+  WW1_MEX_criticize_diaz_desc:0 ""
+  WW1_MEX_flee_to_the_us:0 "Flucht in die USA"
+  WW1_MEX_flee_to_the_us_desc:0 ""
+  WW1_MEX_ask_for_support:0 "Bitten Sie um amerikanische Unterstützung"
+  WW1_MEX_ask_for_support_desc:0 ""
+  WW1_MEX_contact_mexican:0 "Kontaktdaten von Zapata"
+  WW1_MEX_contact_mexican_desc:0 ""
+  WW1_MEX_san_luis_potosi_plan:0 "Der Plan von San Luis Potosi"
+  WW1_MEX_san_luis_potosi_plan_desc:0 ""
+  WW1_MEX_northern_provinces:0 "Sichern Sie die nördlichen Provinzen"
+  WW1_MEX_northern_provinces_desc:0 ""
+  WW1_MEX_solidify_control:0 "Kontrolle festigen"
+  WW1_MEX_solidify_control_decs:0 ""
+  WW1_MEX_prepare_for_civil_war:0 "Bereiten Sie sich auf den Bürgerkrieg vor"
+
+  MEX_WW1_prepare_election_rigging_AI:0 "§gWahlbetrug vorbereiten§!"
+  MEX_WW1_pressure_aristocracy_AI:0 "§gSetzen Sie Druck auf die Aristokratie aus§!"
+  MEX_put_madero_in_house_arrest:0 "Stellen Sie Madero unter Hausarrest"
+  madero_arrested:0 "Madero wird verhaftet"
+  campaign_in_progress:0 "Eine Kampagne wird bereits durchgeführt"
+  pression_in_progress:0 "Wir üben bereits Druck auf Aristokraten aus"
+  MEX_revolution_cat:0 "Mexikanische Politik"
+  MEX_porfirist_army:0 "Porfirist-Generäle"
+  mex_porfirist_army_tt:0 "§RDie Armee wird angeführt von§! §7Porfirist§! §RGeneräle, der Versuch zu vieler Reformen kann unerwünschte Folgen haben...§!"
+
+  ##########
+  ##PEOPLE## - MASSIVE UPDATES FROM JUNTA UPDATE
+  ##########
+  
+  # ARMY FIGURES
+  
+  Joaquin_Amaro:0 "Joaquín Amaro Domínguez"
+  Joaquin_Amaro_desc:0 "Amaro, bekannt als „El Indio“, ist vor allem für seine umfassende Umstrukturierung des mexikanischen Militärs nach der Revolution bekannt. Seine Politik baute die zerschlagene Armee wieder auf und brachte zahlreiche organisatorische Neuerungen in die mexikanische Militärstruktur. Seine Reformen wurden sogar von amerikanischen Zeitungen aufgegriffen, die staunten, wie ein einzelner Indianer eine ganze Armee wieder aufbauen konnte. "
+  
+  Andres_Figueroa:0 "Andrés Figueroa"
+  Andres_Figueroa_desc:0 "Der Armeeminister Andres Figeroa wurde von Cárdenas ernannt, um das Militär von potenziellen Verrätern zu säubern und cardenistische Reformen durchzuführen. Im wirklichen Leben starb Andres Figeroa wenige Monate nach seiner Amtseinführung im Jahr 1936 aus unbekannten Gründen."
+  
+  MEX_pablo_m_valenzuela:0 "Pablo Macías Valenzuela"
+  MEX_pablo_m_valenzuela_desc:0 "Valenzuelas Verantwortung während seiner Amtszeit als Verteidigungsminister bestand in der Verteidigung Mexikos, insbesondere seiner Küsten, vor Überraschungsangriffen."
+  
+  enrique_estrada2:0 "Enrique Estrada"
+  enrique_estrada_desc2:0 "Enrique Estrada war Schüler des berühmten Revolutionsgenerals Felipe Angeles, wo er die Kunst der Artillerie erlernte."
+  
+  MEX_Escobar:0 "José Gonzalo Escobar"
+  MEX_Escobar_desc:0 "José Gonzalo Escobar war der Anführer des Escobar-Aufstands, der Callistas von der Macht verdrängen sollte. Sein Aufstand war zunächst mit Bodentruppen erfolgreich, doch die mangelnde Unterstützung der Luftwaffe besiegelte das Scheitern seines Putsches."
+  
+  matias:0 "Matías Ramos Santos"
+  
+  urquizo:0 "Fransisco L. Urquizo"
+  urquizo_desc:0 "Fransisco L. Urquizo wechselte im Laufe seiner politischen Karriere die Positionen, doch die bedeutendste Position in seiner politischen Karriere in dieser Ära war die des Chefs der Rüstungsindustrie."
+  
+  manuel:0 "Manuel Ávila Camacho"
+  manuel_desc:0 "Manuel Avila Camacho war von 1936 bis 1939 Verteidigungsminister, bevor er im darauffolgenden Jahr zurücktrat, um für das Präsidentenamt zu kandidieren."
+  
+  jesus:0 "Jesús Agustín Castro Rivera"
+  
+  cardenas:0 "Lazaro Cardenas"
+  cardenas_desc:0 "Nach seiner Amtszeit war Cárdenas aufgrund eines Rechtsrucks in der mexikanischen Politik, der ihn als kommunistische Marionette diffamierte, zu einer umstrittenen Figur geworden. Sein Status als Held der Revolution flößte jedoch sowohl den Mexikanern als auch dem Militär Vertrauen ein."
+  
+  MEX_candido_aguilar:0 "Candido Aguilar"
+  MEX_candido_aguilar_desc:0 "Cándido Aguilar war ein mexikanischer Offizier, der für die Aufdeckung politischer Korruption und die Flucht aus dem Land bekannt wurde. Kurz nach der Verbannung von Plutarco Elias Calles kehrte er zurück und diente als Berater."
+  
+  # Air Figures
+  
+  Luis_F_Cubillas:0 "Luis Farell Cubillas"
+  Luis_F_Cubillas_desc:0 "Cubillas ist das am meisten verehrte Idol der mexikanischen Luftfahrt und eines der letzten überlebenden Idole. Er flog Einsätze in jedem Konflikt in Mexiko seit der mexikanischen Revolution und seine zahlreichen Auszeichnungen machen ihn zu einem Symbol des Stolzes Mexikos."
+  Luis_F_Cubillas2:0 "Luis Farell Cubillas"
+  Luis_F_Cubillas_desc2:0 "Cubillas ist das am meisten verehrte Idol der mexikanischen Luftfahrt und eines der letzten überlebenden Idole. Er flog Einsätze in jedem Konflikt in Mexiko seit der mexikanischen Revolution und seine zahlreichen Auszeichnungen machen ihn zu einem Symbol des Stolzes Mexikos."
+  
+  MEX_Alfonso_Cruz_Rivera:0 "Alfonso Rivera"
+  Alfonso_C_Rivera:0 "Alfonso Rivera"
+  Alfonso_C_Rivera_desc:0 "Alfonso Cruz Rivera ist einer der letzten verbliebenen mexikanischen Luftwaffenstars. Während Mexikos Beteiligung am Spanischen Bürgerkrieg war er für die nächtliche Versorgung mit Nachschubflügen verantwortlich. In den 1950er Jahren, während des Mexikanisch-Guatemaltekischen Krieges, plante er einen Luftangriff, der die guatemaltekische Luftwaffe vernichtend getroffen hätte, wäre er nicht aufgrund politischer Verhandlungen in letzter Sekunde abgesagt worden."
+  Alfonso_C_Rivera2:0 "Alfonso Rivera"
+  Alfonso_C_Rivera2_desc:0 "Alfonso Cruz Rivera ist einer der letzten verbliebenen mexikanischen Luftwaffenstars. Während Mexikos Beteiligung am Spanischen Bürgerkrieg war er für die nächtliche Versorgung mit Nachschubflügen verantwortlich. In den 1950er Jahren, während des Mexikanisch-Guatemaltekischen Krieges, plante er einen Luftangriff, der die guatemaltekische Luftwaffe vernichtend getroffen hätte, wäre er nicht aufgrund politischer Verhandlungen in letzter Sekunde abgesagt worden."
+  
+  Juan_Azcarate:0 "Juan Azcárate"
+  Juan_Azcarate_desc:0 "Juan Azcárate war während der Maximato-Ära ein hochdekorierter Luftfahrtingenieur und eine der Luftfahrtlegenden Mexikos. Er war Direktor der TNCA, bevor diese während des Maximato geschlossen wurde. In seiner Autobiografie machte er politische Unterdrückung für die Schließung verantwortlich."
+  
+  MEX_Alfonso_Tabon:0 "Alfonso Tabon"
+  MEX_Alfonso_Tabon_desc:0 "Alfonso Tabon war der Armeeoffizier, der mit der Modernisierung der mexikanischen Luftwaffe beauftragt wurde. Im wirklichen Leben waren seine Versuche vergeblich, da die Paranoia vor dem Zweiten Weltkrieg dazu führte, dass andere Länder zögerten, Flugzeuge und Technologie zu lizenzieren. Die Demontage der mexikanischen Luftfahrtprogramme während des Maximato führte zu einem erheblichen Braindrain für einheimische Entwickler."
+
+  MEX_Juan:0 "Juan Villasana"
+  MEX_Juan_desc:0 "Juan Villasana ist ein weiterer hochdekorierter Luftfahrtpionier. Er erfand die Anáhuac-Helix, die in andere lateinamerikanische Länder und nach Japan exportiert wurde. Das Kaiserlich Japanische Luftkorps lobte ihn für seine Erfindung, und er gilt als Begründer der mexikanischen Luftfahrt. Er war auch einer der ersten, der einen Hubschrauber konstruierte, den sogenannten „Villasana-Helikopter“."
+  
+  MEX_Gustavo_L_Gonzalez:0 "Gustavo L. Gonzalez"
+  
+  Salinas:0 "Gustavo Adolfo Salinas Camiña"
+  Salinas2:0 "Gustavo Adolfo Salinas Camiña"
+  Salinas3:0 "Gustavo Adolfo Salinas Camiña"
+  Salinas_desc:0 "Der erste Flieger, der einen Seeangriff durchführte. 1943 wurde er mit den Worten zitiert: „Die Bomben, die ich benutzte, waren selbstgebaut und enthielten 52 Dynamitstangen. So primitiv sie auch waren, sie funktionierten einwandfrei. Ich flog damals einen alten Wright-Pusher. Mir kam der Gedanke, dass wir eines Tages Flugzeuge haben würden, deren Tragfähigkeit unsere kühnsten Träume übertraf, und dass das Flugzeug dann als militärische Angriffswaffe von sagenhafter Kraft zum Einsatz kommen würde. Dieser Tag ist gekommen.“ "
+  Salinas2_desc:0 "Der erste Flieger, der einen Seeangriff durchführte. 1943 wurde er mit den Worten zitiert: „Die Bomben, die ich benutzte, waren selbstgebaut und enthielten 52 Dynamitstangen. So primitiv sie auch waren, sie funktionierten einwandfrei. Ich flog damals einen alten Wright-Pusher. Mir kam der Gedanke, dass wir eines Tages Flugzeuge haben würden, deren Tragfähigkeit unsere kühnsten Träume übertraf, und dass das Flugzeug dann als militärische Angriffswaffe von sagenhafter Kraft zum Einsatz kommen würde. Dieser Tag ist gekommen.“ "
+  Salinas3_desc:0 "Der erste Flieger, der einen Seeangriff durchführte. 1943 wurde er mit den Worten zitiert: „Die Bomben, die ich benutzte, waren selbstgebaut und enthielten 52 Dynamitstangen. So primitiv sie auch waren, sie funktionierten einwandfrei. Ich flog damals einen alten Wright-Pusher. Mir kam der Gedanke, dass wir eines Tages Flugzeuge haben würden, deren Tragfähigkeit unsere kühnsten Träume übertraf, und dass das Flugzeug dann als militärische Angriffswaffe von sagenhafter Kraft zum Einsatz kommen würde. Dieser Tag ist gekommen.“ "
+
+  agustin_olachea2:0 "Agustin Aviles Olachea"
+  agustin_olachea2_desc:0 "Agustin Aviles Olachea baute während des Zweiten Weltkriegs Luftfahrtschulen auf und half dabei, die mexikanische Luftwaffe für spätere Generationen zu formalisieren, als die Ära der autodidaktischen revolutionären Luftfahrtidole zu Ende ging."
+  
+  antonio:0 "Antonio Cardenas Rodriguez"
+  antonio_desc:0 "Der entscheidende Moment in Antonios Militärkarriere war die Führung des Geschwaders 201 über den Philippinen in der Schlussphase des Zweiten Weltkriegs."
+  
+  #POLITICAL FIGURES
+  
+  Miguel_Comacho:0 "Miguel Ávila Camacho"
+  Miguel_Comach_desc:0 "Miguel Ávila Camacho war der Nachfolger von Andres Figeroa im Heeresministerium. Amerikanische Beobachter lobten ihn dafür, dass er die mexikanische Armee endlich professionalisiert und die zerschlagene mexikanische Armee zu einer kleinen, aber disziplinierten Streitmacht umgebaut habe."
+  
+  Maximino:0 "Maximino Ávila Camacho"
+  Maximino_desc:0 "Maximino ist der Bruder von Manuel Avila Comacho. Maximino ist nicht nur als Sympathisant der Achsenmächte bekannt, sondern auch als Geschäftspartner von William Jenkins, der ein Monopol auf die mexikanischen Medien hat und den Einfluss der Alliierten vereitelt. Maximinos Einmischung zerstörte im Alleingang die Propagandaversuche Frankreichs und Großbritanniens."
+  
+  Mugica:0 " Francisco José Múgica"
+  Mugica_desc:0 "Múgica war einer der bekannteren Generäle während der mexikanischen Revolutionen und sollte von Cárdenas anstelle des konservativeren Manuel Ávila Comacho als sein linker Nachfolger ausgewählt werden. Mugicas Kandidatur war nicht durchführbar, da gegen Ende von Lázaros Amtszeit die Unterstützung für seine politischen Ansichten zusammenbrach."
+
+  MEX_PAB:0 "Pablo Quiroga Trevino"
+  MEX_PAB_desc:0 "Pablo Quiroga Trevino gilt als einer der engsten Verbündeten von Cárdenas. Er ist verantwortlich für die Durchsetzung der umstrittenen sozialistischen Bildung und für die politische Linie von Cárdenas. Pablo Quiroga war einer der wenigen Minister des ursprünglichen Kabinetts, die auf der Seite von Cárdenas standen."
+  
+  MEX_SANTA:0 "Miguel G. Santa Ana"
+  MEX_SANTA_desc:0 "Miguel G. Santa Ana war im Auftrag von SEDENA, dem mexikanischen Heeres- und Marineministerium, für die Beschaffung von Ausrüstung, Vorräten und anderen Vermögenswerten verantwortlich."
+  
+  Castillo:0 "Francisco Castillo"
+  Castillo_desc:0 "Castillo war vor allem für seine Position als Botschafter im Ausland bekannt, wo er mögliche Handelsabkommen auslotete und allgemein die diplomatischen Beziehungen verbesserte."
+  
+  agustin_olachea:0 "Agustin Aviles Olachea"
+  agustin_olachea_desc:0 "Agustín Olachea war für den Bau aller für die mexikanischen Streitkräfte wichtigen Einrichtungen verantwortlich. Er beaufsichtigte den Bau zahlreicher Militärprojekte, von neuen Luftwaffenstützpunkten bis hin zu neuen Militärakademien in ganz Mexiko."
+  
+  MEX_plutarco_e_calles_desc:0 "Plutarco Calles, auch bekannt als „El Jefe Maximo“, war von 1924 bis 1928 populistischer Präsident. Anfangs war er ein Mann des Volkes mit großer öffentlicher Unterstützung und ein Held der Revolution. Unglücklicherweise hielt er sich, wie der Diktator Porfiro Diaz, gegen den die Revolution kämpfte, bis 1936 mit Hilfe von Marionettenpräsidenten und Anhängern der PRM an der Macht. Seine Politik driftete mit der Zeit nach rechts, und als seine Politik den Cristero-Krieg mit auslöste, war sein Ruf völlig zerstört. Dieser schlechte Ruf gipfelte 1936 in seiner Verbannung nach San Diego."
+  
+  padilla:0 "Ezequiel Padilla Peñaloza"
+  padilla_desc:0 "Während seiner Regierungszeit ist Padilla vor allem für seine entschiedene pro-amerikanische Haltung bekannt. Padilla war ein so überzeugter Unterstützer der US-Interessen, dass er den USA regelmäßig streng geheime mexikanische Dokumente übergab."
+  
+  MEX_eduardo_saurez:0 "Eduardo Saurez"
+  MEX_eduardo_saurez_desc:0 "Eduardo Saurez war von 1935 bis 1946 mexikanischer Finanzminister."
+  
+  MEX_rex_applegate:0 "Rex Applegate"
+  MEX_rex_applegate_desc:0 "Rex Applegate war ein US-Offizier und Roosevelts persönlicher Leibwächter, der mexikanische Soldaten in Spezialeinsatztaktiken, insbesondere im Nahkampf, ausbilden sollte und noch lange nach dem Krieg als Berater diente."
+  
+  MEX_Jose_Revueltas:0 "José Revueltas"
+  MEX_Jose_Revueltas_desc:0 "José Revueltas war ein umstrittener kommunistischer Autor. Er wurde aus mehreren kommunistischen Parteien ausgeschlossen, weil er deren politische Ansichten offen kritisierte. Bekannt ist er auch für seine Verbindungen zu Gewerkschafts- und Bauernprotesten in den späten 1960er Jahren. Seine Verbreitung von Protestbotschaften führte 1968 zum Massaker von Tlatelolco."
+  
+  MEX_Maria:0 "María del Refugio García"
+  MEX_Maria_desc:0 "María del Refugio García war eine Ikone des mexikanischen Feminismus und bekannt für ihre marxistischen Ansichten. Bekannt wurde sie vor allem durch ihren elftägigen Streik zur Reform diskriminierender Gesetze gegen Frauen, der die Aufmerksamkeit von Präsident Lazaro Cardenas erregte."
+  # Navy
+  Heriberto:0  "Heriberto Jara Corona"
+  Heriberto_desc:0  "Heriberto ist der allererste Marineminister Mexikos. Aufgrund der Zentralisierung des Militärs wurde der Marineminister geschaffen, um die politische Macht des Militärs zu schwächen."
+  
+  hector:0 "Hector Meixueiro"
+  
+  # Theorists - JUNTA UPDATE, NEW STUFF HERE.
+  
+  gustavo:0 "Gustavo Adolfo Salinas Camiña"
+  gustavo_desc:0 "Der erste Flieger, der einen Seeangriff durchführte. 1943 wurde er mit den Worten zitiert: „Die Bomben, die ich benutzte, waren selbstgebaut und enthielten 52 Dynamitstangen. So primitiv sie auch waren, sie funktionierten einwandfrei. Ich flog damals einen alten Wright-Pusher. Mir kam der Gedanke, dass wir eines Tages Flugzeuge haben würden, deren Tragfähigkeit unsere kühnsten Träume übertraf, und dass das Flugzeug dann als militärische Angriffswaffe von sagenhafter Kraft zum Einsatz kommen würde. Dieser Tag ist gekommen.“ "
+  
+  matias2:0 "Matías Ramos"
+  
+  enrique_estrada:0 "Enrique Estrada"
+  enrique_estrada_desc:0 "Enrique Estrada war Schüler des berühmten Revolutionsgenerals Felipe Angeles, wo er die Kunst der Artillerie erlernte."
+  
+  MEX_Manuel_Sandoval_Vallarta:0 "Manuel Sandoval Vallarta"
+  MEX_Manuel_Sandoval_Vallarta_desc:0 "Vallarta war ein mexikanischer Physiker, der sowohl am MIT als auch an der UNAM lehrte. Sein Fachgebiet war die kosmische Strahlung. 1927 erhielt er ein Gugeinheim-Stipendium und verbrachte Aufenthalte an den Universitäten Berlin und Leipzig. Dort lernte er von Einstein, Heiseinberg, Schrödinger und Planck. 1946 entschied er sich, Vollzeit an der UNAM zu bleiben, um dort als Berater für Wissenschaftspolitik zu arbeiten. Vallarta ist insofern einzigartig, als er in den USA Studenten betreute, die später das Manhattan-Projekt abschlossen. Seine Schüler waren Richard Feynman und Julius Stratton. Außerdem war er Kollege des berühmten belgischen Physikers Georges Lemaître bei dessen Forschungen zur kosmischen Strahlung."
+  
+  
+  #############
+  ##COMPANIES##
+  #############
+  
+  PEMEX:0 "PEMEX"
+  PEMEX_desc:0 "PEMEX ist die verstaatlichte Ölgesellschaft Mexikos. Ihre Gründung löste eine gewaltige Welle geologischer Entdeckungen, sozialer Entwicklungen und wirtschaftlicher Innovationen aus und war die treibende Kraft hinter der Industrialisierung Mexikos."
+  
+  aguila:0 "Aguila-Öl"
+  aguila_desc:0 "Die Sinarquistas, Mexikos Faschisten, waren überzeugte Kapitalisten, die an die mexikanische Kontrolle des mexikanischen Marktes glaubten. Wollte ein ausländisches Unternehmen in den mexikanischen Markt eintreten, musste es dies über einen unabhängigen mexikanischen Vermittler tun. Unter ihrer Führung wäre die ausländische Ölindustrie zwangsweise eingebürgert worden, und falls es PEMEX gegeben hätte, wäre es stückweise an die mexikanische Elite versteigert worden."
+  
+  CEMEX:0 "CEMEX"
+  
+  Azcarate:0 "Azcarate SA"
+  Azcarate_desc:0 "Nach seinem politischen Exil gründete Azcarate ein kleines Luftfahrtunternehmen, wo er während des Zweiten Weltkriegs in Partnerschaft mit Lockheed Martin Projekte durchführte."
+  
+  baja:0 "Mariscraft SA"
+  baja_desc:0 "Mariscraft war ein unbekanntes mexikanisches Luftfahrtunternehmen, das in Wirklichkeit nur ein Flugzeug produzierte: die MA-260. Die MA-260 galt als mexikanisches Projekt zur Entwicklung eines Langstrecken-Jagdbombers, basierend auf dem Konzept der 8W Zeus."
+  
+  Mendoza:0 "Productos Mendoza"
+  Mendoza_desc:0 "Mendoza ist nach Manuel Mondragon der zweite legendäre mexikanische Waffendesigner. Sie sind auf Maschinengewehre spezialisiert, von schweren Maschinengewehren über Maschinenpistolen bis hin zu vollautomatischen Gewehren."
+  
+  Obregon: "Alejandro Obregón"
+  Obregon_desc:0 "Obregón ist vor allem für die Obregón .45 Pistole bekannt, die das Design der 1911 vereinfachte. Das Innere unterschied sich deutlich von der 1911 und wies viele vereinfachte Teile auf. Dadurch war die Obregón Pistole zuverlässiger und günstiger als die 1911. Obregóns Pistolen gelten als Meisterwerke handwerklicher Qualität."
+  
+  TGA2:0 "TGA"
+  TGA2_desc:0 "Die TNCA, heute TGA, baute nicht nur Flugzeuge. Sie entwickelte auch Panzer mit starkem Panzerungsschutz und großkalibrigen Kanonen. Während des Maximato wurden jedoch sowohl die Flug- als auch die Panzerabteilungen geschlossen."
+  
+  Grupo_Ramirez:0 "Grupo Ramirez"
+  Grupo_Ramirez_desc:0 "Mexikos erstes Automobilunternehmen und Hersteller des Lastwagens Rural Ramirez. Das Unternehmen ist auf günstige, zuverlässige Autos und Motoren spezialisiert."
+  
+  Grupo_Ramirez2:0 "Grupo Ramirez"
+  Grupo_Ramirez2_desc:0 "Mexikos erstes Automobilunternehmen und Hersteller des Lastwagens Rural Ramirez. Das Unternehmen ist auf günstige, zuverlässige Autos und Motoren spezialisiert."
+  
+  VAM:0 "VAM"
+  VAM_desc:0 "Ein staatlich kontrollierter Autohersteller, ursprünglich eine Tochtergesellschaft von American Jeep, die nach einer Übernahme durch die Regierung in ein eigenes Unternehmen umgewandelt wurde."
+  
+  VAM2:0 "VAM"
+  VAM2_desc:0 "Ein staatlich kontrollierter Autohersteller, ursprünglich eine Tochtergesellschaft von American Jeep, die nach einer Übernahme durch die Regierung in ein eigenes Unternehmen umgewandelt wurde."
+  
+  TELMEX:0 "TELMEX"
+  TELMEX_DESC:0 "Telmex ist das mexikanische Telekommunikationsmonopol. Bevor es an private Interessenten verkauft wurde, wurde es von der mexikanischen Regierung aufgekauft, um die mexikanischen Kommunikationsnetze zu erneuern."
+  
+  MEX_ASTIMAR:0 "ASTIMAR"
+  MEX_ASTIMAR_desc:0 "ASTIMAR ist ein staatlich kontrollierter Schiffsbauer. Das Unternehmen ist auf Kanonenboote und Küstenverteidigung spezialisiert."
+  
+  AHMSA:0 "AHMSA"
+  AHMSA_desc:0 "AHMSA ist der größte Eisen- und Kohlebergbaubetrieb Mexikos und zugleich der größte Stahlproduzent. Das Unternehmen ist auf Maschinenteile und Stahlteile für Infrastrukturprojekte wie Brücken spezialisiert."
+  
+  league:0 "Mexikanische Liga für Radioexperimente"
+  league_desc:0 "Die mexikanische Liga für Radioexperimente war eine Gruppe von Wissenschaftlern, darunter einige Wunderkinder, die Innovationen im Bereich der Funkkommunikation hervorbrachten. Sie sind vor allem für die Erfindung der Technologie bekannt, die das Farbfernsehen ermöglichte."
+  
+  Echevarrieta:0 "Echevarrieta-Werften"
+  Echevarrieta_desc:0 "Echevarrieta war eine spanische Werft, die Konvoi-Begleitschiffe nach Mexiko verkaufte."
+  
+  Odero:0 "Odero-Werften"
+  Odero_desc:0 "Odero Shipyards war eine italienische Werft, die für den Bau der stärker gepanzerten Schiffe der mexikanischen Flotte verantwortlich war."
+  
+  Angel:0 "Engel Lascurian"
+  Angel_desc:0 "Angel Lascurian war ein legendärer mexikanischer Flieger und baute das fortschrittlichste und futuristischste Flugzeug aller in Mexiko produzierten Flugzeuge. Zeitschriften für Luftfahrtbegeisterte staunten darüber, wie er mit nur einer einfachen Werkbank ein zweimotoriges Einsitzer-Frachtflugzeug im eigenen Design konstruierte und fertigte. Dieses Flugzeug hieß Aura und wurde von Beobachtern als für ein Flugzeug seiner Größe unnatürlich wendig bezeichnet."
+  
+  electridad:0 "Comisión Federal de Electricidad"
+  electridad_desc:0 "Comisión Federal de Electricidad ist das staatliche Energieunternehmen, das auch für die Entwicklung und den Bau der mexikanischen Kernkraftwerke verantwortlich ist."
+  
+  yokosuka_naval_arsenal2:0 "Marinearsenal Yokosuka"
+  
+  #########
+  ##IDEAS##
+  #########
+  
+  curse:0 "Der Fluch von Huitzilopochtli"
+  curse_desc:0 "Die mexikanische Revolution, der Cristero-Krieg und der Escobar-Aufstand haben die Mexikaner zögern lassen, dem Militär zu vertrauen, geschweige denn, sich ihm anzuschließen. Aufgeklärte Denker sagen, diese Tragödien, wie alle mexikanischen Tragödien, seien vom aztekischen Kriegsgott geschaffen worden, um seinen blutigen Tribut einzufordern, den er einst von den Azteken verlangte."
+  
+  jenkins:0 "Jenkins-Blockade"
+  jenkins_desc:0 "William O. Jenkins besitzt ein Monopol auf die mexikanischen Medien. Sein stiller Partner war Maximino Avila Comacho, ein Sympathisant der Achsenmächte. Dieses Bündnis, von manchen Historikern als Jenkins-Blockade bezeichnet, war einer der Hauptgründe für das klägliche Scheitern des britisch-französischen Versuchs, die isolationistische US-Außenpolitik auszunutzen und Mexiko in eine europäische Einflusssphäre zu drängen."
+  
+  allied:0 "Alliierte Propaganda"
+  allied_desc:0 "Frankreich und Großbritannien versuchen, die mexikanischen Medien mit Propaganda zu versorgen, um den amerikanischen Isolationismus auszunutzen und die amerikanische Einflusssphäre zu destabilisieren. Ihre Bemühungen sind miserabel, und sie werden zunehmend verzweifelter und verursachen diplomatische Unruhen."
+  
+  porfirismo:0 "Porfirismo"
+  porfirismo_desc:0 "Die alten Reichen Mexikos sind größtenteils Porfiristas, die von der Diktatur von Porfiro Diaz profitierten. Sie unterstützen Deutschland aus Trotz gegenüber Großbritannien und vereiteln aktiv die Bemühungen britischer und französischer Propagandisten. Sie nutzen ihre enorme politische Präsenz, um Mexiko in die Arme der Achsenmächte zu treiben."
+  
+  porfirato:0 "Nuevo Porfirato"
+  MEX_porfirato2:0 "Nuevo Porfirato"
+  MEX_porfirato3:0 "Paktpolitik"
+  MEX_porfirato4:0 "Payaso-Gewerkschaften"
+  MEX_porfirato5:0 "Mexikanischer Feudalismus"
+  MEX_porfirato6:0 "Ehrenpakt"
+  MEX_porfirato7:0 "Ehrenpakt"
+  
+  PAN:0 "Konservative Politik"
+  MEX_PAN2:0 "Konservative Politik"
+  MEX_PAN3:0 "La Camarilla"
+  MEX_PAN4:0 "La Camarilla"
+  MEX_PAN5:0 "La Camarilla"
+  MEX_PAN6:0 "Perfekte Diktatur"
+  MEX_PAN7:0 "Perfekte Diktatur"
+  
+  PRM:0 "PRM-Politik"
+  MEX_PRM2:0 "Nationalismus"
+  MEX_PRM3:0 "Reformatorischer Nationalismus"
+  MEX_PRM4:0 "Unionismus"
+  MEX_PRM5:0 "Etatismus"
+  MEX_PRM6:0 "Ein New Mexico"
+  MEX_PRM7:0 "Ein New Mexico"
+  
+  maximato:0 "Maximato"
+  maximato_desc:0 "Die mexikanische Regierung ist durchsetzt mit Anhängern von Plutarco Calles, auch bekannt als „El Jefe Maximo“. Er war von 1924 bis 1928 mexikanischer Präsident. Calles kontrollierte Mexiko durch Stellvertreterpräsidenten und Unterstützer der PRM. Von 1924 bis 1936 war Calles derjenige, der die wahre Macht in Mexiko innehatte. Diese Periode der mexikanischen Geschichte ist als Maximato bekannt."
+  
+  sexenio:0 "Plan Sexenio Militar"
+  sexenio_desc:0 "Vor dem Zweiten Weltkrieg entwickelte Mexiko einen Plan zur schnellen Modernisierung, zum Wiederaufbau und zur Professionalisierung des Militärs. Dieser Plan beinhaltete die Motorisierung, Mechanisierung und Modernisierung der Ausrüstung des Heeres und damit auch der Luftwaffe. Aufgrund der zunehmenden Angst vor Hitler hatte Mexiko jedoch Schwierigkeiten, eine Großmacht zu finden, die ihm die Lizenz für moderne Ausrüstung erteilte."
+  
+  sexenio2:0 "Plan Sexenio Militar"
+  sexenio2_desc:0 "Vor dem Zweiten Weltkrieg entwickelte Mexiko einen Plan zur schnellen Modernisierung, zum Wiederaufbau und zur Professionalisierung des Militärs. Dieser Plan beinhaltete die Motorisierung, Mechanisierung und Modernisierung der Ausrüstung des Heeres und damit auch der Luftwaffe. Aufgrund der zunehmenden Angst vor Hitler hatte Mexiko jedoch Schwierigkeiten, eine Großmacht zu finden, die ihm die Lizenz für moderne Ausrüstung erteilte."
+  
+  sexenio3:0 "Plan Sexenio Militar"
+  sexenio3_desc:0 "Vor dem Zweiten Weltkrieg entwickelte Mexiko einen Plan zur schnellen Modernisierung, zum Wiederaufbau und zur Professionalisierung des Militärs. Dieser Plan beinhaltete die Motorisierung, Mechanisierung und Modernisierung der Ausrüstung des Heeres und damit auch der Luftwaffe. Aufgrund der zunehmenden Angst vor Hitler hatte Mexiko jedoch Schwierigkeiten, eine Großmacht zu finden, die ihm die Lizenz für moderne Ausrüstung erteilte."
+  
+  sexenio4:0 "Plan Sexenio Militar"
+  sexenio4_desc:0 "Vor dem Zweiten Weltkrieg entwickelte Mexiko einen Plan zur schnellen Modernisierung, zum Wiederaufbau und zur Professionalisierung des Militärs. Dieser Plan beinhaltete die Motorisierung, Mechanisierung und Modernisierung der Ausrüstung des Heeres und damit auch der Luftwaffe. Aufgrund der zunehmenden Angst vor Hitler hatte Mexiko jedoch Schwierigkeiten, eine Großmacht zu finden, die ihm die Lizenz für moderne Ausrüstung erteilte."
+  
+  sexenio5:0 "Plan Sexenio Militar"
+  sexenio5_desc:0 "Vor dem Zweiten Weltkrieg entwickelte Mexiko einen Plan zur schnellen Modernisierung, zum Wiederaufbau und zur Professionalisierung des Militärs. Dieser Plan beinhaltete die Motorisierung, Mechanisierung und Modernisierung der Ausrüstung des Heeres und damit auch der Luftwaffe. Aufgrund der zunehmenden Angst vor Hitler hatte Mexiko jedoch Schwierigkeiten, eine Großmacht zu finden, die ihm die Lizenz für moderne Ausrüstung erteilte."
+  
+  sexenio6:0 "Plan Sexenio Militar"
+  sexenio6_desc:0 "Vor dem Zweiten Weltkrieg entwickelte Mexiko einen Plan zur schnellen Modernisierung, zum Wiederaufbau und zur Professionalisierung des Militärs. Dieser Plan beinhaltete die Motorisierung, Mechanisierung und Modernisierung der Ausrüstung des Heeres und damit auch der Luftwaffe. Aufgrund der zunehmenden Angst vor Hitler hatte Mexiko jedoch Schwierigkeiten, eine Großmacht zu finden, die ihm die Lizenz für moderne Ausrüstung erteilte."
+  
+  sexenio7:0 "Plan Sexenio Militar"
+  sexenio7_desc:0 "Vor dem Zweiten Weltkrieg entwickelte Mexiko einen Plan zur schnellen Modernisierung, zum Wiederaufbau und zur Professionalisierung des Militärs. Dieser Plan beinhaltete die Motorisierung, Mechanisierung und Modernisierung der Ausrüstung des Heeres und damit auch der Luftwaffe. Aufgrund der zunehmenden Angst vor Hitler hatte Mexiko jedoch Schwierigkeiten, eine Großmacht zu finden, die ihm die Lizenz für moderne Ausrüstung erteilte."
+  
+  sedena:0 "Secretaría de la Defensa Nacional"
+  sedena:0 "Nach der Säuberung des Militärs und dem Weggang von Calles haben Sie nun einen Verteidigungsminister ernannt, der Ihre Politik vertritt, nicht die Politik der Callistas."
+  
+  MEX_DN-I:0 "DN-I"
+  MEX_DN-I_desc:0 "DN-1 ist einer von drei realen Plänen für die nationale Sicherheit Mexikos. Sein Inhalt wird alle paar Jahre überarbeitet, und der Inhalt seiner modernen Version ist unbekannt. Er wurde nur einmal aktiviert, und zwar beim Eintritt Mexikos in den Zweiten Weltkrieg."
+  
+  MEX_DN-I2:0 "DN-I"
+  MEX_DN-I2_desc:0 "DN-1 ist einer von drei realen Plänen für die nationale Sicherheit Mexikos. Sein Inhalt wird alle paar Jahre überarbeitet, und der Inhalt seiner modernen Version ist unbekannt. Er wurde nur einmal aktiviert, und zwar beim Eintritt Mexikos in den Zweiten Weltkrieg."
+  
+  MEX_DN-I3:0 "DN-I"
+  MEX_DN-I3_desc:0 "DN-1 ist einer von drei realen Plänen für die nationale Sicherheit Mexikos. Sein Inhalt wird alle paar Jahre überarbeitet, und der Inhalt seiner modernen Version ist unbekannt. Er wurde nur einmal aktiviert, und zwar beim Eintritt Mexikos in den Zweiten Weltkrieg."
+  
+  MEX_DN-II: "DN-II"
+  MEX_DN-II_desc:0 "DN-II ist der zweite der drei Hauptpläne. DN-II ist ein realer Plan für inländische Bedrohungen für Mexiko wie Putsche, Revolutionen und Terrorismus. Der dritte Plan befasst sich mit Naturkatastrophen."
+  
+  railroad:0 "Ferrocarriles Nacionales de México"
+  railroad_desc:0 "Der verstaatlichte Eisenbahnverkehr wurde verstaatlicht, um die Entwicklung der internen Infrastruktur auf der Grundlage des Bedarfs und nicht der Rentabilität zu erzwingen."
+  
+  chemical:0 "Abteilung für chemische Waffen"
+  chemical_desc:0 "Mexiko hatte bereits den Einsatz chemischer Waffen zur Verteidigung gegen eine Invasion in Erwägung gezogen. Dieser Vorschlag wurde jedoch abgelehnt, da die politischen Folgen einen Grund für eine Invasion Mexikos und ein Embargo gegen das Land geboten hätten. Das genaue Gegenteil dessen, was Mexiko wollte, da es den Handel zur Weiterentwicklung seiner Wirtschaft nutzen wollte."
+  
+  # JUNTA UPDATE 
+  
+  cardenas2:0 "Lazaro Cardenas"
+  cardenas2_desc:0 "Cárdenas trieb während seiner Amtszeit die Idee der Massenmobilisierung voran. Er wollte, dass die mexikanische Arbeiterklasse aufstand und das Militär bei der Verteidigung des Landes unterstützte, indem er die ländlichen Milizen bewaffnete und professionalisierte und die Ejido-Länder militarisierte."
+  
+  matias2:0 "Matias Ramos Santos"
+  
+  fierro:0 "Roberto Fierro"
+  
+  # tech update
+  
+  abelardo:0 "Abelardo Rodriguez"
+  abelardo_desc:0 "Abelardo war ein mexikanischer Wirtschaftsmagnat, General und Interimspräsident. Er gründete 80 Unternehmen und war an insgesamt 120 beteiligt. Er gründete Baja California, einen Militärlieferanten für die Luftfahrt, und die Rodriguez Shipyards in Tijuana."
+  
+  rodriguez:0 "Rodriguez-Werft"
+  rodriguez_desc:0 "Die Rodriguez-Werft in Tijuana gehört dem Wirtschaftsmagnaten und ehemaligen mexikanischen Präsidenten Abelardo Rodriguez. Den wenigen verfügbaren Informationen zufolge konzentrierte man sich auf kleinere Schiffe."
+  
+  #####################
+  ## election update ##
+  #####################
+  
+  MEX_almazan:0 "Juan Almazan"
+  MEX_almazan_desc:0 "Juan wurde als Geschäftsmann im Generalsgewand beschrieben. Sein Hauptgeschäft war der Militärbau. Sein Unternehmen war in den 1920er Jahren für den Bau des schönsten Militärstützpunkts Mexikos in Monterrery verantwortlich."
+  
+  Maximino2:0 "Maximino Avila Camacho"
+  Maximino2_desc:0 "Maximino war der Caudillo von Puebla, wo er die Telegrafen, die Eisenbahn, die Hauptleitungen und den Großteil der Infrastruktur besaß. Während dieser Zeit setzte Mexiko die Ingenieure seines Militärs ein, um schnell Infrastruktur und andere Gebäude zu errichten, an denen Maximino beteiligt war. Aus diesem Grund war Maximino ein Logistikexperte, der sein Fachwissen über Versorgungsleitungen und seine Erfahrung im Infrastrukturbau in jeden Krieg einbringen konnte."
+  
+  Maximino3:0 "Maximino Avila Camacho"
+  Maximino3_desc:0 "Maximino wurde von mexikanischen Historikern als arrogant, zornig und rachsüchtig beschrieben. Maximino soll diejenigen, die ihm in die Quere kamen, mit extremer Voreingenommenheit verfolgt haben."
+  
+  MEX_MARC:0 "El Compa Nacho"
+  MEX_MARC_desc:0 "El Compa Nacho, mit bürgerlichem Namen Ignacio Morales, war ein Agent der Cardenista- und Alemán-Gruppe und wurde von ihnen mit Sonderaufträgen betraut. Anhänger Almazans beschuldigten Morales, an einem gescheiterten Attentat auf Alamazan beteiligt gewesen zu sein. Quelle: „Political Intelligence and the Creation of Modern Mexico, 1938-1954“, Seite 46."
+  
+  lopez:0 "Raúl López Sánchez"
+  
+  pawling1:0 "Alberto J. Pawling"
+  pawling2:0 "Alberto J. Pawling"
+  
+  #####################
+  ## FACTIONS UPDATE ##
+  #####################
+  
+  #communist
+  cardenismo:0 "Arbeiterrevolution"
+  #2nd upgrade
+  MEX_cardenismo2:0 "Linke Politik"
+  #2nd start
+  MEX_cardenismo3:0 "Syndikalistische Politik"
+  # institution path
+  MEX_cardenismo4:0 "Syndikalistische Republik"
+  # Expropriation
+  MEX_cardenismo5:0 "Revolutionäre Ideale"
+  #inst 2
+  MEX_cardenismo6:0 "Syndikalistische Republik"
+  #exp 2
+  MEX_cardenismo7:0 "Revolution erfüllt"
+  
+  # neutral
+  PRM:0 "PRM-Politik"
+  MEX_PRM2:0 "PRM-Politik"
+  MEX_PRM3:0 "Revolutionärer Nationalismus"
+  MEX_PRM4:0 "Unionismus"
+  MEX_PRM5:0 "Etatismus"
+  MEX_PRM6:0 "Ein New Mexico"
+  MEX_PRM7:0 "Ein New Mexico"
+  
+  MEX_miracle2:0 "Mexikanisches Wunder"
+  
+  MEX_research_name:0 "UNAM"
+  MEX_research_name_desc:0 ""
+  
+  MEX_agrarian_army:0 "Die Agrarunion"
+  MEX_agrarian_army_desc:0 ""
+  
+  MEX_forbidden_chemicals:0 "Verbotene Mineralien"
+  MEX_forbidden_chemicals_desc:0 "Japan hatte ein Abkommen mit Mexiko über den Import von Mineralien für die Waffenproduktion in Erwägung gezogen, nachdem die USA ein Embargo gegen Japan verhängt hatten."
+  
+  #starting
+  MEX_constable_army:0 "Konstabler Armee"
+  MEX_constable_army_desc:0 "Mexikos Armee konzentrierte sich lange Zeit auf die interne Polizeiarbeit und verfügte nicht über die nötige interne Struktur, um Bedrohungen von außen wirksam entgegenzutreten. In dieser Zeit stellten die Caudillos eine ernsthafte Bedrohung für den nationalen Frieden dar und zwangen die mexikanische Regierung, das Militär für Ingenieurprojekte einzusetzen. Dies band nicht nur Arbeitskräfte, um die Caudillos an der Entstehung eines Aufstands zu hindern, sondern verbesserte gleichzeitig auch die nationale Infrastruktur."
+  #fascist
+  MEX_constable_army2:0 "Beschwichtigtes Militär"
+  MEX_constable_army2_desc:0 "Mexikos Armee konzentrierte sich lange Zeit auf die interne Polizeiarbeit und verfügte nicht über die nötige interne Struktur, um Bedrohungen von außen wirksam entgegenzutreten. In dieser Zeit stellten die Caudillos eine ernsthafte Bedrohung für den nationalen Frieden dar und zwangen die mexikanische Regierung, das Militär für Ingenieurprojekte einzusetzen. Dies band nicht nur Arbeitskräfte, um die Caudillos an der Entstehung eines Aufstands zu hindern, sondern verbesserte gleichzeitig auch die nationale Infrastruktur."
+  #democrat
+  MEX_constable_army3:0 "Angekettetes Militär"
+  MEX_constable_army3_desc:0 "Mexikos Armee konzentrierte sich lange Zeit auf die interne Polizeiarbeit und verfügte nicht über die nötige interne Struktur, um Bedrohungen von außen wirksam entgegenzutreten. In dieser Zeit stellten die Caudillos eine ernsthafte Bedrohung für den nationalen Frieden dar und zwangen die mexikanische Regierung, das Militär für Ingenieurprojekte einzusetzen. Dies band nicht nur Arbeitskräfte, um die Caudillos an der Entstehung eines Aufstands zu hindern, sondern verbesserte gleichzeitig auch die nationale Infrastruktur."
+  #purged
+  MEX_constable_army4:0 "Gezähmtes Militär"
+  MEX_constable_army4_desc:0 "Mexikos Armee konzentrierte sich lange Zeit auf die interne Polizeiarbeit und verfügte nicht über die nötige interne Struktur, um Bedrohungen von außen wirksam entgegenzutreten. In dieser Zeit stellten die Caudillos eine ernsthafte Bedrohung für den nationalen Frieden dar und zwangen die mexikanische Regierung, das Militär für Ingenieurprojekte einzusetzen. Dies band nicht nur Arbeitskräfte, um die Caudillos an der Entstehung eines Aufstands zu hindern, sondern verbesserte gleichzeitig auch die nationale Infrastruktur."
+  #partisan
+  MEX_constable_army5:0 "Der Teufel, den du kennst"
+  MEX_constable_army5_desc:0 "Mexikos Armee konzentrierte sich lange Zeit auf die interne Polizeiarbeit und verfügte nicht über die nötige interne Struktur, um Bedrohungen von außen wirksam entgegenzutreten. In dieser Zeit stellten die Caudillos eine ernsthafte Bedrohung für den nationalen Frieden dar und zwangen die mexikanische Regierung, das Militär für Ingenieurprojekte einzusetzen. Dies band nicht nur Arbeitskräfte, um die Caudillos an der Entstehung eines Aufstands zu hindern, sondern verbesserte gleichzeitig auch die nationale Infrastruktur."
+  
+  MEX_literacy:0 "Alphabetisierungsrate von 40 %"
+  MEX_literacy_desc:0 "Im Jahr 1936 lag die Alphabetisierungsrate in Mexiko bei etwa 40 %. Der Hauptgrund hierfür war die Bevölkerungsverteilung, die meist auf dem Land lag, während der Zugang zu Bildung vor allem in städtischen Gebieten möglich war."
+  
+  MEX_literacy2:0 "Sozialistische Bildung"
+  MEX_literacy2_desc:0 ""
+  
+  MEX_literacy3:0 "Geänderter Artikel 3"
+  MEX_literacy3_desc:0 ""
+  
+  MEX_embargo:0 "PEMEX-Embargo"
+  MEX_embargo_desc:0 "Das Embargo war ein schwerer Schlag für Mexiko und zerstörte schnell den Moment des Stolzes, als Mexiko das Öl der Briten beschlagnahmte, die Mexikos Gastfreundschaft lange missbraucht hatten. Der Peso verlor an Wert, das exportierte Öl wurde in ausländischen Häfen beschlagnahmt, und das Schlimmste war, dass das Embargo politischen Dissidenten einen Grund gab, zu versuchen, die Regierung zu stürzen."
+  
+  MEX_small_aviation_industry:0 "Engpass in der Luftfahrtindustrie"
+  MEX_small_aviation_industry_desc:0 "In Mexikos Luftfahrtindustrie mangelte es nicht an guten Konstrukteuren. Allerdings fehlte es der Branche an der Fähigkeit, diese Flugzeuge in Massenproduktion herzustellen, da es nicht nur an Maschinen, sondern auch an qualifizierten Ingenieuren mangelte. Das größte Hindernis für Mexiko bei der Entwicklung eigener Flugzeuge war die lange Produktionszeit."
+  
+  MEX_small_aviation_industry2:0 "Engpass in der Luftfahrtindustrie"
+  MEX_small_aviation_industry_desc2:0 "In Mexikos Luftfahrtindustrie mangelte es nicht an guten Konstrukteuren. Allerdings fehlte es der Branche an der Fähigkeit, diese Flugzeuge in Massenproduktion herzustellen, da es nicht nur an Maschinen, sondern auch an qualifizierten Ingenieuren mangelte. Das größte Hindernis für Mexiko bei der Entwicklung eigener Flugzeuge war die lange Produktionszeit."
+  
+  MEX_idea_expanded_mining_industry:0 "Deutsche Bergbauunternehmen"
+  MEX_idea_expanded_mining_industry_desc:0 "Deutschland war unter anderem daran interessiert, in Mexiko Bergbauunternehmen zu gründen, um den starken amerikanischen Einfluss in der Branche einzudämmen."
+  
+  MEX_cientificos2:0 "Wissenschaftler"
+
+ Mexican_focus:0 "Mexikanischer Nationalfokus" 
+ 
+ Exile_Calles:0 "Exile Calles"
+ Exile_Calles_desc:0 "Calles liegt im Streit mit dem derzeitigen Präsidenten Lazaro Cárdenas und hat die konservative Basis gegen Cárdenas aufgebracht, indem er ihn als Kommunisten darstellte, der eine zweite Sowjetunion gründen wolle. Die Spannungen nehmen zu, und seine Basis ist gewalttätig geworden. Mit der zunehmenden Gewalt wurde Calles&#39; ohnehin ruinierter Ruf noch weiter ruiniert, was dazu führte, dass er ohne Protest ins Exil geschickt wurde."
+ 
+ Purge_Corruption:0 "Säubere Callistas"
+ Purge_Corruption_desc:0 "Calles befindet sich zwar im amerikanischen Exil, hat aber weiterhin Sympathisanten in der Militärführung, die einen Putsch planen könnten. Um die Freiheit Mexikos zu schützen, müssen wir die Korruption im Militär beseitigen und diese Offiziere aus ihren Ämtern entfernen."
+ 
+ MEX_SEX:0 "Plan Sexenio Militar"
+ MEX_SEX_desc:0 "Der Plan Sexenio Militar war ein Plan Mexikos zur Modernisierung seiner Streitkräfte, insbesondere aufgrund der angespannten Beziehungen zu den USA aufgrund der Calles-Propaganda. Die Paranoia und die Waffenhortung der Regierungen weltweit im Vorfeld des Zweiten Weltkriegs führten dazu, dass Mexiko Schwierigkeiten hatte, ein Land zu finden, das bereit war, bei der Modernisierung seiner Streitkräfte zu helfen."
+
+ Fund_La_Heroico_Colegio_Militar:0 "Fund El Colegio Militar"
+ Fund_La_Heroico_Colegio_Militar_desc:0 "Derzeit ist unsere Militärdoktrin nicht nur größtenteils unkodifiziert, sondern ein Mischmasch aus britischen, amerikanischen, französischen und spanischen Doktrinen. Wir müssen eine kodifizierte Doktrin entwickeln."
+ 
+ Vive_Pancho_Villa:0 "Willys-Overland verstaatlichen"
+ Vive_Pancho_Villa_desc:0 "Mit hohen Subventionen und der kompensierten Verstaatlichung einer amerikanischen Autotochter können wir die Mittel erhalten, um Fahrzeuge nicht nur für das Militär, sondern für ganz Mexiko zu produzieren."
+ 
+ ejercito_de_los_trabajadores:0 "Ejército de los trabajadores"
+ ejercito_de_los_trabajadores_desc:0 "Um unser Militär von den parteiischen Verrätern zurückzuerobern, müssen wir die Reihen mit loyalen Mexikanern überschwemmen."
+ 
+ Por_el_Honor_de_Mexico:0 "Por el Honor de Mexico"
+ Por_el_Honor_de_Mexico_desc:0 "Unsere Doktrin ist noch unterentwickelt und bedarf weiterer Überarbeitungen."
+ 
+ Rugir_de_el_canon:0 "Rugir del Cañon"
+ Rugir_de_el_canon_desc:0 "Um uns umfassend verteidigen zu können, brauchen wir eine Armee der Willigen."
+ 
+ Vive_Mexico:0 "Wiedereinsetzung der TGA-Panzerabteilung"
+ Vive_Mexico_desc:0 "Ohne Panzerunterstützung können wir keine vollmoderne Streitmacht sein. Wir müssen die Panzerprojekte der TGA wieder aufnehmen."
+ 
+ Defense_Contracting:0 "Verteidigungsaufträge"
+ Defense_Contracting_desc:0 "Frühere Präsidenten haben die Brücken zu wichtigen Rüstungsunternehmen abgebrochen. Wir müssen diese Brücken reparieren und mehr Entwürfe für unsere Bodentruppen fordern."
+ 
+ MEX_AG:0 "Agrarunion"
+ MEX_AG_desc:0 "Die Agrarunion war eine Idee, die eine Militarisierung der ländlichen Gebiete Mexikos und die Integration registrierter Milizionäre in die militärische Reserve vorsah, um im Kriegsfall zum Dienst einberufen zu werden. Die mexikanische Regierung schätzte, dass mit dieser Politik etwa drei Millionen Mexikaner in das Reservesystem aufgenommen würden."
+ 
+ Chemical_warfare:0 "Abteilung für chemische Kriegsführung"
+ Chemical_warfare_desc:0 "Im Plan Sexenio Militar war für den Fall einer ausländischen Invasion eine Abteilung für chemische Waffen vorgesehen."
+ 
+ SEDENA:0 "SEDENA"
+ SEDENA_desc:0 "Wenn wir Macht demonstrieren wollen, müssen wir Druck auf SEDENA ausüben, damit sie uns erlaubt, uns in die Außenpolitik einzumischen."
+ 
+ DN-I:0 "DN-I"
+ DN-I_desc:0 "SEDENA hat ein Protokoll zur Landesverteidigung entworfen, das Guerillataktiken, natürliche Abnutzungstaktiken und Verteidigungstaktiken im Kerngebiet umfasst."
+ 
+ DN-II:0 "DN-II"
+ DN-II_desc:0 "SEDENA hat DN-II entworfen, einen Plan zum Schutz der mexikanischen Freiheit vor internen Bedrohungen wie Staatsstreichen im In- und Ausland."
+ 
+ reform_fam:0 "Reform FAM"
+ reform_fam_desc:0 "Die politische Unterdrückung der Luftwaffe hat dazu geführt, dass unsere Luftwaffe nicht nur an Ausrüstung, sondern auch an qualifizierten Konstrukteuren mangelt. Wir müssen Azacarte, einen Flugzeugkonstrukteur mit zahlreichen nationalen und internationalen Auszeichnungen, zurück in die Armee holen und die TNCA als TGA wieder einsetzen."
+ 
+ Ehectals_wind:0 "Fokus auf Überlegenheit"
+ Ehectals_wind_desc:0 "Unsere jüngsten Kriege, insbesondere der Escobar-Aufstand, haben bewiesen, dass Bodentruppen ohne Kampfflugzeuge sinnlos sind. Ohne Kampfflugzeuge würde unsere Luftwaffe angesichts eines ernsthaften Feindes zusammenbrechen."
+ 
+ Bomber_foci:0 "Fokus auf Traditionalismus"
+ Bomber_foci_desc:0 "Luftnahunterstützung und zweimotorige taktische Bomber haben in allen unseren jüngsten Konflikten hervorragende Leistungen erbracht. Wir sollten unseren Fokus auf die Bodenunterstützung verdoppeln."
+ 
+ Revise_Air_Doctrine:0 "El Colegio de Aire"
+ Revise_Air_Doctrine_desc:0 "Durch die Finanzierung der Luftwaffenakademie können wir sie erweitern, um ein breiteres Spektrum an Taktiken und Doktrinen abzudecken."
+ 
+ MEX_NAV:0 "Escuela de Aviación Naval"
+ MEX_NAV_desc:0 "Obwohl Mexiko den ersten Seeangriff durchführte, zeigte sich sein wahrer Wert erst, als deutsche U-Boote begannen, mexikanische Konvois anzugreifen."
+ 
+ SEMAR:0 "SEMAR"
+ SEMAR_desc:0 "Wir können unsere Marine nicht länger aufgrund politischer Vetternwirtschaft als zweitrangig betrachten. Wenn wir uns verteidigen wollen, brauchen wir einheimische Entwürfe und einen guten Marineminister."
+ 
+ MEX_FLEX:0 "Hinterhältige Taktiken"
+ MEX_FLEX_desc:0 "Wir sollten uns nicht auf eine große Flotte ohne industrielle Kapazität konzentrieren, sondern eine realistischere und intelligentere Marine schaffen."
+ 
+ MEX_STRONK:0 "Überwältigende Kraft"
+ MEX_STRONK_desc:0 "Wir sollten den Marinedoktrinen folgen, die es bisher für Frankreich und Großbritannien gab, und auf eine große Marine setzen."
+ 
+ mex_ships:0 "Ausländische Designs"
+ mex_ships_desc:0 "Ausländische Designer aus aller Welt haben uns in der Vergangenheit mit neuen Schiffsentwürfen kontaktiert. Es ist an der Zeit, dass wir ihr Angebot annehmen."
+
+ miracle:0 "Mexikanisches Wunder"
+ miracle_desc:0 "Das mexikanische Wunder ist die Zeit zwischen 1940 und 1968, in der das mexikanische BIP trotz der globalen Wirtschaftskrise jährlich um 4 % wuchs und die Inflation nur um 3 % anstieg. Innerhalb von 28 Jahren entwickelte sich das Agrarland Mexiko zu einer Industriemacht."
+ 
+ MEX_CAB:0 "Schrank reinigen"
+ MEX_CAB_desc:0 "Nachdem wir uns um Calles gekümmert haben, können wir nun von den Kabinettsmitgliedern den Rücktritt verlangen und die sorgfältige Auswahl neuer Mitglieder zulassen."
+ 
+ MEX_EDU:0 "Technische Schulen"
+ MEX_EDU_desc:0 ""
+ 
+ MEX_FASC:0 "Seite an Seite mit den Reichen"
+ MEX_FASC_desc:0 "Die Porfiristas haben Recht. Mexiko hat sich unter einer Diktatur viel schneller entwickelt und die längste Friedensperiode unserer Geschichte erlebt. Wir müssen die Wahlen absagen, denn wir wissen, was richtig ist."
+ 
+ MEX_COM:0 "Seite mit der linken"
+ MEX_COM_desc:0 "Die Kommunisten haben recht. Um Mexikos Probleme zu lösen, müssen wir den Kapitalismus aufgeben, der den Mexikanern unter ausländischen Konzernen so viel Leid zugefügt hat."
+ 
+ MEX_DEM:0 "Seite an Seite mit der Rechten"
+ MEX_DEM_desc:0 "Der einzig richtige Weg, Mexikos Probleme zu lösen, ist eine wirklich demokratische Abstimmung. Alles andere wäre eine Wiederholung desselben Fehlers, den Mexiko immer wieder gemacht hat."
+ 
+ MEX_NUE:0 "Reform des PRM"
+ MEX_NUE_desc:0 "Die PRM könnte eine Partei werden, die groß genug ist, um die Stimme ganz Mexikos zu sein. Wir sollten die Partei reformieren und Mexiko unter einer einzigen Partei vereinen."
+ 
+ MEX_9:0 "Durchsetzung von Artikel 33"
+ MEX_9_desc:0 "Artikel 33 besagt, dass nur mexikanische Bürger Einfluss auf die mexikanische Innenpolitik nehmen dürfen. Derzeit gibt es viele Personen, die dieses Gesetz brechen. Wir sollten es durchsetzen, um unsere politischen Feinde auszuschalten und unser politisches Monopol zu wahren."
+ 
+ electric:0 "Comisión Federal de Electricidad"
+ electric_desc:0 "Unsere Energieinfrastruktur muss dringend generalüberholt werden. Wir sollten ein staatliches Elektrizitätsunternehmen gründen, um die Entwicklung direkt voranzutreiben."
+ 
+ perfect_dictatorship:0 "Haltet die Caudillos in Schach"
+ perfect_dictatorship_desc:0 "In dieser Zeit legte Cardenas den Grundstein für die Entfernung der Caudillos von der politischen Macht."
+ 
+ oiled:0 "Geölte Diplomatie"
+ oiled_desc:0 "Unsere Ölindustrie war auf ausländische Experten angewiesen, die nach der Verstaatlichung das Land verließen, was zu einer geringeren Ölproduktion führte. Wir können unser ungenutztes Potenzial ausländischen Mächten zugänglich machen, die für ihre Kriegsanstrengungen nicht genügend Öl haben. Wir können sie davon überzeugen, Experten zur Optimierung unserer Ölfelder zu schicken und so die Gewinne deutlich zu steigern, ohne dass wir dafür viel investieren müssen."
+ 
+ piaso:0 "Payaso-Diplomaten"
+ piaso_desc:0  "Mexikos Diplomaten entwickelten während des Krieges eine Form der Diplomatie, die auf den Vorurteilen und der Inkompetenz ausländischer Diplomaten beruhte. Aufgrund der Stellung Mexikos auf der Weltbühne schickten Großmächte unerfahrene oder voreingenommene Diplomaten. Mexikos Diplomaten überlisteten die ausländischen Diplomaten, indem sie Inkompetenz vortäuschten und den ausländischen Diplomaten dann bei Handelsverhandlungen ausnutzten."
+ 
+ ALALC:0 "Antiimperialismus"
+ ALALC_desc:0 "Mexiko plante einen antiimperialistischen Block lateinamerikanischer Länder, der Öl für seinen politischen Einfluss nutzte. Die Idee scheiterte an internen Machtkämpfen, dem Aufstieg Saudi-Arabiens und dem Einbruch der Ölpreise. Der Name ALALC wurde in diesem Mod verwendet, da die Idee alt ist, die Umsetzung erfolgte jedoch erst in den 1960er Jahren."
+ 
+ grand_alliance:0 "Große Allianz"
+ grand_alliance_desc:0 "Der mexikanische Geheimdienst wusste, dass die USA und Japan auf Kriegskurs waren, und überlegte, welche Seite er angesichts dieser Tatsache unterstützen sollte. Tatsächlich entschied sich Mexiko gegen Japan und begründete dies mit der mangelnden Fähigkeit Japans, die mexikanische Küste vor US-Marinebombardements zu schützen."
+ 
+ United:0 "Vereinigte Amerika"
+ United_desc:0 "Während des Zweiten Weltkriegs trat Mexiko einer Verteidigungskommission mit den USA bei, unter dem Vorwand, dass die USA Mexiko militärische Ausrüstung leihen würden. Mexiko erhielt nur sehr wenig Unterstützung und zerfiel nach dem Zweiten Weltkrieg schnell."
+ 
+ cientificos:0 "Nuevo Scientificos"
+ cientificos_desc:0 "Im Laufe der Zeit wurden die Cientificos, die einst Porfiro Diaz berieten, zur Norm, als die Technokraten wieder in die mexikanische Politik eindrangen."
+ 
+ #####################
+ ## CAUDILLO UPDATE ##
+ #####################
+ military_junta:0 "Stehen Sie auf der Seite der Caudillos"
+ military_junta_desc:0 "Caudillos waren Mexikos starke Männer, Militäroffiziere, die oft politische Ämter innehatten. In manchen Fällen hatten die Caudillos in ihrem Heimatstaat mehr Macht als die Bundesregierung. Sie nutzten ihre Macht oft, um ihre persönlichen Ideale zu verfolgen, beispielsweise eine rechtsgerichtete Regierung durch Putsche oder Wünsche wie höhere Militärausgaben durch Abstimmungen im Kongress, um ihre Macht auszubauen."
+ 
+ MEX_EJIDO:0 "Landreformen"
+ MEX_EJIDO_desc:0 "In den 1930er und 40er Jahren führte Mexiko eine Landreform durch, bei der 45 Millionen Morgen Land neu verteilt wurden. 4 Millionen Morgen dieses Landes befanden sich im Besitz amerikanischer Agrarkonzerne, bevor sie an die Mexikaner zurückverteilt wurden, was zu Konflikten mit den Vereinigten Staaten führte."
+ 
+ MEX_CTM:0 "Konföderation mexikanischer Arbeiter"
+ MEX_CTM_desc:0 "Der mexikanische Arbeiterverband (CTM) ist der größte Gewerkschaftsbund Mexikos und bildete einen entscheidenden Wählerblock für die PRI."
+ 
+ #####################
+ ## ELECTION UPDATE ##
+ #####################
+ 
+ # DFS reverted to their original name.
+ MEX_DFS:0 "DGIPS"
+ MEX_DFS_desc:0 "Die DGIPS war die innere Sicherheit Mexikos, ähnlich in der Funktion wie das FBI oder die DEA, bevor sie in DFS umbenannt wurde"
+ 
+ # economic policy
+ #left wing
+ MEX_RAIL:0 "Verstaatlichung der Eisenbahnen"
+ MEX_RAIL_desc:0 ""
+ 
+ MEX_revolution:0 "Beende die Revolution!"
+ MEX_revolution_desc:0 "Es gab einige, wie beispielsweise Fransisco J. Mugica, die Mexiko auf einen revolutionäreren Weg führen wollten, der schließlich in der Inanspruchnahme der vollen Rechtskraft von Artikel 27 gipfelte."
+ 
+ MEX_poza:0 "Poza Rica Felder"
+ MEX_poza_desc:0 "Die Poza-Rica-Felder in Veracruz waren zu dieser Zeit das produktivste und ertragreichste Ölfeld Mexikos. Der Besitz dieses Feldes war der Traum vieler mexikanischer Eliten. Das revolutionäre Ideal bestand jedoch darin, diese wertvolle Ressource zu sozialisieren und zu nutzen, um Mexiko wirtschaftlichen Wohlstand zu bringen."
+ 
+ MEX_industrialization:0 "Mobilisiert das Proletariat"
+ MEX_industrialization_desc:0 ""
+ 
+ MEX_urbanization:0 "Revitalisierung der Städte"
+ MEX_urbanization_desc:0 ""
+ 
+ MEX_expel_foreigners:0 "Repatriierung"
+ MEX_expel_foreigners_desc:0 "Kurz nach der Gründung von PEMEX brach ein Skandal aus, wonach amerikanische Unternehmen Land besaßen, das nach mexikanischem Recht ausdrücklich verboten war. Da der politische Wille zur Durchsetzung des Gesetzes fehlte, wurde nichts dagegen unternommen. In einer Realität, in der Mexiko den Willen hätte, Artikel 27 vollständig umzusetzen, wäre dieser Wille vorhanden."
+ 
+ MEX_expel_foreigners2:0 "Militarisierung"
+ MEX_expel_foreigners2_desc:0 "Kurz nach der Gründung von PEMEX brach ein Skandal aus: Amerikanische Unternehmen besaßen Land, das nach mexikanischem Recht ausdrücklich verboten war. Da der politische Wille zur Durchsetzung des Gesetzes fehlte, wurde nichts unternommen. Wäre Mexiko tatsächlich bereit, Artikel 27 vollständig umzusetzen, wäre dieser Wille vorhanden."
+ 
+ MEX_article_27:0 "Artikel 27"
+ MEX_article_27_desc:0 "Artikel 27 ist ein umstrittener Abschnitt der mexikanischen Verfassung, der bei seiner Durchsetzung dem Staat das Eigentum an strategischen Ressourcen zuspricht. Dieser Verfassungsartikel war der rechtliche Präzedenzfall für die Gründung von PEMEX."
+ 
+ MEX_socialist_education:0 "Sozialistische Bildung"
+ MEX_socialist_education_desc:0 ""
+ 
+ #neutral/democratic
+ MEX_segundo:0 "Segundo Plan Sexenal"
+ MEX_segundo_desc:0 "Der Sechsjahresplan ist die Wirtschaftspolitik für die Amtszeit eines Präsidenten. In Wirklichkeit ging es dabei darum, den Investoren zu versichern, dass Artikel 27 nie wieder zur Anwendung kommen würde, und das Vertrauen zwischen Mexiko und ausländischen Investoren wiederherzustellen."
+ 
+ MEX_investors:0 "Beruhigen Sie die Anleger"
+ MEX_investors_desc:0 "Mexiko verbrachte die nächsten sechs Jahre damit, ausländische Investoren zu beruhigen und Gesetze zum Schutz ausländischer Investitionen zu verabschieden, nachdem es durch die Verstaatlichung von PEMEX zu einem Vertrauensverlust gekommen war."
+ 
+ MEX_ind:0 "Industrielle Investitionen"
+ MEX_ind_desc:0 "Im Laufe der 1940er Jahre strömte ausländisches Geld nach Mexiko."
+ 
+ MEX_urb:0 "Der Bundesdistrikt"
+ MEX_urb_desc:0 "Im Laufe der Jahre wuchs der Bundesdistrikt zusammen mit vielen anderen städtischen Zentren schnell."
+ 
+ MEX_article_3:0 "Artikel 3 ändern"
+ MEX_article_3_desc:0 "Artikel 3 enthielt ursprünglich eine Garantie für sozialistische Bildung. Nach 1940 wurde diese aufgehoben."
+ 
+ MEX_resources:0 "Bergbauzuschüsse"
+ MEX_resources_desc:0 ""
+ 
+ MEX_contractors:0 "Militärische Auftragsvergabe"
+ MEX_contractors_desc:0 ""
+ 
+ #fascist
+ MEX_viking:0 "Viking Fund"
+ MEX_viking_desc:0 "Axel Wenner Gren war ein exzentrischer schwedischer Geschäftsmann und galt in den 1930er Jahren als einer der reichsten Männer der Welt. Während des Zweiten Weltkriegs versuchte er, Frieden zu vermitteln, wurde aber von beiden Seiten als Störfaktor angesehen. Als er versuchte, seinen Einfluss auf Mexiko auszuweiten, verärgerte er die Alliierten und landete unter dem Vorwand von Verhandlungen mit den Nazis auf der schwarzen Liste."
+ 
+ MEX_electrolux:0 "Electrolux"
+ MEX_electrolux_desc:0 "Electrolux ist ein schwedisches Unternehmen für Unterhaltungselektronik im Besitz von Axel Wenner Gren. Die Expansion seines Unternehmens nach Mexiko hätte das Interesse an einer Erweiterung der Expertenbasis im Bereich Elektrotechnik verstärkt."
+ 
+ MEX_development:0 "Axel Trains"
+ MEX_development_desc:0 "Axel Wenner Gren hatte eine Reihe von Infrastrukturprojekten in ganz Lateinamerika geplant, bevor diese von den Alliierten gestoppt wurden."
+ 
+ MEX_ship:0 "Schwedische Investitionen"
+ MEX_ship_desc:0 "Sie geben Geld, Sie bekommen Geld. Was kann man daran nicht mögen?"
+ 
+ MEX_mundane:0 "Industrielle Fertigung"
+ MEX_mundane_desc:0 ""
+ 
+ MEX_exotic:0 "Elektrofertigung"
+ MEX_exotic_desc:0 ""
+ 
+ MEX_export:0 "Ausfuhrkontrollbehörde"
+ MEX_export_desc:0 "Axel Wenner Gren hatte die Gründung einer Exportkontrollbehörde in Mexiko geplant, die ihn zum Wirtschaftszaren Mexikos gemacht hätte. Dies war der Tropfen, der das Fass zum Überlaufen brachte und die Alliierten dazu zwang, ihn auf die schwarze Liste zu setzen."
+ 
+ # post 1940 tree
+ 
+ MEX_war:0 "Krieg mit Deutschland"
+ MEX_war_desc:0 "Der Angriff deutscher U-Boote auf die SS Potrero del Llano und die SS Faja de Oro führte am 21. Mai 1942 dazu, dass Mexiko auf der Seite der Alliierten in den Krieg eintrat."
+ 
+  MEX_USA:0 "Das Sinclair-Abkommen"
+  MEX_USA_desc:0 "Das Sinclair-Abkommen war das erste Abkommen zwischen den Alliierten und Mexiko, das den mexikanischen Besitz an seinem Öl anerkannte. Das Öl sollte an eine Zwischenfirma namens Sinclair verkauft werden, die es dann für die Kriegsanstrengungen liefern würde."
+ 
+ MEX_usa_aviation_oil:0 "Raffinerien für Kraftstoffe mit hoher Oktanzahl"
+ 
+ MEX_usa_airfields:0 "Hemisphärische Verteidigung"
+ MEX_usa_airfields_desc:0 "Amerika hatte Mexiko gebeten, ihm Stationierungsrechte und den Bau von Radarstationen in gefährdeten Gebieten an der Westküste zu gewähren."
+
+ MEX_usa_bracero_program:0 "Bracero-Programm"
+ MEX_usa_bracero_program_desc:0 "Das Bracero-Programm war ein Programm, das mexikanische Bürger für die Leitung von Farmen, Fabriken und anderen Logistikbereichen zur Unterstützung der Kriegsanstrengungen gewinnen sollte. Diese Arbeiter wurden für ihre Arbeit vertraglich entlohnt. Die Bezahlung war jedoch je nach Beruf lückenhaft, viele erhielten nicht ihren vollen oder überhaupt keinen Lohn. Schätzungsweise 500 Millionen Dollar Schulden stehen den ehemaligen Braceros inklusive Zinsen noch immer offen."
+ 
+ MEX_usa_arms_deal:0 "Amerikanische Lizenzierung"
+ MEX_usa_arms_deal_desc:0 "Während des Zweiten Weltkriegs erhielt Mexiko Lizenzen und Leasing für zahlreiche Arten von Ausrüstung, von Flugzeugen über Panzer bis hin zu Schiffen."
+ 
+ MEX_Soviet:0 "Mit Russland verbünden"
+ MEX_Soviet_desc:0 "Zwischen Russland und Mexiko herrschte aufgrund der feindseligen sowjetischen Diplomatie praktisch keine diplomatische Beziehung, was bedeutete, dass ich keine Grundlage hatte, um speziell für sie einen Stammbaum zu erstellen."
+ 
+ MEX_AXIS:0 "Treten Sie der Achse bei"
+ MEX_AXIS_desc:0 "Was, du erwartest für jeden kleinen Fokus eine witzige Bemerkung? Ich habe mir beim Schreiben dieses Mods ein Karpaltunnelsyndrom zugezogen, also beruhige dich."
+ 
+ MEX_GER:0 "Den Davis-Deal festigen"
+ MEX_GER_desc:0 "Der Davis-Deal war ein Vertrag zwischen Mexiko und den Achsenmächten über den Kauf von Öl von einem amerikanischen Zwischenhändler, der das Öl an Italien verkaufte, das es wiederum an Deutschland lieferte. Dieser Deal machte nur 50 % der mexikanischen Gesamtproduktion aus, da Deutschland vertraglich verpflichtet war, Öl von Großbritannien und den USA zu kaufen. Als die deutsche Marine versuchte, überschüssiges Öl von Mexiko zu kaufen, scheiterte sie. Der Deal endete offiziell 1940, als die Royal Navy Italien blockierte."
+ 
+ MEX_german_contracting:0 "Deutsche Megastrukturen"
+ MEX_german_contracting_desc:0 "Deutsche Diplomaten verhielten sich im Umgang mit Mexiko oft idealistisch und waren überzeugt, dass der Sieg schnell eintreten und deutsche Geschäfte sich weltweit ausbreiten würden. Deutschland ermöglichte es einheimischen Bauunternehmen, Angebote für den Ausbau der mexikanischen Infrastruktur einzuholen, unabhängig davon, ob sie die Aufträge aufgrund der Kriegsanstrengungen tatsächlich erfüllen konnten."
+ 
+ MEX_german_industry:0 "Deutsche Luftfahrt"
+ MEX_german_industry_desc:0 "Deutschland hatte Mexiko ein Abkommen zur Entwicklung seiner aufstrebenden Luftfahrtindustrie angeboten, und Mexiko war von diesem Angebot sehr angetan. Aufgrund der Nähe zu den USA kam dieses Abkommen jedoch nicht zustande. Mexiko nutzte dieses Angebot jedoch in den Verhandlungen, um bessere Konditionen von den USA zu erhalten."
+ 
+ MEX_german_rubber:0 "Von Deutschland finanzierte Kautschukfarmen"
+ MEX_german_rubber_desc:0 "Deutschland hatte im Rahmen seines Abkommens die Schaffung eines Kautschukhandels mit Basis im Süden Mexikos ins Auge gefasst."
+ 
+ MEX_german_mines:0 "Gemeinsame Bergbauexpeditionen"
+ MEX_german_mines_desc:0 "Deutschland bot Bedingungen für die Gründung deutsch-mexikanischen Bergbauunternehmen in gemeinsamem Besitz an, die den Einfluss der USA im mexikanischen Bergbausektor verringern sollten."
+ 
+ MEX_JAP:0 "Die Salinas Cruz Pipeline"
+ MEX_JAP_desc:0 "Japan hatte den Bau einer Pipeline zwischen der Ostküste und Salinas Cruz über den Isthmus von Tehuantepec in Erwägung gezogen. Dieses Megaprojekt wurde jedoch erst später in die Tat umgesetzt."
+ 
+ MEX_japanese_merchant_marine:0 "Mexikanische Handelsmarine"
+ MEX_japanese_merchant_marine_desc:0 "Mexiko hatte Japan in seinen Handelsabkommen gebeten, nicht nur beim Aufbau einer effizienten mexikanischen Handelsmarine zu helfen, sondern auch "
+ 
+ MEX_japanese_chemicals:0 "Verbotene Mineralien"
+ MEX_japanese_chemicals_desc:0 "Es wurde ein Deal vorgeschlagen, bei dem Mexiko Japan mit einer Vielzahl von Mineralien (die in diesem Spiel nicht abgebildet sind) beliefert, die in der Waffenproduktion verwendet werden und zuvor von den USA geliefert wurden. Die USA hatten im Vorfeld des Zweiten Weltkriegs ein Embargo gegen Japan verhängt und dessen Mineralienlieferungen eingestellt. Dadurch könnte das Embargo vollständig umgangen werden."
+
+ MEX_japanese_machinery:0 "Japanische Importe"
+ MEX_japanese_machinery_desc:0 ""
+ 
+ MEX_japanese_investments:0 "Japanische Investitionen"
+ MEX_japanese_investments_desc:0 ""
+ 
+ MEX_collective_bargaining:0 "Tarifverhandlungen"
+ MEX_collective_bargaining_desc:0 "Durch die Bildung eines Handelsblocks könnten wir die Alliierten dazu zwingen, unsere wirtschaftliche Integrität zu respektieren."
+ 
+ MEX_latinism:0 "Lateinische Zusammenarbeit"
+ MEX_latinism_desc:0 ""
+ 
+ MEX_latin_autobahn:0 "Die Panamericana"
+ MEX_latin_autobahn_desc:0 "Ideen für eine Superautobahn quer durch Amerika stammen aus dem späten 19. Jahrhundert, als eine Eisenbahnstrecke gebaut wurde, die jedoch nie realisiert wurde. In den 1920er Jahren trat die Idee einer Superautobahn an ihre Stelle. Am 29. Juli 1937 wurde ein Vertrag unterzeichnet, der den Bau der Autobahn vorsah, und in den 1950er Jahren war Mexiko das erste lateinamerikanische Land, das seinen Teil der Autobahn fertigstellte. "
+ 
+ MEX_latin_weaponry:0 "Lateinisches Arsenal"
+ MEX_latin_weaponry_desc:0 ""
+ 
+ MEX_latin_research:0 "UNAM-Netzwerk"
+ MEX_latin_research_desc:0 "Um dieser grausamen Welt gemeinsam die Stirn zu bieten, müssen wir unser Wissen ebenso teilen wie unsere Waffen."
+ 
+ MEX_Soviet_Protection:0 "Sowjetischer Schutz"
+ MEX_Soviet_Protection_desc:0 "Mit der UdSSR auf unserer Seite ist das Embargo praktisch beendet."
+ 
+ MEX_Soviet_Rubber:0 "Kautschukkommunen"
+ MEX_Soviet_Rubber_desc:0 "Die Verhandlungen zwischen der UdSSR und Mexiko scheiterten, da die UdSSR über alles, was Mexiko hatte, in viel größeren Mengen verfügte, außer über Kautschuk."
+ 
+ MEX_Soviet_Basing:0 "Sowjetische Stützpunkte"
+ MEX_Soviet_Basing_desc:0 "Die Vereinigten Staaten würden einen sowjetischen Verbündeten nicht lange an ihren Grenzen dulden, wir müssen uns selbst schützen."
+ 
+ MEX_Soviet_Power:0 "Sowjetische Wissenschaft"
+ MEX_Soviet_Power_desc:0 ""
+ 
+  MEX_Soviet_Weapons:0 "Russische Waffen"
+  MEX_Soviet_Weapons_desc:0 ""
+ 
+ MEX_new_world_order:0 "Neue Weltordnung"
+ MEX_new_world_order_desc:0 ""
+ 
+ ### 2nd ARMY TREE
+ 
+ MEX_National_Defense:0 "Nationale Verteidigung"
+ MEX_National_Defense_desc:0 ""
+ 
+ MEX_Mandatory_Retirement:0 "Gesetz zur obligatorischen Altersvorsorge"
+ MEX_Mandatory_Retirement_desc:0 "Ironischerweise zwang Mexiko viele seiner Generäle und hohen Beamten zum Ausscheiden aus dem aktiven Dienst. Dies war ein Versuch, Mexiko zu stabilisieren, indem alte Caudillos entmachtet und gleichzeitig frisches Blut in den Club der alten Männer gebracht wurde, die geistig und körperlich längst ihren Zenit überschritten hatten. Überraschenderweise wurde dieser Schritt allgemein und ohne größere Probleme akzeptiert, sogar von Maximino Avila Camacho."
+ 
+ MEX_Selective_Retirement:0 "Selektiver Ruhestand"
+ MEX_Selective_Retirement_desc:0 "Alternativ können wir nur einige Generäle in den Ruhestand versetzen, um einige unserer erfahreneren Männer zu erhalten, aber das würde den paranoiden Caudillos offensichtlich als Machtergreifung erscheinen."
+ 
+ MEX_Static_Defense:0 "Statische Abwehr"
+ MEX_Static_Defense_desc:0 ""
+ 
+ MEX_Mexican_Maginot:0 "Projekt: Tepeyollotl"
+ MEX_Mexican_Maginot_desc:0 "Die nördlichen Berge bieten eine natürliche Verteidigung gegen Angriffe aus dem Norden. Schmale, gewundene Pfade verwandeln sich regelmäßig in Schlamm und machen jeden Panzer zu einer Belastung. Die weitläufigen Gebirgsketten und die wenigen und kleinen Flugplätze in den Bergen machen Luftangriffe zu einem reinen Ärgernis. Dennoch ist die Natur nicht perfekt. Es ist Zeit, sie zu perfektionieren."
+ 
+ MEX_Eastern_Wall:0 "Monterrey-Verschanzung"
+ MEX_Eastern_Wall_desc:0 ""
+ 
+ MEX_Central_Wall:0 "Zentrale Verschanzungen"
+ MEX_Central_Wall_desc:0 ""
+ 
+ MEX_Sonora_Wall:0 "Sonora-Verschanzungen"
+ MEX_Sonora_Wall_desc:0 ""
+ 
+ MEX_Coastal:0 "Küstenbunker"
+ MEX_Coastal_desc:0 "Festungen eignen sich zwar gut für Landinvasionen, der Hauptangriffsvektor Amerikas wird jedoch über unsere Häfen verlaufen."
+ 
+ MEX_Fortify_Ports:0 "Häfen befestigen"
+ MEX_Fortify_Ports_desc:0 ""
+ 
+ MEX_NAV_BOMB:0 "Küstenverteidigung aus der Luft"
+ MEX_NAV_BOMB_desc:0 ""
+ 
+ MEX_Innovative_ideas:0 "Innovative Ideen"
+ MEX_Innovative_ideas_desc:0 ""
+ 
+ MEX_Arm_Militias:0 "Milizen ausbilden"
+ MEX_Arm_Militias_desc:0 "Es ist an der Zeit, dass wir die Ausrüstung und Ausbildung des ländlichen Verteidigungskorps verbessern."
+ 
+ MEX_Joan:0 "Weibliche Brigaden der Heiligen Johanna von Orléans"
+ MEX_Joan_desc:0 "Die Jeanne-d’Arc-Brigaden waren eine geheime Militärgesellschaft katholischer Frauen während des Cristero-Krieges. Sie stellten Waffen her, versorgten die Cristero-Truppen, kämpften in Schlachten, fungierten als Kundschafter, waren Boten während der Schlachten, druckten Propaganda und fungierten als Spione. Sie schworen strengste Geheimhaltung, sodass nicht einmal ihre Familien von ihrer Mitgliedschaft erfuhren. Sie waren für ihre unglaublich komplexe Logistikkette bekannt."
+ 
+ MEX_Flexibile_Defense:0 "Flexible Verteidigung"
+ MEX_Flexibile_Defense_desc:0 ""
+ 
+ MEX_Air_Power:0 "Projekt: Ehecatl"
+ MEX_Air_Power_desc:0 "Statische Verteidigung ist gut und schön, solange sie nicht umgangen wird. Flugzeuge bieten eine bessere Verteidigung und decken ein größeres Gebiet ab als eine Festung."
+ 
+ MEX_Mountain:0 "Zentrale Abdeckung"
+ MEX_Mountain_desc:0 ""
+ 
+ MEX_Desert:0 "Decken Sie die Sonora Passage ab"
+ MEX_Desert_desc:0 ""
+ 
+ MEX_AAD:0 "Ehecatls Schild"
+ MEX_AAD_desc:0 ""
+ 
+ MEX_Homefront:0 "Die Heimatfront"
+ MEX_Homefront_desc:0 ""
+ 
+ MEX_Open_Borders:0 "Öffnet die Grenzen"
+ MEX_Open_Borders_desc:0 ""
+ 
+ MEX_Japanese_Immigration:0 "Japanische Einwanderung"
+ MEX_Japanese_Immigration_desc:0 "Japanische Einwanderer waren im Westen Mexikos als Arbeiter weit verbreitet und freundeten sich mit ihren mexikanischen Kollegen an. Während des Zweiten Weltkriegs wurden japanische Einwanderer gezwungen, in die Städte zu ziehen, damit sie nicht bei der Organisation eines synarchistischen Aufstands in den ländlichen Teilen des Landes helfen konnten."
+ 
+ MEX_German_Immigration:0 "Deutsche Einwanderung"
+ MEX_German_Immigration_desc:0 "Deutsche Einwanderer waren in Mexiko ein alltäglicher Anblick und nahmen sogar am Cedillo-Aufstand teil."
+ 
+ MEX_Spanish_Immigration:0 "Spanische Flüchtlinge"
+ MEX_Spanish_Immigration_desc:0 "Unter den spanischen Flüchtlingen waren nicht nur Intellektuelle, sie stammten aus allen Gesellschaftsschichten und fanden in Mexiko Frieden."
+ 
+ MEX_Quarantine:0 "Einwanderung einschränken"
+ MEX_Quarantine_desc:0 ""
+ 
+ MEX_Centralize_Migrants:0 "Migranten unter Quarantäne stellen"
+ MEX_Centralize_Migrants_desc:0 "Mexiko siedelte während des Zweiten Weltkriegs Einwanderer aus Ländern, die Mexiko oder den USA feindlich gesinnt waren, in die zentralen Städte um, weil man befürchtete, diese Migranten seien Spione, die den Widerstand schüren sollten."
+ 
+ MEX_Big_Brother:0 "Großer Bruder"
+ MEX_Big_Brother_desc:0 "Mexiko hatte Einwanderer aus bestimmten Ländern wie Deutschland und Japan im Auge behalten, um sicherzustellen, dass es sich nicht um Spione handelte, die den Auftrag hatten, Revolutionen anzuzetteln."
+ 
+ MEX_News:0 "Ausländische Propaganda unterdrücken"
+ MEX_News_desc:0 "Mexiko ist ausländischer Propaganda nicht fremd. Das Land war ein Tummelplatz für Propagandanetzwerke aller großen Mächte und Fraktionen der Welt, von den Sowjets über die Deutschen bis hin zu den Europäern. Der krasseste Fall war die Franco-Propagandamaschine, die in Mexiko Zwietracht säen sollte. Francisco Franco gab monatlich mehrere Tausend Dollar für Propagandamaßnahmen aus."
+
+ MEX_Green_Revolution:0 "Die Grüne Revolution"
+ MEX_Green_Revolution_desc:0 "In dieser Zeit erlebte Mexiko im Zuge der Industrialisierung enorme Veränderungen. Die Landwirtschaft erlebte die sogenannte Grüne Revolution, die Lebensmitteleffizienz stieg rasant an, und Gesundheitsversorgung und Bildung verbesserten sich."
+ 
+ MEX_Saludbridad:0 "Secretaría de Salubridad y Asistencia"
+ MEX_Saludbridad_desc:0 "Die Gesundheitsversorgung Mexikos war zu dieser Zeit miserabel, da die Bevölkerung nicht an Orten mit traditioneller Gesundheitsversorgung lebte. Es herrschte ein eklatanter Mangel an Psychiatern; landesweit gab es nur sechs zugelassene Psychiater. Die Zahnärzte außerhalb der städtischen Gebiete, die die Mehrheit stellten, besaßen keinen gültigen Abschluss. Die Landbevölkerung Mexikos wurde oft von betrügerischen Ärzten und Kräuterheilkundlern behandelt, bis im Zweiten Weltkrieg staatliche Programme eingriffen."
+ 
+ MEX_Literacy:0 "Alphabetisierungsprogramme"
+ MEX_Literacy_desc:0 ""
+ 
+ MEX_IBEC:0 "Internationale Gesellschaft für Grundwirtschaft"
+ MEX_IBEC_desc:0 "Die IBEC wurde nach 1945 von Nelson Rockefeller aus Trotz gegenüber Präsident Harry S. Truman gegründet. Nelson wollte den Lateinamerikanern und insbesondere Truman zeigen, wie man Lateinamerika industrialisiert."
+ 
+ MEX_Gren:0 "Axel Wenner-Gren-Stiftung"
+ MEX_Gren_DESC:0 ""
+ 
+ MEX_Economic_Insolation:0 "Handelsprotektionismus"
+ MEX_Economic_Insolation_desc:0 ""
+ 
+ MEX_Industrialization:0 "Industrialisieren"
+ MEX_Industrialization_desc:0 ""
+ 
+ MEX_Banco:0 "Banco Nacional Cinematográfico"
+ MEX_Banco_desc:0 ""
+ 
+ MEX_Muralism:0 "Wandmalerei"
+ MEX_Muralism_desc:0 "In dieser Zeit erlebten Wandmalereien und mexikanische Kunst ein goldenes Zeitalter. Wandmalereien scheuten sich nie vor politischen Themen und waren ebenso Propaganda wie Kunst. Wie Diego Rivera sagte: „Alle Kunst ist Propaganda. Der einzige Unterschied ist die Art der Propaganda.“ "
+ 
+ MEX_Radio_Propaganda:0 "Erweitern Sie La Hora Nacional"
+ MEX_Radio_Propaganda_desc:0 "Die National Hour war früher ein Radiospot, der jeden Sonntag um 22 Uhr auf allen Radiosendern ausgestrahlt wurde. Die National Hour erlebte viele Variationen und existiert noch heute."
+ 
+ MEX_Comics:0 "Comic-Einheit"
+ MEX_Comics_desc:0 "Mexiko hatte 1940 noch eine unterdurchschnittliche Alphabetisierungsrate, und Comics dieser Zeit schlossen diese Lücke, sodass alle an Geschichten teilhaben konnten. Comics in Mexiko waren eine verbindende Kraft, sie führten zu Wettbewerben und verbreiteten bodenständige Geschichten, mit denen sich die Menschen entweder identifizieren konnten oder die sie selbst erlebten."
+ 
+ MEX_colegio:0 "Colegio De Mexico"
+ MEX_colegio_desc:0 "Das Haus Spanien entwickelte sich im Laufe der Zeit zu einer beeindruckenden Schule der Soziologie, als spanische Intellektuelle aus Spanien flohen."
+ 
+ MEX_Nuclear:0 "Uranfieber"
+ MEX_Nuclear_desc:0 ""
+ 
+ MEX_Computer:0 "Computerinvestitionen"
+ MEX_Computer_desc:0 ""
+ 
+ MEX_Sandoval:0 "Sandovals Traum"
+ MEX_Sandoval_desc:0 "Manuel Sandoval Vallarta war bis zu seinem Lebensende stets ein Verfechter der Wissenschaft um der Wissenschaft willen."
+ 
+ MEX_The_Purge:0 "Wachablösung"
+ MEX_The_Purge_desc:0 ""
+ 
+ MEX_Pacto_De_Honor:0 "Ehrenpakt"
+ MEX_Pacto_De_Honor_desc:0 "Maximino Avila Camacho schuf den sogenannten Ehrenpakt, eine Art Schattenregierung aus Menschen und Organisationen, die er unterwanderte oder davon überzeugte, sich seiner Sache anzuschließen. Diese Menschen befanden sich oft in einer schwierigen Lage, und Maximino bot einen Ausweg, beispielsweise für Unternehmen, die durch die Verstaatlichung von PEMEX geschädigt wurden, oder für Unterstützer von Calles, die unter dem Zusammenbruch seiner Macht litten."
+ 
+ MEX_FTP:0 "Untergrabung der Gewerkschaften"
+ MEX_FTP_desc:0 "Maximino war ein Experte darin, Gewerkschaften zu unterwandern. In Pluebla zerlegte er Gewerkschaften und reformierte sie zu etwas politisch Nützlichem, um sich den Anschein eines Mannes des Volkes zu geben."
+ 
+ MEX_Caciques:0 "Kontrolliere die Kaziken"
+ MEX_Caciques_desc:0 "Maximino war zu seiner Zeit dafür bekannt, jeden zu töten oder zu diskreditieren, der sich nicht an seine Linie hielt. Er setzte sein Militär ein, um Banditenbanden zu zerschlagen und freiberufliche Kaziken, auch bekannt als Caudillos, zu vernichten. Diese Freiberufler kümmerten sich nicht um Ideologie wie die größeren Caudillos und achteten nur auf ihren eigenen Vorteil."
+ 
+ MEX_Renovacion:0 "La Grupo renovación"
+ MEX_Renovacion_desc:0 " Die Renovación war eine Gruppe von Parteigängern in der mexikanischen Politik, die mit harter Hand und Verleumdung gegen linke Politiker den Fanatismus der extremen Rechten schürte. Sie waren Anhänger der beiden Avila-Camacho-Brüder und der Joseph McCarthy der mexikanischen Politik."
+ 
+ MEX_Renovacion2:0 "Feudales Mexiko"
+ MEX_Renovacion2_desc:0 ""
+ 
+ MEX_Mexico_First:0 "Mexiko zuerst!"
+ MEX_Mexico_First_desc:0 ""
+ 
+ MEX_Union_Reform:0 "Gewerkschaftsreform"
+ MEX_Union_Reform_desc:0 ""
+ 
+ MEX_Strengthen_Institutions:0 "Institutionen stärken"
+ MEX_Strengthen_Institutions_desc:0 ""
+ 
+ MEX_Era:0 "Das Mexiko des Volkes"
+ MEX_Era_desc:0 ""
+ 
+ MEX_Era2:0 "Ein neuer Morgen"
+ MEX_Era2_desc:0 ""
+ 
+ MEX_Camarilla:0 "La Camarilla"
+ MEX_Camarilla_desc:0 "So wie Maximino seinen Ehrenpakt hatte, hatte Aleman seine eigene Organisation, die von Historikern als Camarilla bezeichnet wird. Historisch gesehen ist Camarilla ein Wort, das im Kontext der spanischen Krone verwendet wird, um die Männer hinter dem König zu beschreiben."
+ 
+ MEX_Death:0 "Santa Muertes Gunst"
+ MEX_Death_desc:0 ""
+ 
+ MEX_Inquisition:0 "Die politische Inquisition"
+ MEX_Inquisition_desc:0 "Miguel Aleman war bekannt dafür, dass er verdächtigerweise eine Bevorzugung des Todes erfuhr. Er war auch dafür verantwortlich, seine Feinde mit völlig legalen Mitteln zu vernichten, etwa indem er Bundesermittler als Inquistoren einsetzte."
+ 
+ MEX_Perfect_Dictatorship:0 "Die perfekte Diktatur"
+ MEX_Perfect_Dictatorship_desc:0 "Historisch gesehen siegte die Camarilla, als Miguel Aleman nach Camachos Tod Präsident wurde. Man sagt, dass die 70 Jahre ab diesem Zeitpunkt, in denen die PRI über unübertroffene politische Macht verfügte, die perfekte Diktatur waren."
+ 
+ MEX_Perfect_Dictatorship2:0 "Der Schatten des Todes"
+ MEX_Perfect_Dictatorship2_desc:0 ""
+ 
+ MEX_Marias:0 "Islas Marias renovieren"
+ MEX_Marias_desc:0 "Islas Marias war einst als Spielplatz des Diktators Porfirio Diaz bekannt. Ein Inselgefängnis, aus dem niemand entkommen konnte. Es befand sich in der Planungsphase vor Alcatraz und wurde mit der modernsten Gefängnisbautechnik seiner Zeit entworfen: dem radialen Design."
+ 
+ MEX_Colegio:0 "El Colegio de México"
+ MEX_Colegio_desc:0 ""
+ 
+ MEX_Syndicalist:0 "Eine Union der Gewerkschaften"
+ MEX_Syndicalist_desc:0 "Mexikos Kommunismus war schon immer eine einzigartige Form. Im Gegensatz zum sowjetischen Kommunismus war der mexikanische Volkskommunismus eine Variante des Syndikalismus. Gewerkschaften genossen große Bedeutung und einen hohen Stellenwert in der Regierung, um den Willen des Volkes widerzuspiegeln. Mancher Wunschtraum drehte sich um die Idee, die Minen von Ausländern zurückzuerobern und sie den Mexikanern zurückzugeben."
+ 
+ MEX_Unionize:0 "Stärkung der Gewerkschaften"
+ MEX_Unionize_desc:0 ""
+ 
+ MEX_Expropriation:0 "Beenden Sie die Enteignungen"
+ MEX_Expropriation_desc:0 ""
+ 
+ MEX_Republic:0 "Vereinigte Mexikanische Gewerkschaften"
+ MEX_Republic_desc:0 ""
+ 
+ MEX_Republic2:0 "Mexiko den Mexikanern!"
+ MEX_Republic2_desc:0 ""
+ 
+ MEX_Strike_ENG:0 "Schlagt das Imperium zu!"
+ MEX_Strike_ENG_desc:0 "Mexikos Feindseligkeit gegenüber Großbritannien war kein Geheimnis, seit Großbritannien mexikanische Ölfelder kaufte. In einer perfekten Welt der mexikanischen Eliten würde Großbritannien brutal zerschlagen werden."
+ 
+ MEX_Contain_ENG:0 "Britischen Einfluss eindämmen"
+ MEX_Contain_ENG_desc:0 "Solange Großbritannien in der Karibik präsent ist, sind die Interessen Mexikos bedroht. Indem wir die Briten aus der Region vertreiben, können wir unsere eigene Einflusssphäre aufbauen."
+ 
+ MEX_ENG_Grab:0 "Schnappt sie euch bei den Kolonien!"
+ MEX_ENG_Grab_desc:0 "Wenn wir auf der Weltbühne bestehen wollen, dürfen wir Großbritannien eine solch unübertroffene Macht nicht zugestehen. Die Einnahme seiner Kolonien würde das Imperium ernsthaft schädigen."
+ 
+ MEX_ZOOT:0 "Intervenieren Sie in den Vereinigten Staaten"
+ MEX_ZOOT_desc:0 "Nach den Zoot-Suit-Unruhen und dem Angriff auf Mexikaner durch US-Bürger und Militärangehörige kam es zu großen Protesten der extremen Linken und der extremen Rechten, die ein Eingreifen forderten."
+
+ Grand_Alliance:0 "Große Allianz"
+ defense_commission:0 "Verteidigungskommission"
+ alalc:0 "Lateinische Union"
+ 
+ #misc faction localization
+ MEX_research_desc:0 ""
+ 
+ #decisions
+ MEX_campaign_in_FROM:0 "Kampagne in [FROM.GetName] organisieren"
+ MEX_pressure_aristocracy_in_FROM:0 "Setzen Sie die Aristokraten in [FROM.GetName] unter Druck"
+ MEX_change_state_aligment_tt:0 "§Y[state_changing_aligment.GetName]§! richtet sich nach [state_changing_aligment.MEX_get_new_alignment] aus"
+ MEX_475_aligment_delayed_tt:0 "§Y[475.GetName]§! ist größtenteils auf [475.MEX_get_faction_name] ausgerichtet"
+ MEX_277_aligment_delayed_tt:0 "§Y[277.GetName]§! ist größtenteils auf [277.MEX_get_faction_name] ausgerichtet"
+ MEX_484_aligment_delayed_tt:0 "§Y[484.GetName]§! ist größtenteils auf [484.MEX_get_faction_name] ausgerichtet"
+ MEX_483_aligment_delayed_tt:0 "§Y[483.GetName]§! ist größtenteils auf [483.MEX_get_faction_name] ausgerichtet"
+ MEX_481_aligment_delayed_tt:0 "§Y[481.GetName]§! ist größtenteils auf [481.MEX_get_faction_name] ausgerichtet"
+ MEX_482_aligment_delayed_tt:0 "§Y[482.GetName]§! ist größtenteils auf [482.MEX_get_faction_name] ausgerichtet"
+ MEX_480_aligment_delayed_tt:0 "§Y[480.GetName]§! ist größtenteils auf [480.MEX_get_faction_name] ausgerichtet"
+ MEX_479_aligment_delayed_tt:0 "§Y[479.GetName]§! ist größtenteils auf [479.MEX_get_faction_name] ausgerichtet"
+ MEX_478_aligment_delayed_tt:0 "§Y[478.GetName]§! ist größtenteils auf [478.MEX_get_faction_name] ausgerichtet"
+ MEX_485_aligment_delayed_tt:0 "§Y[485.GetName]§! ist größtenteils auf [485.MEX_get_faction_name] ausgerichtet"
+ MEX_477_aligment_delayed_tt:0 "§Y[477.GetName]§! ist größtenteils auf [477.MEX_get_faction_name] ausgerichtet"
+ MEX_476_aligment_delayed_tt:0 "§Y[476.GetName]§! ist größtenteils auf [476.MEX_get_faction_name] ausgerichtet"
+ MEX_474_aligment_delayed_tt:0 "§Y[474.GetName]§! ist größtenteils auf [474.MEX_get_faction_name] ausgerichtet"
+ MEX_WW1_path_of_democracy_AI:0 "§gDer Weg der Demokratie§!"
+ MEX_WW1_anti_reelection_party_AI:0 "§gDie Anti-Wiederwahl-Partei§!"
+ MEX_madero_campaigns:0 "Madero-Kampagnen"
+
+ MEX_Introduction:0 "Einführung"
+ MEX_Intro:0 "Einführung anzeigen"
+ MEX_Source:0 "Quellen anzeigen"
+ MEX_Thanks:0 "Besonderer Dank und Mitwirkende anzeigen"
+
+
+ napoleonistas_faction:0 "§2Die Napoleonistas§!"
+ constitucionalistas_faction:0 "§3Die Constitucionalistas§!"
+ villistas_faction:0 "§YDie Villistas§!"
+ zapatistas_faction:0 "§RDie Zapatisten§!"
+ maderistas_faction:0 "§GDie Maderistas§!"
+ porfirist_faction:0 "§7Der Porfirist§!"
+ ww1_mexico.5.b:0 "Die Demokratie wird einen Weg finden!"
+  #colonies
+ USA_MEX_autonomy_dominion:0 "Dominion von Nordamerika"
+ USA_MEX_autonomy_colony:0 "41 Kolonien"
+ USA_MEX_autonomy_puppet:0 "Mexikanisch-Nordamerikanische Gebiete"
+ USA_MEX_autonomy_dominion_DEF:0 "das Dominion von Nordamerika"
+ USA_MEX_autonomy_colony_DEF:0 "die 41 Kolonien"
+ USA_MEX_autonomy_puppet_DEF:0 "die mexikanischen nordamerikanischen Gebiete"
+ 
+ #diplomacy
+ mex_latin_diplomacy_focus:0 "Lateinische Diplomatie"
+ mex_usa_diplomacy_focus:0 "Mexikanisch-amerikanische Diplomatie"
+ mex_jap_diplomacy_focus:0 "Pazifikdiplomatie"
+ MEX_expelled_diplomats:0 "Ausgewiesene Diplomaten"
+ MEX_trade_deal:0 "Opportunismus"
+ MEX_export_board:0 "Ausfuhrkontrollbehörde"
+ MEX_wenner_gren:0 "Wenner-Gren-Stiftung"
+ # put the tooltips here, so there aren't a billion files.
+ tt_calles:0 "Beginnt die Handlung des Calles-Exils."
+ tt_militar:0 "Sie können jetzt Ihre eigenen Militärberater ernennen, was verräterischen Ideen im Militär entgegenwirkt."
+ tt_cabinet:0 "Man kann zwar seine eigenen Kabinettsmitglieder ernennen, doch die derzeitigen Mitglieder und ihre militärischen Unterstützer werden nicht glücklich sein. Eine Auseinandersetzung mit dem Militär wird zu einem Bürgerkrieg führen, sofern die Mitglieder nicht auf irgendeine Weise entwaffnet oder aus ihren Offizierspositionen entfernt werden."
+ tt_oily:0 "Wenn die Spannungen zu gering sind, könnte es zu einem Krieg mit den USA und Großbritannien kommen. Wenn der Zeitpunkt richtig ist, ist es möglicherweise möglich, die USA und Großbritannien gegeneinander auszuspielen."
+ tt_sneak: "Unlocks ability to investigate conspiracies, and stop plots to overthrow your government."
+ tt_plane:0 "Schaltet Luftfahrtunternehmer frei."
+ tt_boat:0 "Schaltet mexikanische Marine-Auftragnehmer frei und ermöglicht die Ernennung eines neuen Marineministers."
+ tt_ships:0 "Schaltet die Möglichkeit frei, ausländische Länder mit der Konstruktion von Schiffen zu beauftragen."
+ tt_land:0 "Schaltet einen zusätzlichen Gebäudeplatz in allen ländlichen Staaten frei."
+ tt_expert:0 "Schaltet einen zusätzlichen Gebäudeplatz in allen städtischen Staaten frei."
+ tt_ejido:0 "Schaltet einen zusätzlichen Gebäudeplatz in allen ländlichen Staaten frei."
+ tt_PCM:0 "Der Kommunismus erstarkt, doch die von der Sowjetunion kontrollierte PCM-Partei stellt eine erhebliche Bedrohung für die mexikanische Souveränität dar, wenn die Bundespolizei ihr nicht rechtzeitig Einhalt gebietet.\n"
+ tt_mexpromotion:0 "Der Präsident von Mexiko gilt aufgrund des Rangsystems als 5-Sterne-General. Aus diesem Grund wird dieser Militärkandidat auf Stufe 5 befördert und erhält Boni basierend auf seiner Geschichte.\n"
+ tt_dlc:0 "Dieser Fokus ermöglicht es Spielern, Schiffe zu lizenzieren, wenn sie DEATH ODER DISHONOR NICHT INSTALLIERT HABEN. Wenn Sie diesen DLC besitzen, ist dieser Fokus aus Gründen der Balance deaktiviert."
+ tt_mexican_radicals:0 "Wird den gegnerischen politischen Flügel radikalisieren.\n"
+ tt_MEX_racial_tensions:0 "Das wird nicht unbemerkt bleiben und zu einer Verschärfung der Rassenspannungen in Amerika führen."
+ tt_Placeholder:0 "Dies ist derzeit ein Platzhalter, bis das Spiel fortgeschrittener ist und ich mit diesem Baum das machen kann, was ich möchte.\n"
+ # for the backlash mechanics
+ tt_30:0 "Wer alle gleichermaßen ausschließt, ohne sie bevorzugt zu behandeln, ermutigt die Synarchisten."
+ tt_synarchist:0 "Wird die Konservativen ermutigen und einige Leute in den extrem rechten Flügel treiben."
+ tt_commies:0 "Wird den linken Flügel ermutigen und einige Leute in den äußersten linken Flügel treiben."
+ 
+ # election update - the flags for the state of a person
+ juan_is_dead:0 "Tot"
+ juan_loses:0 "verließ Mexiko nach Wahlniederlage"
+ #this was just moved for easier translation
+ escobar_returns:0 "Escobar kehrte nach Mexiko zurück"
+ election_1940:0 "Wahlsaison 1940"
+ riot:0 "Es kam zu einem Zoot Suit-Aufstand"
+ # the description for the bookmark at the nation select
+ MEX_GATHERING_STORM_DESC:0 "Mexiko befindet sich in den letzten Tagen des Maximato, der Periode, in der der ehemalige Präsident Plutarco Elias Calles mithilfe rechtsgerichteter Loyalisten in Politik und Militär die wahre Macht innehatte. Seit 1934 führt Lázaro Cárdenas del Río einen politischen Krieg, um Plutarcos Kontrolle über das Land zu beenden und seine eigenen linken Reformen durchzusetzen. Mexiko steht an einem Scheideweg, während sich die Welt auf einen Krieg vorbereitet. Linke und Rechte kämpfen um die Kontrolle über die Zukunft des Landes und seinen Platz in der kommenden neuen Weltordnung."
+ MEX_BLITZKRIEG_DESC:0 "Der Maximato ist beendet und Calles ist weg, doch der Kampf zwischen dem linken und rechten Flügel tobt weiter. Ermutigt durch die wirtschaftlichen Schwierigkeiten, die die PEMEX-Embargos mit sich brachten, polarisierte sich die Rechten und befinden sich nun in einem politischen Bürgerkrieg um den rechten Präsidentschaftskandidaten im nächsten Jahr. Die dominierende PRI steht nun jedoch vor der Wahl, ihre Ideale mit dem gemäßigten Kandidaten Camacho zu kompromittieren oder den linken Kandidaten Mugica zu verstärken."
+ 
+ 
+ # Biographies
+ POLITICS_DIONISIO_ENCINA_DESC:0 "Dionisio galt als polarisierende Figur, und Historiker fanden oft wenig Positives über seine Führung zu berichten. Dionisio war für die Spaltung der größten kommunistischen Partei Mexikos, der PCM, verantwortlich. Er wurde von sowjetischen Agenten unterstützt, die für die Verbreitung des Kommunismus in Mexiko zuständig waren, und handelte nur auf Befehl. Er befürchtete, seine sowjetischen Agenten könnten einen geeigneteren Anführer für die PCM finden. Aus Angst, von ihnen ersetzt zu werden, schloss er jeden aus der PCM aus, der über bessere Führungsqualitäten oder Charisma verfügte. Dadurch mangelte es der PCM an guter Führung und proaktivem Denken."
+
+
+    plane_production:0 "Produktionsschwerpunkt"
+    plane_agility:0 "Beweglichkeitskampf"
+    plane_range:0 "Reichweitenfokus"
+    plane_firepower:0 "Feuerkraftfokus"
+    plane_stability:0 "Fokus auf Zuverlässigkeit"
+    
+    tank_firepower:0 "Feuerkraftfokus"
+    tank_production:0 "Mengenfokus"
+    tank_reliability:0 "Qualitätsfokus"
+    
+    state_car:0 "Staatlicher Autohersteller"
+    truck:0 "LKW-Hersteller"
+    
+    quality:0 "Qualitätsfokus"
+    quantity:0 "Mengenfokus"
+    State_Gun:0 "Staatlicher Waffenhersteller"
+    
+    state_energy:0 "Staatliches Energieunternehmen"
+    state_rail:0 "Staatliche Eisenbahngesellschaft"
+    construction:0 "Bauunternehmen"
+    telecom:0 "Kommunikationsanliegen"
+    state_oil:0 "Staatliche Ölgesellschaft"
+    
+    ########
+    ## UI ##
+    ########
+
+  construction_tech_research:0 "Bautechnik"
+  cas_bomber_research:0 "CAS-Bomberforschung"
+  nav_bomber_research:0 "Marinebomberforschung"
+  light_fighter_research:0 "Leichte Jägerforschung"
+  heavy_fighter_research:0 "Forschung zu schweren Jägern"
+  tactical_bomber_research:0 "Taktische Bomberforschung"
+  strategic_bomber_research:0 "Strategische Bomberforschung"
+  para_tech:0 "Fallschirmjäger"
+ 
+ 
+  #################
+  ## CALLES TREE ## THIS HAS BEEN REWRITTEN, PLEASE CHECK
+  #################
+  mexico_calles.1.t:0 "REBELLEN GREIFTEN DEN ZUG AN!"
+  mexico_calles.1.d:0 "Ein Zug zwischen Mexiko-Stadt und Veracruz wurde gestern von Dissidenten überfallen, wobei mehrere mexikanische Politiker der PRM getötet wurden. Der Zug wurde an einer mit Sprengstoff präparierten Brücke überfallen, sodass ein Banditenraub als Motiv für den Angriff ausgeschlossen ist. Beamte fanden den Zug völlig zerstört vor, sodass den Ermittlern kaum Spuren hinterlassen wurden. Es ist nicht bekannt, ob die Explosion die Waggons in Brand setzte oder ob sie von den Angreifern angezündet wurden, um Beweise zu vernichten. Mexiko erlebt eine zunehmende politische Polarisierung, und nun scheinen politische Extremisten zur Gewalt zu greifen."
+  mexico_calles.1.a:0 "Tragisch."
+  mexico_calles.1.b:0 "Calles wird dafür mit der Zeit bezahlen."
+ 
+  mexico_calles.2.t:0 "Operation: Mi Lucha"
+  mexico_calles.2.d:0 "Endlich haben wir einen Grund, Calles zu verhaften. Die öffentliche Unterstützung für seine Verhaftung ist groß. Wenn wir seine Ranch mit Truppen umzingeln, hat er keine Chance mehr, zu fliehen und seine Rebellenkollegen zu warnen. Während er festgehalten wird, können wir die Überreste seiner Basis zerstören und reinen Tisch machen."
+  mexico_calles.2.a:0 "Machen Sie seinem ideologischen Kreuzzug ein Ende."
+  
+  # mexico.3 is a RANDOMIZER for 2 variant events.
+  
+  mexico_calles.4.t:0 "EHEMALIGER MEXIKANISCHER PRÄSIDENT IM EXIL!"
+  mexico_calles.4.d:0 "Der ehemalige Präsident Plutarco Elias Calles und drei seiner Verbündeten wurden auf Befehl von Präsident [MEX.GetLeader] verhaftet. Mexikos Linke werfen Calles vor, er versuche, die Rechte gegen Präsident Cárdenas, den er als Kommunisten bezeichnet, aufzuwiegeln und das Land möglicherweise in einen Bürgerkrieg zu stürzen. Als die mexikanischen Behörden die Ranch stürmten, verhafteten sie Calles, der in seinem Bett lag und eine spanische Übersetzung von Hitlers Buch „Mein Kampf“ las. Anschließend wurde Calles mitten in der Nacht in ein Flugzeug nach Houston, Texas, gezwungen. Calles kam am Morgen an und soll nun auf dem Weg nach San Diego sein, wo er bei seiner Schwester leben wird. Ein Waffenlager, vermutlich zur Versorgung der Rebellen, wurde ebenfalls sichergestellt."
+  mexico_calles.4.a:0 "Ich weiß nicht, was in Mexiko los ist, aber im Moment habe ich zu viel Angst, zu fragen."
+  mexico_calles.4.b:0 "Sie schicken nicht ihre Besten, Leute."
+  mexico_calles.4.c:0 "Calles wurde genauso behandelt wie so viele andere."
+  
+  mexico_calles.5.t:0 "EHEMALIGER MEXIKANISCHER PRÄSIDENT IM EXIL!"
+  mexico_calles.5.d:0 "Der ehemalige Präsident Plutarco Elias Calles und drei seiner Verbündeten wurden auf Befehl von Präsident [MEX.GetLeader] verhaftet. Mexikos Linke werfen Calles vor, er versuche, die Rechte gegen Präsident Cárdenas, den er als Kommunisten bezeichnet, aufzuwiegeln und das Land möglicherweise in einen Bürgerkrieg zu stürzen. Als die mexikanischen Behörden die Ranch stürmten, verhafteten sie Calles, der in seinem Bett lag und eine spanische Übersetzung von Hitlers Buch „Mein Kampf“ las. Anschließend wurde Calles mitten in der Nacht in ein Flugzeug nach Houston, Texas, gezwungen. Calles kam am Morgen an und soll nun auf dem Weg nach San Diego sein, wo er bei seiner Schwester leben wird. Eine Durchsuchung der Ranch ergab keine Auffälligkeiten."
+  mexico_calles.5.a:0 "Ich weiß nicht, was in Mexiko los ist, aber im Moment habe ich zu viel Angst, zu fragen."
+  mexico_calles.5.b:0 "Sie schicken nicht ihre Besten, Leute."
+  mexico_calles.5.c:0 "Calles wurde genauso behandelt wie so viele andere."
+  
+  mexico_calles.6.t:0 "Ruft zur Rebellion auf!"
+  mexico_calles.6.d:0 "Callista-Anhänger haben in Mexiko einen Aufstand begonnen, als Reaktion auf die sogenannte „Sowjetisierung“ Mexikos. Angetrieben von Plutarcos Rhetorik haben seine Anhänger Mexiko in einen weiteren Bürgerkrieg gestürzt. Es bleibt abzuwarten, ob dieser Aufstand die Brutalität der mexikanischen Revolution erreicht, die Mexiko zehn Jahre lang zerriss."
+  mexico_calles.6.a:0 "Dios Mio."
+  
+  ################
+  ## PEMEX TREE ##
+  ################
+  
+  mexico_pemex.1.t:0 "Streiks der Ölarbeiter"
+  mexico_pemex.1.d:0 "Herr Präsident [Root.GetLeader], die Arbeiter streiken gegen die unfaire Behandlung durch die ausländischen Konzerne, die die Aguila-Ölgesellschaft aufgekauft haben. Sie haben bereits viele unserer Gesetze eklatant gebrochen, und ein Vorgehen gegen sie wird in der mexikanischen Bevölkerung kaum oder gar keine Gegenreaktionen hervorrufen. Am besten wäre es, die Ölgesellschaft gemäß der Verfassung zu verstaatlichen, die uns das Eigentum an allen natürlichen Ressourcen zuspricht. Die Verstaatlichung des Öls würde die Industrialisierung unseres Landes finanzieren, und im Falle eines Krieges würden wir erhebliche Gewinne erzielen."
+  mexico_pemex.1.a:0 "Lasst uns ein Machtspiel machen."
+  
+  mexico_pemex.2.t:0 "MEXIKO VERSTAATIGT ÖLFIRMEN!"
+  mexico_pemex.2.d:0 "[MEX.GetLeader] hat die Verstaatlichung mexikanischer Ölkonzerne angekündigt. Die ehemals ausländischen Unternehmen sollen konfisziert und der staatlichen Ölgesellschaft PEMEX unterstellt werden. Dies trifft vor allem britische und niederländische Unternehmen, die von ihren Regierungen einen Krieg fordern. Die USA sind sich weitgehend unschlüssig, ob sie die Verstaatlichung billigen oder verurteilen sollen, da die Präsenz der Unternehmen auf dem mexikanischen Ölmarkt nicht nur vernachlässigbar war, sondern die Verstaatlichung auch ihren Geschäften durch die Ausschaltung ausländischer Konkurrenz zugutekommt."
+  mexico_pemex.2.a:0 "Das ist Wahnsinn, Mexiko wird einen Krieg beginnen!"
+  mexico_pemex.2.b:0 "Unerhört! Sie wagen es, unser Eigentum zu stehlen?!"
+  mexico_pemex.2.c:0 "Jetzt warten wir auf ihre Antwort."
+  
+  mexico_pemex.3.t:0 "Mexiko verstaatlicht das Öl!"
+  mexico_pemex.3.d:0 "Mexiko hat die Verstaatlichung aller Rohstoffvorkommen des Landes angekündigt. Lobbyisten fordern Krieg, doch politisch wird es gerade dann chaotisch, wenn Deutschlands wachsende Macht eine deutlichere Bedrohung darstellt. Sollten wir Krieg führen, hätten wir weniger Arbeitskräfte und Ressourcen, um mit Deutschland fertig zu werden. Das Terrain ist unwegsam, und es wird wahrscheinlich ein langwieriger Krieg. Unsere andere Option wäre, ein Embargo gegen Deutschland zu verhängen und es zur Rückgabe unserer Besitztümer zu zwingen, wenn Mexiko erkennt, dass es nicht über die nötige Expertise verfügt, um ein Ölunternehmen zu führen."
+  mexico_pemex.3.a:0 "Krieg erklären"
+  mexico_pemex.3.b:0 "Hungern Sie sie aus."
+  
+  mexico_pemex.4.t:0 "Mexiko verstaatlicht das Öl!"
+  mexico_pemex.4.d:0 "Mexiko hat die Verstaatlichung aller Rohstoffvorkommen des Landes angekündigt. Lobbyisten fordern Krieg, doch politisch wird es gerade dann chaotisch, wenn Deutschlands wachsende Macht eine deutlichere Bedrohung darstellt. Sollten wir Krieg führen, hätten wir weniger Arbeitskräfte und Ressourcen, um mit Deutschland fertig zu werden. Das Terrain ist unwegsam, und es wird wahrscheinlich ein langwieriger Krieg. Unsere andere Option wäre, ein Embargo gegen Deutschland zu verhängen und es zur Rückgabe unserer Besitztümer zu zwingen, wenn Mexiko erkennt, dass es nicht über die nötige Expertise verfügt, um ein Ölunternehmen zu führen."
+  mexico_pemex.4.c:0 "Krieg erklären"
+  mexico_pemex.4.d:0 "Hungern Sie sie aus."
+  
+  mexico_pemex.5.t:0 "USA verhängen Embargo gegen Mexiko!"
+  mexico_pemex.5.d:0 "Präsident [USA.GetLeader] hat angekündigt, dass Mexiko als Reaktion auf die Verstaatlichung amerikanischer Ölkonzerne in Mexiko mit einem Embargo belegt wird. Politische Analysten sehen darin einen Versuch, den staatlichen mexikanischen Ölkonzern PEMEX auszuhungern und Mexiko zur Rückgabe der verstaatlichten Vermögenswerte zu zwingen."
+  mexico_pemex.5.a:0 "Mal sehen, ob PEMEX überlebt."
+  mexico_pemex.5.b:0 "Sie versuchen, uns auszuhungern."
+  
+  mexico_pemex.6.t:0 "Großbritannien verhängt ein Embargo gegen Mexiko!"
+  mexico_pemex.6.d:0 "[ENG.GetLeader] hat angekündigt, dass Mexiko als Reaktion auf die Verstaatlichung englischer und niederländischer Ölkonzerne mit einem Embargo belegt wird. Politische Analysten sehen darin einen Versuch, den staatlichen mexikanischen Ölkonzern PEMEX auszuhungern und Mexiko zur Rückgabe der verstaatlichten Vermögenswerte zu zwingen."
+  mexico_pemex.6.a:0 "Mal sehen, ob PEMEX überlebt." 
+  mexico_pemex.6.b:0 "Sie versuchen, uns auszuhungern."
+  
+  mexico_pemex.7.t:0 "USA erklären Mexiko den Krieg!"
+  mexico_pemex.7.d:0 "Präsident [USA.GetLeader] hat Mexiko den Krieg erklärt, weil er sich über die Beschlagnahmung der Ölvorräte amerikanischer Unternehmen empört hat. [USA.GetLeader] erklärte, man müsse die amerikanischen Interessen verteidigen und werde mexikanisches Verhalten gegenüber amerikanischen Unternehmen nicht dulden. [MEX.GetLeader] antwortete, ausländischer Ölbesitz sei nach mexikanischem Recht von vornherein illegal gewesen und jeder künftige Präsident habe das Recht, dieses Gesetz durchzusetzen. [MEX.GetLeader] erklärte außerdem, man werde für den Schutz der Verfassung vor ausländischen Interessen kämpfen."
+  mexico_pemex.7.a:0 "Mein Gott."
+  mexico_pemex.7.b:0 "Dios Mio."
+  
+  mexico_pemex.8.t:0 "Großbritannien erklärt Mexiko den Krieg!"
+  mexico_pemex.8.d:0 "Großbritannien hat Mexiko wegen der Verstaatlichung von Vermögenswerten im Wert von über 130 Millionen Dollar den Krieg erklärt. [ENG.GetLeader] erklärte: „Egal, ob Amerika für oder gegen uns ist, Großbritannien lässt sich nicht herumschubsen!“ Mexiko befindet sich also in einer schwierigen Lage."
+  mexico_pemex.8.a:0 "Mein Gott."
+  mexico_pemex.8.b:0 "Dios Mio."
+  
+  mexico_pemex.9.t:0 "Entschädigung"
+  mexico_pemex.9.d:0 "Da wir nun unter einem Embargo stehen und ein Krieg vorübergehend abgewendet werden konnte, wäre es vielleicht an der Zeit, den USA, die Entschädigungen für die betroffenen Unternehmen fordern, 29 Millionen Dollar Reparationszahlungen anzubieten. Dies würde einen Krieg mit den USA vollständig vermeiden und das Embargo aufheben, unseren Haushalt jedoch vorübergehend belasten. Die Ausweitung unserer potenziellen Märkte würde diese Belastung jedoch aufwiegen."
+  mexico_pemex.9.a:0 "Sie wollen eine Entschädigung? Ich würde gerne sehen, dass sie es versuchen."
+  mexico_pemex.9.b:0 "Zahlen Sie ihnen eine Entschädigung und beenden Sie die Sache."
+  
+  ##################
+  ## MINOR EVENTS ##
+  ##################
+  
+  #MEXICO_minor.1 IS A HIDDEN TRIGGER, DO NOT USE IT.
+  
+  mexico_minor.2.t:0 "Escobar kehrt nach Mexiko zurück!"
+  mexico_minor.2.d:0 "José Gonzalo Escobar, der Anführer des gescheiterten Escobar-Aufstands, ist aus seinem Exil zurückgekehrt und kehrt in seine Heimat Mexiko zurück. Escobar erklärte, er müsse seinem Land in dieser Zeit der Not beistehen. Escobar war der Anführer eines gescheiterten Putsches während des mexikanischen Maximato, bei dem er zunächst in den Bodenkämpfen erfolgreich war und dann von der mexikanischen Luftwaffe vernichtend geschlagen wurde."
+  mexico_minor.2.a:0 "Es lebe Mexiko!"
+  mexico_minor.2.b:0 "Wer was?"
+  
+  #MEXICO_minor.3 IS A HIDDEN TRIGGER.
+  
+  mexico_minor.4.t:0 "Mexiko heißt spanische Intellektuelle willkommen"
+  mexico_minor.4.d:0 "[Root.GetLeader] hat angekündigt, Intellektuelle, die vor dem Spanischen Bürgerkrieg fliehen, im mexikanischen Universitätssystem willkommen zu heißen. Ein neuer Campus namens „Das Haus Spaniens“ soll den Intellektuellen die Möglichkeit geben, ihre Arbeit fortzusetzen. Finanziert wurde der Campus von einer Koalition aus Banken, Bundesbehörden und Interessengruppen."
+  mexico_minor.4.b:0 "Wirklich eine humanitäre Tat."
+  mexico_minor.4.a:0 "Bauen Sie es und sie werden kommen."
+  
+  mexico_minor.5.t:0 "Caudillo-Zuschüsse"
+  mexico_minor.5.d:0 "Die Caudillos fordern Forschungsstipendien zur Modernisierung unseres Militärzweigs. Welche Stipendien sollten wir finanzieren?"
+  mexico_minor.5.a:0 "Zuschüsse für Infanterieausrüstung"
+  mexico_minor.5.b:0 "Luftfahrtzuschüsse"
+  mexico_minor.5.c:0 "Panzerzuschüsse"
+  
+  mexico_minor.6.t:0 "Danke fürs Spielen!"
+  mexico_minor.6.d:0 "Vielen Dank für das Herunterladen von Cuse of Huitzilopochtli! Für die neuesten Hotfixes und neuen Inhalte abonnieren Sie unbedingt das Hauptmod, wenn Sie nur Road to &#39;56 spielen! \n Dieses Mod war eine Herzensangelegenheit und das Ergebnis meiner Unzufriedenheit mit dem völlig unhistorischen Mexiko in Hearts of Iron IV.\n\n Ich habe viele Bücher über mexikanische Geschichte gelesen, um dieses Mod zu erstellen, mehrere mexikanische Dokumentationen durchforstet, alte mexikanische Militärdokumente ausgegraben, ein von der mexikanischen Regierung veröffentlichtes Buch mit den Biografien aller mexikanischen Politiker der letzten fast 100 Jahre durchforstet und große Anstrengungen unternommen, um trotz der Einschränkungen des Spiels selbst so historisch wie möglich zu sein und gleichzeitig Ideen aus dieser Zeit aufzunehmen, um tatsächlich mögliche alternative Geschichten einzubeziehen.\n\n Ich brauche jedoch weiterhin die Hilfe talentierter Künstler, die Sprites für den Technologiebaum dieses Mods erstellen können, sowie von Modellierern. Wenn Sie helfen möchten oder einen Fehler melden möchten, posten Sie ihn bitte in den Mod-Foren.\n\n Danke fürs Lesen! – Murder Mountain"
+  mexico_minor.6.a:0 "OK."
+  mexico_minor.6.b:0 "Klicken Sie hier für die Mod-Quellen"
+  
+  mexico_minor.7.t:0 "Besonderer Dank"
+  mexico_minor.7.d:0 " Besonderer Dank geht an:\n\n - i_hate_usernames für die freiwillige Bereitstellung der Grafiken für Sonora.\n\n - Francisco Martín Moreno für die fantastische Adlergrafik, die ich einfach als Grundlage für die Titelkarte dieses Mods verwenden musste.\n\n - Das Great War Mod-Team, das mir dabei geholfen hat, mehr Sprites zu erhalten.\n\n - Great Experiment für die Auswahl dieses Mods als mexikanischer Fokusbaum.\n\n - University of Arizona für „The Curse of Huitzilopotchli“, das das Rückgrat dieses Mods bildete und mir den Titel und den Flavour-Text für die gleichnamige Idee lieferte.\n\n"
+  mexico_minor.7.a:0 "OK."
+  
+  mexico_minor.8.t:0 "Quellen"
+  mexico_minor.8.d:0 "Der Fluch von Huitzilopochtli: Ursprünge, Verlauf und Erbe der Militärreformen in Mexiko 1920–1946\n\n Die mexikanische Rechte: Das Ende der revolutionären Reformen 1929–1940\n\n Mexiko: Die Entstehung seines politischen Zerfalls (Miguel Alemán Valdés 1936–1952)\n\n Mexiko in den 1940er Jahren: Modernität, Politik und Korruption\n\n Mexikanische politische Biografien, 1935–2009, vierte Ausgabe\n\n La red nazi en Mexico (Dokumentarfilm)\n\n Mexiko zwischen Hitler und Roosevelt: Mexikanische Außenbeziehungen im Zeitalter Lázaro Cárdenas 1934–1940\n\n ARMAS Nr. 482 (Militärzeitschrift)\n\n Der Kommunismus in Mexiko: Eine Studie politischer Frustration\n Entwurzelung der Gemeinschaft: Japanischstämmige Mexikaner, Zweiter Weltkrieg und das US-mexikanische Grenzgebiet\n Geologie und Mineralvorkommen des Boleo-Kupfergebiets Baja California, Mexiko von Victor S. Rocha 1955\n"
+  mexico_minor.8.a:0 "Okay, ich verstehe, du hast dir diesen Mist nicht ausgedacht."
+  
+  
+  mexico_article_30.1.t:0 "Englische Diplomaten fordern Festnahme Jenkins"
+  
+  # regular common knowledge variant
+  
+  mexico_article_30.2.t:0 "Diplomatischer Zwischenfall"
+  mexico_article_30.2.d:0 "Britische Diplomaten sind empört und fordern die Verhaftung von William Jenkins wegen Verstoßes gegen Artikel 30 der Verfassung. Sie werfen ihm Manipulation der mexikanischen Politik vor, indem er sein Medienmonopol nutze, um die Mexikaner gegen Großbritannien aufzubringen. Unseren Quellen zufolge weigert sich Jenkins jedoch lediglich, die meisten antideutschen Filme in Mexiko zu veröffentlichen. Die jüngsten Ereignisse untermauern diesen klugen Schritt. Der zuvor veröffentlichte Film „Der Löwe hat Flügel“, ein Film über den RAF-Angriff auf den Nord-Ostsee-Kanal, löste so viel Ärger aus, dass mexikanische Kinos gezwungen waren, ihn aus dem Programm zu nehmen. Soweit wir wissen, hat William Jenkins nichts ausdrücklich Falsches getan, wenn pro-britische Filme beim mexikanischen Publikum unbeliebt waren. Diese Situation könnte auch dazu genutzt werden, mehr als nur Jenkins oder die Engländer auszuweisen. Wir hätten einen Vorwand, alle Gesetzesbrecher des Landes auszuweisen, um unser Gesicht zu wahren, da wir keiner Partei die Schuld geben würden. Was sollen wir tun?"
+  mexico_article_30.2.a:0 "William Jenkins ausweisen"
+  mexico_article_30.2.b:0 "Vertreibt die Engländer"
+  mexico_article_30.2.c:0 "Alle Gesetzesbrecher ausweisen"
+  
+  # Intelligence Agency knowledge variant
+  
+  mexico_article_30.3.t:0 "Geheimdienstbericht: William Jenkins "
+  mexico_article_30.3.d:0 "Britische Diplomaten sind empört und fordern die Verhaftung von William Jenkins wegen Verstoßes gegen Artikel 30 der Verfassung. Sie werfen ihm Manipulation der mexikanischen Politik vor, indem er sein Medienmonopol missbraucht, um die Mexikaner gegen Großbritannien aufzubringen. Laut DFS steht Jenkins jedoch in Verbindung mit Maximino Camacho und schützt Jenkins politisch im Austausch für Geschäftsmöglichkeiten. Maximino ist ein bekannter Sympathisant der Achsenmächte und über seinem Bett in seiner Villa in Pueblo soll ein Foto von Mussolini hängen. Es ist offensichtlich, dass Maximino seinen Einfluss auf Jenkins nutzt, um zu verhindern, dass nichtfaschistischer Einfluss in Mexiko Fuß fasst. Pro-britische Filme sind beim mexikanischen Publikum jedoch äußerst unbeliebt und haben in einigen Fällen dazu geführt, dass mexikanische Kinos sie nicht mehr zeigten. Die Entscheidung, pro-britische Filme zuzulassen, würde Großbritannien freuen, nicht jedoch die mexikanischen Kinobesucher. Diese Situation könnte auch dazu genutzt werden, mehr als nur Jenkins oder die Engländer auszuschließen. Wir hätten einen Vorwand, alle Gesetzesbrecher des Landes auszuschließen, um unser Gesicht zu wahren, da wir keiner einzelnen Partei die Schuld geben würden. Was sollten wir tun?"
+  mexico_article_30.3.a:0 "William Jenkins ausweisen"
+  mexico_article_30.3.b:0 "Vertreibt die Engländer"
+  mexico_article_30.3.c:0 "Alle Gesetzesbrecher ausweisen"
+  
+  # 33-34 are hidden checks to remove influence ideas after you complete the article 30 focus and fired its event.
+  
+  
+  ###################################
+  ## SLEEPY LAGOON - PACHUCO UPDATE##
+  ###################################
+
+  #Mexico.1 IS A HIDDEN DEBUG TRIGGER THE PLAYER WON'T SEE. DO NOT BOTHER TRANSLATING.
+  mexico_zoot_suit.1.t:0 "Lagunenauslöser"
+  mexico_zoot_suit.1.d:0 "Wie sehen Sie das?"
+  mexico_zoot_suit.1.a:0 "AKTIVIEREN"
+  
+  mexico_zoot_suit.2.t:0 "Sleepy Lagoon-Morde"
+  mexico_zoot_suit.2.d:0 "Sleepy Lagoon, ein beliebter Treffpunkt und Pärchenort für mexikanische Teenager, denen der Zutritt zu öffentlichen Schwimmbädern oft verwehrt wird, ist Schauplatz eines grausamen Mordes: Die Leiche des mexikanischen Staatsbürgers und US-Soldaten José Díaz wurde gefunden. Díaz wurde bewusstlos und betrunken aufgefunden und erlitt ein stumpfes Trauma. Diaz erlag später seinen Verletzungen im Los Angeles General Hospital. Die Polizei durchsuchte die Stadt nach den Tätern und verhaftete den Anführer der 1th Street Gang, Hank Leyvas, seine Freundin Dora Barrios und einen weiteren von 600 vom LAPD festgenommenen Mexikaner. Hank bestreitet jede Verbindung zu dem Mord. In Los Angeles herrschen hohe Spannungen zwischen den Einwohnern von Los Angeles und den Pachucos, auch bekannt als „Zoot Suiters“, und es scheint, dass diese Spannungen nicht so bald beigelegt werden."
+  mexico_zoot_suit.2.a:0 "Eine widerliche Tat."
+  
+  mexico_zoot_suit.3.t:0 "Sleepy Lagoon-Test"
+  mexico_zoot_suit.3.d:0 "Der Prozess im Mordfall Sleepy Lagoon hat heute begonnen. Hank und zwei andere plädierten auf nicht schuldig. Hank plädierte, er und seine Freundin seien in dieser Nacht in Sleepy Lagoon von einer Gruppe Männer angegriffen worden. Hank ging davon aus, dass es sich um einen Bandenüberfall handelte, und rief seine Bande nach Sleepy Lagoon, um die Räuber zu finden. Sie fanden eine Party in der Nähe des Tatorts und stellten die Partygäste, da sie annahmen, es handele sich um eine rivalisierende Bande. Es kam zu einer Schlägerei zwischen der Bande und den Partygästen, die etwa 10 Minuten dauerte. Am Morgen wurde die Leiche von Diaz gefunden. Der Bericht des Gerichtsmediziners besagt, dass Diaz&#39; Verletzungen auf einen Autounfall hindeuten. Die Anklage berief sich auf E. Duran Ayres, Leiter des Foreign Relations Bureau des Sheriffbüros von Los Angeles, der erklärte, Mexikaner seien insgesamt blutrünstig und hätten einen biologischen Drang zu töten, der von ihren aztekischen Vorfahren herrühre."
+  mexico_zoot_suit.3.a:0 "Das wird nicht gut enden."
+  
+  mexico_zoot_suit.4.t:0 "Hank verurteilt"
+  mexico_zoot_suit.4.d:0 "Der Fall Sleepy Lagoon ist abgeschlossen: Hank und 16 weitere wurden wegen Mordes verurteilt. Die Männer der Bande sollen ins San Quentin Gefängnis kommen, während ihre Freundinnen wegen Beihilfeverdachts in die berüchtigte Ventura School for Girls, eine Besserungsanstalt für kriminelle und sexuell promiskuitive Mädchen, eingewiesen werden sollen. Ventura hat einen äußerst schlechten Ruf, und dort verurteilte Frauen begehen oft Selbstmordversuche, bevor sie dorthin verlegt werden. Berichten zufolge hat ein Mädchen versucht, Sicherheitsnadeln zu verschlucken, um ihrer Strafe zu entgehen."
+  mexico_zoot_suit.4.a:0 "Vielleicht legen sich die Spannungen jetzt."
+  
+  mexico_zoot_suit.5.t:0 "Zoot Suit-Unruhen"
+  mexico_zoot_suit.5.d:0 "In Los Angeles eskalierten die Rassenspannungen, als eine Auseinandersetzung zwischen einer Gruppe von Pachucos und US-Soldaten zu Rassenunruhen eskalierte. Tausende US-Soldaten verließen in Scharen ihre Stützpunkte, um an den Unruhen teilzunehmen. Einige Soldaten kamen sogar aus Los Vegas, um in Los Angeles zu randalieren. Soldaten stürmten Bars, Theater und Cafés, um mexikanische Jugendliche, darunter Kinder, herauszuzerren, sie nackt auszuziehen und zu schlagen, während ihre Kleidung verbrannt wurde. Ein kleinerer Mob fiel in das schwarze Viertel Watts ein, doch über das Ausmaß der dort angerichteten Schäden gibt es keine Informationen. Das LAPD weigerte sich, gegen die Unruhen vorzugehen, mit der Begründung: „Nun, wir haben die öffentliche Meinung vertreten. Viele von uns waren im Ersten Weltkrieg, und wir werden uns nicht über Kinder im Militär lustig machen.“ "
+  mexico_zoot_suit.5.a:0 "Schrecklich."
+  
+  mexico_zoot_suit.6.t:0 "Empörung in Mexiko"
+  mexico_zoot_suit.6.d:0 "Mexiko ist empört über den Umgang mit den Zoot-Suit-Unruhen. Nationalisten bezeichnen die Angriffe der US-Streitkräfte auf mexikanische Bürger als kriegerischen Akt. Sie fordern ihre Regierung auf, einzuschreiten und diesem dreisten Akt der Aggression den Krieg zu erklären. Auch kommunistische und linksgerichtete Nationalisten unterstützen diese Haltung und sagen, das Geschehene sei unverzeihlich. Die Situation ist außer Kontrolle geraten, und es ist ungewiss, ob sich die mexikanisch-amerikanische Diplomatie jemals wieder erholen wird."
+  mexico_zoot_suit.6.a:0 "Die Dinge geraten außer Kontrolle."
+  
+  mexico_zoot_suit.7.t:0 "Intel: Los Angeles, Kalifornien"
+  mexico_zoot_suit.7.d:0 "Wir haben einen Plan ausgeheckt, die mexikanischen Einwanderer, die in die USA einwandern, als Informanten für unseren Geheimdienst einzusetzen. Viele sind der Revolution entkommen, und einige sind sogar beim Militär! Möglicherweise finden wir mexikanische Patrioten, die uns wichtige Informationen weitergeben."
+  mexico_zoot_suit.7.a: "See what you can do."
+  
+  #############################
+  ## FACTIONS - JUNTA UPDATE ##
+  #############################
+  
+  mexico_faction.1.t:0 "Allianzeinladung"
+  mexico_faction.1.d:0 "Wir haben die Nachricht erhalten, dass Mexiko sich mit uns verbünden möchte. Was sagen wir darauf?"
+  mexico_faction.1.a:0 "Ja."
+  mexico_faction.1.b:0 "NEIN."
+  
+  # DFS path to alternate communist factions. DEFUNCT
+  
+  mexico_communist.1.t:0 "Bericht: Dioniso Encinia"
+  mexico_communist.1.d:0 "Die PCM wurde von Anfang an von der Sowjetunion gegründet und finanziert. Dioniso ist eine Marionette der Sowjetunion, und seine Präsenz spaltet die Bevölkerung. Die PCM hat sich aufgrund Dionisos Unsicherheit in viele gegensätzliche kommunistische Parteien aufgespalten und Mitglieder entlassen, die seinen Parteivorsitz gefährden könnten. Dioniso ist völlig abhängig von der sowjetischen Führung und dem Rat seiner viel fähigeren Frau. Ein von der PCM geführtes Mexiko wäre verheerend, da es nicht nur eine Scheinregierung und einen Marionettenstaat schaffen, sondern ihn auch mit einer absichtlich unfähigen Führung besetzen würde. Nach dem gescheiterten, von der Sowjetunion unterstützten Putsch von 1929 und dem Verbot und der Auflösung der PCM in den darauffolgenden Jahren gibt es keine Beziehungen zu den Sowjets. Sie stärken sich jedoch, da die kommunistische Unterstützung in Mexiko stark zunimmt. Wir können den Aufstieg des Kommunismus nicht aufhalten, aber wir können seine Führung stoppen. Das versuchte Attentat..."
+  mexico_communist.1.a:0 "Es gelingt ihm, Dioniso zu töten"
+  mexico_communist.1.b:0 "Es gelingt ihm nicht, Dioniso zu töten"
+  
+  # DFS fails to kill dioniso, Mexico overthrown. DEFUNCT
+  
+  mexico_communist.2.t:0 "Mexikanische Regierung gestürzt"
+  mexico_communist.2.d:0 "Die von der Sowjetunion unterstützte PCM nutzte die zunehmende kommunistische Stimmung in der Populärkultur und konnte so erfolgreich an die Macht gelangen. Mexiko ist heute ein Marionettenstaat der Sowjetunion. Amerikanische Diplomaten sind empört über den unverschämten sowjetischen Einfluss vor ihrer Haustür und drohen der mexikanischen Regierung und ihren russischen Unterstützern mit Krieg."
+  mexico_communist.2.a:0 "Die Dinge sind außer Kontrolle geraten."
+  
+  # event to let the Russia player to know WTF happened. DEFUNCT
+  
+  mexico_communist.3.t:0 "Mexikanische Regierung gestürzt"
+  mexico_communist.3.d:0 "Unsere Versuche, unsere Marionette Dioniso Encina in Mexiko an die Macht zu bringen, waren erfolgreich. Die mexikanische Regierung wurde nach jahrelanger Arbeit gestürzt. Wir haben nun einen festen Stand in Amerika, der es uns ermöglicht, unsere Macht nach Lateinamerika auszudehnen und sogar die Vereinigten Staaten anzugreifen."
+  mexico_communist.3.a:0 "Fantastische Arbeit!"
+  
+  #####################
+  ## ELECTION UPDATE ##
+  #####################
+  
+  mexico_1940.1.t:0 "PRI-Kandidat"
+  mexico_1940.1.d:0 "Die Wahl rückt näher, und wir müssen einen Kandidaten aufstellen, der für die PRI gegen den rechten Flügel kämpft. Derzeit gibt es zwei mögliche Kandidaten. Fransisco Mugica ist linksgerichtet und eher sozialistischen Idealen zugeneigt. Die Wahl Mugicas wäre riskant, wenn sozialistische Ideale wenig Popularität genießen. Manuel Ávila Camacho ist die zentristischere Wahl und genießt bei den Rechten größere Akzeptanz. Die Wahl Camachos würde jedoch jede Hoffnung auf eine Verabschiedung linker Reformen zunichtemachen."
+  mexico_1940.1.a:0 "Wählen Sie Fransisco Mugica als Präsidentschaftskandidaten. (Kommunistische Wahl)"
+  mexico_1940.1.b:0 "Wählen Sie Manuel Ávila Camacho als Präsidentschaftskandidaten. (Neutrale Wahl)"
+  
+  mexico_1940.2.t:0 "Rechtsgerichteter Kandidat"
+  mexico_1940.2.d:0 "Die Rechte befindet sich derzeit in einem Bürgerkrieg zwischen Juan Andreu Almazán und Joaquín Amaro um die Frage, wer Präsidentschaftskandidat werden soll. Almazán ist eher als Geschäftsmann denn als Militär bekannt und wird vor allem von wohlhabenden Mexikanern unterstützt. Sein Rückhalt unter den arbeitenden Armen ist jedoch miserabel, da er ihnen nichts zu bieten scheint. Almazáns Außenpolitik ist deutlich pro-amerikanisch und entfremdet die mexikanische Durchschnittsbevölkerung zusätzlich. Amaro hingegen ist ein berühmter Militär und genießt den Respekt der Nationalisten. Trotzdem gilt Almazán als unvermeidliche Wahl für die Kandidatur der Rechten, und Amaros Kandidatur verliert aufgrund einer Reihe prominenter Überläufer schnell an Unterstützung für Almazáns Kampagne. Es ist klar, dass Amaro unweigerlich verlieren wird, da Juan von US-Interessen unterstützt wird und die Menschen die Wahl eines Kandidaten, den die USA stürzen würden, für sinnlos halten. Es gibt jedoch Mitglieder der faschistischen Clique in der mexikanischen Politik, die sicherstellen wollen, dass Almazán den Wahltag nicht erlebt. Maximino Ávila Camacho, der Bruder von Manuel Ávila Camacho, hat einen Plan zur Ermordung von Juan Almazán in Plueba ausgeheckt, indem er einen Zugunfall inszeniert."
+  mexico_1940.2.a:0 "Juan Almazán kandidiert für das Präsidentenamt. (Demokratische Wahl)"
+  mexico_1940.2.b:0 "Juan Almazán stirbt, Amaro kandidiert für das Präsidentenamt. (Faschistische Wahl)"
+  
+  mexico_1940.3.t:0 "Mexikanischer Präsidentschaftskandidat getötet!"
+  mexico_1940.3.d:0 "Juan Almazán, der aussichtsreichste Kandidat für das Amt des Präsidentschaftskandidaten der Rechten, ist bei einer Zugentgleisung in Plueba ums Leben gekommen, wobei alle Insassen starben. Der umstrittene Almazán ist kein Unbekannter in Sachen Attentate, und während seines Präsidentschaftswahlkampfs wurden bereits mehrere Anschläge auf ihn verübt. Seine Anhänger werfen der PRI vor, die Entgleisung inszeniert zu haben. Zuvor war Almazán während seines Aufenthalts im Haus von Fransisco Barbosa von Attentätern angegriffen worden, die Sarapes trugen, hinter denen sich Maschinengewehre verbargen. Sein Wahlkampfteam behauptet, er sei von einer Armee aus 100 Attentätern angegriffen worden und habe davon abgehalten werden müssen, nach draußen zu rennen, um sie zu bekämpfen. Der ehemalige General Alfredo Serratos erklärte jedoch in einem Interview, es seien nur fünf Attentäter gewesen."
+  mexico_1940.3.a:0 "Schrecklich."
+  
+  mexico_1940.4.t:0 "Wahlen in Mexiko"
+  mexico_1940.4.d:0 "Die Wahl hat begonnen und die Wahl wird gewonnen von ..."
+  mexico_1940.4.a:0 "Fransisco Mugica (kommunistische Wahl)"
+  mexico_1940.4.b:0 "Manuel Ávila Camacho (Neutrale Wahl)"
+  mexico_1940.4.c:0 "Juan Almazán (Demokratische Wahl)"
+  mexico_1940.4.e:0 "Joaquin Amaro (Faschistische Wahl)"
+  
+  
+ # GUNS & equipment
+ MEX_infantry_equipment_0:0 "Mondragón M94"
+ MEX_infantry_equipment_0_short:0 "Mondragón M94"
+ MEX_infantry_equipment_0_desc:0 "Das Mondragón, das Manuel Mondragón vor seinem Exil entwickelte, war das erste halbautomatische Gewehr, das von der Armee eines Landes übernommen wurde. Ausgestattet mit der deutschen 7x57-mm-Mauser-Patrone war es eine der einflussreichsten Waffen seiner Zeit. Es litt jedoch unter einer zu komplizierten Konstruktion und Zuverlässigkeitsproblemen bei Kontakt mit Schlamm. Zudem war es mit minderwertiger Munition nicht leistungsfähig. Aufgrund der mexikanischen Revolution wurden diese Waffen in der Schweiz hergestellt."
+ MEX_infantry_equipment_1:0 "Fusil Mexiko"
+ MEX_infantry_equipment_1_desc:0 "Das Fusil Mexico war ein auseinanderziehbares Gewehr mit Gleitmechanismus anstelle des traditionellen Zylinderverschlusses. Der automatische Auswurf der Patronen anstelle des manuellen Auswurfs sollte die Feuerrate erhöhen. Das Gewehr ließ sich zur leichteren Reinigung und höheren Zuverlässigkeit in Einzelteile zerlegen, was jedoch zu einem komplexeren Gewehr führte. Das mexikanische Militär lehnte das Gewehr jedoch ab und entschied sich für den Bau lizenzierter Kar 98-Gewehre."
+ MEX_infantry_equipment_1_short:0 "Fusil Mexiko"
+ MEX_infantry_equipment_2:0 "Mendoza C-34"
+ MEX_infantry_equipment_2_short:0 "Mendoza C-34"
+ MEX_infantry_equipment_2_desc:0 "Die Mendoza LMG war nach der Mondragón Mexikos bekannteste Waffe. Sie war vor allem für ihre unglaublich günstige Herstellung bekannt und bot gleichzeitig eine Zuverlässigkeit, die mit den teureren LMGs ihrer Zeit mithalten konnte. Die Mendoza konnte außerdem in kürzester Zeit zerlegt und gereinigt werden, war unglaublich leicht und verfügte über die Möglichkeit, von Vollautomatik auf selektives Feuer umzuschalten."
+ MEX_infantry_equipment_3:0 "Mendoza RM2"
+ MEX_infantry_equipment_3_short:0 "Mendoza RM2"
+ MEX_infantry_equipment_3_desc:0 "Die Mendoza LMG war nach der Mondragón Mexikos bekannteste Waffe. Sie war vor allem für ihre unglaublich günstige Herstellung bekannt und bot gleichzeitig eine Zuverlässigkeit, die mit den teureren LMGs ihrer Zeit mithalten konnte. Die Mendoza konnte außerdem in kürzester Zeit zerlegt und gereinigt werden, war unglaublich leicht und verfügte über die Möglichkeit, von Vollautomatik auf selektives Feuer umzuschalten."
+ # for '56
+ MEX_infantry_equipment_x:0 "Mendoza RM2"
+ MEX_infantry_equipment_x_short:0 "RM2"
+ MEX_infantry_equipment_x_desc:0 "Das RM2 war die letzte Version des Mendoza-Gewehrs. Es war für die Patrone .30-06 ausgelegt und leichter als das frühere Mendoza C-1934. Da es jedoch nach 1945 entwickelt wurde, weigerte sich Mexiko, es nach dem Ende des Zweiten Weltkriegs einzuführen."
+ MEX_infantry_equipment_x_2:0 "Fusil Asalto"
+ MEX_infantry_equipment_x_2_short:0 "Fusil Asalto"
+ MEX_infantry_equipment_x_2_desc:0 "Das Fusil Asalto war ein unbenannter Prototyp, der von Mendoza entworfen wurde. Es wurde beschrieben, dass es auffallende Ähnlichkeiten mit dem deutschen Fallschirmjägergewehr FG-42 aufwies. Aus unbekannten Gründen wurde es von der mexikanischen Regierung abgelehnt."
+ 
+ # TANK
+ MEX_gw_tank_equipment:0 "TNCA Salinas"
+ MEX_gw_tank_equipment_short:0 "TNCA Salinas"
+ MEX_gw_tank_equipment_desc:0 "Der TNCA Salinas war ein mexikanischer Panzer, der dem berühmten britischen Mark IV aus dem Ersten Weltkrieg nachempfunden war. Seine Kanone stammte ursprünglich von einem mexikanischen Kriegsschiff. Es wurde nur ein einziges Exemplar hergestellt. Er kam nie zu ernsthaften Einsätzen und wurde zur Verteidigung wichtiger Ziele eingesetzt, da das mexikanische Militär befürchtete, dass die Rebellen durch seine Eroberung deutlich mächtiger werden würden."
+ MEX_light_tank_equipment_1:0 "VB-1 Escutia"
+ MEX_light_tank_equipment_2:0 "VB-2 Melgar"
+ MEX_light_tank_equipment_3:0 "VB-3 Márquez"
+ MEX_light_tank_equipment_1_short:0 "VB-1"
+ MEX_light_tank_equipment_2_short:0 "VB-2"
+ MEX_light_tank_equipment_3_short:0 "VB-3"
+ MEX_medium_tank_equipment_1:0 "VB-4 Suárez"
+ MEX_medium_tank_equipment_2:0 "VB-5 Oca"
+ MEX_medium_tank_equipment_3:0 "VB-6 Barrera"
+ MEX_medium_tank_equipment_1_short:0 "VB-4"
+ MEX_medium_tank_equipment_2_short:0 "VB-5"
+ MEX_medium_tank_equipment_3_short:0 "VB-6"
+ MEX_heavy_tank_equipment_1:0 "VBA-1 Leon"
+ MEX_heavy_tank_equipment_2:0 "VBA-3 Castrillon"
+ MEX_heavy_tank_equipment_3:0 "VBA-7 Mijares"
+ MEX_heavy_tank_equipment_1_short:0 "VBA-1"
+ MEX_heavy_tank_equipment_2_short:0 "VBA-3"
+ MEX_heavy_tank_equipment_3_short:0 "VBA-7"
+ 
+ 
+ # vehicles
+ MEX_motorized_equipment_1:0 "Ländliches Ramirez"
+ MEX_mechanized_equipment_1:0 "M2 Halbkettenfahrzeug"
+ MEX_mechanized_equipment_1_short:0 "M2 Halbkettenfahrzeug"
+ MEX_mechanized_equipment_2:0 "M3 Halbkettenfahrzeug"
+ MEX_mechanized_equipment_2_short:0 "M3 Halbkettenfahrzeug"
+ MEX_mechanized_equipment_3:0 "M8 Windhund"
+ MEX_mechanized_equipment_3_short:0 "M8 Windhund"
+ MEX_mechanized_equipment_x_2:0 "SEDENA DNC-1"
+ MEX_mechanized_equipment_x_2_short:0 "DNC-1"
+ MEX_gw_car_equipment:0 "Panzer-Auto Protos"
+ MEX_gw_car_equipment_short:0 "Protos"
+ MEX_gw_car_equipment_desc:0 "Der Protos war ein Panzerwagen, der 1914 in Deutschland für die mexikanische Regierung hergestellt wurde. Nach seiner Ankunft wurde er während der mexikanischen Revolution von zapatistischen Rebellen gestohlen. Sein Schicksal ist unbekannt, ob er zerstört oder verschrottet wurde."
+ 
+ # Artillery
+ MEX_artillery_equipment_1_short:0 "Mondragón"
+ MEX_artillery_equipment_1:0 "Saint-Chamond-Mondragón"
+ 
+ # Planes
+ #Transport MTW-1
+ # It was designed but its flight to spain never happened. designed 1934.
+ # light planes
+ MEX_fighter_equipment_0:0 "TNCA &#39;Tololoche&#39; 3-E-130"
+ MEX_fighter_equipment_0_short:0 "Tololoche"
+ MEX_cv_fighter_equipment_0:0 "TNCA &#39;Tololoche&#39; 3-E-130 (S.)"
+ MEX_cv_fighter_equipment_0_short:0 "Tololoche (S.)"
+ MEX_fighter_equipment_1:0 "Mariscraft MA-260"
+ MEX_fighter_equipment_1_short:0 "MA-260"
+ MEX_fighter_equipment_1_desc:0 "Die von Mariscraft entwickelte MA-260 war ein Langstreckenjäger mit Heckschütze, der sowohl als Jagdflugzeug als auch als Bomber eingesetzt werden konnte. Konzept und Design basierten auf der 8W Zeus von Spartan Aviation, waren jedoch deutlich kompakter."
+ MEX_cv_fighter_equipment_1:0 "TNCA &#39;Quetzalcoatl&#39; 4-E-131 (S.)"
+ MEX_cv_fighter_equipment_1_short:0 "Quetzalcoatl (S.)"
+ MEX_fighter_equipment_2:0 "Leichter Jäger „Teziutlán“"
+ MEX_fighter_equipment_2_short:0 "Teziutlán"
+ MEX_fighter_equipment_2_desc:0 " Die von Antonio Sea entworfene Tezuitlan war in Wirklichkeit ein Schulflugzeug. Die Tezuitlan wurde nie zu einem Kampfflugzeug umgebaut, da die mexikanische Regierung das Projekt einstellte, um amerikanische Entwürfe unter der Leitung von Ralph O&#39;Neil zu kaufen."
+ MEX_cv_fighter_equipment_2:0 "Fierro „Teziutlán“ Trägerjäger"
+ MEX_cv_fighter_equipment_2_short:0 "Teziutlán (S.)"
+ MEX_fighter_equipment_3:0 "TNCA „Huitzilopochtli“ Leichter Jäger"
+ MEX_fighter_equipment_3_short:0 "Huitzilopochtli"
+ MEX_cv_fighter_equipment_3:0 "TNCA „Huitzilopochtli“-Trägerjäger"
+ MEX_cv_fighter_equipment_3_short:0 "Huitzilopochtli (S.)"
+ # heavy fighters
+ MEX_heavy_fighter_equipment_1:0 "XB-1"
+ MEX_heavy_fighter_equipment_1_short:0 "Lascurian XB-1"
+ MEX_heavy_fighter_equipment_1_desc:0 "Die XB-1 war ein futuristisch anmutendes Sportrennflugzeug, das von Lacurian entworfen wurde. Das mexikanische Militär wurde auf das Flugzeug und seine futuristische Ästhetik aufmerksam und plante, es in eine militärische Variante umzubauen. Der Plan wurde jedoch aus unbekannten Gründen abrupt abgebrochen."
+ MEX_heavy_fighter_equipment_2:0 "Schwerer Jäger Lascurain-Salinas"
+ MEX_heavy_fighter_equipment_2_short:0 "Salinas-Kämpfer"
+ MEX_heavy_fighter_equipment_3:0 "Schwerer Jäger „Aura“ von Lascurain"
+ MEX_heavy_fighter_equipment_3_short:0 "Aura-Kämpfer"
+ # CAS
+ MEX_CAS_equipment_1:0 "Spartan &#39;Zeus&#39; 8W"
+ MEX_CAS_equipment_1_short:0 "Zeus"
+ MEX_cv_CAS_equipment_1:0 "Spartan &#39;Zeus&#39; 8W (S.)"
+ MEX_cv_CAS_equipment_1_short:0 "Zeus (S.)"
+ MEX_CAS_equipment_2:0 "Leichter TNCA-Bomber „Tezcatlipoca“."
+ MEX_CAS_equipment_2_short:0 "Tezcatlipoca"
+ MEX_cv_CAS_equipment_2:0 "TNCA „Tezcatlipoca“ Trägerbomber"
+ MEX_cv_CAS_equipment_2_short:0 "Tezcatlipoca (S.)"
+ MEX_CAS_equipment_3:0 "TNCA „Tonatiuh“ Leichtbomber"
+ MEX_CAS_equipment_3_short:0 "Tonatiuh"
+ MEX_cv_CAS_equipment_3:0 "TNCA „Tonatiuh“ Trägerbomber"
+ MEX_cv_CAS_equipment_3_short:0 "Tonatiuh (S.)"
+ # tactical bombers
+ MEX_tac_bomber_equipment_1:0 "TNCA „Celia“ Mittelgroßer Bomber"
+ MEX_tac_bomber_equipment_1_short:0 "Celia Bomber"
+ MEX_tac_bomber_equipment_2:0 "Mittlerer Bomber von Lascurain-Salinas"
+ MEX_tac_bomber_equipment_2_short:0 "Salinas Bomber"
+ MEX_tac_bomber_equipment_3:0 "Lascurain „Aura“ Mittelgroßer Bomber"
+ MEX_tac_bomber_equipment_3_short:0 "Aura-Bomber"
+
+ MEX_strat_bomber_equipment_1_short:0 "Schwerer Bomber Celia"
+ MEX_strat_bomber_equipment_2_short:0 "Schwerer Bomber von Salinas"
+ MEX_strat_bomber_equipment_3_short:0 "Schwerer Aura-Bomber"
+ 
+ #naval bombers
+ MEX_nav_bomber_equipment_1:0 "Mariscraft MA-185"
+ MEX_nav_bomber_equipment_1_short:0 "MA-185"
+ MEX_nav_bomber_equipment_1_desc:0 "Die MA-185, entworfen von Mariscraft und mit dem Spitznamen „Minero Mexicano“, war ein mysteriöses Flugzeug, das etwa im Jahr 1939 in den Frachtlisten der mexikanischen Marine auftauchte. Von diesem Flugzeug sind keine Fotos erhalten geblieben, außer dass es sich um ein kleines Fluggerät handelte, das wahrscheinlich zur Ozeanaufklärung und für leichte Bombenangriffe eingesetzt wurde."
+ MEX_cv_nav_bomber_equipment_1:0 "Mariscraft MA-185 (S.)"
+ MEX_cv_nav_bomber_equipment_1_short:0 "MA-185 (S.)"
+ MEX_nav_bomber_equipment_2:0 "TNCA „Chalchiuhtlicue“ Marinebomber"
+ MEX_nav_bomber_equipment_2_short:0 "Chalchiuhtlicue"
+ MEX_cv_nav_bomber_equipment_2:0 "TNCA „Chalchiuhtlicue“ Torpedobomber"
+ MEX_cv_nav_bomber_equipment_2_short:0 "Chalchiuhtlicue (S.)"
+ MEX_nav_bomber_equipment_3:0 "TNCA „Tlaloc“ Marinebomber"
+ MEX_nav_bomber_equipment_3_short:0 "Tlaloc"
+ MEX_cv_nav_bomber_equipment_3:0 "TNCA „Tlaloc“ Torpedobomber"
+ MEX_cv_nav_bomber_equipment_3_short:0 "Tlaloc (S.)"
+ # jets
+ MEX_jet_fighter_equipment_1:0 "De Havilland Vampire"
+ MEX_jet_fighter_equipment_1_short:0 "Vampir"
+ MEX_jet_fighter_equipment_2:0 "Lockheed-Azcarate T-33"
+ MEX_jet_fighter_equipment_2_short:0 "T-33"
+ MEX_jet_fighter_equipment_2_desc:0 "Nach dem Mexikanisch-Guatemaltekischen Krieg (1958–1959) erkannte Mexiko, dass es seine Wachsamkeit vernachlässigt hatte, indem es sich weigerte, seine Luftwaffe zu modernisieren. Dadurch sank die Kampfbereitschaft auf ein gefährliches Niveau, da man davon ausging, nach dem Zweiten Weltkrieg sicher zu sein. Der Krieg war für beide Nationen eine Blamage und zwang Mexiko zum Kauf von De Havilland Vampires und T-33. "
+ #ships
+ #battleship Anahuac
+ MEX_battleship_1:0 "Anáhuac-Klasse"
+ #cruisers
+ MEX_light_cruiser_1:0 "Vicente Guerrero-Klasse"
+ # Destroyers
+ MEX_destroyer_1:0 "18 De Mayo-Klasse"
+ MEX_destroyer_3:0 "Cuauhtémoc-Klasse"
+ MEX_destroyer_4:0 "Quetzacoatl-Klasse"
+ #####################
+ ## ELECTION UPDATE ##
+ #####################
+ MEX_anti_air_equipment_1:0 "Bofors 40 mm"
+ MEX_anti_air_equipment_1_short:0 "Bofors 40 mm"
+ 
+ MEX_context:0 "Historischer Kontext"
+ MEX_Intro:0 "Einführung anzeigen"
+ MEX_Thanks:0 "Besonderen Dank anzeigen"
+ MEX_sources:0 "Quellen anzeigen"
+ 
+ # ECONOMIC STUFF
+ 
+ MEX_PEMEX_Situation:0 "Das PEMEX-Embargo"
+ MEX_PEMEX_Situation_desc:0 "Mexiko hat die Folgen des PEMEX-Embargos nicht einfach hingenommen. Das Land hat Gegenmaßnahmen ergriffen, um das neu verstaatlichte Öl zu nutzen und seine noch junge Ölindustrie zu unterstützen."
+ MEX_Stove:0 "Das Herdgesetz"
+ MEX_Stove_desc:0 "Mexiko setzte sich im Sinne des Umweltschutzes dafür ein, Holzöfen durch Öfen zu ersetzen, die auf Erdölderivaten wie Kerosin basieren. Dies verlangsamte die Abholzung der Wälder in Mexiko und eröffnete der mexikanischen Ölindustrie einen Binnenmarkt."
+ MEX_Charity:0 "Nationalistische Spenden"
+ MEX_Charity_desc:0 "Als Mexiko die Verstaatlichung von PEMEX verkündete, spendeten die Mexikaner alles, was sie hatten, um die mit der Verstaatlichung verbundenen Kosten zu decken. Eine besondere Geschichte handelt von Mexikanern, die Gegenstände in einem riesigen Haufen spendeten. Reiche Frauen warfen wertvollen Schmuck hinein, während Rancheros ihr wertvolles Vieh brachten, um es der Republik zu schenken."
+ MEX_Black_Market:0 "Sprechen Sie andere Käufer an"
+ 
+ # vice laws
+ 
+ MEX_Vice:0 "Lenocinio-Gesetze"
+ MEX_Vice_desc:0 "Prostitution war während Cárdenas’ Herrschaft ein heißes Thema. Als Überbleibsel der Gebäckkriege und Ferdinand Maximilians mexikanischen Kaiserreichs erlangte sie während Porfiro Díaz’ Regime traurige Berühmtheit. Mexikos Frauen erinnern sich noch heute an die Demütigung, als Díaz’ Wirtschaftslage sie in Armut und schließlich in die Prostitution zwang. Familien wurden dadurch auseinandergerissen, und Historiker behaupten, dies sei einer der Hauptgründe dafür gewesen, dass Frauen in der Revolution so hart und in großer Zahl kämpften – aus purem Hass auf Díaz’ Rolle bei der Zerstörung ihres Lebens. Die Gesetze wurden unter Ärzten, Prostituierten, feministischen Gruppen und religiösen Gruppen heiß diskutiert. Außerhalb religiöser Gruppen gab es erhebliche Meinungsverschiedenheiten darüber, welche Haltung sie zur Prostitution einnehmen sollten. Letztendlich wurde das Gesetz aufgehoben, um Porfiro Díaz’ Erbe zu zerstören und die mexikanische Revolution zu bewahren."
+ 
+ MEX_Enforce:0 "Das Gesetz aufrechterhalten"
+ MEX_Repeal:0 "Das Gesetz aufheben"
+ 
+ #calles law
+ MEX_LAW:0 "Gesetz der Toleranz gegenüber Sekten"
+ MEX_LAW_desc:0 "Das Sektentoleranzgesetz, auch als Calles-Gesetz bekannt, war eines der strengsten Gesetze zur Trennung von Kirche und Staat, das jemals erlassen wurde (Artikel 130 der mexikanischen Verfassung). Das Gesetz enthält mehrere Forderungen: \n 1. Religiösen Orden wurde jegliche politische Beteiligung untersagt, andernfalls mussten sie mit hohen Strafen rechnen. \n 2. Ausländern wurde verboten, eine religiöse Tätigkeit auszuüben. \n 3. Priestern jeglicher Art wurde verboten, an Grundschulen zu unterrichten. \n 4. Religionsunterricht wurde an Schulen verboten. \n 5. Kircheneigentum innerhalb des Bundesdistrikts wurde konfisziert.\n Dieses Gesetz löste den Cristero-Krieg aus, da die Zahl der Priester so stark beschränkt wurde, dass 17 Staaten gar keinen Priester hatten. Andere hatten nur einen einzigen Priester, um einen ganzen Staat zu betreuen. Dies führte zu Unruhen und Ineffizienz in den religiösen ländlichen Gebieten Mexikos. Dies war ein heißes Thema bis zu seiner Aufhebung im Jahr 1938." 
+ 
+ MEX_Religion:0 "Aufhebung des Calles-Gesetzes"
+ MEX_Science:0 "Behalten Sie das Calles-Gesetz bei"
+ 
+ # RESOURCES
+ 
+ MEX_Camargo:0 "Erschließung der Bauxitlagerstätte Camargo"
+ MEX_Camargo_desc:0 "Die Lagerstätte Camargo wurde in einem USGS-Bericht aus dem Jahr 1957 erwähnt. Darin heißt es, dass die Lagerstätte seit den 1930er Jahren bekannt war, aber erst später ausgebeutet wurde."
+ 
+ MEX_Lucifer:0 "Erschließung der Lucifer-Magnesium- und Magnetitlagerstätte"
+ MEX_Lucifer_desc:0 "Die Luficer-Mine, die 1941 eröffnet wurde und sich im Arroyo Del Inferno neben der Boleo-Kupfermine befindet, war eine der produktivsten Eisenminen Mexikos. Diese Mine enthielt auch Pyrit, ein weiteres wichtiges Mineral für die Stahlproduktion in europäischen Ländern ohne natürliche Eisenvorkommen. Diese Mine produzierte praktisch alles, was man zur Stahlproduktion in großen Mengen benötigte. Ihre Jahresproduktion betrug 27.430,85 Tonnen pro Jahr (umgerechnet von britischen Tonnen)."
+ # SPY STUFF
+ 
+ MEX_DGIPS:0 "DGIPS-Operationen"
+ MEX_DGIPS_desc:0 "Was die DGIPS ist, hängt von Ihrer Frage ab. Für manche sind die DGIPS lediglich Friedenstruppen, die Mexiko vor unsichtbaren Bedrohungen schützen, für andere waren sie eine Bande amerikanisch ausgebildeter Attentäter, die eine politische Agenda verfolgten. Wie so oft liegt die Wahrheit irgendwo dazwischen."
+ MEX_Kruger:0 "Verhaftung Hilde Krüger"
+ MEX_Kruger_desc:0 "Hilde Krüger war ein deutsches Starlet, das sowohl in Amerika als auch in Mexiko arbeitete. Sie war eng mit der amerikanischen und mexikanischen Elite und insbesondere mit Präsident Avila Camacho verbunden. Als sich der Krieg hinzog, wurde sie zur deutschen Spionin."
+ MEX_Curb_Americans:0 "Den amerikanischen Einfluss eindämmen"
+ MEX_Synarchist_Baja:0 "Abbau der kanadischen Unterstützung in Baja"
+ MEX_False_Flag:0 "Kontakt zu mexikanischen Spionagezellen in den USA"
+ 
+ # MISSIONS
+ 
+ MEX_GEO:0 "Das große Spiel"
+ MEX_GEO_desc:0 "Um unsere Interessen zu schützen, müssen wir unsere Macht an Schlüsselstellen rund um den Globus demonstrieren. Die Kontrolle dieser Orte und ihre Entwicklung zur Demonstrierung unserer Macht wäre für uns ein großer Segen."
+ 
+ MEX_ENG_Shield:0 "Vertreibung des britischen Einflusses in der Karibik"
+ MEX_ENG_Shield_desc:0 "Das Vereinigte Königreich ist seit fast 20 Jahren ein feindliches Land. Es ist an der Zeit, es von jeglichem möglichen Einfluss in unserer Nähe auszuschließen und eine Pufferzone zu schaffen."
+ 
+ MEX_USA_Shield:0 "Vertreibung des amerikanischen Einflusses aus der Karibik"
+ MEX_USA_Shield_desc:0 "Wenn wir mehr als nur eine Regionalmacht werden wollen, dürfen wir den Einfluss der USA in der Karibik nicht zulassen. Wir müssen ihn gewaltsam beseitigen."
+ 
+ MEX_CUB:0 "Kuba gegen die USA aufbringen"
+ MEX_CUB_desc:0 "Kuba ist seit dem Spanisch-Amerikanischen Krieg ein Verbündeter und eine Marionette der USA. Wenn wir den Einfluss der USA in der Region abbauen wollen, dürfen wir Kuba keine so engen Beziehungen zu den USA gestatten."
+ # FACTION STUFF
+ 
+ MEX_Fact:0 "Fraktions-Kontrollfeld"
+ MEX_Fact_desc:0 "Dieses Panel enthält die notwendigen Funktionen zur Interaktion mit anderen Fraktionsmitgliedern und bietet KI-Mitgliedern die Möglichkeit, mit Ihnen zu interagieren und Ihnen nützlicher zu sein. Zur Verfügung gestellt von „Curse of Huitzilopochtli – Mexico Overhaul“."
+ MEX_Join:0 "Treten Sie der mexikanischen Fraktion bei"
+ MEX_Research_Group:0 "Treten Sie der Fraktionsforschungsgruppe bei"
+ MEX_USA_research:0 "Treten Sie der US Tech Group bei"
+ MEX_GER_research:0 "Treten Sie der Central Powers Tech Group bei"
+ MEX_JAP_research:0 "Werden Sie Teil der japanischen Technologiegruppe"
+ MEX_JAP_research2:0 "Treten Sie dem japanischen Technologieaustausch bei"

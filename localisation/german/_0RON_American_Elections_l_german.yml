@@ -1,0 +1,210 @@
+﻿l_german: 
+
+#Template
+RON_American_Elections.x.title:0 "Wahl von XXXX"
+RON_American_Elections.x.desc:0 ""
+RON_American_Elections.x.a:0 "X gewinnt"
+RON_American_Elections.x.b:0 "Y gewinnt"
+RON_American_Elections.x.c:0 "W gewinnt"
+RON_American_Elections.x.d:0 "Z gewinnt"
+
+RON_American_Elections.1.title:0 "Wahl von 1900"
+RON_American_Elections.1.desc:0 "Der republikanische Kandidat William McKinley wirbt im Wahlkampf für Wohlstand und amerikanischen Expansionismus. Er betont das Wirtschaftswachstum des Landes und versucht, den Status quo zu erhalten. Sein Vizekandidat Theodore Roosevelt ist eine beliebte Persönlichkeit, die für ihre progressive Politik und ihre reformistischen Ideen bekannt ist."
+RON_American_Elections.1.a:0 "McKinley gewinnt"
+RON_American_Elections.1.b:0 "Jennings gewinnt"
+
+
+RON_American_Elections.2.title:0 "Wahlen von 1904"
+RON_American_Elections.2.desc:0 "Alton B. Parker, der demokratische Kandidat, setzt sich für Wirtschaftsreformen und soziale Gerechtigkeit ein. Er kritisiert die wachsende Kluft zwischen Arm und Reich und plädiert für eine progressive Politik. Sein Vizekandidat Henry G. Davis ist ein erfahrener Politiker mit fundierter Wirtschaftserfahrung."
+RON_American_Elections.2.a:0 "Theodore Roosevelt gewinnt"
+RON_American_Elections.2.b:0 "Alton B. Parker gewinnt"
+
+
+RON_American_Elections.3.title:0 "Wahlen von 1908"
+RON_American_Elections.3.desc:0 "Der republikanische Kandidat William Howard Taft wirbt im Wahlkampf mit dem Versprechen der Kontinuität und Stabilität. Er verspricht, die Politik seines Vorgängers Theodore Roosevelt fortzusetzen und betont seine Erfahrung als Richter und Regierungsbeamter. Sein Vizekandidat James S. Sherman ist ein angesehener Kongressabgeordneter, der für seine gemäßigten Ansichten bekannt ist."
+RON_American_Elections.3.a:0 "William Howard Taft gewinnt"
+RON_American_Elections.3.b:0 "William Jennings Bryan gewinnt"
+
+
+RON_American_Elections.4.title:0 "Wahlen von 1912"
+RON_American_Elections.4.desc:0 "William Jennings Bryan, der demokratische Kandidat, vertritt ein Programm progressiver Reformen und Populismus. Er setzt sich für Arbeitnehmerrechte, staatliche Eingriffe in die Wirtschaft und die Regulierung von Großunternehmen ein. Sein Vizekandidat, John W. Kern, ist Anwalt und ehemaliger Senator und bekannt für sein Engagement für progressive Anliegen."
+RON_American_Elections.4.a:0 "Woodrow Wilson gewinnt"
+RON_American_Elections.4.b:0 "Theodore Roosevelt gewinnt"
+RON_American_Elections.4.c:0 "William Howard Tafts gewinnt"
+RON_American_Elections.4.d:0 "Eugene V. Debs gewinnt"
+
+RON_American_Elections.5.title:0 "Wahlen von 1916"
+RON_American_Elections.5.desc:0 "Woodrow Wilson, der demokratische Kandidat, kandidierte mit dem Versprechen, die amerikanische Neutralität im Ersten Weltkrieg zu wahren, trotz des zunehmenden Drucks, in den Krieg einzutreten. Er betonte seine fortschrittlichen Reformen und seine Bemühungen, die USA aus dem Konflikt herauszuhalten. Charles Evans Hughes, der republikanische Kandidat, kritisierte Wilsons Außenpolitik und forderte eine stärkere militärische Bereitschaft. Die Wahl war knapp, da beide Kandidaten überzeugende Visionen für die Zukunft des Landes präsentierten."
+RON_American_Elections.5.a:0 "Woodrow Wilson gewinnt"
+RON_American_Elections.5.b:0 "Charles Evans Hughes gewinnt"
+
+
+
+RON_American_Elections.6.title:0 "Wahlen von 1920"
+RON_American_Elections.6.desc:0 "James M. Cox, der demokratische Kandidat, vertrat im Wahlkampf progressive Reformen und Internationalismus. Er betonte soziale Wohlfahrtsprogramme und unterstützte den Beitritt Amerikas zum Völkerbund. Warren G. Harding, der republikanische Kandidat, vertrat nach dem Ersten Weltkrieg das Versprechen einer „Rückkehr zur Normalität“. Harding versprach eine Rückkehr zu Stabilität und Wohlstand und plädierte für niedrigere Steuern und begrenzte staatliche Eingriffe in die Wirtschaft."
+RON_American_Elections.6.a:0 "James M. Cox gewinnt"
+RON_American_Elections.6.b:0 "Warren G. Harding gewinnt"
+
+
+RON_American_Elections.7.title:0 "Wahlen von 1924"
+RON_American_Elections.7.desc:0 "Calvin Coolidge, der republikanische Kandidat, setzte im Wahlkampf auf die Fortsetzung der Politik seines Vorgängers Warren G. Harding. Coolidge konzentrierte sich auf die Förderung von Wirtschaftsinteressen und die Aufrechterhaltung des Wirtschaftswachstums. John W. Davis, der demokratische Kandidat, betonte Themen wie soziale Gerechtigkeit und Arbeitnehmerrechte. Robert M. La Follette, der als Kandidat einer dritten Partei antrat, vertrat ein Programm progressiver Reformen, darunter die Unterstützung von Gewerkschaften und eine stärkere staatliche Regulierung der Wirtschaft."
+RON_American_Elections.7.a:0 "Calvin Coolidge gewinnt"
+RON_American_Elections.7.b:0 "John W. Davis gewinnt"
+RON_American_Elections.7.c:0 "Robert M. La Follette gewinnt"
+
+
+RON_American_Elections.8.title:0 "Wahlen von 1928"
+RON_American_Elections.8.desc:0 "Herbert Hoover, der republikanische Kandidat, warb im Wahlkampf für wirtschaftlichen Wohlstand und Effizienz. Er betonte seine Regierungserfahrung und seine Rolle bei der Überwachung der Hilfsmaßnahmen während und nach dem Ersten Weltkrieg. Al Smith, der demokratische Kandidat, konzentrierte sich auf Fragen der Sozialfürsorge und der Stadtreform. Smith hob seine Leistungen als Gouverneur von New York und sein Engagement für Arbeitnehmerrechte und öffentliche Bauprojekte hervor."
+RON_American_Elections.8.a:0 "Herbert Hoover gewinnt"
+RON_American_Elections.8.b:0 "Al Smith gewinnt"
+
+
+RON_American_Elections.9.title:0 "Wahlen von 1932"
+RON_American_Elections.9.desc:0 "Der demokratische Kandidat Franklin D. Roosevelt propagierte im Wahlkampf den wirtschaftlichen Aufschwung und soziale Reformen. Er versprach dem amerikanischen Volk einen „New Deal“, einschließlich Programmen zur Bewältigung der Weltwirtschaftskrise. Der republikanische Amtsinhaber Herbert Hoover verteidigte die Bemühungen seiner Regierung zur Bewältigung der Wirtschaftskrise und betonte die Notwendigkeit einer verantwortungsvollen Haushaltsführung."
+RON_American_Elections.9.a:0 "Franklin D. Roosevelt gewinnt"
+RON_American_Elections.9.b:0 "Herbert Hoover gewinnt"
+
+
+RON_American_Elections.10.title:0 "Wahlen von 1936"
+RON_American_Elections.10.desc:0 "Franklin D. Roosevelt, der demokratische Kandidat, kandidierte mit dem Versprechen, den New Deal fortzusetzen und die Sozialprogramme auszubauen. Alf Landon, der republikanische Kandidat, kritisierte Roosevelts Wirtschaftspolitik und versprach, den Bundeshaushalt auszugleichen. Landon plädierte für eine geringere Rolle der Bundesregierung in der Wirtschaft."
+RON_American_Elections.10.a:0 "Franklin D. Roosevelt gewinnt"
+RON_American_Elections.10.b:0 "Alf Landon gewinnt"
+
+
+RON_American_Elections.11.title:0 "Wahlen von 1940"
+RON_American_Elections.11.desc:0 "Der demokratische Amtsinhaber Franklin D. Roosevelt warb im Wahlkampf für die Fortführung des New Deal und die Wahrung der Stabilität in Zeiten globaler Konflikte. Wendell Willkie, der republikanische Kandidat, kritisierte Roosevelts Innenpolitik und forderte einen aggressiveren Ansatz in der Außenpolitik. Willkie betonte seine Geschäftserfahrung und sein Engagement für eine starke Landesverteidigung."
+RON_American_Elections.11.a:0 "Franklin D. Roosevelt gewinnt"
+RON_American_Elections.11.b:0 "Wendell Willkie gewinnt"
+
+
+RON_American_Elections.12.title:0 "Wahlen von 1944"
+RON_American_Elections.12.desc:0 "Franklin D. Roosevelt, der demokratische Amtsinhaber, kandidierte für eine beispiellose vierte Amtszeit und betonte dabei seine Erfahrung und Führungsqualitäten während des Zweiten Weltkriegs. Thomas E. Dewey, der republikanische Kandidat, kritisierte Roosevelts Umgang mit innenpolitischen Fragen und versprach eine effizientere und verantwortungsvollere Regierung. Dewey thematisierte auch Korruption und Verschwendung in der Regierung."
+RON_American_Elections.12.a:0 "Franklin D. Roosevelt gewinnt"
+RON_American_Elections.12.b:0 "Thomas E. Dewey gewinnt"
+
+
+RON_American_Elections.13.title:0 "Wahlen von 1948"
+RON_American_Elections.13.desc:0 "Harry S. Truman, der demokratische Amtsinhaber, vertrat im Wahlkampf die Forderung nach der Fortführung des New Deal und einer entschiedenen Haltung gegen den Kommunismus. Thomas E. Dewey, der republikanische Kandidat, kritisierte Trumans Außenpolitik und forderte einen aggressiveren Umgang mit dem Kalten Krieg. Strom Thurmond, der als Kandidat einer dritten Partei antrat, konzentrierte sich auf die Rechte der Bundesstaaten und den Widerstand gegen Bürgerrechtsgesetze."
+RON_American_Elections.13.a:0 "Harry S. Truman gewinnt"
+RON_American_Elections.13.b:0 "Thomas E. Dewey gewinnt"
+RON_American_Elections.13.c:0 "Strom Thurmond gewinnt"
+
+
+RON_American_Elections.14.title:0 "Wahlen von 1952"
+RON_American_Elections.14.desc:0 "Dwight D. Eisenhower, der republikanische Kandidat, trat mit dem Wahlprogramm an, den Koreakrieg zu beenden und Frieden und Wohlstand zu fördern. Adlai Stevenson, der demokratische Kandidat, kritisierte Eisenhowers außenpolitischen Umgang und forderte eine aktivere Rolle in internationalen Angelegenheiten. Stevenson betonte auch die Bedeutung von Sozialprogrammen und Bürgerrechten."
+RON_American_Elections.14.a:0 "Dwight D. Eisenhower gewinnt"
+RON_American_Elections.14.b:0 "Adlai Stevenson gewinnt"
+
+
+RON_American_Elections.15.title:0 "Wahlen von 1956"
+RON_American_Elections.15.desc:0 "Der republikanische Amtsinhaber Dwight D. Eisenhower setzte sich im Wahlkampf für Frieden und Wohlstand ein. Adlai Stevenson, der demokratische Kandidat, kritisierte Eisenhowers Außenpolitik und forderte stärkere staatliche Eingriffe in die Wirtschaft. Stevenson betonte zudem Bürgerrechte und Sozialprogramme."
+RON_American_Elections.15.a:0 "Dwight D. Eisenhower gewinnt"
+RON_American_Elections.15.b:0 "Adlai Stevenson gewinnt"
+
+
+RON_American_Elections.16.title:0 "Wahlen von 1960"
+RON_American_Elections.16.desc:0 "John F. Kennedy, der demokratische Kandidat, vertrat im Wahlkampf das Motto „Neue Grenzen“ und betonte sozialen Fortschritt und Wirtschaftswachstum. Richard Nixon, der republikanische Kandidat, berief sich auf seine Erfahrungen und forderte eine aggressivere Haltung gegenüber dem Kommunismus. Nixon betonte zudem die Notwendigkeit einer verantwortungsvollen Haushaltsführung und einer starken Landesverteidigung."
+RON_American_Elections.16.a:0 "John F. Kennedy gewinnt"
+RON_American_Elections.16.b:0 "Richard Nixon gewinnt"
+
+
+RON_American_Elections.17.title:0 "Wahlen von 1964"
+RON_American_Elections.17.desc:0 "Lyndon B. Johnson, der demokratische Amtsinhaber, setzte im Wahlkampf auf die Fortsetzung der Politik der Kennedy-Regierung, insbesondere auf die Förderung von Bürgerrechtsgesetzen. Barry Goldwater, der republikanische Kandidat, kritisierte Johnsons Umgang mit dem Vietnamkrieg und forderte einen konservativeren Umgang mit innenpolitischen Fragen. Goldwater betonte sein Engagement für einen begrenzten Staat und individuelle Freiheit."
+RON_American_Elections.17.b:0 "Barry Goldwater gewinnt"
+
+
+RON_American_Elections.19.title:0 "Wahlen von 1968"
+RON_American_Elections.19.desc:0 "Richard Nixon, der republikanische Kandidat, vertrat im Wahlkampf das Prinzip von Recht und Ordnung und versprach, den Vietnamkrieg zu beenden. Hubert Humphrey, der demokratische Kandidat, unterstützte Johnsons Politik in Bezug auf Bürgerrechte und den Vietnamkrieg. George Wallace, der als Kandidat einer dritten Partei antrat, konzentrierte sich auf Fragen der Rassentrennung und der Rechte der Bundesstaaten."
+RON_American_Elections.19.b:0 "Hubert Humphrey gewinnt"
+RON_American_Elections.19.c:0 "George Wallace gewinnt"
+
+
+RON_American_Elections.20.title:0 "Wahlen von 1972"
+RON_American_Elections.20.desc:0 "Der republikanische Amtsinhaber Richard Nixon setzte im Wahlkampf auf die Fortsetzung seiner Politik zur Beendigung des Vietnamkriegs und die Förderung konservativer Werte. Der demokratische Kandidat George McGovern kritisierte Nixons Außenpolitik und forderte einen progressiveren Ansatz in innenpolitischen Fragen. McGovern betonte zudem seine Ablehnung des Vietnamkriegs."
+RON_American_Elections.20.a:0 "Richard Nixon gewinnt"
+RON_American_Elections.20.b:0 "George McGovern gewinnt"
+
+
+RON_American_Elections.21.title:0 "Wahlen von 1976"
+RON_American_Elections.21.desc:0 "Jimmy Carter, der demokratische Kandidat, warb im Wahlkampf für Ehrlichkeit und Integrität und versprach, das Vertrauen in die Regierung wiederherzustellen. Gerald Ford, der republikanische Amtsinhaber, betonte seine Erfahrung und seine Rolle bei der Stabilisierung des Landes nach der Watergate-Affäre. Ford hob außerdem seine Bemühungen zur Bekämpfung der Inflation und zur Förderung des Wirtschaftswachstums hervor."
+RON_American_Elections.21.a:0 "Jimmy Carter gewinnt"
+RON_American_Elections.21.b:0 "Gerald Ford gewinnt"
+
+
+RON_American_Elections.22.title:0 "Wahlen von 1980"
+RON_American_Elections.22.desc:0 "Ronald Reagan, der republikanische Kandidat, vertrat im Wahlkampf konservative Werte und versprach, Amerikas Stärke und Stolz wiederherzustellen. Der demokratische Amtsinhaber Jimmy Carter verteidigte die Wirtschafts- und Außenpolitik seiner Regierung. John B. Anderson, der als Kandidat einer dritten Partei antrat, betonte seine gemäßigten Positionen und forderte einen inklusiveren Regierungsansatz."
+RON_American_Elections.22.a:0 "Ronald Reagan gewinnt"
+RON_American_Elections.22.b:0 "Jimmy Carter gewinnt"
+RON_American_Elections.22.c:0 "John B. Anderson gewinnt"
+
+
+RON_American_Elections.23.title:0 "Wahlen von 1984"
+RON_American_Elections.23.desc:0 "Der republikanische Amtsinhaber Ronald Reagan warb im Wahlkampf für wirtschaftlichen Wohlstand und eine starke Landesverteidigung. Der demokratische Kandidat Walter Mondale kritisierte Reagans Wirtschaftspolitik und forderte stärkere staatliche Eingriffe in die Wirtschaft. Mondale betonte zudem die Bedeutung von Sozialprogrammen und Bürgerrechten."
+RON_American_Elections.23.a:0 "Ronald Reagan gewinnt"
+RON_American_Elections.23.b:0 "Walter Mondale gewinnt"
+
+
+RON_American_Elections.24.title:0 "Wahlen von 1988"
+RON_American_Elections.24.desc:0 "Der republikanische Kandidat George HW Bush vertrat in seinem Wahlkampf die Idee, die Politik der Reagan-Regierung fortzusetzen, insbesondere in wirtschafts- und außenpolitischen Fragen. Der demokratische Kandidat Michael Dukakis betonte seine Leistungen als Gouverneur von Massachusetts und sein Engagement für Sozialprogramme. Dukakis konzentrierte sich außerdem auf Themen wie Umweltschutz und Bildung."
+RON_American_Elections.24.a:0 "George HW Bush gewinnt"
+RON_American_Elections.24.b:0 "Michael Dukakis gewinnt"
+
+
+RON_American_Elections.25.title:0 "Wahlen von 1992"
+RON_American_Elections.25.desc:0 "Bill Clinton, der demokratische Kandidat, setzte sich im Wahlkampf für Wirtschaftsreformen und sozialen Fortschritt ein. Der republikanische Amtsinhaber George H.W. Bush wurde für seinen Umgang mit Wirtschafts- und Außenpolitik kritisiert. Ross Perot, der als Kandidat einer dritten Partei antrat, konzentrierte sich auf Haushaltsverantwortung und Regierungsreformen."
+RON_American_Elections.25.a:0 "Bill Clinton gewinnt"
+RON_American_Elections.25.b:0 "George HW Bush gewinnt"
+RON_American_Elections.25.c:0 "Ross Perot gewinnt"
+
+
+RON_American_Elections.26.title:0 "Wahlen von 1996"
+RON_American_Elections.26.desc:0 "Der demokratische Amtsinhaber Bill Clinton setzte sich im Wahlkampf für die Fortsetzung der Wirtschaftsreformen und Sozialprogramme seiner Regierung ein. Der republikanische Kandidat Bob Dole kritisierte Clintons Wirtschaftspolitik und forderte einen konservativeren Regierungsansatz. Dole betonte zudem dessen Erfahrung und Führungsqualitäten."
+RON_American_Elections.26.a:0 "Bill Clinton gewinnt"
+RON_American_Elections.26.b:0 "Bob Dole gewinnt"
+RON_American_Elections.26.c:0 "Ross Perot gewinnt"
+
+RON_American_Elections.27.title:0 "Wahlen im Jahr 2000"
+RON_American_Elections.27.desc:0 "Der republikanische Kandidat George Bush warb im Wahlkampf für Steuersenkungen und eine starke Landesverteidigung. Der demokratische Kandidat Al Gore konzentrierte sich auf Umweltschutz und Sozialprogramme. Die Wahl war hart umkämpft und umstritten, und das Ergebnis wurde schließlich vom Obersten Gerichtshof zugunsten Bushs entschieden."
+RON_American_Elections.27.a:0 "George Bush gewinnt"
+RON_American_Elections.27.b:0 "Al Gore gewinnt"
+
+
+RON_American_Elections.28.title:0 "Wahlen 2004"
+RON_American_Elections.28.desc:0 "Die Wahl des Präsidenten und des Vizepräsidenten der Vereinigten Staaten ist eine indirekte Wahl, bei der die in einem der 50 US-Bundesstaaten oder in Washington, D.C. wahlberechtigten US-Bürger nicht direkt für diese Ämter, sondern für Mitglieder des Wahlkollegiums ihre Stimme abgeben. Diese Wahlmänner geben dann ihre direkte Stimme, die sogenannten Wahlmännerstimmen, für den Präsidenten und den Vizepräsidenten ab. Der Kandidat, der die absolute Mehrheit der Wahlmännerstimmen erhält (mindestens 270 von 538, da der 23. Zusatzartikel zur Verfassung der Vereinigten Staaten den Bürgern von D.C. das Wahlrecht gewährte), ist in das jeweilige Amt gewählt. Erhält kein Kandidat die absolute Mehrheit der Stimmen für das Präsidentenamt, wählt das Repräsentantenhaus den Präsidenten; erhält auch niemand die absolute Mehrheit für das Vizepräsidentenamt, wählt der Senat den Vizepräsidenten."
+RON_American_Elections.28.a:0 "George Bush gewinnt"
+RON_American_Elections.28.b:0 "John Kerry gewinnt"
+
+
+RON_American_Elections.29.title:0 "Wahlen 2008"
+RON_American_Elections.29.desc:0 "Barack Obama, der demokratische Kandidat, warb im Wahlkampf mit einer Botschaft der Hoffnung und des Wandels und versprach Reformen im Gesundheitswesen und der Wirtschaft. John McCain, der republikanische Kandidat, betonte seine Erfahrung und seine außenpolitischen Referenzen."
+RON_American_Elections.29.a:0 "Barack Obama gewinnt"
+RON_American_Elections.29.b:0 "John McCain gewinnt"
+
+
+RON_American_Elections.30.title:0 "Wahlen 2012"
+RON_American_Elections.30.desc:0 "Der demokratische Kandidat Barack Obama konzentrierte sich auf die Fortsetzung seiner Politik aus seiner ersten Amtszeit, darunter Gesundheitsreform und Konjunkturanreize. Der republikanische Kandidat Mitt Romney betonte seine Erfahrungen aus der Geschäftswelt und schlug Wirtschaftsreformen vor."
+RON_American_Elections.30.a:0 "Barack Obama gewinnt"
+RON_American_Elections.30.b:0 "Mitt Romney gewinnt"
+
+RON_American_Elections.31.title:0 "Wahlen 2016"
+RON_American_Elections.31.desc:0 "Donald Trump, der republikanische Kandidat, vertrat in seinem Wahlkampf die Themen Einwanderungsreform, Wirtschaftsnationalismus und Deregulierung. Hillary Clinton, die demokratische Kandidatin, konzentrierte sich auf die Gesundheitsreform, das Bildungswesen und die Beibehaltung der Politik Obamas."
+RON_American_Elections.31.a:0 "Donald Trump gewinnt"
+RON_American_Elections.31.b:0 "Hillary Clinton gewinnt"
+
+RON_American_Elections.32.title:0 "Wahlen 2020"
+RON_American_Elections.32.desc:0 "Der demokratische Kandidat Joe Biden warb im Wahlkampf für Einheit, Gesundheitsreform und die Bekämpfung des Klimawandels. Der republikanische Kandidat Donald Trump betonte seine Bilanz in den Bereichen Wirtschaft und nationale Sicherheit."
+RON_American_Elections.32.a:0 "Joe Biden gewinnt"
+RON_American_Elections.32.b:0 "Donald Trump gewinnt"
+
+RON_American_Elections.33.title:0 "Wahlen 2024"
+RON_American_Elections.33.desc:0 "In einer überraschenden Wendung der Ereignisse gab Präsident Joe Biden seinen Rücktritt bekannt und ebnete damit den Weg für Vizepräsidentin Kamala Harris, als Kandidatin der Demokraten bei den US-Präsidentschaftswahlen 2024 anzutreten. Im Duell mit dem ehemaligen Präsidenten Donald Trump, der als Kandidat der Republikaner ein Comeback anstrebt, markiert Harris&#39; Kandidatur einen historischen Moment, da sie als erste farbige Frau eine große politische Partei in den USA anführt. Die Wahl entwickelt sich zu einem erbitterten Kampf, bei dem sich beide Kandidaten auf Schlüsselthemen wie Wirtschaft, Gesundheitswesen, Klimawandel und nationale Sicherheit konzentrieren. Die Wahlen 2024 werden ein entscheidender Moment für die zukünftige Entwicklung der Nation sein und sowohl im Inland als auch international nachhaltige Auswirkungen haben."
+RON_American_Elections.33.a:0 "Donald Trump gewinnt"
+RON_American_Elections.33.b:0 "Kamala Harris gewinnt"
+RON_American_Elections.33.c:0 "Joe Biden gewinnt"
+
+RON_American_Elections.00.title:0 "[USA.GetLeader] gewinnt die Wahl"
+RON_American_Elections.00.desc:0 "In einem hart umkämpften Rennen ging [USA.GetLeader] als Sieger aus der Wahl hervor und sicherte sich damit das Mandat für seine Vision der Zukunft des Landes. Der Sieg markiert einen bedeutenden Moment in der amerikanischen Politik, und [USA.GetLeader] wird die Nation durch die bevorstehenden Herausforderungen führen."
+RON_American_Elections.00.a:0 "[USA.GetLeader] hat die Wahl gewonnen."
+
+usa_government_peetition_FDR:0"Regierungspetition"
+usaleaderagenda:0 "Unser geschätzter Anführer, §G[USA.GetLeader]§!, fordert unsere Regierung auf, die folgenden kritischen Schwerpunkte zu erreichen. Wenn wir scheitern, wird das Konsequenzen haben."

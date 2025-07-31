@@ -1,0 +1,27 @@
+﻿l_german:
+
+ aispamcap:0 "Kein Spam, den nur KI sehen kann"
+
+ aispamcap_1:0 "Stoppen Sie die Truppenausbildung für diesen Major"
+ aispamcap_1_desc:0 "Dadurch wird dieser KI-Major daran gehindert, Truppen zu erstellen."
+
+ aispamcap_2:0 "Nehmen Sie die Truppenausbildung für diesen Major wieder auf"
+ aispamcap_2_desc:0 "Dadurch wird die Erstellung dieser großen KI-Truppe fortgesetzt."
+
+ aispamcap_3:0 "Stoppen Sie die Truppenausbildung für diesen Minderjährigen"
+ aispamcap_3_desc:0 "Dadurch wird dieser KI-Minor daran gehindert, Truppen zu erstellen."
+
+ aispamcap_4:0 "Fortsetzen der Truppenausbildung für diesen Minderjährigen"
+ aispamcap_4_desc:0 "Dadurch wird die Erstellung dieser kleineren KI-Truppe fortgesetzt."
+ 
+ aispamcap_5:0 "Stoppen Sie das Truppentraining für diesen Marionettenmajor"
+ aispamcap_5_desc:0 "Dadurch wird dieser Marionetten-KI-Major daran gehindert, Truppen zu erstellen."
+
+ aispamcap_6:0 "Nehmen Sie die Truppenausbildung für diesen Marionettenmajor wieder auf"
+ aispamcap_6_desc:0 "Dadurch wird die Erstellung großer Truppen durch die Marionetten-KI fortgesetzt."
+
+ aispamcap_7:0 "Stoppen Sie das Truppentraining für dieses Puppen-Minor"
+ aispamcap_7_desc:0 "Dadurch wird verhindert, dass diese Marionetten-KI Truppen erstellt."
+
+ aispamcap_8:0 "Truppentraining für dieses Puppen-Minor fortsetzen"
+ aispamcap_8_desc:0 "Dadurch wird die Erstellung kleinerer Truppen durch die Marionetten-KI fortgesetzt."

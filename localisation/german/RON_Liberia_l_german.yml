@@ -1,0 +1,452 @@
+﻿l_german:
+
+
+### Dark
+
+ 
+ #DARK
+ DARK_anti_fascist_sentiment:0 "Antifaschistische Stimmung"
+ DARK_anti_fascist_sentiment_desc:0 "Dieses Land ist vom Faschismus völlig desillusioniert und will weder mit ihm noch mit seinen Anhängern etwas zu tun haben."
+ DARK_spanish_civil_war_support:0 "Spanische Intervention"
+ DARK_spanish_civil_war_support_desc:0 "Dieses Land hat ein begründetes Interesse am Ausgang des spanischen Bürgerkriegs und wird alles in seiner Macht Stehende tun, um sicherzustellen, dass die von ihm bevorzugte Seite gewinnt."
+ DARK_closed_suez:0 "Geschlossener Suez"
+ DARK_closed_suez_desc:0 "Dieses Land hat den Suezkanal geschlossen. Dies hat den Nebeneffekt, dass das Land bei großen Konzernen unbeliebt geworden ist und der Warentransport zwischen dem Pazifik und dem Atlantik erschwert wird."
+ DARK_weapons_produced:0 "Umleitung der Waffenproduktion"
+ 
+ #Liberia
+ license_tech_difference_speed_factor:0 "PRÜFEN"
+ 
+ has_firestone_def_tt:0 "Hat den Infanteriewaffenhersteller §YFirestone Defense§!"
+ 
+ LIB_home_of_the_free:0 "Land der Freiheit"
+ LIB_home_of_the_free_desc:0 "Liberia sieht sich als Bastion der Demokratie und Freiheit in Afrika, als Wiege der Zivilisation, hervorgegangen aus seinem älteren Bruder, den USA. Was auch immer das Land sein mag, seine Werte sind schwer zu kompromittieren, so verlockend manche Möglichkeiten auch erscheinen mögen."
+ LIB_hinterland_problems_1:0 "Widerspenstiges Hinterland"
+ LIB_hinterland_problems_1_desc:0 "Trotz unserer anhaltenden Bemühungen bleibt das Hinterland unseres Landes weitgehend autonom. Mangelnde Infrastruktur und Entwicklung erschweren die Steuereintreibung und die Kontrolle der vermeintlichen Bürger unseres Landes. Wollen wir diesen Zustand ändern, müssen wir ernsthafte Anstrengungen unternehmen, um das Hinterland zu erweitern und zu entwickeln."
+ LIB_hinterland_problems_2:0 "Widerspenstiges Hinterland"
+ LIB_hinterland_problems_2_desc:0 "Trotz unserer anhaltenden Bemühungen bleibt das Hinterland unseres Landes weitgehend autonom. Mangelnde Infrastruktur und Entwicklung erschweren die Steuereintreibung und die Kontrolle der vermeintlichen Bürger unseres Landes. Wollen wir diesen Zustand ändern, müssen wir ernsthafte Anstrengungen unternehmen, um das Hinterland zu erweitern und zu entwickeln."
+ LIB_hinterland_problems_3:0 "Widerspenstiges Hinterland"
+ LIB_hinterland_problems_3_desc:0 "Trotz unserer anhaltenden Bemühungen bleibt das Hinterland unseres Landes weitgehend autonom. Mangelnde Infrastruktur und Entwicklung erschweren die Steuereintreibung und die Kontrolle der vermeintlichen Bürger unseres Landes. Wollen wir diesen Zustand ändern, müssen wir ernsthafte Anstrengungen unternehmen, um das Hinterland zu erweitern und zu entwickeln."
+ LIB_government_cooperation:0 "Zusammenarbeit zwischen den Parteien"
+ LIB_government_noncooperation:0 "Regierungsverweigerung"
+ LIB_greenback_idea:0 "Greenback"
+ LIB_greenback_idea_desc:0 "Durch die Einführung des US-Dollars als eigene Währung hat dieses Land seine Fähigkeit, mit ausländischen Märkten umzugehen, durch die Verwendung dieser international anerkannten Währung erheblich verbessert."
+ LIB_corrupt_army1:0 "Korrupte Streitkräfte"
+ LIB_corrupt_army1_desc:0 "Die Liberianische Grenztruppe ist zu nichts weiter als einer Gruppe von Schlägern geworden, die die lokale Bevölkerung erpressen. Es mangelt ihnen an Disziplin und Zusammenhalt in ihren Einheiten. Diese Probleme werden noch dadurch verschärft, dass wir die Truppen nicht bezahlen und diejenigen, die sich nicht an die Regeln halten, nicht wirksam disziplinieren können."
+ LIB_corrupt_army2:0 "Korrupte Streitkräfte"
+ LIB_corrupt_army2_desc:0 "Die Liberianische Grenztruppe ist zu nichts weiter als einer Gruppe von Schlägern geworden, die die lokale Bevölkerung erpressen. Es mangelt ihnen an Disziplin und Zusammenhalt in ihren Einheiten. Diese Probleme werden noch dadurch verschärft, dass wir die Truppen nicht bezahlen und diejenigen, die sich nicht an die Regeln halten, nicht wirksam disziplinieren können."
+ LIB_corrupt_army3:0 "Korrupte Streitkräfte"
+ LIB_corrupt_army3_desc:0 "Die Liberianische Grenztruppe ist zu nichts weiter als einer Gruppe von Schlägern geworden, die die lokale Bevölkerung erpressen. Es mangelt ihnen an Disziplin und Zusammenhalt in ihren Einheiten. Diese Probleme werden noch dadurch verschärft, dass wir die Truppen nicht bezahlen und diejenigen, die sich nicht an die Regeln halten, nicht wirksam disziplinieren können."
+ LIB_corrupt_army4:0 "Korrupte Streitkräfte"
+ LIB_corrupt_army4_desc:0 "Die Liberianische Grenztruppe ist zu nichts weiter als einer Gruppe von Schlägern geworden, die die lokale Bevölkerung erpressen. Es mangelt ihnen an Disziplin und Zusammenhalt in ihren Einheiten. Diese Probleme werden noch dadurch verschärft, dass wir die Truppen nicht bezahlen und diejenigen, die sich nicht an die Regeln halten, nicht wirksam disziplinieren können."
+ LIB_dutch_investment_idea:0 "Niederländische Investitionen"
+ LIB_dutch_investment_idea2:0 "Bedeutende niederländische Investition"
+ LIB_gold_mining:0 "Gold- und Diamantminen"
+ LIB_US_training_idea:0 "Training im amerikanischen Stil"
+ LIB_US_officers_idea:0 "Offiziersausbildungsschulen"
+ LIB_trained_force:0 "Reformierte Grenztruppe"
+ LIB_trained_force_desc:0 "Die Frontier Force ist nicht länger die Plage des Landes, sondern eine moderne, kompetente Streitmacht. Obwohl noch einiges zu tun bleibt, haben wir bereits viel erreicht, um das Vertrauen in unser Militär wiederherzustellen."
+ LIB_pay_incentive:0 "Zahlungsanreiz"
+ LIB_us_lend_lease:0 "US-amerikanisches Leih- und Pachtprogramm"
+ LIB_economic_disaster_1:0 "Wirtschaftliche Katastrophe"
+ LIB_economic_disaster_2:0 "Wirtschaftliche Katastrophe"
+ LIB_isolation:0 "Diplomatische Isolation"
+ LIB_isolation_desc:0 "Durch sein Vorgehen wurde dieses Land diplomatisch isoliert, wenn auch nicht freiwillig."
+ LIB_new_owners:0 "Jüngste Landumverteilung"
+ LIB_new_owners_desc:0 "Dieses Land hat vor kurzem das Land der ehemals Privilegierten neu verteilt. Wie sich herausstellte, gestaltete sich die effiziente Bewirtschaftung des Landes und der darauf befindlichen Betriebe schwieriger als erwartet."
+ LIB_angry_natives_f:0 "Wütende Hinterländer"
+ LIB_angry_natives_f_desc:0 "Die Weigerung des Landes, die Eliten zu stürzen, hat viele seiner Anhänger verärgert. Sie müssen nun einen harten Kampf führen, um das Vertrauen wiederherzustellen."
+ LIB_angry_natives_c:0 "Wütende Hinterländer"
+ LIB_angry_natives_c_desc:0 "Die Weigerung des Landes, die Eliten zu stürzen, hat viele seiner Anhänger verärgert. Sie müssen nun einen harten Kampf führen, um das Vertrauen wiederherzustellen."
+ LIB_dual_heads:0 "Doppelte Staatsoberhäupter"
+ LIB_dual_heads_desc:0 "Dieses Land hat eine ungewöhnliche Regierungsform mit zwei Staatsoberhäuptern eingeführt, einem gewählten Präsidenten und einem König, der auf Lebenszeit regiert."
+ LIB_us_system:0 "Präsidialsystem"
+ LIB_us_system_desc:0 "Dieses Land stützt sich auf eine Regierung, die auf der der Vereinigten Staaten basiert, mit einem einzigen gewählten Regierungschef und einer separaten gewählten Legislative."
+ LIB_uk_system:0 "Parlamentarisches System"
+ LIB_uk_system_desc:0 "Dieses Land stützt sich auf eine parlamentarische Regierung mit einem Premierminister und einer gewählten Legislative."
+ LIB_foreign_investment_idea:0 "Ausländische Investitionen"
+ LIB_waiting_for_war:0 "Vorbereitung auf den Krieg"
+ LIB_waiting_for_war_desc:0 "Aus dem einen oder anderen Grund ist dieses Land davon überzeugt, dass ein Krieg unmittelbar bevorsteht."
+ LIB_communist_supply:0 "Guerilla-Kommunisten"
+ LIB_communist_supply_desc:0 "Dieses Land führt einen Guerillakrieg und hat seine Bewegungen, einschließlich der Versorgung, im Voraus geplant."
+ LIB_african_empire_idea:0 "[LIB_Typ_des_Imperiums]"
+ LIB_african_empire_idea_desc:0 "Dieses Land hat sich aus bescheidenen Anfängen in Afrika zu großer Bedeutung entwickelt. Sie werden ihre neu gewonnene Macht mit allen notwendigen Mitteln verteidigen."
+ LIB_hegemony_idea:0 "Afrikanische Hegemonie"
+ LIB_hegemony_idea_desc:0 "Unter einem Banner vereint, ist ganz Afrika bereit, gegen jeden zurückzuschlagen, der es wagt, ihnen ihre neu gewonnene Freiheit zu nehmen."
+ LIB_foreign_training_idea:0 "Ausbildung für ausländische Offiziere"
+ LIB_domestic_industry:0 "Investitionen der heimischen Industrie"
+ LIB_firestone_reparations:0 "Firestone-Reparaturen"
+ LIB_firestone_reparations_desc:0 "Dieses Land zahlt der Firestone Company Entschädigungen für entstandene Schäden."
+ LIB_jungle_training_idea:0 "Afrikanischer Vorteil"
+ LIB_jungle_training_idea_desc:0 "Das natürliche Klima Afrikas härtet die Menschen ab und bereitet sie auf die extremen Klimabedingungen des Kontinents vor."
+ 
+ LIB_frederick_johnson:0 "Frederick Johnson"
+ LIB_nathaniel_massaquoi:0 "Nathaniel Massaquoi"
+ LIB_bellah_beh:0 "Bellah-Beh"
+ LIB_louis_grimes:0 "Louis Grimes"
+ LIB_clarence_simpson:0 "Clarence Simpson"
+ LIB_frank_tolbert:0 "Frank Tolbert"
+ LIB_richard_holder:0 "Richard Holder"
+ LIB_edward_stettinius:0 "Edward Stettinius"
+ LIB_wellington_campbell:0 "Wellington Campbell"
+ LIB_moses_grant:0 "Moses N. Grant"
+ LIB_lemuel_smith:0 "Lemuel L. Smith"
+ LIB_alexander_harper:0 "Alexander R. Harper"
+ LIB_elwood_davis:0 "Elwood Davis"
+ LIB_fred_syphert:0 "Fred Syphert" 
+ LIB_henry_cooper:0 "Henry Cooper" 
+ LIB_james_cooper:0 "James Cooper"
+ LIB_ken_wagner:0 "Kenneth Wagner"
+ LIB_kofi:0 "Kofi"
+ LIB_isaac_moart:0 "Isaac Moart"
+ LIB_joseph_dennis:0 "Joseph Dennis"
+ LIB_jenkins_yancey:0 "Jenkins Yancey"
+ LIB_william_nabors:0 "William Nabors"
+ 
+ LIB_ford:0 "Ford"
+ LIB_firestone_def_1:0 "Firestone-Verteidigung"
+ LIB_firestone_def_2:0 "Firestone Defense Division"
+ LIB_firestone_company:0 "Firestone"
+ LIB_firestone_company_desc:0 "Firestone kam 1926 nach Liberia und brachte einen dringend benötigten Kredit von fünf Millionen Dollar mit. Heute beschäftigt das Unternehmen einen großen Teil unserer Bevölkerung, sodass wir stark von seinem Erfolg abhängig sind. Firestone ist auf Kautschuk spezialisiert und baut ihn aus den in unserem Land gut gedeihenden Kautschukbäumen an, hat aber auch einige Nebeninteressen. Firestone ist auch für einen Großteil der Infrastruktur unseres Hinterlandes verantwortlich, da das Unternehmen seine Plantagen per LKW erreichen musste."
+ LIB_liscr:0 "LISCR"
+ LIB_registry:0 "Liberianisches Register"
+ LIB_libtraco:0 "Libtraco"
+ LIB_lna:0 "LNA"
+ LIB_own_arms:0 "Nationales Suchunternehmen"
+ LIB_ELBC:0 "ELBC"
+ LIB_national_rubber_company:0 "National Rubber"
+ LIB_mining_company:0 "LDCC"
+ 
+
+firestone_debt:0 "Firestone-Schulden" 
+firestone_debt_desc:0 "Die Firestone Rubber Company gewährte Liberia einen großen Kredit, um unsere Schulden zu tilgen und einen Hafen für ihr Unternehmen zu bauen. Der Kredit wurde im Gegenzug für die vollständige Verfügungsgewalt über die Staatseinnahmen gewährt, bis der Kredit zurückgezahlt war. Der Kredit verschlingt einen immer größeren Teil der liberianischen Staatseinnahmen."
+
+corruption:0 "Korruption"
+corruption_desc:0 "Unsere Regierung ist von Korruption und Inkompetenz geprägt. Wenn Liberia jemals ernsthaft auf der Weltbühne auftreten soll, sind Reformen notwendig."
+
+debt_payments:0 "Schuldenzahlungen"
+debt_payments_desc:0 "Liberias Wirtschaft ist voll und ganz darauf ausgerichtet, unsere Schulden abzubauen"
+
+american_aid:0 "Amerikanische Hilfe"
+american_aid_desc:0 "Amerika hilft uns wirtschaftlich"
+
+freeport_of_monrovia:0 "Freihafen von Monrovia"
+freeport_of_monrovia_desc:0 ""
+
+corruption_2:0 "Politische Instabilität"
+corruption_2_desc:0 "Durch die jüngsten Reformen wurden die meisten korrupten Beamten und Aktivitäten eingedämmt, doch die überstürzte Umsetzung neuer Gesetze und Vorschriften hat die Existenz einiger der korruptesten nur noch weiter verfestigt."
+
+political_discourse:0 "Politischer Diskurs"
+political_discourse_desc:0 "Wir ermutigen unser Volk derzeit, sich am Dialog zu beteiligen, um die Zukunft Liberias zu bestimmen."
+
+liberian_silvershirts:0 "Liberianische Silberhemden"
+liberian_silvershirts_desc:0 "Inspiriert von der Silver Legion of America sind die Liberian Silver Shirts eine paramilitärische Bewegung, die sich Liberia verschrieben hat und sein Volk zu Größe führen möchte."
+
+progeny_of_freedom:0 "Nachkommen der Freiheit"
+progeny_of_dreedom_desc:0 "Wir bekennen uns zu unseren Wurzeln in der Heimat der Freiheit und fördern Menschenrechte und Freiheit."
+
+indigenous_migration:0 "Indigene Migration"
+indigenous_migration_desc:0 "Tausende einheimische Liberianer wandern auf der Suche nach Arbeit aus dem ländlichen Landesinneren in unsere Küstenstädte ab."
+
+indigenous_integration:0 "Integration der Ureinwohner"
+indigenous_integration_desc:0 "Durch die Integrationsgesetzgebung ist der Militärdienst für unsere einheimische Bevölkerung attraktiver geworden."
+
+labor_unions:0 "Stärkung der Gewerkschaften"
+labor_unions_desc:0 "Die liberianischen Arbeiter dürfen nicht vergessen werden. Staatlich finanzierte Gewerkschaften werden dafür sorgen, dass ihre Stimmen gehört werden."
+
+indigenous_migration_2:0 "Indigene Umarmung"
+indigenous_migration_2_desc:0 "Wir haben unsere indigene Bevölkerung angenommen."
+
+depression_liberia:0 "Große Depression"
+depression_liberia_desc:0 "Die Weltwirtschaftskrise hat die liberianische Wirtschaft hart getroffen. Die Firestone Rubber Company hat den Ausbau der Kautschukplantagen eingestellt und die Löhne der Arbeiter halbiert. Da die Kautschukproduktion auf einem historischen Tiefstand ist, liegen Liberias Steuereinnahmen nahe Null. Die Tatsache, dass wir unseren Kredit bei Firestone nicht zurückzahlen können, belastet unser Verhältnis zu Amerika."
+
+indigenous_subduel:0 "Unterwerfung der Ureinwohner"
+indigenous_subduel_desc:0 ""
+
+liberian_expeditions:0 "Silbernes Freiwilligenkorps"
+liberian_expeditions_desc:0 "Wir haben eine Miliz aus Freiwilligen organisiert, die bereit sind, das Kriegshandwerk im Ausland zu erlernen."
+
+indigenous_subduel_2:0 "Liberianischer Lebensraum"
+indigenous_subduel_2_desc:0 ""
+
+german_advisors_l:0 "Deutsche Berater"
+german_advisors_l_desc:0 "Deutschland hat Berater nach Liberia geschickt, um bei der Modernisierung unseres Militärs zu helfen"
+
+operation_schlange:0 "Operation Schwarzemamba"
+operation_schlange_desc:0 ""
+
+national_rubber_company:0 "Nationale Gummigesellschaft"
+national_rubber_company_desc:0 "Die National Rubber Company ist der ganze Stolz der liberianischen Wirtschaft."
+
+air_purchase:0 "Kämpferkauf"
+air_purchase_desc:0 ""
+
+r_air_purchase:0 "Kauf ausländischer Kampfflugzeuge"
+r_air_purchase_desc:0 ""
+
+sierra_purchase:0 "Grundstückskauf"
+sierra_purchase_desc:0 ""
+
+r_sierra_purchase:0 "Grundstück verkauft"
+r_sierra_purchase_desc:0 ""
+
+peoples_liberation_army:0 "Volksbefreiungsarmee"
+peoples_liberation_army_desc:0 ""
+
+liberian_seadogs:0 "Liberianische Seehunde"
+liberian_seadogs_desc:0 ""
+
+quality_doctrine:0 "Qualitätslehre"
+quality_doctrine_desc:0 ""
+
+forestry_school:0 "Schule für Forstwirtschaft"
+forestry_school_desc:0 ""
+
+## Diplomacy
+
+liberation_rhetoric:0 "Befreiungsrhetorik"
+
+### Events
+
+
+liberia.1.t:0 "Kaufen Sie ausländische Kämpfer"
+liberia.1.d:0 "Um in der Luftfahrttechnologie Fortschritte zu erzielen, müssen wir alte Flugzeuge von den Weltmächten kaufen. An wen sollen wir uns wenden?"
+liberia.1.a:0 "Großbritannien war schon immer für seine überlegenen Designs bekannt"
+liberia.1.b:0 "Die deutsche Luftwaffe ist sehr beeindruckend"
+liberia.1.c:0 "Amerika, wir müssen gute Beziehungen zu unserem Mutterland pflegen"
+liberia.1.e:0 "Sowjet, um den Arbeiter zu unterstützen"
+
+liberia.2.t:0 "Großbritannien akzeptiert"
+liberia.2.d:0 "Großbritannien hat unser großzügiges Angebot für Sierra Leone angenommen. Das ist ein großer Tag für Liberia."
+liberia.2.a:0 "Exzellent"
+
+liberia.3.t:0 "Großbritannien lehnt Abkommen ab"
+liberia.3.d:0 "Die Verhandlungen in London sind gescheitert. Großbritannien scheint entschlossen, seine Kolonialgüter zu behalten."
+liberia.3.a:0 "Ein schwarzer Tag für Liberia"
+
+liberia.4.t:0 "Frankreich akzeptiert Deal"
+liberia.4.d:0 "Frankreich hat unser Angebot für die umliegenden Ländereien unserer großen Republik angenommen."
+liberia.4.a:0 "Wunderbar"
+
+liberia.5.t:0 "Frankreich lehnt Angebot ab"
+liberia.5.d:0 "Die Verhandlungen in Monrovia sind gescheitert. Frankreich ist entschlossen, seinen Kolonialbesitz zu behalten."
+liberia.5.a:0 "Narren mit Baguette-Köpfen"
+
+liberia.6.t:0 "An Opportunity
+liberia.6.d:0 "Der Zusammenbruch der französischen Regierung hat uns die einmalige Gelegenheit gegeben, unser großes Land unter dem Deckmantel der Aufrechterhaltung der Ordnung auf französischem Territorium zu erweitern. Natürlich haben wir nicht die Absicht, diese Chance jemals wieder herzugeben."
+liberia.6.a:0 "Wir dürfen uns diese Chance nicht entgehen lassen"
+liberia.6.b:0 "Wir sollten ein so starkes Land nicht verärgern!"
+
+### Ideas
+
+LIB_modernize_industry:0 "Industrie modernisieren"
+LIB_modernize_industry_desc:0 "Wenn Liberia sich von der Depression erholen soll, müssen unsere derzeit veralteten industriellen Techniken und Methoden auf den neuesten Stand gebracht werden."
+
+LIB_seek_american_aid:0 "Amerikanischer Hilfsplan"
+LIB_seek_american_aid_desc:0 "Wir müssen unser Mutterland um Hilfe in diesen turbulenten Zeiten bitten."
+
+LIB_pay_off_debt:0 "Schulden abbezahlen"
+LIB_pay_off_debt_desc:0 "Dank der jüngsten industriellen Anstrengungen und der ausländischen Hilfe können wir unsere Schulden bei Firestone möglicherweise endlich begleichen."
+
+LIB_adopt_american_dollar:0 "Einführung des US-Dollars"
+LIB_adopt_american_dollar_desc:0 "Die schlechte Wirtschaftslage unserer Vergangenheit hat den liberianischen Dollar stark abgewertet. Die Einführung des US-Dollars könnte uns aus dieser schrecklichen Depression befreien."
+
+LIB_reconcile_firestone:0 "Firestone versöhnen"
+LIB_reconcile_firestone_desc:0 "Wenn wir eine Wirtschaftsmacht werden wollen, müssen wir in die Firestone Rubber Company investieren und sie ausbauen."
+
+LIB_economic_measures:0 "Wirtschaftliche Maßnahmen"
+LIB_economic_measures_desc:0 "Wir müssen besondere Maßnahmen ergreifen, um den völligen Zusammenbruch unserer Wirtschaft zu verhindern."
+
+LIB_rubber_railway:0 "Gummibahn"
+LIB_rubber_railway_desc:0 "Wir sind mit diesem kautschukreichen Land gesegnet und dürfen es nicht verschwenden. Eine Eisenbahnlinie, die das Firestone-Werk mit ganz Liberia verbindet, wird unsere Wirtschaft erheblich ankurbeln."
+
+LIB_industrial_expansion:0 "Industrielle Expansion"
+LIB_industrial_expansion_desc:0 "Rund um die Firestone-Eisenbahnen haben sich kleine Handelsgemeinden gebildet. Wir müssen alles tun, um diese Entwicklung zu unterstützen."
+
+LIB_expand_university_of_liberia:0 "Universität von Liberia erweitern"
+LIB_expand_university_of_liberia_desc:0 "Unsere industriellen Expansionen könnten es uns ermöglichen, uns stärker auf die Ausbildung und Entwicklung unserer Bevölkerung zu konzentrieren."
+
+LIB_economic_triumph:0 "Wirtschaftlicher Triumph"
+LIB_economic_triumph_desc:0 "Der Erfolg unserer wirtschaftlichen Bemühungen wird es uns ermöglichen, unsere Kautschukproduktion sowie unsere Bildungsaktivitäten zu beschleunigen."
+
+LIB_war_preparations:0 "Kriegsvorbereitungen"
+LIB_war_preparations_desc:0 "Die Gefahr eines Krieges schwebt weltweit, und Afrika könnte dabei eine entscheidende Rolle spielen. Wir müssen bereit sein, unsere Unabhängigkeit zu verteidigen."
+
+LIB_us_infrastructure:0 "US-Infrastruktur"
+LIB_us_infrastructure_desc:0 "Die USA bereiten sich darauf vor, im Hinblick auf einen Krieg in unsere Infrastruktur zu investieren. Wir dürfen ihre Bemühungen nicht behindern."
+
+LIB_roberts_international_airport:0 "Flughafen Roberts Field"
+LIB_roberts_international_airport_desc:0 "Die USA wollen hier in Liberia einen Luftwaffenstützpunkt errichten. Wir werden ihn zu Ehren unseres ersten Präsidenten, Joseph Roberts, benennen."
+
+LIB_freeport_of_monrovia:0 "Freihafen von Monrovia"
+LIB_freeport_of_monrovia_desc:0 "Das US-Militär möchte den Freihafen von Monrovia verbessern, um unsere Kautschukexporte an die Alliierten zu sichern."
+
+LIB_government_reform:0 "Regierungsreform"
+LIB_government_reform_desc:0 "Wir müssen neue Gesetze einführen, um die Korruption einzudämmen und gegen korrupte Regierungsbeamte vorzugehen."
+
+LIB_open_iron_mines:0 "Offene Eisenminen"
+LIB_open_iron_mines_desc:0 "Unsere jüngsten Forschungsinvestitionen haben ergeben, dass Liberia über einige der größten Eisenerzreserven Afrikas verfügt. Die Nutzung dieser Reserven wäre lukrativ."
+
+LIB_encourage_political_discourse:0 "Den politischen Diskurs fördern"
+LIB_encourage_political_discourse_desc:0 "Wir sollten unsere Bevölkerung zu mehr politischem Engagement ermutigen. Wir müssen unser Land vereinen, egal ob es uns gut geht oder nicht."
+
+LIB_form_silvershirts:0 "Form Liberian Silver Shirts"
+LIB_form_silvershirts_desc:0 "Demokratische Ideale haben Liberia immer zu einer schwachen Nation gemacht. Es ist an der Zeit, sich weiterzuentwickeln und die Nation unter dem silbernen Banner zu vereinen, damit Liberia groß werden kann."
+
+LIB_establish_military_industrial_complex:0 "Aufbau eines militärisch-industriellen Komplexes"
+LIB_establish_military_industrial_complex_desc:0 "Es ist klar geworden, dass wir ohne eine starke und expandierende Rüstungsindustrie nur ein Schaf im Feuer der Wölfe sind. Der Aufbau eines militärisch-industriellen Komplexes, vergleichbar mit dem anderer großer Nationen, sollte unsere oberste Priorität sein."
+
+LIB_support_status_quo:0 "Support-Status Quo"
+LIB_support_status_quo_desc:0 "Manchmal ist es besser, seinen Platz in der Welt zu akzeptieren. Liberia muss in diesen dunklen Zeiten eine bescheidene Nation bleiben."
+
+LIB_embrace_our_roots:0 "Umarme unsere Wurzeln"
+LIB_embrace_our_roots_desc:0 "Wir müssen Freiheit und Gerechtigkeit für unser Volk fördern, um sicherzustellen, dass die Korruption in unserem Land nie wieder Fuß fasst."
+
+LIB_join_allies:0 "Schließen Sie sich den Verbündeten an"
+LIB_join_allies_desc:0 "Obwohl wir kaum eine andere Wahl haben, als uns den Alliierten anzuschließen, wäre es ein kluger Schachzug, dies freiwillig zu tun."
+
+LIB_foreign_concession_agreements:0 "Ausländische Konzessionsverträge"
+LIB_foreign_concession_agreements_desc:0 "Mehrere internationale Unternehmen haben Interesse an der Eröffnung von Geschäftsbetrieben auf unserem Gelände bekundet."
+
+LIB_integration_effort:0 "Integrationsaufwand"
+LIB_integration_effort_desc:0 "Bevor wir größere diplomatische Schritte unternehmen können, müssen wir das einheimische Problem im eigenen Land lösen."
+
+LIB_us_defense_pact:0 "US-Verteidigungspakt"
+LIB_us_defense_pact_desc:0 "Die USA haben uns einen offiziellen Verteidigungspakt mit ihnen angeboten."
+
+LIB_purchase_sierra:0 "Kauf Sierra Leone"
+LIB_purchase_sierra_desc:0 "Da unsere innenpolitischen Probleme gelöst sind und unsere Wirtschaft boomt, können wir vielleicht nicht nur für unsere zu Unrecht annektierten Grenzgebiete, sondern für ganz Sierra Leone ein Abkommen schließen!"
+
+LIB_empower_the_worker:0 "Stärkung der Arbeitnehmer"
+LIB_empower_the_worker_desc:0 "In unserem Wahlkampf hat sich eine weitverbreitete Meinung durchgesetzt: Die arbeitenden Liberianer wurden zu lange ignoriert. Wir müssen alles tun, um sie zu schützen."
+
+LIB_peoples_committee:0 "Volkskomitee"
+LIB_peoples_committee_desc:0 "Es muss ein Leitungsgremium geschaffen werden, das die liberianischen Arbeitnehmer schützt und ihre faire und gerechte Behandlung sicherstellt."
+
+LIB_indigenius_embrace:0 "Indigene Umarmung"
+LIB_indigenius_embrace_desc:0 "Wir müssen nicht nur daran arbeiten, die amerikanisch-liberianischen Arbeiter zu schützen, sondern auch die einheimischen Arbeiter."
+
+LIB_join_comintern:0 "Treten Sie der Komintern bei"
+LIB_join_comintern_desc:0 "Leider sind wir von Kolonialisten und Kapitalisten gleichermaßen umgeben. Wir haben viel mit den Sowjets gemeinsam und müssen ihren Schutz suchen."
+
+LIB_international_research:0 "Sowjetische Wissenschaft"
+LIB_international_research_desc:0 "Unsere sowjetischen Genossen haben Wissenschaftler geschickt, um bei der Modernisierung unserer Forschungs- und Entwicklungsabteilungen zu helfen."
+
+LIB_operation_schlange:0 "Operation Schwarzemamba"
+LIB_operation_schlange_desc:0 "Eine Invasion von Liberia aus würde die Alliierten in einen Zweifrontenkrieg in Afrika zwingen. Sie würde die Kontrolle der Achsenmächte über unseren großen Kontinent und, was noch wichtiger ist, unseren Lebensraum sichern. Es wäre ratsam, für einen solchen Angriff Invasionspläne auszuarbeiten und Kriegsspiele zu üben."
+
+LIB_purchase_foreign:0 "Kauf Ausland"
+LIB_purchase_foreign_desc:0 "Es ist offensichtlich, dass Liberias Industrie nicht einmal in der Lage ist, eine kleine Luftüberwachungsanlage zu bauen. Durch den Kauf ausländischer Flugzeuge erhalten wir nicht nur einigermaßen leistungsfähige Maschinen, sondern auch die Möglichkeit, zu lernen und vielleicht eigene Entwürfe zu entwickeln, wenn unsere Industrie auf dem neuesten Stand ist."
+
+LIB_liberate_africa:0 "Befreie Afrika"
+LIB_liberate_africa_desc:0 "Kolonialistische Unterdrücker haben in Afrika schon zu lange ihren Willen durchgesetzt. Wir müssen unser Volk auf den Gegenangriff vorbereiten."
+
+LIB_silver_coup:0 "Silberner Coup"
+LIB_silver_coup_desc:0 "Obwohl Barclay zweifellos unser Land liebt, ist er ein schwacher Führer und wird Liberia nie zu Größe führen. Wir müssen die direkte Kontrolle über die Regierung übernehmen."
+
+LIB_end_migration:0 "Migration beenden"
+LIB_end_migration_desc:0 "Wenn wir größere Ziele verfolgen wollen, muss die Zuwanderung einheimischer Einwanderer in unsere Städte beendet werden."
+
+LIB_silvershirt_volunteers:0 "Freiwillige im Silberhemd"
+LIB_silvershirt_volunteers_desc:0 "Die neu gewonnene Popularität der Silberhemden hat viele junge Männer in Liberia für den Krieg begeistert. Eine Miliz, die sich „Silberkorps“ nennt, ist entstanden und willens, im Ausland zu den Waffen zu greifen."
+
+LIB_military_academies:0 "Militärakademien"
+LIB_military_academies_desc:0 "Jetzt, da Liberia in den richtigen Händen ist, können wir damit beginnen, unser großartiges Land kriegsbereit zu machen."
+
+LIB_liberian_lebensraum:0 "Liberianischer Lebensraum"
+LIB_liberian_lebensraum_desc:0 "Das deutsche Konzept des Lebensraums ist brillant. Wir müssen dieses Konzept übernehmen, wenn Liberia wachsen und gedeihen soll. Wir dürfen nicht nur in die Gebiete vordringen, die uns rechtmäßig von den Einheimischen bewohnt werden, sondern auch in die Gebiete, die von den Kolonialisten besetzt werden."
+
+LIB_join_axis:0 "Treten Sie der Achse bei"
+LIB_join_axis_desc:0 "Liberias Zukunft liegt nicht bei den korrupten Liberalen des Westens oder der sozialistischen Unterdrückung des Ostens, sondern bei Deutschland und der Macht des Faschismus."
+
+LIB_german_advisors:0 "Deutsche Berater"
+LIB_german_advisors_desc:0 "Leider ist Liberia taktisch völlig unvorbereitet auf einen Krieg. Deutschland war so freundlich, uns Militärberater zur Verfügung zu stellen, die uns bei der Modernisierung helfen."
+
+LIB_liberianization:0 "Liberianisierung"
+LIB_liberianization_desc:0 "Wir müssen mit der Liberianisierung unserer neuen Gebiete beginnen. Jedes Haus ein silbernes Hemd und jede Straße ein silbernes Schild."
+
+LIB_nationalize_firestone_plant:0 "Firestone verstaatlichen"
+LIB_nationalize_firestone_plant_desc:0 "Firestone hat Liberia und seine Bevölkerung lange genug missbraucht. Es ist Zeit, uns zurückzuholen, was uns gehört."
+
+LIB_lib_program:0 "Pinn-Programm"
+LIB_lib_program_desc:0 "Mit der Verstaatlichung des Firestone-Werks haben wir nun die vollständige Kontrolle über die Staatseinnahmen. Damit haben wir die Möglichkeit, unsere Wirtschaft durch neue Konjunkturmaßnahmen und Subventionen zu sanieren."
+
+LIB_burn_down_firestone:0 "Feuerstein niederbrennen"
+LIB_burn_down_firestone_desc:0 "Die leichtfertige Missachtung der liberianischen Arbeiter durch Firestone ist unverzeihlich. Wir müssen die Botschaft aussenden, dass sich die liberianische Bevölkerung nicht länger von kapitalistischen Kräften herumschubsen lässt."
+
+LIB_peoples_plan:0 "Volksplan"
+LIB_peoples_plan_desc:0 "Da wir nun die vollständige Kontrolle über unsere Einnahmen wiederhergestellt haben, können wir alle Mittel in die Erholung unserer Wirtschaft umleiten."
+
+LIB_war_with_allies:0 "Krieg mit den Alliierten"
+LIB_war_with_allies_desc:0 "Wir müssen unsere Bemühungen darauf konzentrieren, unsere Bevölkerung auf die Verwirklichung unseres großen Lebensraums vorzubereiten."
+
+LIB_construct_air_strips:0 "Bau von Landebahnen"
+LIB_construct_air_strips_desc:0 "Der erste Schritt zum Aufbau unserer zukünftigen Luftwaffe ist der Bau von Start- und Landebahnen. Dadurch erhalten wir praktische Einblicke in die Funktionsweise des Flugverkehrs."
+
+LIB_light_focus:0 "Kämpferfokus"
+LIB_light_focus_desc:0 "Das wichtigste Kapital jeder Luftwaffe sind ihre Kampfflugzeuge. Forschung zu Design und Bau von Kampfflugzeugen ist notwendig."
+
+LIB_bomber_focus:0 "Bomberfokus"
+LIB_bomber_focus_desc:0 "Eine Luftwaffe ohne Bomber ist eine Luftwaffe ohne Biss. Wenn unsere Luftwaffe groß sein soll, müssen wir uns um die Entwicklung neuer Bomber bemühen."
+
+LIB_naturalize_sierra:0 "Sierra Leone einbürgern"
+LIB_naturalize_sierra_desc:0 "Die Bemühungen um die Einbürgerung unserer neuen Bürger sollten unsere oberste Priorität sein."
+
+LIB_purchase_french:0 "Kauf französischer Gebiete"
+LIB_purchase_french_desc:0 "Da unsere innenpolitischen Probleme gelöst sind und unsere Wirtschaft boomt, können wir möglicherweise einen Deal vorschlagen, der nicht nur den Kauf unserer zu Unrecht annektierten Grenzgebiete, sondern der gesamten Elfenbeinküste und Guineas vorsieht."
+
+LIB_naturalize_french:0 "Einbürgerung französischer Gebiete"
+LIB_naturalize_french_desc:0 "Die Bemühungen um die Einbürgerung unserer neuen Bürger sollten unsere oberste Priorität sein."
+
+LIB_our_time_is_now:0 "Unsere Zeit ist jetzt"
+LIB_our_time_is_now_desc:0 "Es besteht die Möglichkeit, unsere afrikanischen Brüder zu befreien. Wir müssen jetzt handeln!"
+
+LIB_peoples_liberation_army:0 "Volksbefreiungsarmee"
+LIB_peoples_liberation_army_desc:0 "Um unsere Träume von einem befreiten Afrika zu verwirklichen, müssen wir eine große Armee aufstellen."
+
+LIB_Reestablish_port_authority:0 "Wiederherstellung der Hafenbehörde"
+LIB_Reestablish_port_authority_desc:0 "Wenn wir jemals eine leistungsfähige Marine haben wollen, müssen wir die Mittel wieder stärker auf unsere Hafenbehörde konzentrieren."
+
+LIB_sub_effort:0 "U-Boot-Anstrengungen"
+LIB_sub_effort_desc:0 "Das praktischste und billigste Kriegsschiff wäre ein guter Ausgangspunkt für die Entwicklung unserer Marine."
+
+LIB_liberian_seadogs:0 "Liberianische Seehunde"
+LIB_liberian_seadogs_desc:0 "Unser Marinestab hat eine einzigartige Kriegsstrategie aus spezialisierten und isolierten U-Boot- und Zerstörerflotten entwickelt. Die liberianischen Seadogs werden auf den Wellen gefürchtet sein."
+
+LIB_naval_war_games:0 "Seekriegsspiele"
+LIB_naval_war_games_desc:0 "Die Durchführung von Seekriegsspielen ist von größter Bedeutung, wenn unsere Marine mit anderen konkurrieren soll."
+
+LIB_big_ship_focus:0 "Kapitalaufwand"
+LIB_big_ship_focus_desc:0 "Eine Marine ohne beeindruckende Schlachtschiffe ist keine Marine. Unsere Marine ist der Inbegriff dafür."
+
+LIB_quality_over_quantity:0 "Qualität vor Quantität"
+LIB_quality_over_quantity_desc:0 "Ein einziges gut gebautes Schlachtschiff ist tausend schlecht gebaute Zerstörer wert. Unsere Marine wird sich darauf konzentrieren, die größten Schiffe auf den Meeren zu bauen."
+
+LIB_trade_interdiction:0 "U-Boot-Kriegsführung"
+LIB_trade_interdiction_desc:0 "Diejenigen, die sich unserem großartigen Land widersetzen, müssen teuer dafür bezahlen. Die Möglichkeiten zur Handelsbeschränkung müssen geprüft werden."
+
+LIB_demo_navy:0 "Schiffe der Freiheit"
+LIB_demo_navy_desc:0 "Wir sollten Schiffe bauen, die das Engagement unseres Volkes für die Demokratie verkörpern."
+
+LIB_peoples_navy:0 "Volksmarine"
+LIB_peoples_navy_desc:0 "Unsere Marine muss vom Volk und für das Volk sein. Schiffe, die sowohl als Handels- als auch als Kriegsschiffe dienen, wären ideal."
+
+LIB_organize_frontier_force:0 "Organisieren Sie die Grenztruppe"
+LIB_organize_frontier_force_desc:0 "Unsere Armee besteht aus einer einfachen Miliz. Wir müssen eine Befehlskette organisieren und unsere Soldaten angemessen ausbilden."
+
+LIB_school_of_forestry:0 "Schule für Forstwirtschaft"
+LIB_school_of_forestry_desc:0 "Die Gründung einer Schule zur Verbesserung der Leistungsfähigkeit unserer Soldaten im stark bewaldeten Gebiet Liberias sollte oberste Priorität haben."
+
+LIB_doctrine_effort:0 "Lehrbemühungen"
+LIB_doctrine_effort_desc:0 "Es müssen fortgeschrittenere Armeetaktiken und -manöver erforscht werden."
+
+LIB_artilley_focus:0 "Artillerie-Fokus"
+LIB_artilley_focus_desc:0 "Eine Armee muss über eine wirksame Artillerie verfügen, wenn sie effizient angreifen und verteidigen will."
+
+LIB_motor_effort:0 "Motorisierter Fokus"
+LIB_motor_effort_desc:0 "Obwohl wir in dschungelartigen Wäldern leben, müssen wir uns auf Kriege in anderen Umgebungen vorbereiten, in denen motorisierte Infanterie effizienter wäre."
+
+LIB_doctrine_effort_2:0 "Fortgeschrittene Lehrbemühungen"
+LIB_doctrine_effort_2_desc:0 "Mit einem besseren Verständnis der Nützlichkeit des Krieges können wir nun alle Anstrengungen darauf konzentrieren, unsere Doktrin weiterzuentwickeln."
+
+LIB_arms_effort:0 "Rüstungsanstrengungen"
+LIB_arms_effort_desc:0 "Wenn unsere Armee ernst genommen werden soll, müssen Anstrengungen zur Herstellung besserer Waffen und anderer Ausrüstung unternommen werden."

@@ -1,0 +1,13 @@
+﻿l_german: 
+ generictree.1.title:0 "[From.GetName] Fordert unsere Garantie an"
+ generictree.1.desc:0 "[From.GetName] hat um unseren Schutz gebeten. Sie befürchten einen weiteren Krieg und wollen unsere Hilfe. Sollen wir ihrem Land helfen und es verteidigen oder sollen wir ihren Schutz ablehnen?"
+ generictree.1.a:0 "Akzeptieren"
+ generictree.1.b:0 "Ablehnen"
+ generictree.2.title:0 "[From.GetName] Fordert einen Nichtangriffspakt"
+ generictree.2.desc:0 "[From.GetName] hat einen Nichtangriffspakt beantragt. Sie befürchten einen weiteren Krieg und wollen in allen Konflikten neutral bleiben. Sollen wir ihrem Land helfen oder ihr Angebot ablehnen?"
+ generictree.2.a:0 "Wir werden"
+ generictree.2.b:0 "Wir werden nicht"
+ generictree.3.title:0 "[From.GetName] Fordert unsere Schiffe an"
+ generictree.3.desc:0 "[From.GetName] hat unsere Schiffe angefordert. Wenn wir ihnen unsere Schiffe geben, können sie uns im Falle eines Konflikts eher helfen."
+ generictree.3.a:0 "Wir werden sie unterstützen"
+ generictree.3.b:0 "Wir werden ihnen keine Unterstützung geben"

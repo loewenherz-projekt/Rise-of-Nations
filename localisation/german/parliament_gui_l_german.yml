@@ -1,0 +1,67 @@
+﻿l_german:
+
+ # Decisions
+  parliament_gui_decision_category:0 "Französisches Parlament§!"
+
+ # Scripted GUIs
+  parliament_gui_title:0 "Netzparlament"
+  semicircle_parliament_gui_title:0 "Französisches Parlament"
+  parliament_main_icon_tt:0 "[GetParliamentSeatName] – [GetParliamentPartyName]"
+  parliament_seat_text:0 "Sitz [?temp_seat|Y0]"
+  parliament_member_text:0 "[GetParliamentPartyName] – [?parliament_seat_array^parliament_member_index] Sitze"
+  parliament_modify_button_tt:0 "§GStrg+Klick§! um §Y5§! Sitze von [GetParliamentPartyName] hinzuzufügen\n§GUmschalt+Klick§! um §Y5§! Sitze von [GetParliamentPartyName] zu subtrahieren"
+
+  party_1_text:0 "SFIC[GetCoalittionName]"
+  party_2_text:0 "PRRRS[GetCoalittionName]"
+  party_3_text:0 "SFIO[GetCoalittionName]"
+  party_4_text:0 "AD[GetCoalittionName]" 
+  party_5_text:0 "PDP[GetCoalittionName]"
+  party_6_text:0 "FR[GetCoalittionName]"
+  party_7_text:0 "Unabhängige"
+  party_8_text:0 "AF[GetCoalittionName]"
+
+  party_1_text2:0 "SFIC[GetCoalittionName2]"
+  party_2_text2:0 "PRRRS[GetCoalittionName2]"
+  party_3_text2:0 "SFIO[GetCoalittionName2]"
+  party_4_text2:0 "AD[GetCoalittionName2]" 
+  party_5_text2:0 "PDP[GetCoalittionName2]"
+  party_6_text2:0 "FR[GetCoalittionName2]"
+  party_7_text2:0 "Unabhängige"
+  party_8_text2:0 "AF[GetCoalittionName2]"
+
+  tt_party_is_no_longer_present_tt:0 "§Y[GetParliamentPartyName]§! wird gesperrt, §Y[GetParliamentPartyName2]§! nimmt die Sitze ein"
+  FRA_union_sacree_form_tt:0 "Die Union Sacrée wird gegründet: Jede parlamentarische Aktion wird bis zum Ende des Krieges ausgesetzt."
+  has_more_than_number_of_seat_tt:0 "[GetParliamentPartyName] hat §Ymehr§! als §Y[?temp_seats]§! Sitze im Parlament"
+  has_less_than_number_of_seat_tt:0 "[GetParliamentPartyName] hat §Yweniger§! als §Y[?temp_seats]§! Sitze im Parlament"
+
+  has_more_seats_than_party_tt:0 "[GetParliamentPartyName] hat §Ymehr§! Sitze im Parlament als [GetParliamentPartyName2]"
+  has_less_seats_than_party_tt:0 "[GetParliamentPartyName] hat §Yweniger§! Sitze im Parlament als [GetParliamentPartyName2]"
+  FRA_coalition_left_1914:0 " (§RCartel de la Gauche§!)"
+  FRA_coalition_right_1914:0 " (§CBloc National§!)"
+ 
+  get_parliament_modification_tt:0 "§Y[GetParliamentPartyName]§!: [?temp_seats|+0]§! §!Sitze im Parlament"
+ modify_legitimacy_by_amount_tt:0 "§Y[Get_President_du_conseil_name]:§! [?amount|+0]§!§! Legitimität"
+ TT_FRA_generic_FM:0 "Arnaud Momborgne"
+
+ TT_FRA_Millerand:0 "Alexandre Millerand"
+ TT_FRA_Briand:0 "Aristide Briand"
+ TT_FRA_Jaures:0 "Jean Jaurès"
+ TT_FRA_Painleve:0 "Paul Painlevé"
+ TT_FRA_president_du_conseil_change:0 "Der §YPresident du Conseil§! wird sich ändern"
+ TT_FRA_add_survivor_trait:0 "§YClemenceau§! erhält die Eigenschaft §gSurvivor§!"
+
+ president_du_conseil_retires_tt:0 "§Y[Get_President_du_conseil_name]§! geht in den Ruhestand"
+  president_du_conseil_tt:0 "[Get_President_du_conseil_name]\n\n§gLegitimität:§! §Y[?president_du_conseil_legitimacy]§!"
+ TT_FRA_Durand:0 "Jules Durand"
+ TT_FRA_Georges_clemenceau:0 "Georges Clemenceau"
+ TT_FRA_Foch:0 "Ferdinand Foch"
+ president_du_conseil_trait_tt:0 "[Get_President_du_conseil_traits]"
+ TT_FRA_dislikes_germany:0 "§gMag Deutschland nicht§!: Als ehemaliger Kriegsminister während des Ersten Weltkriegs hegt Clemenceau einen starken Groll gegen die Deutschen"
+ 
+ TT_FRA_dislikes_germany_survivor:0 "§gMag Deutschland nicht§!: Als ehemaliger Kriegsminister während des Ersten Weltkriegs hegt Clemenceau einen starken Groll gegen die Deutschen\n\n§gÜberlebender§!: Clemenceau überlebte ein Attentat eines Anarchisten. Er wurde mehrmals angeschossen, überlebte aber wie durch ein Wunder. Er ist wirklich der „§YTiger§!“"
+ TT_FRA_Jaures_traits:0 "§gPazifist§!: Jaurès ist fest davon überzeugt, dass ein Krieg in Europa vermieden werden kann."
+ TT_FRA_hates_germany:0 "§gHasst Deutschland\nBeliebter General§!\n\nAls General während des Krieges entwickelte Foch eine Verbindung zu seinen Soldaten, er kannte ihren Kampf. Der Krieg ließ ihn auch Deutschland hassen, in seinen Augen sind die Deutschen nur ein barbarisches Volk, blutrünstig.[Get_additional_president_du_conseil_traits]"
+ Foch_additional_info:0 " Nach dem Versagen der französischen Armee ist ihm jedoch klar, dass er mit den Deutschen über die Friedensbedingungen verhandeln muss."
+ TT_FRA_Briand_traits:0 "§gAntiklerikal§!: Aristide Briand war einer der ersten Politiker, der das Gesetz zur Trennung von Kirche und Staat unterstützte, so wie er auch das später erlassene Gesetz unterstützte."
+ Bloc_national_formation_tt:0 "Der §CBloc National§! wird"
+ Cartel_de_la_gauche_formation_tt:0 "Das „Kartell der Linken“ wird"

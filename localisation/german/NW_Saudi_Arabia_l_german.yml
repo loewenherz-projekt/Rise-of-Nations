@@ -1,0 +1,1239 @@
+﻿l_german:
+    #FOCUSES
+
+    #############
+    ##SAU
+    #############
+    SAU_convoke_majlis_ash_shura:0 "Einberufung der Majlis-a-Shura"
+    SAU_convoke_majlis_ash_shura_desc:0 ""
+    SAU_handicraft_weapons_production:0 "Produzieren Sie improvisierte Schusswaffen"
+    SAU_handicraft_weapons_production_desc:0 ""
+    SAU_cartridge_production:0 "Munition herstellen"
+    SAU_cartridge_production_desc:0 ""
+    SAU_establishment_of_a_charitable_ambulance_organization:0 "Eine gemeinnützige Krankenwagenorganisation gründen"
+    SAU_establishment_of_a_charitable_ambulance_organization_desc:0 ""
+    SAU_extension_of_the_office_of_public_safety:0 "Erweiterung der Direktion für öffentliche Sicherheit"
+    SAU_extension_of_the_office_of_public_safety_desc:0 ""
+    SAU_establishment_of_the_post_office:0 "Gründung der Postabteilung"
+    SAU_establishment_of_the_post_office_desc:0 ""
+    SAU_development_of_mail_and_telephone_communications:0 "Entwicklung von Post und Telekommunikation"
+    SAU_development_of_mail_and_telephone_communications_desc:0 ""
+    SAU_expand_the_network_of_wells:0 "Erweitern Sie das Brunnennetzwerk"
+    SAU_expand_the_network_of_wells_desc:0 ""
+    SAU_craft_workshops:0 "Fördern Sie Handwerksworkshops"
+    SAU_craft_workshops_desc:0 ""
+    SAU_invitation_of_foreign_specialists:0 "Laden Sie ausländische Spezialisten ein"
+    SAU_invitation_of_foreign_specialists_desc:0 ""
+    SAU_send_students_abroad:0 "Schicken Sie unsere Studenten ins Ausland"
+    SAU_send_students_abroad_desc:0 ""
+    SAU_creation_of_a_fullfledged_education_system:0 "Schaffen Sie ein vollwertiges Bildungssystem"
+    SAU_creation_of_a_fullfledged_education_system_desc:0 ""
+    SAU_agricultural_commission_of_the_kharja_district:0 "Senden Sie eine Agrarkommission nach Al-Kharj" # Al-Kharj
+    SAU_agricultural_commission_of_the_kharja_district_desc:0 ""
+    SAU_expansion_of_date_orchards:0 "Pflanzen Sie Dattelpalmengärten"
+    SAU_expansion_of_date_orchards_desc:0 ""
+    SAU_expand_food_purchases:0 "Mehr Lebensmittel beschaffen"
+    SAU_expand_food_purchases_desc:0 ""
+    SAU_irrigation_projects:0 "Bewässerungsprojekte initiieren"
+    SAU_irrigation_projects_desc:0 ""
+    SAU_resuscitation_of_pearl_mining:0 "Purling wiederbeleben"
+    SAU_resuscitation_of_pearl_mining_desc:0 ""
+    SAU_restore_the_hejaz_railway:0 "Wiederherstellung der Hedschas-Eisenbahn"
+    SAU_restore_the_hejaz_railway_desc:0 ""
+    SAU_restore_the_mines_in_the_cradle_of_gold:0 "Wiederaufbau der Wiege der Goldminen"
+    SAU_restore_the_mines_in_the_cradle_of_gold_desc:0 ""
+    SAU_urbanization_of_eastern_province:0 "Urbanisierung der Ostprovinz"
+    SAU_urbanization_of_eastern_province_desc:0 ""
+    SAU_strengthening_economic_independence:0 "Stärkung der wirtschaftlichen Unabhängigkeit"
+    SAU_strengthening_economic_independence_desc:0 ""
+    SAU_resolve_the_camel_crisis:0 "Lösung der Kamelzuchtkrise"
+    SAU_resolve_the_camel_crisis_desc:0 "Der Kamelverkauf war lange Zeit die Haupteinnahmequelle der Beduinen. Während der Hadsch-Saison wurden die Tiere zum dreifachen Preis verkauft. Der Ausbau des Straßenverkehrs und der Rückgang der Pilgerströme aufgrund der globalen Instabilität haben die Nachfrage nach Kamelen jedoch deutlich reduziert. Staatliche Unterstützung für Nomaden und der verstärkte Einsatz von Kamelen in der Armee werden dazu beitragen, die Situation der Stämme deutlich zu verbessern."
+    SAU_eliminate_the_autonomy_of_al_hasa:0 "Abschaffung der Autonomie der Ostprovinzen" #  Eastern Province
+    SAU_eliminate_the_autonomy_of_al_hasa_desc:0 ""
+    SAU_take_control_of_the_east_coast_tribes:0 "Kontrollieren Sie die Stämme der Ostprovinz"
+    SAU_take_control_of_the_east_coast_tribes_desc:0 ""
+    SAU_support_al_jilluwi:0 "Unterstützen Sie al Jiluwi" # al Jiluwi
+    SAU_support_al_jilluwi_desc:0 ""
+    SAU_investment_in_eastern_province:0 "Investieren Sie in der Ostprovinz"
+    SAU_investment_in_eastern_province_desc:0 ""
+    SAU_strengthening_the_authority_of_abdul_aziz:0 "Stärkung der Autorität von Abdulaziz"
+    SAU_strengthening_the_authority_of_abdul_aziz_desc:0 ""
+    SAU_reform_of_local_currency_and_financial_system:0 "Reform unseres Finanzsystems und des lokalen Geldkreislaufs"
+    SAU_reform_of_local_currency_and_financial_system_desc:0 "Trotz der Ausgabe eigener Silbermünzen und der Einstellung des Umlaufs des Maria-Theresien-Talers und der britischen Sovereign-Münzen ist das Finanzsystem unseres Königreichs noch weit von modernen Standards entfernt. Wir müssen unser Währungssystem reformieren, es vom Pfund Sterling lösen und eine Währungsagentur gründen, die die Kontrolle über den Geldumlauf und die Durchführung von Finanztransaktionen übernimmt."
+    SAU_the_opening_of_the_school_of_princes:0 "Offene Prinzenschule"
+    SAU_the_opening_of_the_school_of_princes_desc:0 "Die Familie Al Saud ist äußerst zahlreich; allein Abdulaziz hat mehr als ein Dutzend Kinder. Obwohl der König es vorzieht, Verwandte nicht in die höchsten Positionen zu berufen, werden viele Nachkommen der Herrscherdynastie in Zukunft zweifellos eine wichtige Rolle im Staatsleben spielen. Die Eröffnung der Prinzenschule im im Bau befindlichen Murabba-Palast soll sie zu würdigen Vertretern der Familie machen."
+    SAU_strengthening_centralization:0 "Zentralisierung des Staates"
+    SAU_strengthening_centralization_desc:0 "König Abdulaziz ist das nahezu Unmögliche gelungen: Er hat die zuvor widerspenstigen und eigensinnigen Beduinen unter Kontrolle gebracht. Doch unser Staat ist noch immer recht schwach. Im Zuge der Ausweitung unserer Macht sollten wir unseren Staatsapparat noch weiter stärken."
+    SAU_abolition_of_slavery:0 "Abschaffung der Sklaverei"
+    SAU_abolition_of_slavery_desc:0 "Das Fortbestehen der Sklaverei hat einen zutiefst negativen Einfluss auf das internationale Ansehen unseres Landes. In einem sich wandelnden Königreich ist für ineffiziente Sklavenarbeit kein Platz. Die Abschaffung der Sklaverei wird auch von vielen Ulema positiv aufgenommen, während die Stämme und einige Geistliche, die die Sklaverei aufgrund ihrer Existenz zur Zeit des Propheten für akzeptabel halten, diesen Schritt ablehnen werden."
+    SAU_regulate_the_terms_of_the_slave_trade:0 "Den Sklavenhandel regulieren"
+    SAU_regulate_the_terms_of_the_slave_trade_desc:0 "Ein Verbot des Sklavenhandels würde unser internationales Ansehen stärken, doch die Sklaverei ist in der arabischen Gesellschaft zu tief verwurzelt, und wir können sie noch nicht abschaffen. Dennoch sollten wir die Bedingungen des Sklavenhandels regeln, indem wir Sklaven die Einreise ins Land nur auf dem Landweg aus dem Jemen, Hadramaut, Oman und Kuwait erlauben und unter der Bedingung, dass der Importeur nachweisen kann, dass die eingeführte Person im Herkunftsland Sklave war und über ein Gesundheitszeugnis verfügt. Sklaven müssen spezielle Ausweise mit Lichtbild erhalten. Darüber hinaus sollte der Sklavenhalter verpflichtet werden, die ihm gehörenden Sklaven zu ernähren und zu kleiden und sie schonend zu behandeln, andernfalls droht ihm der Zwangsverkauf an einen anderen Herrn."
+    SAU_construction_of_murabba_palace:0 "Baue den Murabba-Palast"
+    SAU_construction_of_murabba_palace_desc:0 "Der 1936 begonnene Bau des Murabba-Palastes, einer neuen Familienresidenz und Hofburg für den König, ist ein Symbol der Modernisierung unseres Königreichs und wird Abdulaziz&#39; Rolle als größter Herrscher Arabiens bestätigen. Obwohl er im traditionellen arabischen Stil erbaut wurde, bringt er dennoch eine Reihe neuer Technologien in unsere Gesellschaft: die Nutzung von Autos als Fortbewegungsmittel, Elektrizität und Trockentoiletten. Die erste Betonstraße des Landes wird den Palast mit dem Stadtzentrum verbinden."
+    SAU_support_for_bedouin_traditions:0 "Unterstützen Sie die Traditionen der Beduinen"
+    SAU_support_for_bedouin_traditions_desc:0 "Der Wahhabismus entstand aus der Unzufriedenheit der Beduinen und Ulema mit dem Wohlstand der Stadtbewohner. Obwohl die Nomaden sich sogar gegen die Einführung von Autos wehrten, sicherten sie sich durch die Pflege der Beduinentraditionen, die Bewahrung vieler Überreste des Stammessystems und deren Ausweitung in den Hedschas die Unterstützung der großen militarisierten Beduinenschicht."
+    SAU_bet_on_the_hijaz_nobility:0 "Wetten Sie auf den Hedschas-Adel"
+    SAU_bet_on_the_hijaz_nobility_desc:0 "Obwohl Abdulaziz das Königreich Hedschas eroberte, blieb der lokale Adel davon unberührt. Selbst nach der endgültigen Abschaffung der Hedschas-Autonomie nahm seine Rolle in der Staatsführung weiter zu. Während die Stämme mit der Stärkung der „arroganten Stadtbewohner“ unzufrieden waren, trug die Unterstützung der Hedschas-Aristokratie dazu bei, Nejd schneller zu modernisieren."
+    SAU_flattening_economic_differences:0 "Wirtschaftliche Diskrepanz ausgleichen"
+    SAU_flattening_economic_differences_desc:0 "Da sich Nejd und Hijaz kulturell nicht mehr so stark unterscheiden, sollten wir die wirtschaftlichen Unterschiede zwischen den beiden Regionen ausbügeln."
+    SAU_support_for_compradors:0 "Unterstützen Sie die Kompradoren"
+    SAU_support_for_compradors_desc:0 "Wie in allen Ländern des Nahen Ostens ist auch in unserem Land nicht die Produktion, sondern der Handel die treibende Kraft der Modernisierung. Die anfängliche Kapitalakkumulation durchläuft eine Phase des Kompradorentums – der Vermittlung zwischen ausländischen Unternehmen und dem heimischen Markt, die ausländische Unternehmen bedienen. Dies ermöglicht es arabischen Unternehmern, Geld und Erfahrung anzuhäufen und später zur Finanzbourgeoisie aufzusteigen."
+    SAU_establishment_of_the_arab_industry_development_department:0 "Schaffung einer Abteilung für die Entwicklung der arabischen Industrie"
+    SAU_establishment_of_the_arab_industry_development_department_desc:0 "Ausländische Unternehmen in unserem Land benötigen zahlreiche lokale Auftragnehmer. Als Reaktion auf diese Nachfrage gründen immer mehr Einwohner kleine Unternehmen, die Baumaterialien, Möbel, Flaschen, Eis und Autovermietungen herstellen. Ziel der neuen Abteilung ist es, zwischen einheimischen und ausländischen Unternehmen zu vermitteln."
+    SAU_construction_of_modern_infrastructure:0 "Modernisierung der Infrastruktur"
+    SAU_construction_of_modern_infrastructure_desc:0 "Der Ausbau der Infrastruktur ist eine der wichtigsten Etappen der staatlichen Modernisierung. In einem Land, in dem Nomaden auf Kamelen noch immer eine wesentliche Rolle beim Gütertransport spielen, ist es unmöglich, eine ausreichend starke Wirtschaft aufzubauen."
+    SAU_establish_riyadh_university:0 "Gründung der Universität Riad" #Riyadh University
+    SAU_establish_riyadh_university_desc:0 "Wir können uns bei der Ausbildung unserer Fachkräfte nicht auf ausländische Institutionen verlassen. Wir müssen in Riad eine eigene Universität eröffnen, die über die gleichen Einrichtungen verfügt wie die besten Bildungseinrichtungen der Türkei und Ägyptens."
+    SAU_establishment_of_the_general_organization_of_war_industries:0 "Einrichtung einer Generalautorität für die Rüstungsindustrie"
+    SAU_establishment_of_the_general_organization_of_war_industries_desc:0 "Abdulaziz war sich stets der Notwendigkeit bewusst, die Abhängigkeit des Landes von ausländischen Rüstungsgütern zu verringern. Mit steigenden Öleinnahmen können wir mit dem Aufbau einer vollwertigen Rüstungsindustrie beginnen."
+    SAU_stand_up_for_the_usa:0 "Seite an Seite mit den USA"
+    SAU_stand_up_for_the_usa_desc:0 ""
+    SAU_punish_the_rassid:0 "Bestrafe den Rassid"
+    SAU_punish_the_rassid_desc:0 ""
+    SAU_liberation_of_the_somalis:0 "Befreit die Somalier"
+    SAU_liberation_of_the_somalis_desc:0 ""
+    SAU_purchase_of_american_machines:0 "Kaufen Sie amerikanische Maschinen"
+    SAU_purchase_of_american_machines_desc:0 ""
+    SAU_formation_of_ARAMCO:0 "Gründung der ARAMCO"
+    SAU_formation_of_ARAMCO_desc:0 ""
+    SAU_licensed_equipment:0 "Lizenzausrüstung"
+    SAU_licensed_equipment_desc:0 ""
+    SAU_policy_of_benevolent_neutrality:0 "Politik der wohlwollenden Neutralität"
+    SAU_policy_of_benevolent_neutrality_desc:0 ""
+    SAU_arms_supplies_from_allies:0 "Erhalten Sie Waffenlieferungen von den Alliierten"
+    SAU_arms_supplies_from_allies_desc:0 ""
+    SAU_anticolonial_policy:0 "Eine antikoloniale Politik verfolgen"
+    SAU_anticolonial_policy_desc:0 ""
+    SAU_support_for_opponents_of_the_syrian_mandate:0 "Unterstützung für die Gegner des syrischen Mandats"
+    SAU_support_for_opponents_of_the_syrian_mandate_desc:0 ""
+    SAU_support_the_imamate_of_oman:0 "Unterstützen Sie das Imamat von Oman"
+    SAU_support_the_imamate_of_oman_desc:0 ""
+    SAU_support_muscats_drive_for_independence:0 "Unterstützung der Unabhängigkeit von Maskat"
+    SAU_support_muscats_drive_for_independence_desc:0 ""
+    SAU_support_iraq:0 "Unterstützen Sie den Irak"
+    SAU_support_iraq_desc:0 ""
+    SAU_support_the_emirates_of_the_persian_and_gulf_of_aden:0 "Unterstützen Sie die Emirate des Persischen Golfs und des Aden-Golfs"
+    SAU_support_the_emirates_of_the_persian_and_gulf_of_aden_desc:0 ""
+    SAU_support_the_palestinian_arabs:0 "Unterstützen Sie die palästinensischen Araber"
+    SAU_support_the_palestinian_arabs_desc:0 ""
+    SAU_unite_arabs_against_colonialism:0 "Vereint die Araber gegen den Kolonialismus"
+    SAU_unite_arabs_against_colonialism_desc:0 ""
+    SAU_reconciliation_with_iraq:0 "Versöhnung mit dem Irak"
+    SAU_reconciliation_with_iraq_desc:0 ""
+    SAU_integration_of_the_arab_economies:0 "Integration arabischer Volkswirtschaften"
+    SAU_integration_of_the_arab_economies_desc:0 ""
+    SAU_search_for_allies_in_the_middle_east:0 "Suche nach Verbündeten im Nahen Osten"
+    SAU_search_for_allies_in_the_middle_east_desc:0 ""
+    SAU_destroy_israel:0 "Zerstöre Israel"
+    SAU_destroy_israel_desc:0 ""
+    SAU_united_arabia:0 "Vereinigtes Arabien"
+    SAU_united_arabia_desc:0 ""
+    SAU_united_arabia_tt:0 "\nEin Besatzungsgesetz §O$propaganda_pan_arabism_occupation$§ wird gegen alle Nationen der §OArabischen Halbinsel§ in Kraft treten!"
+    SAU_renew_the_feud_with_the_hashemites:0 "Erneuern Sie die Fehde mit den Haschemiten"
+    SAU_renew_the_feud_with_the_hashemites_desc:0 ""
+    SAU_renew_the_feud_with_the_hashemites_tt:0 "\nEin Besatzungsgesetz §O$propaganda_pan_arabism_occupation$§ wird gegen §OIraq§!! verfügbar sein."
+    SAU_continue_jihad:0 "Dschihad fortsetzen"
+    SAU_continue_jihad_desc:0 ""
+    SAU_complete_the_unification_of_arabia:0 "Schließen Sie die Vereinigung Arabiens ab"
+    SAU_complete_the_unification_of_arabia_desc:0 ""
+    SAU_subdue_mashriq:0 "Unterwerfe Mashriq"
+    SAU_subdue_mashriq_desc:0 ""
+    SAU_purification_of_islam:0 "Reinige den Islam"
+    SAU_purification_of_islam_desc:0 ""
+    SAU_root_out_iranian_idolatry:0 "Beseitigen Sie den iranischen Götzendienst"
+    SAU_root_out_iranian_idolatry_desc:0 ""
+    SAU_conquest_of_the_maghreb:0 "Erobern Sie den Maghreb"
+    SAU_conquest_of_the_maghreb_desc:0 ""
+    SAU_assume_the_title_of_caliph:0 "Nehmen Sie den Titel eines Kalifen an"
+    SAU_assume_the_title_of_caliph_desc:0 ""
+    SAU_the_concept_of_cultural_wahhabism:0 "Kulturelles Wahhabismus-Konzept"
+    SAU_the_concept_of_cultural_wahhabism_desc:0 ""
+    SAU_enlist_the_support_of_italy:0 "Sicherer italienischer Support"
+    SAU_enlist_the_support_of_italy_desc:0 ""
+    SAU_integration_into_the_mediterranean_economy:0 "Integration in die Mittelmeerwirtschaft"
+    SAU_integration_into_the_mediterranean_economy_desc:0 ""
+    SAU_enlist_the_support_of_germany:0 "Sicherer deutscher Support"
+    SAU_enlist_the_support_of_germany_desc:0 ""
+    SAU_mission_grobba:0 "Grobbas Mission"
+    SAU_mission_grobba_desc:0 ""
+    SAU_assume_the_title_of_king_of_all_arabs:0 "Nehmen Sie den Titel des Königs aller Araber an"
+    SAU_assume_the_title_of_king_of_all_arabs_desc:0 ""
+    SAU_office_of_military_affairs:0 "Amt für Militärangelegenheiten"
+    SAU_office_of_military_affairs_desc:0 ""
+    SAU_standardization_of_military_uniform:0 "Standardisierung von Militäruniformen"
+    SAU_standardization_of_military_uniform_desc:0 ""
+    SAU_establishment_of_schools_of_radio_operators:0 "Radioschulen gründen"
+    SAU_establishment_of_schools_of_radio_operators_desc:0 ""
+    SAU_landing_pad_expansion:0 "Erweiterung der Landeflächen"
+    SAU_landing_pad_expansion_desc:0 "Der König schenkt der Entwicklung der militärischen Luftfahrt in Saudi-Arabien große Aufmerksamkeit. Obwohl unsere Luftwaffe noch sehr klein ist, sollten wir die Anzahl der Start- und Landebahnen in unserem Land erweitern, damit Flugzeuge die Truppen im Notfall an jeder Front unterstützen können."
+    SAU_cooperation_with_italy:0 "Zusammenarbeit mit Italien"
+    SAU_cooperation_with_italy_desc:0 "Italien verfolgt eine recht aktive Politik zur Entwicklung der Beziehungen zu den arabischen Staaten. Insbesondere ist Mussolini bereit, mehrere Flugzeuge zu spenden, um die italienischen Positionen in Saudi-Arabien zu stärken. Darüber hinaus werden mehrere Ausbilder und Mechaniker entsandt, um uns dabei zu helfen, die neue Ausrüstung so schnell wie möglich zu beherrschen."
+    SAU_send_pilots_to_study_in_italy:0 "Flugtrainings mit Italien"
+    SAU_send_pilots_to_study_in_italy_desc:0 "Bereits 1932 schlug Italo Balbo vor, saudische Piloten zur Ausbildung nach Italien zu schicken. Nun ist es an der Zeit, seinen Vorschlag umzusetzen. Unsere Kadetten werden eine Sommerschule in Grottaglie besuchen und anschließend einen Kurs in Malpensa absolvieren."
+    SAU_renew_cooperation_with_the_uk:0 "Erneuerung der Zusammenarbeit mit Großbritannien"
+    SAU_renew_cooperation_with_the_uk_desc:0 "Großbritannien unterstützt uns nicht mehr beim Aufbau unserer Luftwaffe. Wir können jedoch weiterhin mit dem Vereinigten Königreich über den günstigen Kauf einiger veralteter Flugzeuge verhandeln."
+    SAU_send_pilots_to_study_in_egypt:0 "Flugtrainings in Ägypten"
+    SAU_send_pilots_to_study_in_egypt_desc:0 "Aus den Flugkursen in Kairo sind mehrere Generationen arabischer Piloten hervorgegangen. Wir sollten unsere Kadetten auch dorthin schicken."
+    SAU_our_eagles:0 "Unsere Adler"
+    SAU_our_eagles_desc:0 "Die im Ausland ausgebildeten Piloten werden offiziell als „unsere Adler“ bezeichnet und sind eine Quelle des Stolzes für den König. Trotz ihrer geringen Zahl entspricht die Ausbildung unserer Piloten europäischen Standards."
+    SAU_establishment_of_the_coast_guard_office:0 "Einrichtung eines Büros der Küstenwache"
+    SAU_establishment_of_the_coast_guard_office_desc:0 ""
+    SAU_creation_of_the_navy:0 "Erstellen Sie die Marine"
+    SAU_creation_of_the_navy_desc:0 ""
+    SAU_purchase_first_capital_ships:0 "Erwerben Sie unsere ersten Großkampfschiffe"
+    SAU_purchase_first_capital_ships_desc:0 ""
+    SAU_military_school_at_taif:0 "Taif Militärschule"
+    SAU_military_school_at_taif_desc:0 ""
+    SAU_establishment_of_the_general_staff:0 "Den Generalstab einrichten"
+    SAU_establishment_of_the_general_staff_desc:0 ""
+    SAU_organization_of_the_regular_army:0 "Bilden Sie eine reguläre Armee"
+    SAU_organization_of_the_regular_army_desc:0 ""
+    SAU_abandon_irregulars:0 "Entfernen Sie sich von Unregelmäßigkeiten"
+    SAU_abandon_irregulars_desc:0 ""
+    SAU_arid_officers:0 "Trockenoffiziere"
+    SAU_arid_officers_desc:0 ""
+    SAU_expansion_of_the_royal_guard:0 "Erweitern Sie die königliche Garde"
+    SAU_expansion_of_the_royal_guard_desc:0 ""
+    SAU_modern_army:0 "Modernisierung der Armee"
+    SAU_modern_army_desc:0 ""
+    SAU_call_among_the_tribes:0 "Mobil die Stämme"
+    SAU_call_among_the_tribes_desc:0 ""
+    SAU_complication_of_the_military_hierarchy:0 "Überprüfen Sie die Milititätshierarchie"
+    SAU_complication_of_the_military_hierarchy_desc:0 ""
+    SAU_use_the_fear_of_the_creations_of_satan:0 "Nutzen Sie die Angst vor „Shaitans Schöpfungen“"
+    SAU_use_the_fear_of_the_creations_of_satan_desc:0 ""
+    SAU_company_against_superstitions:0 "Kampagne gegen Aberglauben"
+    SAU_company_against_superstitions_desc:0 ""
+    SAU_mixed_army:0 "Gemischte Armee"
+    SAU_mixed_army_desc:0 ""
+    SAU_development_of_military_infrastructure:0 "Entwicklung der Militärindustrie"
+    SAU_development_of_military_infrastructure_desc:0 ""
+    SAU_replacement_of_obsolete_equipment:0 "Ersetzen Sie veraltete Geräte"
+    SAU_replacement_of_obsolete_equipment_desc:0 ""
+    SAU_elite_troops:0 "Elitetruppen"
+    SAU_elite_troops_desc:0 ""
+    SAU_professional_officers_in_the_tribal_militia:0 "Berufsoffiziere der Stammesmiliz"
+    SAU_professional_officers_in_the_tribal_militia_desc:0 ""
+    SAU_professional_divisions:0 "Professionelle Divisionen"
+    SAU_professional_divisions_desc:0 ""
+    SAU_jihad_and_mujahideen_department:0 "Abteilung für Dschihad und Mudschaheddin"
+    SAU_jihad_and_mujahideen_department_desc:0 ""
+    SAU_reforming_the_white_army:0 "Reformieren Sie die Weiße Armee"
+    SAU_reforming_the_white_army_desc:0 ""
+    SAU_delivery_of_weapons_to_hijri:0 "Waffenlieferung an die Hijra"
+    SAU_delivery_of_weapons_to_hijri_desc:0 ""
+    SAU_support_for_the_arms_trade:0 "Waffenhandel unterstützen"
+    SAU_support_for_the_arms_trade_desc:0 ""
+    SAU_city_militia_expansion:0 "Stadtmiliz erweitern"
+    SAU_city_militia_expansion_desc:0 ""
+    SAU_supply_city_militia_with_artillery:0 "Artillerielieferungen an die Stadtmiliz"
+    SAU_supply_city_militia_with_artillery_desc:0 ""
+    SAU_hijaz_engineers:0 "Hijaz-Ingenieure"
+    SAU_hijaz_engineers_desc:0 ""
+    SAU_strengthen_control_over_the_tribes:0 "Stärkung der Stammeskontrolle"
+    SAU_strengthen_control_over_the_tribes_desc:0 ""
+    SAU_tribal_unions:0 "Stammesverbände"
+    SAU_tribal_unions_desc:0 ""
+    SAU_centralization_of_the_irregulars:0 "Zentralisieren Sie die Irregulars"
+    SAU_centralization_of_the_irregulars_desc:0 ""
+    SAU_bedouin_raiders:0 "Beduinenräuber"
+    SAU_bedouin_raiders_desc:0 ""
+    SAU_bedouin_flying_units:0 "Beduinen-Fliegerstaffeln"
+    SAU_bedouin_flying_units_desc:0 ""
+    SAU_remove_objectionable_sheikhs:0 "Illoyale Scheichs entfernen"
+    SAU_remove_objectionable_sheikhs_desc:0 ""
+    SAU_aridh_people:0 "Leute aus Aridh" #Aridh
+    SAU_aridh_people_desc:0 "Die sogenannten Männer von Aridh bilden eine besondere Kaste in unserer Armee."
+    SAU_jihad_warriors:0 "Dschihad-Krieger"
+    SAU_jihad_warriors_desc:0 ""
+    SAU_bedouin_tactics:0 "Beduinentaktiken"
+    SAU_bedouin_tactics_desc:0 ""
+    SAU_tribal_logistics:0 "Stammeslogistik"
+    SAU_tribal_logistics_desc:0 ""
+    SAU_accuse_abdulaziz_of_religious_licentiousness:0 "Beschuldigen Sie Abdulaziz der religiösen Unmoral"
+    SAU_accuse_abdulaziz_of_religious_licentiousness_desc:0 ""
+    SAU_senior_ulema_council:0 "Rat der hochrangigen Wissenschaftler"
+    SAU_senior_ulema_council_desc:0 ""
+    SAU_criticism_of_the_general_taqleed:0 "Kritisieren Sie Universal Taklid"
+    SAU_criticism_of_the_general_taqleed_desc:0 ""
+    SAU_strengthen_control_over_zakat_collectors:0 "Verstärkte Kontrolle über Zakat-Sammler"
+    SAU_strengthen_control_over_zakat_collectors_desc:0 ""
+    SAU_preservation_of_the_religious_supremacy_of_the_sultan:0 "Bewahrung der religiösen Vorherrschaft des Sultans"
+    SAU_preservation_of_the_religious_supremacy_of_the_sultan_desc:0 ""
+    SAU_administrative_reform:0 "Verwaltungsreform"
+    SAU_administrative_reform_desc:0 ""
+    SAU_Ghazi:0 "Ghazi"
+    SAU_Ghazi_desc:0 ""
+    SAU_rally_the_remnants_of_the_ikhwan:0 "Versammelt die Überreste der Ikhwan"
+    SAU_rally_the_remnants_of_the_ikhwan_desc:0 ""
+    SAU_celebration_of_muslims:0 "Triumph der monotheistischen Muslime"
+    SAU_celebration_of_muslims_desc:0 ""
+    SAU_unite_all_muslims:0 "Vereint alle Muslime"
+    SAU_unite_all_muslims_desc:0 ""
+    SAU_eradicate_the_bidah:0 "Bid&#39;ah ausrotten"
+    SAU_eradicate_the_bidah_desc:0 ""
+    SAU_transfer_of_ministries_to_riyadh:0 "Recolate Ministries nach Riad"
+    SAU_transfer_of_ministries_to_riyadh_desc:0 ""
+    SAU_containment_of_uncompromising_ulema:0 "Unterdrückt die kompromisslosen Ulema"
+    SAU_containment_of_uncompromising_ulema_desc:0 ""
+    SAU_bedouin_uprising:0 "Beduinenaufstand"
+    SAU_bedouin_uprising_desc:0 ""
+    SAU_restoration_of_rashid_power:0 "Stellen Sie das Rashidi wieder her"
+    SAU_restoration_of_rashid_power_desc:0 ""
+    SAU_return_the_throne_to_the_ottomans:0 "[GetNameOttomanRestorationSau]"
+    SAU_return_the_throne_to_the_ottomans_desc:0 ""
+    SAU_technological_cooperation:0 "Technologische Zusammenarbeit"
+    SAU_technological_cooperation_desc:0 ""
+    SAU_defenders_of_Islam:0 "Verteidiger des Islam"
+    SAU_defenders_of_Islam_desc:0 ""
+    SAU_intermarry_with_the_ottomans:0 "Heiraten Sie mit den Osmanen"
+    SAU_intermarry_with_the_ottomans_desc:0 ""
+    SAU_easing_the_tax_burden:0 "Entlastung der Steuerlast"
+    SAU_easing_the_tax_burden_desc:0 ""
+    SAU_introduction_of_the_rashid_nizam:0 "Stellen Sie den Rashidi Nizam vor"
+    SAU_introduction_of_the_rashid_nizam_desc:0 ""
+    SAU_legalize_adat_proceedings:0 "Legalisierung der Adat-Justiz"
+    SAU_legalize_adat_proceedings_desc:0 ""
+    SAU_triumph_of_the_rashids:0 "Triumph der Rashidi"
+    SAU_triumph_of_the_rashids_desc:0 ""
+    SAU_restoration_of_the_rashid_guard:0 "Stellen Sie die Rashidi-Wache wieder her"
+    SAU_restoration_of_the_rashid_guard_desc:0 ""
+    SAU_warriors_of_shammar:0 "Shammar-Krieger"
+    SAU_warriors_of_shammar_desc:0 ""
+    SAU_tribal_unions_2:0 "Stammesverbände"
+    SAU_tribal_unions_2_desc:0 ""
+    SAU_restoring_the_power_of_the_sharifs:0 "Stellen Sie die Macht der Sharifs wieder her"
+    SAU_restoring_the_power_of_the_sharifs_desc:0 ""
+    SAU_restoration_of_hail:0 "Hagel wieder aufbauen"
+    SAU_restoration_of_hail_desc:0 ""
+    SAU_hail_masters:0 "Haʼil Masters"
+    SAU_hail_masters_desc:0 ""
+    SAU_expansion_of_the_madrasah_network:0 "Erweiterung des Madrasa-Netzwerks"
+    SAU_expansion_of_the_madrasah_network_desc:0 ""
+    SAU_compromise_with_wahhabis:0 "Kompromiss mit Wahhabiten"
+    SAU_compromise_with_wahhabis_desc:0 ""
+    SAU_repression_against_the_urban_aristocracy:0 "Razzien gegen die städtische Aristokratie"
+    SAU_repression_against_the_urban_aristocracy_desc:0 ""
+    SAU_tribal_raids:0 "Stammesüberfälle"
+    SAU_tribal_raids_desc:0 ""
+    SAU_experienced_warriors:0 "Erfahrene Krieger"
+    SAU_experienced_warriors_desc:0 ""
+    we_have_one_win_war_tt:0 "Wir haben mindestens einen Krieg erfolgreich beendet"
+    SAU_experienced_warriors_tt:0 "Jetzt starten §HIrregulars§! mit der Erfahrungsstufe §O$UNIT_LEVEL_1$§!"
+    ##
+    semi_independent_emir:0 "Halbunabhängiger Emir"
+    king_of_all_arabs:0 "König aller Araber"
+    caliph_2:0 "Kalif"
+    arabian_desert_connoisseur:0 "Arabischer Wüstenexperte"
+    illustrious_intellectual:0 "Renommierter Intellektueller"
+    shiite_jurist:0 "Schiitischer Anwalt"
+    human_rights_activist:0 "Menschenrechtsaktivist"
+    SOCAL_representative:0 "SOCAL-Vertreter"
+    petroleum_geologist:0 "Erdölgeologe"
+    ## EVENTS ##
+    NWsaudi.1.t:0 "Stammesaufstand"
+    NWsaudi.1.d:0 "Lange Zeit gelang es dem König, die Stammesangehörigen unter Kontrolle zu halten. Diese hatten jedoch stets mit der auferlegten Steuerlast zu kämpfen und ärgerten sich darüber, dass „einige Städter“ mehr Privilegien genossen als die edlen Beduinen. \n\nIn letzter Zeit wurde die Unzufriedenheit unter den Beduinen immer deutlicher. Die Stämme, die einen Groll gegen den König hegten, erhoben erneut ihr Haupt. Schließlich startete der Stamm der Schammar, der schon lange von der Wiederherstellung des Raschidischen Staates geträumt hatte, einen offenen Aufstand gegen die Zentralregierung und überzeugte viele andere Clans und sogar einige illoyale Saudis, sich dem Aufstand anzuschließen."
+    NWsaudi.1.a:0 "Wir werden die Rebellen vernichten"
+    NWsaudi.1.b:0 "Nieder mit dem Tyrannen!"
+
+    NWsaudi.3.t:0 "Palastputsch"
+    NWsaudi.3.d:0 "Obwohl der König radikale Reformen durchführte, konnte er die Unzufriedenheit der Ulema lange Zeit unter Kontrolle halten, indem er seinen Status als Anführer aller Wahhabiten nutzte. Mit der Zeit verschärfte sich jedoch der Konflikt zwischen den islamischen Gelehrten und dem König. Schließlich erließen die Ulema eine Fatwa, in der sie den König der religiösen Unmoral und der Abweichung von islamischen Normen beschuldigten. Dies bot Prinz Muhammad, der schon lange versucht hatte, seine Macht im Königreich zu mehren, eine Gelegenheit, die Situation auszunutzen. Mit Unterstützung der Ulema belagerten Prinz Muhammads Truppen die Festung Masmak, wo der König stationiert war. Obwohl eine kleine Gruppe von Königswachen versuchte, sich gegen die Rebellen zu verteidigen, wurden sie schnell besiegt und ergaben sich. Prinz Muhammad wurde zum Sultan ausgerufen und verzichtete darauf, den Titel „König“ im westlichen Sinne zu verwenden."
+    NWsaudi.3.a:0 "Es lebe der Sultan"
+
+    NWsaudi.4.t:0 "[GetNewsHeadline]Putsch in Saudi-Arabien" # Omar Bin Hassan al-Sheikh
+    NWsaudi.4.d:0 "Trotz der relativ gemäßigten Reformen von König Abdulaziz gelang es ihm nicht, sein Image als frommer und großzügiger Herrscher zu wahren, der der Führung aller Wahhabiten würdig gewesen wäre. Nach einer langen Phase wachsender Spannungen zwischen dem König und dem Klerus beschuldigten die Ulema Abdulaziz offen der religiösen Unmoral und der Abweichung von islamischen Normen. Muhammad al Saud nutzte die Instabilität und die Unterstützung des Klerus, um die Macht im Land zu ergreifen und sich selbst zum neuen Sultan zu ernennen."
+    NWsaudi.4.a:0 "Hoffen wir, dass sie nicht gegen ausländische Unternehmen vorgehen"
+    NWsaudi.4.b:0 "Es lebe der Sultan"
+    NWsaudi.4.c:0 "Die Arabische Halbinsel ist wieder instabil"
+
+    NWsaudi.5.t:0 "Neue Macht"
+    NWsaudi.5.d:0 "Obwohl Muhammad al Saud den Thron bestiegen hat, ist seine Macht noch immer instabil. Die Unterstützung der Ulema ermöglicht dem neuen Sultan, an der Macht zu bleiben, hindert ihn aber auch daran, eigenständig zu handeln. \n\nVor wenigen Tagen wurde der Rat der Hohen Gelehrten unter Vorsitz von Großmufti Omar bin Hassan al-Sheikh, einem Nachfahren des Gründers der Wahhabitenbewegung, gegründet, der de facto die Rolle des wichtigsten Machtzentrums des Landes beansprucht. \n\nIn der gegenwärtigen Situation muss sich der neue Sultan entweder entscheiden, sich dem Rat entgegenzustellen, oder die faktische Einschränkung seiner Autorität akzeptieren und die Position der Hohen Ulema gesetzlich festlegen. Man sollte jedoch bedenken, dass die islamischen Gelehrten bis zu diesem Zeitpunkt keine Hierarchie hatten und der Rat daher nicht die Unterstützung aller Ulema genießt."
+    NWsaudi.5.a:0 "Die Ulema können den Monarchen nur beraten"
+    NWsaudi.5.b:0 "Wir sollten uns daran halten"
+    
+    NWsaudi.6.t:0 "Beginn des Hadsch" ## Umrah
+    NWsaudi.6.d:0 "Die Pilgersteuer ist die Haupteinnahmequelle Saudi-Arabiens. Während der kleinen Pilgerfahrt, der Umra, sind die Steuereinnahmen relativ gering, steigen jedoch während des Hadsch, wenn Zehntausende Muslime zu den heiligen Stätten reisen, deutlich an. \n\nDer Hadsch findet jedes Jahr am achten Tag des Dhul-Hijjah statt und dauert nur fünf Tage. Viele Pilger bleiben jedoch eine Woche oder sogar einen Monat in Saudi-Arabien. Einige von ihnen bringen Waren aus ihren Heimatländern mit, um ihre Reisekosten zu decken. Die Sicherheit der Hadsch-Karawanen kommt auch professionellen Händlern zugute. Für kurze Zeit sind die Märkte Saudi-Arabiens mit einer beispiellosen Fülle an Textilien, Gewürzen, Schmuck und Kaffee gefüllt."
+    NWsaudi.6.a:0 "Es gibt keinen Gott außer Allah, und Muhammad ist sein Prophet"
+    ## побивание (да именно так пишется) - Stoning of the Devil
+    NWsaudi.7.d:0 "Heute ist der 8. Zul-Hijjah im Jahr 1355, was bedeutet, dass die Zeit des Hadsch wieder gekommen ist. Zehntausende Pilger aus unserem Land und anderen muslimischen Ländern bereiten sich darauf vor, sieben Mal zwischen den Hügeln von Safa und Marwa zu laufen, zweimal Wasser aus der heiligen Quelle Zamzam zu schöpfen, einer Predigt auf dem Berg Arafat zu lauschen, am Ritual der Steinigung des Teufels teilzunehmen und einen Umweg um die Kaaba zu machen."
+    
+    NWsaudi.8.d:0 "Jedes Jahr, vom 8. bis 12. des islamischen Kalenders, unternehmen Zehntausende Pilger den Hadsch, die heilige Pflicht eines jeden Muslims. In den Tagen vor und nach dem Hadsch füllen sich die überfüllten Straßen Mekkas und der umliegenden Dörfer mit Waren aus allen Teilen der islamischen Welt, und die Staatskasse wird durch Pilger- und Handelssteuern erheblich aufgefüllt."
+    
+    NWsaudi.9.d:0 "Jedes Jahr, vom 8. bis 12. des islamischen Kalenders, unternehmen Zehntausende Pilger den Hadsch, die heilige Pflicht eines jeden Muslims. Normalerweise trägt der Hadsch durch die Pilgersteuer und den zunehmenden Handel erheblich zur Staatskasse bei, doch in diesem Jahr ist der Zustrom von Muslimen, die die heiligen Stätten besuchen möchten, aufgrund von Krieg und Instabilität in der Welt extrem gering."
+    
+    NWsaudi.10.t:0 "Die unübertreffliche Noura"
+    NWsaudi.10.d:0 "Die charismatische Persönlichkeit der ältesten Schwester des Königs, Noura bint Abdul Rahman Al Saud, nimmt in der Geschichte Saudi-Arabiens einen bedeutenden Platz ein. Sie trug maßgeblich dazu bei, Abdulaziz’ Entschlossenheit zu stärken, einen Krieg zur Wiederherstellung des Emirats Riad zu beginnen, als die Saudis im Exil in Kuwait waren. Darüber hinaus heiratete sie Saud al-Kabir, das einflussreichste noch lebende Mitglied des Al-Qabir-Zweigs des saudischen Königshauses, der die höchste Macht im Land beanspruchte, und sicherte sich so seine Treue. \n\nNoura war schon immer sehr fortschrittlich und freimütig. Als beispielsweise das Telefon im Land eingeführt wurde, taten viele Geistliche es als Werkzeug des Schaitans ab, Noura jedoch unterstützte aktiv dessen Verwendung und sagte, es sei ein erstaunliches und notwendiges Gerät für das Leben. \n\nMit dem „Verstand von 40 Männern“ und einem guten politischen Verständnis wurde Noura eine der wichtigsten Beraterinnen von Abdul Aziz und diente zeitweise sogar als seine Stellvertreterin. König Abdulaziz hat sich in der Öffentlichkeit mehrfach als „Nouras Bruder“ bezeichnet. \n\nObwohl keiner der Ulema es wagt, offen darüber zu sprechen, sorgt Nouras wachsender Einfluss in der Regierung für Unmut unter den konservativen Geistlichen, die der Ansicht sind, dass Frauen nur die Arbeiten verrichten sollten, die Männer nicht verrichten dürfen." #Noura bint Abdul Rahman Al Saud
+    NWsaudi.10.a:0 "Wenn sie nicht reden können, sollen sie den Mund halten"
+    NWsaudi.10.b:0 "Vielleicht müssen wir ihre Kräfte doch noch einmal überdenken"
+    
+    NWsaudi.11.t:0 "Bin Suleimans neues Projekt" 
+    NWsaudi.11.d:0 "Finanzminister Abdullah bin Suleiman, der manchmal als „Seine Exzellenz der Minister“ bezeichnet wird, ist nach König Abdulaziz’ Lieblingssohn Faisal eine der einflussreichsten Persönlichkeiten am Hof. Obwohl der König sich selten mit jemandem privat trifft, darf bin Suleiman nach allgemeinen Ratssitzungen das Schlafzimmer des Königs betreten, wo er dem König seine Anliegen vorträgt. \n\nWährend König Abdulaziz es als seine Verantwortung ansieht, die Staatskasse zu leeren, ist es bin Suleimans Aufgabe, sie wieder aufzufüllen. Bei einem kürzlichen privaten Treffen bat der Finanzminister den König jedoch um die Erlaubnis, einen beträchtlichen Betrag aus der Staatskasse für den Bau des ersten Hotels des Landes bereitzustellen, das insbesondere Pilgern Unterkunft bieten soll."
+    NWsaudi.11.a:0 "Man kann einem treuen Freund Geld für ein gesegnetes Projekt nicht verweigern!"
+    NWsaudi.11.b:0 "Verschwenden wir nicht unser Staatsgeld"
+    
+    NWsaudi.12.t:0 "John Philbys Reise"
+    NWsaudi.12.d:0 "John Philby, Berater und enger Freund von Abdulaziz, spielte eine bedeutende Rolle bei der Stärkung des saudischen Staates und beriet den König in Außenpolitik. Selbst während seiner Tätigkeit für den britischen Geheimdienst sympathisierte er heimlich mit Ibn Saud und half ihm, die richtigen geopolitischen Entscheidungen zu treffen. Nach seinem Übertritt zum Islam im Jahr 1930 zog Philby nach Dschidda, wo er eine Schlüsselrolle bei den Verhandlungen über die SOCAL-Ölkonzession in Al-Hasa spielte. \n\nEs war an der Zeit, Philby eine neue Mission zuzuweisen. Die im kürzlich beendeten Saudi-Jemen-Krieg erworbenen Ländereien sind kaum erforscht; wir müssen die südlichen Grenzen unseres Staates kartieren. Zudem hat die Quarantäneauflage der International Medical Health Association für alle Muslime, die nach Mekka und Medina reisen, den Pilgerstrom erheblich reduziert, und es muss eine alternative Route zu den heiligen Stätten gefunden werden, um diese Beschränkung zu umgehen. Darüber hinaus würde diese Expedition John Philby auch zu Ruhm verhelfen, da er als erster Europäer die Region Nadschran erkundet."
+    NWsaudi.12.a:0 "Niemand könnte diese Mission besser erfüllen als Philby"
+    NWsaudi.12.b:0 "Es ist besser, er bleibt am Hof"
+    
+    NWsaudi.13.t:0 "Philby in Najran"
+    NWsaudi.13.d:0 "Heute erreichte den Königspalast endlich die erste Nachricht von John Philby, der dessen sichere Ankunft in Nadschran verkündete. Er war der erste Europäer, der die Rub al-Chali mit dem Auto durchquert und das nahe Grenzgebiet erkundet hatte. In seinem Bericht bat Philby Abdulaziz um Erlaubnis, in den Norden des britischen Protektorats Aden reisen zu dürfen, um nach den Ruinen der mythischen Stadt Schabwa zu suchen. Noch wichtiger war ihm, den saudischen Einfluss in einer Region zu stärken, die ohnehin weitgehend unkontrolliert von den Briten war. Philbys Reise sollte als seine private Initiative dargestellt werden, die vom Gouverneur von Nadschran unterstützt wurde, um das Risiko eines diplomatischen Skandals zu minimieren." #Shabwa
+    NWsaudi.13.a:0 "Endlich mal eine gute Idee"
+    NWsaudi.13.b:0 "Lassen Sie uns unsere Beziehungen zu den Briten nicht verkomplizieren"
+    
+    NWsaudi.14.t:0 "Die verlorene Stadt Shabwa"
+    NWsaudi.14.d:0 "In Europa hält die Aufregung um die verschwundene Stadt Schabwa seit Jahren an. Viele Menschen versuchen, das Geheimnis der „Stadt der achtzig Tempel“ zu lüften, die im vorislamischen Arabien das Zentrum des Königreichs Hadramaut war. \n\nNach wochenlanger Reise gelang es John Philby unerwartet, Schabwa zu finden. Seine Entdeckung verdankte er jedoch vor allem den gut bewaffneten Wachen und dem guten Willen der Einheimischen, die Ibn Sauds Gesandten bereitwillig halfen."
+    NWsaudi.14.a:0 "Eine wirklich wunderbare Entdeckung"
+     
+    NWsaudi.15.t:0 "John Phildy Expedition"
+    NWsaudi.15.d:0 "Heute erhielten wir alarmierende Berichte aus dem Protektorat Aden. Demnach hat der Arabist John Philby unter dem Schutz der Krieger des saudischen Gouverneurs von Nadschran eine Reise durch die nördlichen Regionen des Protektorats angetreten. Das offizielle Ziel der Expedition war die Suche nach der antiken Stadt Schabwa mit ihren mutmaßlich 60 Tempeln. Den Forschern gelang die Ortung der Stadt, doch Berichte aus Hadramaut deuten darauf hin, dass Philby trotz seines Status als britischer Agent aufgrund seiner engen Beziehung zu Abdulaziz und seines Übertritts zum Islam eine pro-saudische Propagandakampagne unter den einheimischen arabischen Stämmen führte. \n\nAngesichts unserer schwachen Autorität über die Stämme im Protektorat Aden und des Fehlens einer klar definierten Grenze wäre es möglicherweise ratsam, Philby zum Verlassen unseres Territoriums aufzufordern. Angesichts der geringen Zahl britischer Garnisonen in der Region wäre es jedoch schwierig, notfalls Gewalt anzuwenden."
+    NWsaudi.15.a:0 "Phildy und seine Gruppe sollten Aden verlassen"
+    NWsaudi.15.b:0 "Wir sollten unsere Truppen vorher vorbereiten"
+     
+    NWsaudi.16.t:0 "Briten wütend"
+    NWsaudi.16.d:0 "Als Philbys Einheit in der Nähe von Schabwa eintraf, wurden sie von den einheimischen Stämmen begeistert empfangen, da sie glaubten, die saudische Expedition sei ausgesandt worden, um sie unter Abdulaziz&#39; Herrschaft zu bringen. Philby führte geschickt eine Propagandakampagne durch, in der er die historischen Rechte der Saudis auf die Kontrolle des Gebiets um Schabwa betonte. \n\nPhilbys Expedition löste bei den britischen Beamten in Aden Besorgnis aus, die ihn zum sofortigen Verlassen des Protektorats aufforderten. Obwohl es uns nicht gelang, die territoriale Kontrolle in der Region auszuweiten, gelang es der Expedition, eine alternative Route für Pilger zu finden und den saudischen Einfluss in der Umgebung der Schabwa-Ruinen etwas auszuweiten."
+    NWsaudi.16.a:0 "Philby sollte Aden jetzt verlassen"
+     
+    NWsaudi.17.t:0 "Instabilität im Protektorat Aden"
+    NWsaudi.17.d:0 "Als Philbys Einheit in der Nähe von Schabwa eintraf, wurden sie von den einheimischen Stämmen begeistert empfangen, da sie glaubten, die saudische Expedition sei ausgesandt worden, um sie unter Abdulaziz&#39; Herrschaft zu bringen. Philby startete eine Propagandakampagne, in der er die historischen Rechte der Saudis auf die Kontrolle der Umgebung von Schabwa propagierte, was ihren Einfluss in der Region weiter stärkte. \n\nDie Unentschlossenheit der britischen Regierung ermöglichte es den Saudis jedoch, ihren Einfluss deutlich auszuweiten. Obwohl die Expedition schließlich aus dem Protektorat Aden abgezogen wurde, um eine offene Konfrontation mit Großbritannien zu vermeiden, wurde die Macht der Saudis über die einheimischen Stämme erheblich geschwächt."
+    NWsaudi.17.a:0 "Wunderbare Neuigkeiten!"
+    NWsaudi.17.b:0 "Verdammte Beduinen!"
+      
+    NWsaudi.18.t:0 "Philby kehrt zurück"
+    NWsaudi.18.d:0 "Philbys Expedition in den Süden Saudi-Arabiens ist nach über einem Monat der Kartierung der Grenzgebiete von Asir und Najran endlich abgeschlossen. Trotz des anspruchsvollen Geländes legte er täglich weite Strecken zurück, um diese wichtige Aufgabe zu erfüllen. Während die Grenze zum Jemen bereits zuvor markiert war, stärkte Philbys präzise Kartierung des Geländes Saudi-Arabiens Kontrolle über die Region."
+    NWsaudi.18.a:0 "Willkommen zu Hause, unser lieber Freund"
+    
+    NWsaudi.19.t:0 "Das Gefolge des Königs" #Mohammed Suroor Sabban
+    NWsaudi.19.d:0 "Abdulaziz’ leichte Fremdenfeindlichkeit und mangelnde Begeisterung für fremde Gesellschaften spiegeln sich in der Art und Weise wider, wie wichtige Entscheidungen von seinem inneren Zirkel getroffen werden, trotz der zunehmenden Komplexität des saudi-arabischen Verwaltungs- und Bürokratieapparats. Seine überschwängliche Gastfreundschaft und aufrichtige freundliche Aufmerksamkeit helfen dabei, diesen Charakterzug zu verbergen. Abdulaziz zieht es vor, Tag und Nacht, Jahr für Jahr, dieselben Leute um sich zu haben. Das sind die Menschen, denen er blind vertraut, deren Stärken und Schwächen er genau kennt, und die er großzügig belohnt, indem er ihre Ressourcen vermehrt. \n\nMit der Zeit benötigt Abdulaziz jedoch zunehmend Berater, die ihm bei der Modernisierung des Staates helfen. Mohammed Suroor Sabban, ein wegweisender Schriftsteller, Intellektueller und Ökonom aus dem Umfeld von Bin Suleiman, könnte ein solcher Berater sein. Seine Reformideen könnten jedoch vom konservativen Adel und sogar vom König selbst als radikal angesehen werden. Obwohl das Gefolge des Königs selten durch neue Mitglieder ergänzt wird, könnte Sabbans Ernennung trotz der damit verbundenen Herausforderungen den notwendigen Anstoß zur Modernisierung geben."
+    NWsaudi.19.a:0 "Der König hat genügend Berater, die ihm bei der Modernisierung des Landes helfen"
+    NWsaudi.19.b:0 "Bin Suleimans Mitarbeiter wäre ein guter Verbündeter für den König"
+    
+    NWsaudi.20.t:0 "Der Al-Ahli Fußballclub" # Al-Ittihad, Al-Ahli, Al-Falah, Ohod
+    NWsaudi.20.d:0 "Dschidda hat sich zum Zentrum der aufstrebenden Sportkultur Saudi-Arabiens entwickelt. Hier wurde 1927 der erste Fußballverein des Landes, Al-Ittihad, gegründet. \n\nKürzlich gründete eine Gruppe von Schülern der Al-Falah-Schule, der ältesten Bildungseinrichtung Dschiddas, den Fußballverein Al-Ahli, der gemeinsam mit den Spielern von Al-Ittihad und dem vor einem Jahr in Medina gegründeten Verein Ohod gegeneinander antreten wird. Diese Entwicklung markiert einen bedeutenden Meilenstein für die Entwicklung des Sports im Land. Die Gründung neuer Vereine signalisiert eine vielversprechende Zukunft für den Sport in Saudi-Arabien."
+    NWsaudi.20.a:0 "Wir erleben die Geburt des Profisports in Saudi-Arabien"
+    
+    NWsaudi.21.t:0 "Der Vater zweier Übel" #Muhammad bin Abdulaziz, Abu Sharayn, (the father of two evils)
+    NWsaudi.21.d:0 "Prinz Muhammad bin Abdulaziz, der schon in jungen Jahren an zahlreichen Kriegen im jungen saudischen Staat beteiligt war, war für seinen aggressiven und grausamen Charakter bekannt. Auch als Erwachsener und Gouverneur von Medina blieb er so rau wie in seiner Kindheit. Darüber hinaus ist der Prinz in letzter Zeit ein immer häufigerer Gast auf Partys in Beirut, wo der in Saudi-Arabien verbotene Alkohol in Strömen fließt. \n\nObwohl Mohammed von den Mitgliedern der Herrscherdynastie wegen seines schlechten Temperaments und seiner Trinkgewohnheiten „Abu Scharain“ (Vater zweier Übel) genannt wird, bestreitet niemand, dass er auch ein kompetenter Verwalter und guter Heerführer ist, der seinen Mut und seine Entschlossenheit im Kampf bewiesen hat."
+    NWsaudi.21.a:0 "Wir werden das unwürdige Verhalten eines wahren wahhabitischen Prinzen ignorieren"
+    NWsaudi.21.b:0 "Er ist eine Schande für die Familie Al Saud"
+    
+    NWsaudi.22.t:0 "Justizielle Frage"
+    NWsaudi.22.d:0 "Die Regierung Saudi-Arabiens strebt seit langem eine Vereinheitlichung des Rechts- und Justizsystems des Landes auf der Grundlage der Scharia an. Viele Stämme folgen jedoch noch immer dem Urf und dem Adat, die als zentrale Rechtsquellen dienen und eine Sammlung volkstümlicher Rechtsprechung darstellen. So ermöglicht der Urf beispielsweise die Gewährung von Asyl für verfolgte Personen unter bestimmten Umständen, obwohl das Asylrecht vom zentralisierten Staat nicht anerkannt wird. \n\nDie Beduinen betrachten bestimmte Taten wie Raub und Mord als Heldentaten, wenn sie außerhalb ihres Stammes begangen werden, während dieselben Taten innerhalb des Stammes als Verbrechen gelten. Dies läuft den Bedürfnissen und der Politik der Regierung zuwider. \n\nWir könnten drastische Maßnahmen ergreifen und die Scharia in allen Stämmen durchsetzen, doch ein solcher Ansatz wäre möglicherweise nicht effektiv und könnte bei den Beduinen Unmut hervorrufen. Daher wäre es möglicherweise klüger, die richterlichen Befugnisse der Provinz-Emire auszuweiten und die Scharia in bestimmten Bereichen wie Steuern, Familienrecht, Erbrecht und anderen durchzusetzen."
+    NWsaudi.22.a:0 "Wir müssen einen energischen Angriff auf heidnische Bräuche starten"
+    NWsaudi.22.b:0 "Wir sollten die Scharia schrittweise einführen"
+    
+    NWsaudi.23.t:0 "Die Monarch-Seile"
+    NWsaudi.23.d:0 "Bei einer Begegnung im Palast in Riad bemerkte ein Mitglied der Ulema, dass der Monarch ein langes Gewand trug, das bis zum Boden reichte. Die Ulema rief: „Allah, Allah! [ROOT.GetLeader], dein Stolz hat dich übermannt. Deine Kleider schleifen auf dem Boden.“ Daraufhin befahl der Monarch einem Diener, eine Schere zu holen, die er dem Theologen mit den Worten überreichte: „Schneide ab, was deiner Meinung nach dem Islam widerspricht.“"
+    NWsaudi.23.a:0 "Die Ulema können alles als dem Islam zuwiderlaufend betrachten!"
+    
+    NWsaudi.24.t:0 "Vorbereitung eines Aufstands?"
+    NWsaudi.24.d:0 "Der Emir von Burayda erhielt heute einen Brief von Scheich bin Zuhairi, in dem er einen benachbarten Stamm beschuldigt, einen Aufstand vorzubereiten. Obwohl es dafür keine Beweise gibt, können die Vorwürfe aufgrund früherer Zweifel an der Loyalität des Stammes nicht gänzlich zurückgewiesen werden. Konkrete Anzeichen für drohende Unruhen gibt es derzeit jedoch nicht."
+    NWsaudi.24.a:0 "Führen Sie sofort einen Überfall auf den Stamm durch"
+    NWsaudi.24.b:0 "Ignoriere es vorerst"
+    
+    NWsaudi.25.t:0 "Überfall"
+    NWsaudi.25.d:0 "Nach dem erfolgreichen Überfall unserer Truppen, der zur Gefangennahme der illoyalen Stammesangehörigen und ihrer Anführer führte, erhielten wir neue Informationen. Es stellte sich heraus, dass Scheich Zuhairi die Anzeige verfasst hatte, in der er den rivalisierenden Stamm fälschlich beschuldigte, einen Aufstand vorzubereiten, um seine Macht zu schwächen und die Kontrolle über seine Gebiete zu übernehmen. Die überfallenen Beduinen waren lediglich unzufrieden mit der Steuerdrückerei und hatten keine Aufstandspläne, wie zunächst angenommen. Diese neuen Informationen zeigen, dass wir bei der Annahme von Anschuldigungen ohne stichhaltige Beweise vorsichtig sein müssen, insbesondere bei Stammesstreitigkeiten."
+    NWsaudi.25.a:0 "Wir müssen alle Gefangenen freilassen."
+    
+    NWsaudi.26.t:0 "Das Schicksal des „ungekrönten Königs“"
+    NWsaudi.26.d:0 "Während der Herrschaft von Abdulaziz war Finanzminister Abdallah bin Suleiman einer der einflussreichsten Männer am Hof. Als enger Freund des Königs verfügte er über nahezu uneingeschränkte Machtbefugnisse im Wirtschaftsbereich, weshalb er sogar den Spitznamen „ungekrönter König Saudi-Arabiens“ erhielt. Nachdem die Saudis nun aus den wichtigsten Positionen entfernt wurden, fordern Stammesführer auch die Absetzung bin Suleimans."
+    NWsaudi.26.a:0 "Wir können keinen kompetenten Ökonomen verlieren"
+    NWsaudi.26.b:0 "Er sollte in den Ruhestand gehen"
+    
+    NWsaudi.27.t:0 "Neue Flagge"
+    NWsaudi.27.d:0 "Bei der Herstellung der Flaggen unseres Landes wird der weiße Streifen oft nicht berücksichtigt. Es könnte sinnvoll sein, das Design der Flagge ohne Streifen offiziell als Standard festzulegen."
+    NWsaudi.27.a:0 "Gut, lass es uns tun"
+    NWsaudi.27.b:0 "Wir werden das Flaggendesign nicht ändern"
+    
+    
+    NWsaudi.501.t:0 "Stammeskonflikt"
+    NWsaudi.501.d:0 "Die Nachricht von einem neuen Territorialkonflikt zwischen zwei Stämmen hat uns erreicht. Auslöser der Auseinandersetzungen waren die Beduinen, die ihre Kamele auf andere Weiden trieben. \n\nObwohl sich die Zentralregierung normalerweise nicht in Stammesangelegenheiten einmischt, könnte dieser Konflikt die Region destabilisieren. Eine Möglichkeit besteht darin, den lokalen Emir anzuweisen, einzugreifen und die Beduinen zu unterwerfen, um eine weitere Eskalation der Situation zu verhindern."
+    NWsaudi.501.a:0 "Wir sollten eingreifen"
+    NWsaudi.501.b:0 "Die Stämme würden unsere Einmischung nicht schätzen"
+    
+    NWsaudi.502.t:0 "Stammeskampf"
+    NWsaudi.502.d:0 "Heute erreichte uns die Nachricht von einem Zusammenstoß zweier Stammesangehöriger in der Nähe eines Wüstenbrunnens. Einer der Beduinen kam dabei ums Leben. Die Stammesscheichs konnten den Konflikt gütlich beilegen, indem sie den Mörder zur Zahlung eines Lösegeldes für den Toten aufforderten."
+    NWsaudi.502.a:0 "Gelobt sei Allah, es kam nicht zu Blutrache."
+    
+    NWsaudi.503.d:0 "Heute erreichten uns Nachrichten über einen gewaltsamen Zusammenstoß zwischen zwei Stämmen in der Nähe eines Wüstenbrunnens, bei dem mehrere Beduinen ums Leben kamen. Der Vorfall hat langjährige Blutfehden zwischen den Stämmen neu entfacht, und die Situation droht zu einem ausgewachsenen Konflikt zu eskalieren."
+    NWsaudi.503.a:0 "Scharia-Richter lösen Konflikt friedlich"
+    NWsaudi.503.b:0 "Wir werden nicht eingreifen"
+    
+    NWsaudi.504.t:0 "Ein verärgerter Chef"
+    NWsaudi.504.d:0 "Gemäß unseren Gepflogenheiten ist der Herrscher verpflichtet, jedem, der seinen Hof besucht, ein Geschenk zu machen. Heute wurden mehr als fünfhundert Menschen von unserem König begrüßt. Einer der Stammeshäuptlinge, die Riad besuchten, war jedoch mit der Anzahl der Münzen, die er im Namen des Herrschers erhalten hatte, unzufrieden. Es waren deutlich weniger als im Vorjahr, was den Beduinenhäuptling verärgerte. Er begann zu schreien und ein größeres Geschenk zu verlangen. Wir befürchten, dass seine Unzufriedenheit zu Illoyalität gegenüber dem Herrscher führen könnte. Wir müssen sorgfältig überlegen, wie wir mit dieser Situation umgehen und eine Lösung finden, die die Loyalität des Beduinenhäuptlings und seines Stammes aufrechterhält."
+    NWsaudi.504.a:0 "Geben Sie ihm mehr Münzen und entschuldigen Sie sich aufrichtig im Namen des Königs"
+    NWsaudi.504.b:0 "Er wird keinen einzigen Rial mehr erhalten!"
+    
+    NWsaudi.505.t:0 "Teure Gastfreundschaft"
+    NWsaudi.505.d:0 "Jeder Araber, insbesondere ein Nomade, glaubt, dass es Brauch ist, dass der König denjenigen, die seinen Hof besuchen, ein Geschenk macht. Viele Beduinen reisen Hunderte von Kilometern, um Geschenke vom Herrscher zu erhalten. Darüber hinaus lebt eine beträchtliche Zahl unterprivilegierter Menschen auf Kosten des Königs in der Hauptstadt. Es gibt etwa hundert Familien von Ehrengefangenen mit ihren Dienern und Sklaven, deren Unterhalt aus der Staatskasse bezahlt wird. \n\nDer Hof des Königs wird normalerweise von etwa 500 bis 1.000 Menschen pro Tag besucht, aber heute hat die Zahl der Gäste 10.000 überschritten. Obwohl die meisten von ihnen nichts miteinander zu tun haben, kann die Gastfreundschaft des Königs die Staatskasse erheblich belasten, insbesondere wenn die Zahl der „Gäste“ in den folgenden Tagen nicht abnimmt."
+    NWsaudi.505.a:0 "Allah hat dem König seinen Reichtum gegeben, also ist er verpflichtet, ihn zu teilen"
+    NWsaudi.505.b:0 "Ein Teil des Geschenks sollte von Ulema sichergestellt werden"
+    NWsaudi.505.c:0 "Es lohnt sich, den Wert von Geschenken zu reduzieren"
+    
+    NWsaudi.506.t:0 "Angriff auf Pilger"
+    NWsaudi.506.desc:0 "Die Regierung unternimmt erhebliche Anstrengungen, um die Sicherheit der Pilger auf ihrer Reise zu den heiligen Stätten zu gewährleisten, doch die Reise bleibt ein riskantes Unterfangen. Jüngste Berichte deuten darauf hin, dass ein Stamm in der Region Hedschas mit offensichtlicher Billigung seines Scheichs Überfälle auf Reisende verübt. Trotz finanzieller Unterstützung der Regierung, um solche Plünderungen zu verhindern, scheint der Stamm weiterhin um seinen Lebensunterhalt zu kämpfen und ist daher gezwungen, auf illegale Mittel zurückzugreifen."
+    NWsaudi.506.a:0 "Der Scheich und alle an den Raubüberfällen Beteiligten sollten streng bestraft werden"
+    NWsaudi.506.b:0 "Nur den Räubern selbst die Hand abschneiden"
+    NWsaudi.506.c:0 "Bestrafen Sie die Angreifer und erhöhen Sie gleichzeitig die Stammeszahlungen"
+    NWsaudi.506.d:0 "Verurteilen Sie die Angreifer zu 70 Stockschlägen"
+    
+    NWsaudi.507.d:0 "Wir haben die Nachricht erhalten, dass eine Gruppe Beduinen Pilger auf dem Weg nach Mekka angegriffen hat. Eine Kavalleriepatrouille konnte die Täter jedoch erfolgreich ausfindig machen und festnehmen. Die Angreifer wurden später als die Söhne eines der Scheichs identifiziert, der vor Gericht um Gnade für seine Söhne bat. Die Ulema, islamische Gelehrte, betonten jedoch, dass Angriffe auf Pilger nach religiösem Recht mit dem Tod bestraft werden sollten."
+    NWsaudi.507.a:0 "Schneide den Räubern die Hand ab"
+    NWsaudi.507.b:0 "Hinrichtung der Verbrecher"
+    
+    NWsaudi.508.t:0 "LKW-Angriffe"
+    NWsaudi.508.d:0 "In letzter Zeit erreichen uns immer mehr Nachrichten über zunehmende Überfälle auf Fahrzeuge in einer Provinz des Landes. Der Ausbau des Straßenverkehrs ist ein wesentlicher Aspekt der Modernisierung des Staates, sorgt aber auch bei den Stämmen, die traditionell Güter durch die Wüste transportieren, für Unmut. Einige Beduinen haben Lastwagen angegriffen und auf deren Scheinwerfer geschossen, um „dem Schaitan die Augen abzuschießen“. Nicht selten werden Fahrzeuge Opfer der üblichen Raubüberfälle."
+    NWsaudi.508.a:0 "Es müssen harte Maßnahmen ergriffen werden"
+    NWsaudi.508.b:0 "Lokale Scharia-Richter werden die Situation regeln"
+    NWsaudi.508.c:0 "Lasst uns Stämme anheuern, um die Lastwagen zu bewachen"
+    
+    NWsaudi.509.t:0 "Pilgerinfrastruktur"
+    NWsaudi.509.d:0 "Die Reise zu den heiligen Städten des Islam war für muslimische Pilger traditionell eine Herausforderung. Die Ulema sind jedoch überzeugt, dass die Regierung über die nötigen Mittel verfügt, um die Verkehrsinfrastruktur in [679.GetName] zu verbessern und so die Pilgerfahrt einfacher und sicherer zu machen."
+    NWsaudi.509.a:0 "Es ist sinnvoll, dieser Bitte nachzukommen"
+    
+    NWsaudi.510.d:0 "Die Reise zu den heiligen Städten des Islam war für muslimische Pilger traditionell eine Herausforderung. Die Ulema sind jedoch überzeugt, dass die Regierung über die nötigen Mittel verfügt, um die Verkehrsinfrastruktur in [1073.GetName] zu verbessern und so die Pilgerfahrt einfacher und sicherer zu machen."
+  
+    NWsaudi.511.d:0 "Die Reise zu den heiligen Städten des Islam war für muslimische Pilger traditionell eine Herausforderung. Die Ulema sind jedoch überzeugt, dass die Regierung über die nötigen Mittel verfügt, um die Verkehrsinfrastruktur in [991.GetName] zu verbessern und so die Pilgerfahrt einfacher und sicherer zu machen."
+    
+    NWsaudi.512.t:0 "Piligrim-Krankenhäuser"
+    NWsaudi.512.d:0 "Hitzschlag, Erschöpfung und altersbedingte Gesundheitsprobleme sind nur einige der Herausforderungen, denen Pilger auf ihrer Reise zu den heiligen Städten des Islam begegnen können. Die Ulema schlagen vor, in [679.GetName] mehrere staatlich finanzierte medizinische Zentren und Erholungsheime für Pilger zu bauen, um diesen Problemen zu begegnen."
+    
+    NWsaudi.513.d:0 "Hitzschlag, Erschöpfung und altersbedingte Gesundheitsprobleme sind nur einige der Herausforderungen, denen Pilger auf ihrer Reise zu den heiligen Städten des Islam begegnen können. Die Ulema schlagen vor, in [1073.GetName] mehrere staatlich finanzierte medizinische Zentren und Erholungsheime für Pilger zu bauen, um diesen Problemen zu begegnen."
+  
+    NWsaudi.514.d:0 "Hitzschlag, Erschöpfung und altersbedingte Gesundheitsprobleme sind nur einige der Herausforderungen, denen Pilger auf ihrer Reise zu den heiligen Städten des Islam begegnen können. Die Ulema schlagen vor, in [991.GetName] mehrere staatlich finanzierte medizinische Zentren und Erholungsheime für Pilger zu bauen, um diesen Problemen zu begegnen."
+    
+    NWsaudi.28.t:0 "Beratende Versammlung Saudi-Arabiens"
+    NWsaudi.28.d:0 "1932 trat der Madschlis ash-Shura zum ersten Mal in Hedschas zusammen, noch vor der Bildung des zentralisierten Königreichs Saudi-Arabien durch die Vereinigung von Nedschd und Hedschas. Dieser Schritt sollte der Abschaffung der Hedschas-Autonomie mehr Legitimität verleihen, obwohl viele staatliche Institutionen zu diesem Zeitpunkt noch nicht nach Riad verlegt worden waren. \n\nMit der Zeit wurde immer deutlicher, dass der Beirat auf nationaler Ebene erneut einberufen werden musste, um den Entscheidungsprozess des Königs zu verbessern. Der Madschlis ash-Shura soll aus dem Ratsvorsitzenden, zwei Stellvertretern und zehn ständigen Mitgliedern bestehen. Der König muss entscheiden, wen er in den Rat ernennt."
+    NWsaudi.28.a:0 "Bilden Sie einen Rat prominenter Nejj- und Hijazi-Beamter"
+    NWsaudi.28.b:0 "Die Ulema in den Rat einbeziehen"
+    NWsaudi.28.c:0 "Laden Sie prominente städtische Intellektuelle und Modernisten zum Rat ein"
+    
+    NWsaudi.29.t:0 "IPC beantragt Konzession"
+    NWsaudi.29.d:0 "Lange Zeit glaubte man, es gäbe auf saudischem Gebiet keine Ölvorkommen, und die in der Region dominierenden britischen Ölkonzerne waren mit dem derzeitigen Produktionsniveau recht zufrieden. Nur das amerikanische Unternehmen Standard Oil of California erklärte sich 1933 bereit, eine Konzession zur Ölsuche in Al-Hasa zu pachten. \n\nObwohl es SOCAL drei Jahre lang nicht gelang, bei der Ölsuche in unserem Land nennenswerte Ergebnisse zu erzielen, unterbreitete die British Iraq Petroleum Company ein Angebot zur Pacht einer Konzession im Hedschas. Obwohl die Briten den Aussichten der Ölförderung in Saudi-Arabien skeptisch gegenüberstehen, wollen sie offenbar nicht zulassen, dass die Amerikaner ihren Einfluss auf das Königreich stärken, und wollen mit SOCAL konkurrieren."
+    NWsaudi.29.a:0 "Wir haben keinen Grund, dieses Angebot abzulehnen"
+    NWsaudi.29.b:0 "Wir würden am liebsten nur mit SOCAL zusammenarbeiten"
+    
+    NWsaudi.30.t:0 "Britische Liquidate-Ölkonzession"
+    NWsaudi.30.d:0 "Die Ergebnisse der Ölsuche im Hedschas waren enttäuschend. Nachdem die Iraq Petroleum Company erhebliche Summen für die Expedition und Zahlungen an die Ölkasse ausgegeben hatte, war sie gezwungen, die Konzession aufzugeben."
+    NWsaudi.30.a:0 "Zumindest haben sie einige Zehntausend Pfund zusätzlich in unsere Staatskasse gebracht."
+    
+    NWsaudi.31.t:0 "Dammam Nr. 7 Bohrungen"
+    NWsaudi.31.d:0 "Während derzeit 62 Amerikaner und über tausend saudische Arbeiter im Dammam-Gebiet von Al-Hasa arbeiten, hat SOCAL bisher keine nennenswerten Ölfelder gefunden. Die erste Bohrung, Nr. 1, lieferte nie Öl. Nr. 2 produzierte zehnmal so viel Wasser wie Öl. Nr. 3 förderte kaum 100 Barrel Schweröl mit einem Schuss Wasser darin. Nr. 4 und Nr. 5 erwiesen sich als so trocken wie ein Knochen, der in der Sommersonne gelegen hat. Nr. 6, 1380 Meter tief, lieferte eine kleine Menge Öl mit Wasser vermischt.\n\nDrei Jahre sind seit der Unterzeichnung des Konzessionsvertrags vergangen, und bei den Vorstandssitzungen von SOCAL stellt sich die Frage: „Sollte die arabische Konzession aufgegeben werden? Ist es nicht besser, jetzt ein paar Millionen Dollar Verlust abzuschreiben, als in ein paar Jahren viel höhere Verluste zu erleiden?“ Auf diese Frage gibt es keine eindeutige Antwort.\n\nInzwischen hat der Vorstand der Bohrung des siebten Brunnens zugestimmt..."
+    NWsaudi.31.a:0 "Wir können nichts tun"
+    
+    NWsaudi.32.t:0 "SOCAL-Vorstand"
+    NWsaudi.32.d:0 "Die Arbeiten an der Bohrung Dammam Nr. 7 gestalteten sich schwierig; Ketten rissen, Bohrer gingen verloren und zahlreiche Pannen zwangen zu einer Unterbrechung der Arbeiten. Zehn Monate später tauchten in über 1.000 Metern Tiefe die ersten Anzeichen von Öl auf, doch zu diesem Zeitpunkt waren die Kapazitäten des Unternehmens und die Geduld seiner Eigentümer fast erschöpft. \n\nHeute wurde Max Steineke, der Chefgeologe der arabischen Expedition, nach Kalifornien beordert. Bei einer Vorstandssitzung von SOCAL sprach er erneut über die von ihm durchgeführten Untersuchungen. Auf die Frage, ob er sicher sei, dass die Bohrung Dammam Nr. 7 Öl produzieren würde, sagte Steineke ehrlich: „Es gibt keine absolute Gewissheit. Es hängt alles von einer Kombination von Umständen ab. Aber wir befinden uns irgendwo in der Nähe des Ölhorizonts.“ \n„Die Kosten nähern sich also zehn Millionen Dollar, und die Aussichten, Öl zu finden, sind weiterhin gering!“, rief einer der Direktoren des Unternehmens. \n„Meine Herren, es gibt eine Kopie des Bahrain-Feldes in den Tiefen Arabiens. Wir haben einfach ein bisschen Pech!“, versicherte der Chefgeologe."
+    NWsaudi.32.a:0 "Die amerikanischen Konzessionen spülen viel Geld in unsere Staatskasse und wir möchten diese Einnahmequelle nicht verlieren."
+    
+    NWsaudi.33.t:0 "Al-Hasa-Konzession liquidiert"
+    NWsaudi.33.d:0 "Heute wurde uns von der [FROM.GetAdjective]-Regierung eine offizielle Mitteilung über die Liquidierung unserer Ölkonzession in Al-Hasa zugesandt. Unsere Geologen müssen [FROM.GetName] so schnell wie möglich verlassen."
+    NWsaudi.33.a:0 "Dies ist ein empörender Verstoß gegen unsere Vereinbarungen!"
+    NWsaudi.33.b:0 "Dies ist ein guter Grund, sie zu erobern"
+    
+    NWsaudi.34.t:0 "Ölkonzession liquidiert"
+    NWsaudi.34.d:0 "Da wir uns derzeit mit [?var:concession_owner.GetName] im Krieg befinden, wurde ihre Ölkonzession in Al-Hasa aufgehoben."
+    NWsaudi.34.a:0 "Ich verstehe"
+    
+    NWsaudi.35.t:0 "[FROM.GetName] bietet Ermäßigungen an"
+    NWsaudi.35.d:0 "Heute haben wir von der [FROM.GetAdjective]-Regierung ein Angebot zur Verlängerung der Al-Hasa-Ölkonzession erhalten. Im Gegenzug werden sie sehr nützliche Zahlungen leisten."
+    NWsaudi.35.a:0 "Dieses Angebot ist sehr vorteilhaft"
+    NWsaudi.35.b:0 "Wir sind nicht interessiert"
+    
+    NWsaudi.36.t:0 "[FROM.GetAdjective] Defaint"
+    NWsaudi.36.d:0 "Die [FROM.GetAdjective]-Regierung zögert, in Al-Hasa Öl zu fördern."
+    NWsaudi.36.a:0 "Ein trauriger Tag"
+    
+    NWsaudi.37.d:0 "Der Vorstand von SOCAL tagte heute, um zu entscheiden, ob die Finanzierung aufgrund der Ineffektivität der Arbeiten im Raum Dammam gekürzt oder ganz eingestellt werden sollte. Max Steineke durfte den Sitzungssaal nicht betreten, stürmte jedoch mit einem Blatt Papier in der Hand herein. Der sonst so gelassene Deutsche war in höchster Aufregung. „Da ist Öl!“, rief er triumphierend und warf ein Telegramm auf den Tisch, das er gerade aus Saudi-Arabien erhalten hatte. Darin stand, dass man bei der Bohrung Dammam Nr. 7, die bis in eine Tiefe von 1.440 Metern gebohrt worden war, auf Öl gestoßen sei. \n\nAm ersten Tag förderte die Bohrung nur 2.130 Barrel, dann immer mehr und einige Tage später bereits 3.372 Barrel. Auch die wieder aufgenommenen Arbeiten an den Bohrungen Dammam Nr. 2 und 4 brachten gute Ergebnisse. Es wurde deutlich, dass eine neue ölhaltige Schicht entdeckt worden war und es in Arabien noch mehr Öl gab."
+    NWsaudi.37.a:0 "Ein bemerkenswerter Tag in unserer Geschichte"
+    
+    NWsaudi.38.t:0 "Ein Besuch am Brunnen."
+    NWsaudi.38.d:0 "Auch in seinen reifen Jahren behielt unser König seine Neugier, seinen Wissensdurst und sein Interesse an Neuem. Er wollte die berühmte Quelle sehen, die eine so bedeutende Rolle für das Schicksal seines Landes gespielt hatte. Die Vertreter der Ölgesellschaft schlugen vor, die Reise in die Ostprovinz zu verschieben, um sie mit der Eröffnung der Pipeline zusammenfallen zu lassen, und der König stimmte zu. \n\nVor einigen Tagen durchquerte eine große Prozession von 400 Cadillacs, Fords, Chevrolets und anderen Autos die Wüste nach Dhahran. Den König begleiteten seine ältesten Söhne, Gefolgsleute, Frauen und Diener. In der Nähe einer der Oasen waren 350 Zelte aufgeschlagen, um zahlreiche Gäste unterzubringen. \n\nMit großem Interesse ritt [SAU.GetLeader] durch die Wüste, um die erste Brutstätte der zukünftigen Ölindustrie des Königreichs zu besichtigen. Er sah zum ersten Mal in seinem Leben eine Ölquelle und mehrere Pipelines und bekam Flaschen mit Ölproben zur Untersuchung. Als er die dunkle, ölige Flüssigkeit untersuchte, war er froh, dass Allah gnädig gewesen war und ihnen eine weitere Quelle des Reichtums geschenkt hatte: „schwarzes Gold“ statt gelbem. \n\n[SAU.GetLeader] verließ Dhahran in bester Stimmung. Endlich hatte er eine große und zuverlässige Quelle gefunden, um seine Schatzkammer aufzufüllen, da die Nachfrage nach Öl auf dem Weltmarkt stetig stieg. Die finanzielle Zukunft des Königreichs war nun gesichert."
+    NWsaudi.38.a:0 "Allah ist gnädig!"
+    
+    NWsaudi.39.t:0 "[FROM.GetAdjective] Anforderungen"
+    NWsaudi.39.d:0 "Nach der Einnahme von Lahij durch [FROM.GetAdjective] spitzt sich die Lage um Aden immer weiter zu. [FROM.GetLeader] ist der Ansicht, dass diese wichtige Hafenstadt rechtmäßig zum [FROM.GetAdjective]-Staat gehört. Daher wurde die Übergabe der Stadt gefordert."
+    NWsaudi.39.a:0 "Wir sind zu schwach, um Widerstand zu leisten"
+    NWsaudi.39.b:0 "Wir werden nicht nachgeben"
+    
+    NWsaudi.40.t:0 "[FROM.GetAdjective] Trotzig"
+    NWsaudi.40.d:0 "Die [FROM.GetAdjective]-Regierung hat einer friedlichen Übergabe Adens an uns nicht zugestimmt."
+    NWsaudi.40.a:0 "Wir werden es mit Gewalt nehmen"
+    NWsaudi.40.b:0 "Keine Notwendigkeit einer weiteren Eskalation"
+    
+    NWsaudi.41.t:0 "[FROM.GetAdjective] Anforderungen"
+    NWsaudi.41.d:0 "Nach der Einnahme der Sinai-Halbinsel durch die [FROM.GetAdjective]-Armee nehmen die Spannungen rund um den Suezkanal zu. Die [FROM.GetAdjective]-Regierung hat uns ein Ultimatum gestellt und die Übergabe der Kontrolle über das Kanalgebiet gefordert."
+    
+    NWsaudi.42.t:0 "[FROM.GetAdjective] Trotzig"
+    NWsaudi.42.d:0 "Die [FROM.GetAdjective]-Regierung hat nicht zugestimmt, uns den Suezkanal friedlich zu überlassen."
+    
+    NWsaudi.43.t:0 "[SAU.GetAdjective] Diplomaten"
+    NWsaudi.43.d:0 "Die [SAU.GetAdjective]-Regierung, die eine Politik der Unterstützung arabischer antikolonialer Bewegungen verfolgt, hat uns aufgefordert, Verhandlungen über die Unabhängigkeit des [FROM.GetName]-Staates aufzunehmen. [SAU.GetAdjective]-Diplomaten sind der Ansicht, unser Land müsse Solidarität mit der wiedererstarkten arabischen Welt zeigen und [FROM.GetAdjective] dem Volk das Recht geben, über sein eigenes Schicksal zu entscheiden. Zweifellos steckt hinter diesen Forderungen nur kaltes Kalkül, aber werden wir eine Konfrontation mit kriegerischen Arabern riskieren?"
+    NWsaudi.43.a:0 "Diese Vorschläge sind absurd"
+    NWsaudi.43.b:0 "Wir verfügen nicht über genügend Ressourcen, um den Konflikt in Arabien zu bewältigen"
+    
+    NWsaudi.44.t:0 "Verhandlungen gescheitert"
+    NWsaudi.44.d:0 "Wie erwartet blieben die Verhandlungen mit der britischen Regierung ergebnislos. Sie verschärften lediglich die Spannungen in der Region und provozierten Zusammenstöße zwischen den Grenztruppen."
+    NWsaudi.44.a:0 "Wir werden mit Gewalt zuschlagen"
+    
+    NWsaudi.45.t:0 "Eine befreite Nation"
+    NWsaudi.45.d:0 "Der Staat [FROM.FROM.GetName] wird endgültig von der britischen Kontrolle befreit und wird zu einer freien Nation unter unserem Protektorat."
+    NWsaudi.45.a:0 "Gelobt sei Allah!"
+    
+    NWsaudi.46.t:0 "[SAU.GetAdjective] Invasion"
+    NWsaudi.46.d:0 "Die Invasion der [SAU.GetAdjective]-Truppen in unser Protektorat kam für die örtlichen Garnisonen völlig überraschend und war nicht in der Lage, dem Feind nennenswerten Widerstand zu leisten. Diese Niederlage wirkte sich negativ auf unser internationales Ansehen aus und wir sollten wahrscheinlich mit der Vorbereitung einer Vergeltungsinvasion beginnen."
+    NWsaudi.46.a:0 "Das Imperium schlägt zurück"
+    NWsaudi.46.b:0 "Lasst uns nicht wegen der Wüste in den Krieg ziehen"
+    
+    NWsaudi.47.t:0 "Unsere Armee wurde zurückgeschlagen"
+    NWsaudi.47.d:0 "Unseren Truppen ist es nicht gelungen, die britischen Garnisonen zu überwältigen."
+    NWsaudi.47.a:0 "Verdammt!"
+    
+    NWsaudi.48.t:0 "[SAU.GetAdjective] Armeen zurückgeschlagen"
+    NWsaudi.48.d:0 "Unsere Truppen haben einen Versuch von [SAU.GetAdjective]-Truppen, britische Besitzungen zu besetzen, erfolgreich zurückgeschlagen."
+    NWsaudi.48.a:0 "Wunderbare Neuigkeiten"
+    
+    NWsaudi.49.t:0 "Ausländische Intervention"
+    NWsaudi.49.d:0 "[FROM.GetName] hat kürzlich eine äußerst harte Politik gegenüber den Juden in Palästina verfolgt. Die [FROM.GetAdjective]-Regierung stachelt die Araber immer offener zum Aufstand an."
+    NWsaudi.49.a:0 "Empörend!"
+    
+    NWsaudi.50.t:0 "Unterstütze Kathiri"
+    NWsaudi.50.d:0 "Der Krieg zwischen den Sultanaten Kathiri und Qu&#39;aiti dauert seit Jahrzehnten an. Die Kathiri erkennen die britische Herrschaft nur formell an, während Qu&#39;aiti aktive Unterstützung vom Vereinigten Königreich genießt, das jedoch nicht direkt in den Konflikt eingreifen will. Die Hoffnung der Kathiri auf eine Vorherrschaft in Hadramaut hat sich als unwahrscheinlich erwiesen, da das Sultanat den Zugang zum Meer verloren hat, was seine Wirtschaft und seine Fähigkeit zur Waffenbeschaffung beeinträchtigt. Dennoch beabsichtigt [FROM.GetLeader], das Konfliktgleichgewicht zu verschieben, indem es eine unmarkierte Wüstengrenze nutzt, um das Sultanat Kathiri mit Waffen zu versorgen."
+    NWsaudi.50.a:0 "Es lohnt sich nicht, unsere Beziehung zu den Briten zu riskieren"
+    NWsaudi.50.b:0 "Unsere gepanzerten Karawanen werden das Blatt im Krieg wenden"
+    
+    NWsaudi.51.t:0 "Unterstützung durch die [FROM.GetRulingParty]-Dynastie"
+    NWsaudi.51.d:0 "Anders als die Qu&#39;aiti erkennen wir das britische Protektorat über unser Land nur formal an. Um das Blatt in unserem Krieg mit den Qu&#39;aiti zu wenden und den britischen Einfluss in der Region zu schwächen, beschloss [FROM.GetLeader], unser Land über die unmarkierte Wüstengrenze mit Waffen zu versorgen."
+    NWsaudi.51.a:0 "Wunderbare Neuigkeiten"
+    ## IDEAS ##
+    SAU_tribal_conflict_dyn:0 "Stammeskonflikt"
+    SAU_modernization_of_army:0 "Modernisierung der Armee"
+    SAU_modernization_of_army_desc:0 ""
+    SAU_an_underdeveloped_feudal_tribal_state:0 "Schlecht entwickelter feudal-tribaler Staat"
+    SAU_an_underdeveloped_feudal_tribal_state_desc:0 ""
+    SAU_disparity_between_nejd_and_hijaz_dyn:0 "Hijaz-Nedschd-Disparität"
+    SAU_disparity_between_nejd_and_hijaz_dyn_desc:0 "Nach der Eroberung des Haschemitischen Königreichs Hedschas im Jahr 1926 sah sich Abdulaziz mit der Aufgabe konfrontiert, ein Land zu regieren, das weitaus fortschrittlicher war als sein Nedschd oder sogar Al-Hasa. Erst 1932 wurden Nedschd und Hedschas endgültig zu einem zentralisierten Staat vereinigt. Die Kluft zwischen den Regionen bleibt jedoch tief. Der nach osmanischen Maßstäben gestaltete bürokratische Apparat des Hedschas ist der fortschrittlichste in ganz Arabien, während Nedschd nach wie vor ein überwiegend von Stämmen bewohntes Gebiet ist."
+    SAU_disparity_between_nejd_and_hijaz_2_dyn:0 "$SAU_disparity_between_nejd_and_hijaz_dyn$"
+    SAU_disparity_between_nejd_and_hijaz_2_dyn_desc:0 "$SAU_disparity_between_nejd_and_hijaz_dyn_desc$"
+    SAU_disparity_between_nejd_and_hijaz_3_dyn:0 "$SAU_disparity_between_nejd_and_hijaz_dyn$"
+    SAU_disparity_between_nejd_and_hijaz_3_dyn_desc:0 "$SAU_disparity_between_nejd_and_hijaz_dyn_desc$"
+    SAU_disparity_between_nejd_and_hijaz_4_dyn:0 "$SAU_disparity_between_nejd_and_hijaz_dyn$"
+    SAU_disparity_between_nejd_and_hijaz_4_dyn_desc:0 "$SAU_disparity_between_nejd_and_hijaz_dyn_desc$"
+    SAU_disparity_between_nejd_and_hijaz_tt:0 "£trigger_yes In §YNejd§! nimmt die §HBaugeschwindigkeit§! §Rabnimmt§!, aber der Prozentsatz der §Hrekrutierbaren Bevölkerung§! §Gnimmt zu§!.\n£trigger_yes In §YHijaz§! nimmt die §HBaugeschwindigkeit§! §Gzu, aber der Prozentsatz der §Hrekrutierbaren Bevölkerung§! §Rnimmt zu§!."
+    SAU_loyalty_of_ulema:0 "Ulema-Loyalität" #Це пусть висит на экране выбора страны
+    SAU_loyalty_of_ulema_desc:0 "$SAU_loyalty_of_ulema_desc$"
+    SAU_loyalty_of_ulema_modifier:0 "$SAU_loyalty_of_ulema$" #а це будет в игре
+    SAU_loyalty_of_ulema_modifier_desc:0 "$SAU_loyalty_of_ulema_desc$"
+    SAU_loyalty_of_tribes:0 "Stammesloyalität" #Це пусть висит на экране выбора страны
+    SAU_loyalty_of_tribes_desc:0 "$SAU_loyalty_of_tribes_desc$" 
+    SAU_loyalty_of_tribes_modifier:0 "$SAU_Loyalität_der_Stämme$" #а це будет в игре
+    SAU_loyalty_of_tribes_modifier_desc:0 "$SAU_loyalty_of_tribes_desc$" 
+    SAU_concession_in_el_hasa:0 "Al-Hasa-Konzession"
+    SAU_concession_in_el_hasa_desc:0 "Die Al-Hasa-Ölkonzession besteht seit 1933, als dem US-Konzern SOCAL das Recht zur Exploration von Ölfeldern im Osten Saudi-Arabiens zugesprochen wurde. Der Konzessionsvertrag sieht jährliche Zahlungen an die saudische Staatskasse vor, die bei der Entdeckung kommerzieller Ölvorkommen deutlich erhöht werden. Darüber hinaus soll ein Teil des Öls an die saudische Regierung zur Produktion von Kerosin und Benzin abgeführt werden."
+    SAU_Sultan_Mohammed_Al_Saud:0 "Sultan Muhammad Al Saud"
+    SAU_income_from_pilgrimage:0 "Pilgereinkommen"
+    SAU_payments_to_tribes:0 "Zahlungen an Stämme"
+    SAU_gold_mines:0 "Goldminen"
+    SAU_expanded_food_purchases:0 "Ausweitung der Lebensmittelbeschaffung"
+    SAU_desert_well_network:0 "Wüstenbrunnen-Netzwerk"
+    SAU_resolve_the_camel_crisis_idea:0 "Unterstützung für nomadische Hirten"
+    SAU_development_of_state_institutions:0 "Entwicklung staatlicher Institutionen"
+    SAU_concession_in_hijaz:0 "Hijaz-Konzession"
+    SAU_Revenues_from_oil_concession:0 "Einnahmen aus Ölkonzessionen"
+    SAU_high_revenues_from_oil_concession:0 "Hohe Einnahmen aus Ölkonzessionen"
+    SAU_regulate_the_terms_of_the_slave_trade_idea:0 "Regulierung des Sklavenhandels"
+    SAU_purchase_of_american_machines_idea:0 "Amerikanische Maschinen"
+    SAU_cultural_wahhabism:0 "Kultureller Wahhabismus"
+    SAU_establishment_of_the_coast_guard_office_idea:0 "Küstenwache"
+    SAU_establishment_of_the_coast_guard_office_idea_desc:0 "$SAU_Einrichtung_des_Küstenwachbüros_Beschreibung$"
+    KTH_sau_support:0 "Saudische Unterstützung"
+    KTH_yem_support:0 "Jemenitische Unterstützung"
+    ## INDUSTRIAL CONCERNS
+    SAU_house_of_alireza:0 "Haus von Alireza"
+    SAU_saudi_binladin_group:0 "Saudi Binladin Group"
+    SAU_sams:0 "SAMS"
+    SAU_aramco:0 "ARAMCO"
+    SAU_mic:0 "MIKROFON"
+    SAU_haji_husein_alireza:0 "Haji Husein Alireza &amp; Co. Ltd"
+    add_motorized_equipment_2_tt:0 "§LIst die Technologie §H$motorisierte_Infanterie$§! verfügbar§!:\nTäglicher Fahrzeugzuwachs: §G+2§!"
+    
+    
+    
+    ## IDEAS tt ##
+    SAU_military_school_at_taif_tt:0 "§RIdea wird entfernt, wenn Sie nicht über §H$irregular_army$§! oder §H$partial_regular_army$§!.§! verfügen."
+    SAU_organization_of_the_regular_army_tt:0 "§ODie erste Kavalleriedivision mit 6.000 Mann und das erste Infanterieregiment mit 3.300 Mann werden aufgestellt§!"
+    SAU_nw_buyships_oob_tt:0 "§OWir werden drei Zerstörer von 1936 kaufen§!"
+    SAU_elite_troops_tt:0 "§OEs werden Vorlagen für die Panzer-, Luftlandedivision und Gebirgsdivision verfügbar sein, mit der Möglichkeit, diese später zu ändern§!"
+    
+    
+    ## CHARACTERS
+    SAU_abdulaziz_ibn_saud:0 "Abdulaziz ibn Abdul Rahman Al Saud" ## Abdulaziz ibn Abdul Rahman Al Saud
+    SAU_omar_bin_hassan_al_sheikh:0 "Omar Bin Hassan al-Sheikh" ## Omar Bin Hassan al-Sheikh
+    SAU_abdullah_bin_mutaib_al_rashid:0 "Abdullah bin Mutaib Al-Rashid" ## Abdullah bin Mutaib Al-Rashid
+    SAU_saud_bin_abdulaziz_al_saud:0 "Saud bin Abdulaziz Al Saud" ## Saud bin Abdulaziz Al Saud
+    SAU_faisal_bin_abdulaziz_al_saud:0 "Faisal bin Abdulaziz Al Saud" ## Faisal bin Abdulaziz Al Saud
+    SAU_saud_al_kabeer_bin_abdulaziz_al_saud:0 "Saud Al Kabeer bin Abdulaziz Al Saud" ## Saud Al Kabeer bin Abdulaziz Al Saud
+    SAU_muhammad_bin_abdul_rahman_al_saud:0 "Muhammad bin Abdul Rahman Al Saud" ## Muhammad bin Abdul Rahman Al Saud
+    SAU_mohammed_bin_abdulaziz_alshuhail:0 "Mohammed bin Abdulaziz Alshuhail" ## Mohammed bin Abdulaziz Alshuhail
+    SAU_muhammad_bin_abdulaziz_al_saud:0 "Muhammad bin Abdulaziz Al Saud" ## Muhammad bin Abdulaziz Al Saud
+    SAU_saad_bin_abdulaziz_al_saud:0 "Saad bin Abdulaziz Al Saud" ## Saad bin Abdulaziz Al Saud
+    SAU_abdul_mohsen_al_faram:0 "Abdul Mohsen Al-Faram" ## Abdul Mohsen Al-Faram
+    SAU_said_kurdi:0 "Said Kurdi" ## Said Kurdi
+    SAU_hassan_bin_ali_al_asiri:0 "Hassan bin Ali al-Asiri" ## Hassan bin Ali al-Asiri
+    SAU_mansour_bin_abdulaziz_al_saud:0 "Mansour bin Abdulaziz Al Saud" ## Mansour bin Abdulaziz Al Saud
+    SAU_ibrahim_al_tasan:0 "Ibrahim al-Tasan" ## Ibrahim al-Tasan
+    SAU_noura_bint_abdul_rahman_al_saud:0 "Noura bint Abdul Rahman Al Saud" ## Noura bint Abdul Rahman Al Saud
+    SAU_abdullah_bin_suleiman:0 "Abdullah bin Suleiman" ## Abdullah bin Suleiman
+    SAU_mohammed_suroor_sabban:0 "Mohammed Suroor Sabban" ## Mohammed Suroor Sabban
+    SAU_john_philby:0 "John Philby" ## John Philby
+    SAU_mohammed_bin_laden:0 "Mohammed bin Laden" ## Mohammed bin Laden
+    SAU_khalid_al_hakim:0 "Khalid Al Hakim" ## Khalid Al Hakim
+    SAU_saud_bin_jiluwi_al_saud:0 "Saud bin Jiluwi al Saud" ## Saud bin Jiluwi al Saud
+    SAU_khamis_bin_ramthan:0 "Khamis bin Ramthan"
+    SAU_muhammad_ali_al_omari:0 "Muhammad Ali Al-Omari"
+    SAU_mohamed_saleh_nassif:0 "Mohamed Saleh Nassif"
+    SAU_max_steineke:0 "Max Steineke"
+    
+    
+    
+    
+    ## DECISION
+    SAU_irregular_army_category:0 "Stammesmiliz"
+    SAU_irregular_army_category_desc:0 "Zu Beginn verfügt Saudi-Arabien nicht über eine reguläre Armee, sodass Sie sich für eine gewisse Zeit auf die Stammesmiliz verlassen müssen (die irregulären Streitkräfte können Sie jedoch nur während des gesamten Spiels entwickeln). Ein besonderer Teil Ihrer Truppen sind die Ikhwan – eine einzigartige Einheit, die sich unter den Bedingungen der Arabischen Halbinsel großartig anfühlt, in anderen Regionen jedoch an Effektivität verliert.\n\n§HAktueller Zustand der Miliz:§!\nMiliz: [?num_armies_with_type@infantry] von §G[?num_of_militia_var]§!\nKamel: [?num_armies_with_type@camelry] von §G[?num_of_camelry_var]§!"
+    SAU_mobilize_white_army:0 "Mobilisiert die Weiße Armee"
+    SAU_mobilize_white_army_tt:0 "§RDie Mobilisierung der Weißen Armee wird ihre Neuformierung unmöglich machen.§!\n"
+    SAU_mobilize_white_army_5_cavalry_tt:0 "§O2 erfahrene Divisionen, bestehend aus fünf Kavalleriebataillonen, werden eingesetzt.§!\n"
+    SAU_mobilize_white_army_10_cavalry_tt:0 "§O2 erfahrene Divisionen, bestehend aus zehn Kavalleriebataillonen und einer Kavallerieaufklärungskompanie, werden eingesetzt.§!\n"
+    SAU_mobilize_white_army_10_cavalry_tt2:0 "§O3 erfahrene Divisionen, bestehend aus zehn Kavalleriebataillonen und einer Kavallerieaufklärungskompanie, werden eingesetzt.§!\n"
+   
+    SAU_militia_bond:0 "\n§RIst die Miliz bereits einberufen, ändert sich ihre Vorlage erst nach der Auflösung und erneuten Einberufung.§!"
+    SAU_militia_bond_num:0 "\n§RIst die Miliz bereits einberufen, wird ihre Größe erst nach der Auflösung und erneuten Einberufung erweitert.§!"
+    
+    SAU_summon_peoples_militia:0 "$IOM_summon_peoples_militia$"
+    SAU_summon_peoples_militia_tt:0 "§O[? num_irregular_division_summon] Divisionen mit jeweils vier Kamelkavalleriebataillonen werden eingesetzt.§!\n"
+    SAU_summon_peoples_militia_tt4:0 "§O[? num_irregular_division_summon] Divisionen mit je sieben Kamelkavalleriebataillonen werden eingesetzt.§!\n"
+    SAU_summon_peoples_militia_tt5:0 "§O[? num_irregular_division_summon] Divisionen mit jeweils zehn Kamelkavalleriebataillonen werden eingesetzt.§!\n"
+    SAU_summon_peoples_militia_tt2:0 "\n§RIrreguläre Truppen werden zu 60 % ausgerüstet sein.§!\n"
+    SAU_summon_peoples_militia_tt3:0 "§RDer Verlust nationaler Regionen verringert die Größe der Miliz.§!\n"
+    
+    SAU_declare_jihad:0 "Den Dschihad erklären"
+    SAU_declare_jihad_tt:0 "§O[?num_irregular_jihad_summon] Divisionen mit vier Infanteriebataillonen werden eingesetzt.§!\n"
+    SAU_declare_jihad_tt3:0 "§O[?num_irregular_jihad_summon] Divisionen mit zehn Infanteriebataillonen werden eingesetzt.§!\n"
+    SAU_declare_jihad_tt31:0 "§O[?num_irregular_jihad_summon] Divisionen mit zehn Infanteriebataillonen und einer Unterstützungsartillerie werden eingesetzt.§!\n"
+    SAU_declare_jihad_tt32:0 "§O[?num_irregular_jihad_summon] Divisionen mit zehn Infanteriebataillonen und einer Pionierkompanie werden eingesetzt.§!\n"
+    SAU_declare_jihad_tt33:0 "§O[?num_irregular_jihad_summon] Divisionen mit zehn Infanteriebataillonen, einer Unterstützungsartillerie und einer Pionierkompanie werden eingesetzt.§!\n"
+    SAU_declare_jihad_tt2:0 "§O[?num_irregular_jihad_summon] Divisionen mit fünf Kamelkavalleriebataillonen werden eingesetzt.§!\n"
+    SAU_declare_jihad_tt4:0 "§O[?num_irregular_jihad_summon] Divisionen mit sieben Kamelkavalleriebataillonen werden eingesetzt.§!\n"
+    SAU_declare_jihad_tt5:0 "§O[?num_irregular_jihad_summon] Divisionen mit zehn Kamelkavalleriebataillonen werden eingesetzt.§!\n"
+    
+    SAU_irregular_army_recovery_tt:0 "Die Anzahl der Divisionen ist kleiner als das maximal mögliche.\n§TAktuelles Divisionsmaximum = [?total_num_of_militia_var]§!"
+    
+    SAU_opinion_with_tribes_category:0 "Beziehungen zu Stämmen"
+    SAU_opinion_with_tribes_category_desc:0 "[GetNameSaud_COUP_TRIBE]"
+    SAU_COUP_TRIBE_YEP:0 "Der geschickte Einsatz der Stammesaristokratie, die Druckmittel, militärische Vergeltungsmaßnahmen sowie die Beschenkung und Verpflegung von Stammesoberhäuptern kombiniert, ermöglicht es der Regierung, auch die vielen und zuvor widerspenstigen Nomaden gehorsam zu halten. Doch die freiheitsliebenden Beduinen, die schwer bewaffnet sind und die Grundlage unserer Mobilisierungsfähigkeiten bilden, werden immer eine ernsthafte Bedrohung für unsere Macht darstellen. Wir müssen die Stimmung unter den Nomaden ständig beobachten und sicherstellen, dass ihre Loyalität nicht nachlässt."
+    SAU_COUP_TRIBE_NAH:0 "$SAU_COUP_TRIBE_YEP$ \n\n§RIsst die Stammesloyalität auf 0 % sinkt, werden sie einen bewaffneten Aufstand starten.§!"
+    SAU_COUP_TRIBE_SAUD:0 "$SAU_COUP_TRIBE_YEP$ \n\n§RIsst die Stammesloyalität auf 0 %, können die Saudis ins Land zurückkehren und ihre loyalen Stämme in einem bewaffneten Aufstand aufrütteln.§!"
+    
+    SAU_Establish_the_family_tree_of_the_Saudis_to_the_tribe_of_blue_blood:0 "Finden Sie die saudischen Wurzeln im Stamm der „blaublütigen“"
+    SAU_Establish_the_family_tree_of_the_Saudis_to_the_tribe_of_blue_blood_desc:0 "Die Erhebung des Stammbaums der Saudis zum Anizah-Stamm, dem sogenannten „blaublütigen“ Stamm, dem zahlreichsten und mächtigsten in Arabien, würde dazu beitragen, die Autorität der herrschenden Dynastie in den Augen der Beduinen deutlich zu stärken."
+    
+    SAU_raise_zakat:0 "Erhöhen Sie die Zakat"
+    SAU_raise_zakat_desc:0 "Aufgrund der sinkenden Zahl der Pilger sind die Staatseinnahmen zunehmend von der Erhebung von Steuern abhängig, deren Haupteinnahmequelle die Zakat ist. Die Zakat gilt als heiliges Gut des „wahren“ Islam und des „Monotheismus“, und die Steuereintreiber gelten bei den Beduinen als die Augen der Regierung, wodurch die Autorität der Zentralregierung gewahrt wird. Eine Erhöhung der Zakat würde den Staat zwar deutlich stärken, könnte aber zu Unmut unter den Stämmen führen, die ohnehin schon mit Steuern belastet sind. Darüber hinaus räumte Abdulaziz einmal ein, dass Steuereintreiber ihre Stellung missbrauchten und nur ein Drittel der eingenommenen Gelder an den König gingen."
+    
+    SAU_lower_zakat:0 "Niedrigere Zakat"
+    SAU_lower_zakat_desc:0 "Zakat, eine religiöse Steuer, die vom „wahren“ Islam und „Monotheismus“ geheiligt wird, ist eine wichtige Einnahmequelle für die Staatskasse. Die armen Stämme, die an die Machtlosigkeit früherer Herrscher gewöhnt sind, fühlen sich jedoch durch die vom Staat auferlegten Steuern belastet. Zudem missbrauchen die Steuereintreiber oft ihre Position, und nur ein Drittel der eingenommenen Gelder kommt beim König an. Eine Senkung der Zakat würde die öffentliche Stimmung gegenüber der Regierung wahrscheinlich verbessern."
+    
+    SAU_lower_the_cost_of_the_king_guests:0 "Reduzieren Sie die Kosten für die Gäste des Königs"
+    SAU_lower_the_cost_of_the_king_guests_desc:0 "In Riad lebt eine ganze Armee armer Menschen auf Kosten des Königs. Zweimal täglich werden 1.000 bis 2.000 Menschen in der königlichen Küche verköstigt. In der Hauptstadt werden etwa hundert Familien ehrenamtlicher Gefangener festgehalten. Der König bezahlt den Unterhalt ihrer Häuser, Ställe, Kamele, Kleidung, Nahrung und Sklaven. Die regelmäßige Zahl der Gäste am Hof beträgt 500, manchmal bewirtet der König bis zu 10.000 Menschen. Viele Beduinen reisen viele hundert Kilometer, um Geschenke vom König entgegenzunehmen. Es ist wichtig zu beachten, dass dieses Geschenk in der Verantwortung des Herrschers liegt. Jeder Araber, insbesondere ein Nomade, der ein Geschenk vom König erhalten hat, ob groß oder klein, in Form von Geld, Kleidung oder Proviant, ist der Ansicht, dass ihm jedes Jahr oder bei jedem seiner Besuche am Hof ein solches Geschenk zusteht. Wird ihm kein Geschenk überreicht, fühlt er sich beleidigt und schließt sich möglicherweise später den Feinden des Königs an. Durch die Reduzierung der Ausgaben für die Gäste des Herrschers würden erhebliche Mittel freigesetzt, die für wichtigere Bedürfnisse ausgegeben werden könnten. Ein solcher Bruch mit der Tradition würde jedoch bei weiten Teilen der Bevölkerung zu Unmut führen."
+    
+    SAU_conduct_a_raid_on_disloyal_tribes:0 "Überfalle illoyale Stämme"
+    SAU_conduct_a_raid_on_disloyal_tribes_desc:0 "Manche Stämme sind dem König gegenüber nicht loyal genug. Manche von ihnen erlauben sich sogar Ungehorsam und Rebellion, um die Freiheitsideale der Beduinen zu verteidigen. Wir müssen solche Stämme streng bestrafen: Wir müssen ihnen ihr Vieh wegnehmen, sie hungern lassen und in extremen Fällen bewaffnete Überfälle auf sie verüben."
+    
+    SAU_threats_to_disloyal_leaders:0 "Bedrohung durch Illoyalisten"
+    SAU_threats_to_disloyal_leaders_desc:0 "Der Stammesscheich ist der Vermittler zwischen Staat und Beduinen. Wehe dem Häuptling, der es wagt, die Zentralgewalt herauszufordern. Die Angst vor der Macht der Herrscherfamilie muss die Stammesführung vor vorschnellem Handeln bewahren."
+    SAU_threats_to_disloyal_leaders_tt:0 "Loyalität der „Otribes“! &gt; 70 %"
+    
+    SAU_deal_with_disloyal_leaders:0 "Umgang mit illoyalen Führern"
+    SAU_deal_with_disloyal_leaders_desc:0 "Angesichts der geringen Loyalität der Stämme müssen wir entschiedenere Schritte unternehmen. Scheichs, die ihre Stämme zum Ungehorsam aufstacheln, sollten hingerichtet und durch loyalere ersetzt werden."
+    SAU_deal_with_disloyal_leaders_tt:0 "Loyalität der „Otribes“! &lt; 35 %"
+    
+    SAU_seize_weapons_from_the_tribes:0 "Beschlagnahmt Stammeswaffen"
+    SAU_seize_weapons_from_the_tribes_desc:0 "Die Beduinen verfügen über eine große Anzahl an Waffen, vor allem veraltete britische und osmanische Gewehre. Deren Beseitigung könnte eine bessere Bewaffnung der Armee ermöglichen, die nicht mehr auf Stammesmilizen angewiesen ist. Dies könnte auch die Zahl der Stammeskonflikte verringern."
+    
+    SAU_opinion_with_ulema_category:0 "Beziehungen zu Ulema"
+    SAU_opinion_with_ulema_category_desc:0 "[GetNameSaud_COUP_ULEMA]"
+    SAU_COUP_ULEMA_YEP:0 "Die Ulema, islamische Gelehrte mit umfassenden theologischen und juristischen Kenntnissen, genießen aufgrund ihrer bedeutenden Rolle bei der Entwicklung von Schulen und Bibliotheken hohes Ansehen in der Bevölkerung. Sie lehnen jedoch häufig die Modernisierung des Staates und die Einführung neuer Technologien ab. Um die Stabilität in der Gesellschaft zu wahren, muss der Herrscher die Einhaltung islamischer Normen betonen und zeigen, dass er auf den Rat der Ulema hört, wenn dieser nicht im Widerspruch zu den Interessen des Staates steht."    
+    SAU_COUP_ULEMA_NAH:0 "$SAU_COUP_ULEMA_YEP$ \n\n§RIm Falle der Loyalität der Ulema auf 0 % werden sie einen Staatsstreich inszenieren.§!"
+    
+    SAU_tightening_religious_norms:0 "Verschärfung der religiösen Normen"
+    SAU_tightening_religious_norms_desc:0 "Selbst in einem theokratischen Staat muss die Regierung religiöse Normen nicht immer strikt befolgen, um einen florierenden Handel und die Stabilität der Gesellschaft zu gewährleisten. Beispielsweise dürfen Händler trotz des Verbots Tabak und Alkohol im Land behalten. In Al-Hasa ist zudem der schiitische Gottesdienst de facto verboten. Strengere religiöse Normen könnten zwar die Beziehungen zu den wahhabitischen Ulema verbessern, den Handel jedoch schädigen."
+   
+    SAU_relaxation_of_religious_prohibitions:0 "§8Lockert die religiösen Verbote§!"
+    SAU_relaxation_of_religious_prohibitions_desc:0 "Obwohl der Radikalismus der Massen seit dem Ende der Einigungskriege deutlich abgenommen hat, besteht unsere Ideologie weiterhin in strengen religiösen Gesetzen, die die Entwicklung des Landes behindern. Selbst die Einführung von Radiosendern stößt auf Widerstand der Geistlichkeit. Der Staat ignoriert jedoch oft die Durchsetzung vieler Gesetze, und eine weitere Lockerung der religiösen Gesetze könnte die Entwicklung unseres Staates beschleunigen."
+    SAU_relaxation_of_religious_prohibitions_tt:0 "§7Starte eine Mission, die alle 150 Tage die Loyalität der Ulema verringert. Du kannst die Mission jederzeit abbrechen, verlierst dabei aber zusätzliche Forschungsplätze.§!"
+    SAU_relaxation_of_religious_prohibitions_mission:0 "§7Ulemas Groll über die Schwächung der religiösen Kontrolle§!"
+    
+    SAU_create_committee_for_the_Promotion_of_Virtue_and_the_Prevention_of_Vice:0 "Gründung des Komitees zur Förderung der Tugend und zur Verhinderung des Lasters" #Committee for the Promotion of Virtue and the Prevention of Vice
+    SAU_create_committee_for_the_Promotion_of_Virtue_and_the_Prevention_of_Vice_desc:0 "Das Komitee zur Förderung der Tugend und zur Verhinderung des Lasters soll die Wirksamkeit unserer Religionspolizei stärken und das Engagement des Königs für die Integrität der Religion unter Beweis stellen. Sein Aufgabenbereich umfasst Betrug und Täuschung auf dem Markt, die Nichtzahlung der Zakat, die Verletzung von Fastenregeln, die Verletzung von Pilgervorschriften, Mord oder Selbstverletzung sowie den Verkauf oder Konsum alkoholischer Getränke."
+    
+    SAU_Establishment_of_a_committee_to_oversee_the_Grand_Mosque:0 "Ein Komitee zur Überwachung der Großen Moschee einrichten"
+    SAU_Establishment_of_a_committee_to_oversee_the_Grand_Mosque_desc:0 "Die Einrichtung eines Ausschusses zur Überwachung der Großen Moschee von Mekka soll die Aufmerksamkeit der Regierung für dieses wichtige muslimische Heiligtum demonstrieren. Der Ausschuss wird für die ständige Aufsicht über die Große Moschee und alle notwendigen Bau-, Reparatur- und Umbauarbeiten verantwortlich sein."
+    
+    SAU_Renovation_of_the_Grand_Mosque:0 "Renovierung der Großen Moschee"
+    SAU_Renovation_of_the_Grand_Mosque_desc:0 "Die in der Großen Moschee durchgeführte Untersuchung ergab, dass folgende Arbeiten erforderlich sind: Ausbesserung des Bodens im Hof und in den Korridoren mit Feuersteinen; Entfernung beschädigter Steine und Pflasterung mit Zement; Entfernung des Putzes von allen verschmutzten Wänden und Befestigung mit Zement und Befestigungen, um das Eindringen von Feuchtigkeit in die Wände zu verhindern; Anstrich der gesamten Moschee innen und außen, einschließlich der Türen, des Zamzam-Brunnens und der Schreine; und Ausbesserung von Rissen in den Kuppeln. Darüber hinaus sollten die Innenbereiche der Moschee mit frischem Kies behandelt werden."
+    
+    SAU_installation_of_new_doors_of_the_Kaaba:0 "Verbessere die Kaaba-Türen"
+    SAU_installation_of_new_doors_of_the_Kaaba_desc:0 "Die Türen der Kaaba müssen schon lange ausgetauscht werden. Wir sollten Handwerker beauftragen, diese Arbeit zu erledigen."
+    
+    SAU_Prohibition_of_the_presence_of_Shiites_in_the_Hajj:0 "Verbot für Schiiten beim Hadsch"
+    SAU_Prohibition_of_the_presence_of_Shiites_in_the_Hajj_desc:0 "Viele Ulema plädieren für ein Verbot der Anwesenheit von Schiiten während der Hadsch. Wir können diese Regel zwar gesetzlich verankern, in Wirklichkeit aber nur vorübergehend durchsetzen."
+    
+    SAU_allow_gramophones_and_cinema:0 "Grammophone und Filme zulassen"
+    SAU_allow_gramophones_and_cinema_desc:0 "Obwohl die Ulema die Einführung von Telefon, Radio und Flugzeugen akzeptiert haben, deren Funktionsweise ihrer Ansicht nach auf Allahs Willen beruht, lehnen sie die Aufhebung des Grammophon- und Filmverbots noch immer ab, obwohl dieses Verbot häufig von wohlhabenden Arabern missachtet wird."
+    
+    SAU_ulema_issue_a_fatwa_against_the_division_of_the_nation:0 "Ulema: Erlasst eine Fatwa gegen die Spaltung der Nation"
+    SAU_ulema_issue_a_fatwa_against_the_division_of_the_nation_desc:0 "Die religiösen Gesetze unseres Landes erlauben keinen Widerspruch und keinen Ungehorsam gegenüber den Behörden. Ulemas sollten alle Feinde unserer Regierung daran erinnern."
+    SAU_ulema_issue_a_fatwa_tt:0 "Loyalität von §Gulema§! &gt; 80 %"
+    
+    SAU_ulema_issue_a_fatwa_on_the_legitimacy_of_war:0 "Ulema: Erlass einer Fatwa zur Legitimität des Krieges"
+    SAU_ulema_issue_a_fatwa_on_the_legitimacy_of_war_desc:0 "In Kriegszeiten ist die Unterstützung der Geistlichen wichtiger denn je. Ulemas müssen die Gerechtigkeit dieses Krieges verkünden."
+    
+    SAU_ulema_issue_a_fatwa_against_the_invaders_and_their_minions:0 "Ulema: Erlasst eine Fatwa gegen die Invasoren und ihre Schergen"
+    SAU_ulema_issue_a_fatwa_against_the_invaders_and_their_minions_desc:0 "Wenn der Feind in unser Land kommt, muss das Volk vereint sein wie nie zuvor. Die Ulemas müssen unseren Kampf unterstützen und diejenigen verurteilen, die es wagen, dem Feind zu dienen."
+    
+    SAU_invest_in_infrastructure_mecca:0 "Investieren Sie in §H[679.GetName]§! Infrastruktur"
+    SAU_invest_in_infrastructure_medina:0 "Investieren Sie in §H[1073.GetName]§! Infrastruktur"
+    SAU_invest_in_infrastructure_tabuk:0 "Investieren Sie in §H[991.GetName]§! Infrastruktur"
+    
+    SAU_invest_in_hospital_mecca:0 "Investieren Sie in §H[679.GetName]§! Krankenhäuser"
+    SAU_invest_in_hospital_medina:0 "Investieren Sie in §H[1073.GetName]§! Krankenhäuser"
+    SAU_invest_in_hospital_tabuk:0 "Investieren Sie in §H[991.GetName]§! Krankenhäuser"
+    
+    SAU_Development_of_oil_fields:0 "Entwicklung von Ölfeldern"
+    SAU_Development_of_oil_fields_desc:0 "[ROOT.GetName] verfügt nicht über die nötigen Technologien, um selbst Öl zu fördern, und ist daher auf ausländische Unternehmen angewiesen, um seine Felder zu erschließen. Trotz der Ungerechtigkeit des Konzessionsvertrags deckt der Al-Hasa-Pachtvertrag einen großen Teil unseres Budgets. Sollten große Ölfelder entdeckt werden, würde dies die Modernisierung Saudi-Arabiens deutlich beschleunigen. \n\n Aktueller Konzessionsinhaber: §Y[?var:concession_owner.GetNameWithFlag]§!&quot;"
+    SAU_Independent_development_of_oil_fields:0 "Ölfelder auf eigene Faust erschließen"
+    SAU_Liquidate_the_concession_in_Al_Has:0 "Überarbeiten Sie die [?var:concession_owner.GetAdjective]-Konzession in Al-Hasa"
+    SAU_Transfer_the_oil_concession_to_the_state:0 "Ölkonzession übertragen an [FROM.GetNameDef]"
+    SAU_Development_of_Al_hasa_deposits:0 "Entwicklung der Al-Hasa-Ölfelder"
+    
+    SAU_sacred_war:0 "Heiliger Krieg"
+    SAU_sacred_war_desc:0 "Der individuelle Kampf jedes Muslims gegen seine Laster ist die wichtigste und schwierigste Form des Dschihad. In diesen turbulenten Zeiten ist es jedoch die Pflicht jedes Wahhabiten, die Reinheit des Islam zu verteidigen und selbstlos für sein Heimatland und seinen Glauben zu kämpfen."
+    SAU_sacred_war_tt:0 "§7Wir können ein nicht-muslimisches Land als Ziel des Dschihad auswählen und vorübergehend die gesamte Radikalität unseres Volkes gegen dieses Land richten§!"
+    SAU_call_for_jihad:0 "Aufruf zum Dschihad"
+    SAU_call_for_jihad_from:0 "Aufruf zum Jihag gegen [FROM.GetNameDef]"
+    SAU_call_for_jihad_from_tt:0 "§6Zielland ist nicht muslimisch§!"
+    
+    SAU_expansion_category:0 "[ROOT.GetAdjective]-Erweiterung"
+    SAU_expansion_category_desc:0 "Viele Muslime sind der Macht unwissender Tyrannen und Kolonialherren überdrüssig. Sie warten darauf, dass [ROOT.GetRulingParty] kommt und ihre gerechte Autorität etabliert. Wir hören ihre Rufe, und unser Staat ist bereit, seine Expansion fortzusetzen."
+    
+    ara_cores:0 "Zustände, die entkernt werden können"
+    
+    SAU_punish_the_zaidis:0 "Bestrafe Zaydis"
+    SAU_punish_the_zaidis_desc:0 ""
+    
+    SAU_punish_the_ibadis:0 "Bestrafe die Ibadis"
+    SAU_punish_the_ibadis_desc:0 ""
+    
+    SAU_subjugate_the_lesser_emirates_of_arabia:0 "Unterwerfe die kleinen Emirate"
+    SAU_subjugate_the_lesser_emirates_of_arabia_desc:0 ""
+    SAU_subjugate_the_lesser_emirates_of_arabia_tt:0 "Mindestens eine der Kernregionen [UAE.GetName], [BHR.GetName], [QAT.GetName], [KUW.GetName], [KTH.GetName], [MHR.GetName] oder [QUA.GetName] befindet sich nicht in einer Allianz, im Krieg oder ist Gegenstand von [ROOT.GetName]."
+    SAU_subjugate_the_lesser_emirates_of_arabia_tt_effect:0 "Wir werden den Besitzern der Nationalregionen – dem truzialen Oman, Kuwait, den Sultanaten Hadramaut, Katar und Bahrain – den Krieg ansagen!"
+    
+    SAU_claim_aden:0 "Nachfrage Aden"
+    SAU_claim_aden_desc:0 ""
+    
+    SAU_crush_the_hashemites:0 "Zerschmettert die Haschemiten"
+    SAU_crush_the_hashemites_desc:0 ""
+    
+    SAU_invasion_of_iraq:0 "Invasion im Irak"
+    SAU_invasion_of_iraq_trigger:0 "Unter den Eigentümern des Irak gibt es mindestens ein Land, das keine Marionette von [SAU.GetNameDef] ist und weder mit uns verbündet ist noch sich mit uns im Krieg befindet."
+    SAU_invasion_of_iraq_desc:0 ""
+    SAU_invasion_of_iraq_tt:0 "Wir werden einen Krieg gegen die Besitzer der Kernstaaten des „Irak“ anzetteln!"
+    
+    SAU_invasion_of_levant:0 "Erobere Levante"
+    SAU_invasion_of_levant_trigger:0 "Unter den Eigentümern mindestens eines der syrischen und palästinensischen Mandatsgebiete gibt es mindestens ein Land, das keine Marionette von [SAU.GetNameDef] ist und weder mit uns verbündet ist noch sich mit uns im Krieg befindet."
+    SAU_invasion_of_levant_desc:0 ""
+    SAU_invasion_of_levant_tt:0 "Wir werden einen Krieg gegen die Besitzer der Kernstaaten Palästina, Libanon, Jordanien, Syrien, Dschabal al-Druse und Alawiten anstreben!"
+  
+    SAU_invasion_of_egypt:0 "Invasion Ägyptens"
+    SAU_invasion_of_egypt_trigger:0 "Unter den Eigentümern mindestens einer ägyptischen Region befindet sich mindestens ein Land, das keine Marionette von [SAU.GetNameDef] ist und weder mit uns verbündet ist noch sich mit uns im Krieg befindet."
+    SAU_invasion_of_egypt_desc:0 ""
+    SAU_invasion_of_egypt_tt:0 "Wir werden ein Kriegsziel gegen die Besitzer der Kernstaaten von §YEgypt§ erreichen!"
+     
+    SAU_invasion_of_libya:0 "Invasion in Libyen"
+    SAU_invasion_of_libya_trigger:0 "Unter den Eigentümern mindestens einer libyschen Region gibt es mindestens ein Land, das keine Marionette von [SAU.GetNameDef] ist und weder mit uns verbündet ist noch sich mit uns im Krieg befindet."
+    SAU_invasion_of_libya_desc:0 ""
+    SAU_invasion_of_libya_tt:0 "Wir werden einen Krieg gegen die Besitzer der Kernstaaten von „Libyen“ anzetteln!"
+     
+    SAU_subjugation_of_maghreb:0 "Invasion im Maghreb"
+    SAU_subjugation_of_maghreb_trigger:0 "Unter den Eigentümern mindestens einer der Regionen Algerien, Marokko und Tunesien gibt es mindestens ein Land, das keine Marionette von [SAU.GetNameDef] ist und weder mit uns verbündet ist noch sich mit uns im Krieg befindet."
+    SAU_subjugation_of_maghreb_desc:0 ""
+    SAU_subjugation_of_maghreb_tt:0 "Wir werden einen Krieg gegen die Besitzer der Kernstaaten Tunesien, Algerien und Marokko anstreben!"
+    
+    SAU_african_muslim_liberation:0 "Befreit die Muslime Afrikas"
+    SAU_african_muslim_liberation_trigger:0 "Unter den Eigentümern mindestens einer der Regionen Westsahara, Mauretanien, Mali, Senegal, Niger, Tschad, Sudan, Eritrea, Dschibuti und Somalia gibt es mindestens ein Land, das keine Marionette von [SAU.GetNameDef] ist und weder mit uns verbündet ist noch sich mit uns im Krieg befindet."
+    SAU_african_muslim_liberation_desc:0 ""
+    SAU_african_muslim_liberation_tt:0 "Wir werden einen Krieg gegen die Eigentümer der Kernstaaten Westsahara, Mauretanien, Mali, Senegal, Niger, Tschad, Sudan, Eritrea, Dschibuti und Somalia anstreben!"
+    
+    SAU_claim_suez:0 "Nachfrage [1064.GetName]"
+    SAU_claim_suez_desc:0 ""
+    
+    SAU_bring_purified_islam_to_turkey:0 "Bringen Sie den gereinigten Islam in die Türkei"
+    SAU_bring_purified_islam_to_turkey_desc:0 ""
+    
+    SAU_annex_albania:0 "Anhang Albanien"
+    SAU_annex_albania_desc:0 ""
+    
+    SAU_subjugate_afganistan:0 "Afghanistan unterwerfen"
+    SAU_subjugate_afganistan_desc:0 ""
+    
+    SAU_subjugate_indonesia:0 "Indonesien unterwerfen"
+    SAU_subjugate_indonesia_desc:0 ""
+    
+    SAU_subjugate_malaysya:0 "Invasion Malaysias"
+    SAU_subjugate_indonesia_desc:0 ""
+    
+    SAU_liberate_pakistan:0 "Befreie Pakistan"
+    SAU_liberate_pakistan_desc:0 ""
+    SAU_liberate_pakistan_trigger:0 "Unter den Eigentümern mindestens einer pakistanischen Region befindet sich mindestens ein Land, das keine Marionette von [SAU.GetNameDef] ist und weder mit uns verbündet ist noch sich mit uns im Krieg befindet."
+    SAU_liberate_pakistan_tt:0 "Wir werden einen Krieg gegen die Eigentümer der Kernstaaten Pakistans anzetteln!"
+    
+    SAU_liberation_of_muslims_in_russia:0 "Befreit die russischen Muslime"
+    SAU_liberation_of_muslims_in_russia_desc:0 ""
+    
+    SAU_Subdue_Xinjiang:0 "Unterwerfe Xinjiang"
+    SAU_Subdue_Xinjiang_desc:0 ""
+    
+    SAU_territory_integration:0 "Integrieren Sie [FROM.GetName]"
+    
+    SAU_anticolonial_policy:0 "Antikolonialpolitik"
+    SAU_anticolonial_policy_desc:0 "Der Mangel an Verbündeten und der schwindende religiöse Eifer der Bevölkerung nach dem Ende der Einigungskriege machen eine Fortsetzung des Dschihad unmöglich. Wir müssen ein neues Banner hissen, das Banner des Antikolonialismus. Nur unser Staat hat den Willen, die Muslime gegen die europäischen Invasoren zu mobilisieren."
+    
+    SAU_liberate_uae:0 "Befreie [UAE.GetName]"
+    SAU_liberate_uae_tt:0 "§4Unsere Diplomaten werden versuchen, die Befreiung von [UAE.GetName] von der britischen Herrschaft zu erreichen. Sollten die Verhandlungen scheitern, was bei einer stabilen Lage in Großbritannien mit ziemlicher Sicherheit der Fall sein wird, wird es zu einem Grenzkonflikt kommen. Das befreite Land wird unter unser Protektorat gestellt.§!"
+    
+    SAU_liberate_bhr:0 "Befreie [BHR.GetName]"
+    SAU_liberate_bhr_tt:0 "§4Unsere Diplomaten werden versuchen, die Befreiung von [BHR.GetName] von der britischen Herrschaft zu erreichen. Sollten die Verhandlungen scheitern, was bei einer stabilen Lage in Großbritannien mit ziemlicher Sicherheit der Fall sein wird, wird es zu einem Grenzkonflikt kommen. Das befreite Land wird unter unser Protektorat gestellt.§!"
+    
+    SAU_liberate_KUW:0 "Befreie [KUW.GetName]"
+    SAU_liberate_KUW_tt:0 "§4Unsere Diplomaten werden versuchen, die Befreiung von [KUW.GetName] von der britischen Herrschaft zu erreichen. Sollten die Verhandlungen scheitern, was bei einer stabilen Lage in Großbritannien mit ziemlicher Sicherheit der Fall sein wird, wird es zu einem Grenzkonflikt kommen. Das befreite Land wird unter unser Protektorat gestellt.§!"
+    
+    SAU_liberate_QAT:0 "Befreie [QAT.GetName]"
+    SAU_liberate_QAT_tt:0 "§4Unsere Diplomaten werden versuchen, die Befreiung von [QAT.GetName] von der britischen Herrschaft zu erreichen. Sollten die Verhandlungen scheitern, was bei einer stabilen Lage in Großbritannien mit ziemlicher Sicherheit der Fall sein wird, wird es zu einem Grenzkonflikt kommen. Das befreite Land wird unter unser Protektorat gestellt.§!"
+    
+    SAU_liberate_QUA:0 "Befreit den Südjemen"
+    SAU_liberate_QUA_tt:0 "§4Unsere Diplomaten werden versuchen, die Befreiung Südjemens von der britischen Herrschaft zu erreichen. Sollten die Verhandlungen scheitern, was bei einer stabilen britischen Lage mit ziemlicher Sicherheit der Fall sein wird, wird es zu einem Grenzkonflikt kommen. Das befreite Land wird unter unser Protektorat gestellt.§!"
+    
+    SAU_invite_from:0 "Einladen [FROM.GetName]"
+    
+    SAU_search_for_allies_in_the_middle_east_fake:0 "Bewerben Sie sich um die Mitgliedschaft in der Allianz"
+    SAU_search_for_allies_in_the_middle_east_dec:0 "Bewerben Sie sich bei §H[From.GetFactionName]§!"
+    ### FLAGS AND TOOLTIPS (and airplane)
+    SAU_mohammed_suroor_sabban_in_kings_inner_circle_flag:0 "$SAU_mohammed_suroor_sabban$ gehört zum inneren Kreis des Königs"
+    SAU_philby_is_on_expedition_flag:0 "Philby ist auf Expedition"
+    SAU_white_army_has_been_mobilized_flag:0 "Die Weiße Armee wurde mobilisiert"
+    SAU_declare_jihad_flag:0 "Für den aktuellen Krieg wurde der Dschihad bereits ausgerufen."
+    SAU_invest_in_infrastructure_mecca_tt:0 "Eine zusätzliche Infrastruktur wird zu §H[679.GetName]§ hinzugefügt!"
+    SAU_invest_in_infrastructure_medina_tt:0 "Eine zusätzliche Infrastruktur wird zu §H[1073.GetName]§ hinzugefügt!"
+    SAU_invest_in_infrastructure_tabuk_tt:0 "Eine zusätzliche Infrastruktur wird zu §H[991.GetName]§ hinzugefügt!"
+    SAU_invest_in_hospital_mecca_tt:0 "Eine zusätzliche soziale Infrastruktur wird zu §H[679.GetName]§ hinzugefügt!"
+    SAU_invest_in_hospital_medina_tt:0 "Eine zusätzliche soziale Infrastruktur wird zu §H[1073.GetName]§ hinzugefügt!"
+    SAU_invest_in_hospital_tabuk_tt:0 "§H[991.GetName]§ wird um eine zusätzliche soziale Infrastruktur erweitert!"
+    
+    SAU_multi_purpose_equipment_0:0 "Westland Wapiti II"
+    
+    SAU_loyalty_of_ulema_minus5:0 "§YÄnderungen in der Ulema-Loyalität§!: §R-5%§!"
+    SAU_loyalty_of_ulema_minus10:0 "§YÄnderungen in der Ulema-Loyalität§!: §R-10%§!"
+    SAU_loyalty_of_tribes_minus5:0 "§YÄnderungen in der Stammesloyalität§!: §R-5%§!"
+    SAU_loyalty_of_tribes_minus10:0 "§YÄnderungen in der Stammesloyalität§!: §R-10%§!"
+    
+    SAU_loyalty_of_ulema_plus5:0 "§YÄnderungen in der Ulema-Loyalität§!: §G+5%§!"
+    SAU_loyalty_of_ulema_plus10:0 "§YÄnderungen in der Ulema-Loyalität§!: §G+10%§!"
+    SAU_loyalty_of_tribes_plus5:0 "§YÄnderungen der Stammesloyalität§!: §G+5%§!"
+    SAU_loyalty_of_tribes_plus10:0 "§YÄnderungen der Stammesloyalität§!: §G+10%§!"
+
+    loyalty_of_tribes_jihad_divisions:0 "Änderung der Anzahl der Stammesmilizdivisionen bei der Erklärung des Dschihad"
+    
+    SAU_raise_zakat_flag:0 "Die Zakat wird erhöht"
+    SAU_lower_zakat_flag:0 "Die Zakat wird gesenkt"
+    
+    Eastern_Province:0 "Ostprovinz"
+    
+    SAU_take_control_of_the_east_coast_tribes_tt:0 "§OEs werden drei Kavallerie-Milizdivisionen gebildet§!"
+    SAU_city_militia_expansion_tt:0 "Die im Rahmen des Beschlusses „Dschihad erklären“ erstellte Vorlage für Infanteriedivisionen wird auf 10 Bataillone erweitert."
+    SAU_strengthen_control_over_the_tribes_tt:0 "Die Zeit für die Entscheidung „Dschihad erklären“ wird auf 25 Tage verkürzt.\nDie Kosten für die Entscheidung „Dschihad erklären“ werden auf 80 £pol_power reduziert.\n"
+    SAU_tribal_unions_tt:0 "Die Vorlage für Kamelkavalleriedivisionen, die im Rahmen der Entscheidungen „Aufruf zur Stammesmiliz“ und „Dschihad erklären“ erstellt wurden, wird auf 7 Bataillone erweitert."
+    SAU_centralization_of_the_irregulars_tt:0 "Die Vorlage für Kamelkavalleriedivisionen, die unter den Entscheidungen „Aufruf zur Stammesmiliz“ und „Dschihad erklären“ erstellt wurden, wird auf 10 Bataillone erweitert."
+    SAU_supply_city_militia_with_artillery_tt:0 "Eine Artillerieunterstützung wird zu einer Infanteriedivisionsvorlage hinzugefügt, die im Rahmen der Entscheidung „Dschihad erklären“ herausgegeben wird."
+    SAU_hijaz_engineers_tt:0 "Eine Pionierkompanie wird zu einer Infanteriedivisionsvorlage hinzugefügt, die im Rahmen der Entscheidung „Dschihad erklären“ herausgegeben wird."
+    SAU_bedouin_raiders_tt:0 "Ein Militärpolizeibataillon wird zu einer Kamelkavalleriedivision hinzugefügt, die im Rahmen der Entscheidungen „Aufruf zur Stammesmiliz“ und „Dschihad erklären“ herausgegeben wird."
+    SAU_bedouin_flying_units_tt:0 "Eine Kavallerie-Aufklärungseinheit wird zu einer Kamelkavallerie-Divisionsvorlage hinzugefügt, die im Rahmen der Entscheidungen „Aufruf zur Stammesmiliz“ und „Dschihad erklären“ herausgegeben wird."
+    SAU_remove_objectionable_sheikhs_tt:0 "Nachdem Sie diesen Fokus gesetzt haben, erhalten Sie jedes Mal, wenn Sie die Entscheidung „Ruf zur Stammesmiliz“ wählen, zusätzlich 2 Kamelkavalleriedivisionen, sofern die Stammesloyalität „über 65 %“ liegt."
+    SAU_jihad_warriors_tt:0 "Die Anzahl der durch die Entscheidung „Dschihad erklären“ erhaltenen Infanteriedivisionen wird um 2 erhöht.\n"
+    SAU_jihad_warriors_2_tt:0 "Wenn Sie sich für die Entscheidung „Dschihad erklären“ entscheiden, erhalten Sie für „jede 15 %“ Erhöhung der Stammesloyalität über „30 %“ eine Kamelkavalleriedivision."
+    SAU_aridh_people_tt:0 "Die Anzahl der durch die Entscheidung „Aufruf zur Stammesmiliz“ erhaltenen Infanteriedivisionen wird um 1 erhöht."
+    integrate_pastoral_tt:0 "Die Zahl der durch den Beschluss „Dschihad ausrufen“ erhaltenen Kamelkavalleriedivisionen wird um 1 erhöht."
+    integrate_rural_tt:0 "Die Anzahl der durch die Entscheidung „Aufruf zur Stammesmiliz“ erhaltenen Kamelkavalleriedivisionen wird um 1 erhöht."
+    integrate_big_tt:0 "Die Zahl der durch die Entscheidung „Dschihad erklären“ erhaltenen Infanteriedivisionen wird um 1 erhöht."
+    
+    NWsaudi6_tt:0 "„Wenn ein Krieg ausbricht oder die weltweiten Spannungen 100 % erreichen, werden die Einnahmen aus der nächsten Hadsch erheblich sinken.“"
+    NWsaudi12_tt:0 "§OAdvisor John Philby wird vorübergehend gesperrt§!"
+    NWsaudi18_tt:0 "Die Anzahl der durch die Entscheidung „Aufruf zur Stammesmiliz“ erhaltenen Kamelkavalleriedivisionen wird um 1 erhöht."
+    SAU_Saudi18_tt:0 "§OAls Folge von Philbys Reise wird eine zusätzliche Division in Asir stationiert§!"
+    NWsaudi27:0 "Der weiße Streifen wird von der Flagge entfernt"
+    NWsaudi28c_tt:0 "Modernisten zum Majlis ash-Shura eingeladen"
+    
+    SAU_reforming_the_white_army_tt:0 "§ODie Vorlage für Divisionen der Weißen Armee wird auf zehn Kavalleriebataillone und eine Kavallerieaufklärungskompanie erweitert§!"
+    SAU_delivery_of_weapons_to_hijri_tt1:0 "§OEs werden zusätzliche Divisionen der Weißen Armee eingesetzt§!"
+    SAU_delivery_of_weapons_to_hijri_tt2:0 "„Wenn der Beschluss zur Mobilisierung der Weißen Armee umgesetzt wird, wird eine weitere Division eingesetzt.“"
+    
+    SAU_Liquidate_the_concession_in_Al_Has_tt:0 "§RIs kann zu Krieg führen, insbesondere wenn wir nicht in einem Bündnis sind§!"
+    SAU_Transfer_the_oil_concession_to_the_state_tt:0 "§R[FROM.GetNameDef] muss die Vereinbarung genehmigen, damit sie wirksam wird§!"
+    SAU_Development_of_Al_hasa_deposits_tt:0 "§RNeue Schwerpunkte für die Modernisierung des Landes werden verfügbar§!"
+    
+    SAU_support_for_bedouin_traditions_tt:0 "§O[1073.GetName], [679.GetName], [292.GetName], [769.GetName], [991.GetName]§!: die §OHijaz§!-§ONejd§!-Disparität wird halbiert.\n\n"
+    SAU_flattening_economic_differences_tt:0 "Die Anzahl der Fabriken in §O[292.GetName]§! ist gleich der Anzahl der Fabriken in §O[679.GetName]§!"
+    SAU_flattening_economic_differences_tt2:0 "Die Anzahl der Fabriken in §O[769.GetName]§! ist gleich der Anzahl der Fabriken in §O[1073.GetName]§!"
+    SAU_flattening_economic_differences_tt3:0 "\n§O[1073.GetName], [679.GetName], [292.GetName], [769.GetName], [991.GetName]§!: Die §OHijaz§!-§ONejd§!-Disparität wird entfernt."
+    SAU_suleiman_al_naniyah:0 "Suleiman Al-Naniyah"
+    transfer_concession_flag_1:0 "Konzessionsverhandlungen laufen"
+    transfer_concession_flag:0 "Im Laufe des Jahres wurde keine Konzession übertragen"
+    
+    SAU_stand_up_for_the_usa_trigger_tt1:0 "Loyalität von §Gulema§! &gt;70 %"
+    SAU_stand_up_for_the_usa_trigger_tt2:0 "Loyalität der „Otribes“! &gt;40 %"
+    SAU_enlist_the_support_of_germany_trigger_tt:0 "Loyalität der „Otribes“! &gt;35 %"
+    SAU_continue_jihad_trigger_tt1:0 "Loyalität von §Gulema§! &gt;30%"
+    SAU_continue_jihad_trigger_tt2:0 "Loyalität der „Otribes“! &gt;65 %"
+    SAU_anticolonial_policy_trigger_tt1:0 "Loyalität von §Gulema§! &gt;65 %"
+    
+    SAU_continue_jihad_tt:0 "\n§6Es wäre möglich, ein nicht-muslimisches Land als Ziel für den Dschihad auszuwählen. Dies würde die Leistungsfähigkeit unserer Truppen im Kampf mit ihren Armeen vorübergehend steigern.§!"
+    SAU_continue_jihad_tt2:0 "\nEin Besatzungsgesetz §O$propaganda_pan_arabism_occupation$ wird gegen alle §Oarabischen§! Staaten verfügbar sein.§!"
+    SAU_continue_jihad_tt3:0 "\nEin Besatzungsgesetz §O$propaganda_pan_islamism_occupation$ wird gegen alle §OMuslimischen§! Staaten verfügbar sein.§!"
+    SAU_purification_of_islam_tt:0 "§7Wir können die muslimischen Staaten als Ziele unseres Dschihad wählen§!"
+    SAU_assume_the_title_of_king_of_all_arabs_trigger_tt:0 "Die Anzahl der von uns kontrollierten Regionen ist größer als 45 §4(Wir kontrollieren derzeit [?state_arab] Regionen)§!"
+    SAU_assume_the_title_of_caliph_trigger_tt:0 "Die Anzahl der von uns kontrollierten Regionen ist größer als 70 §7(Wir kontrollieren derzeit [?state_arab] Regionen)§!"
+    
+    SAU_complete_the_unification_of_arabia_tt:0 "§9Entscheidungen zum Angriff auf die Länder am Arabischen Golf werden möglich. Sie können die besetzten Gebiete mit Kernwaffen belegen.§!"
+    SAU_subdue_mashriq_tt:0 "§9Entscheidungen zur Eroberung und Kernung Ägyptens, Palästinas, Syriens und des Irak werden verfügbar sein.§!"
+    SAU_conquest_of_the_maghreb_tt:0 "§9Entscheidungen zur Eroberung und Kernung der libyschen, algerischen und marokkanischen Staaten werden verfügbar.§!"
+    SAU_unite_all_muslims_tt:0 "§GEntscheidungen zur Eroberung aller muslimischen Staaten werden verfügbar sein.§!"
+    
+    SAU_support_muscats_drive_for_independence_tt:0 "§O[OMA.GetNameDef] wird versuchen, [IOM.GetNameDef] zu zerstören. Danach werden sie wahrscheinlich eher den Weg der Unabhängigkeit und der vollständigen Loslösung vom britischen Einflussbereich wählen. \n\n[OMA.GetNameDef] wird versuchen, sich unserem Bündnis anzuschließen.§!"
+    SAU_support_the_imamate_of_oman_tt:0 "§O[IOM.GetNameDef] wird sich unter der Herrschaft des Imams eher Maskat und Oman anschließen. \nNachdem [OMA.GetNameDef] beigetreten ist, wird [IOM.GetNameDef] wahrscheinlicher unserer Allianz beitreten.§!"
+    SAU_support_the_emirates_of_the_persian_and_gulf_of_aden_trigger:0 "§YKatar, Bahrain, Thawam, Abu Dhabi, Kuwait, Qishn und Socotra, Quayti, Kathiri, Lahij oder Aden§! stehen unter der Kontrolle von §Y[ENG.GetNameDef]§! oder seine Themen"
+    SAU_support_the_emirates_of_the_persian_and_gulf_of_aden_tt:0 "§7 Neue Entscheidungen zur Befreiung der arabischen Staaten und des Golfs von Aden aus der britischen Herrschaft werden verfügbar sein.§!"
+    
+    NWsaudi43a:0 "§Der RA-Grenzkonflikt wird bald beginnen§!"
+    liberation_saud_flag_1:0 "Das Land ist derzeit nicht befreit"
+    
+    Anticolonial_alliance:0 "Antikoloniale Allianz"
+    king_founder:0 "Gründungskönig"
+    SAU_partial_indepedment_emirate:0 "Halbunabhängiges Emirat"
+    SAU_partial_indepedment_emirate_desc:0 "Seit 1912 wurde die Provinz Al-Hasa von der Familie Bin Jiluwi regiert, einem Nebenzweig der saudischen Dynastie. Infolgedessen ist die Region de facto zu einem halbunabhängigen Familienlehen der Bin Jiluwi geworden – glücklicherweise widerspricht dies nicht den Wünschen Ibn Sauds."
+    
+    SAU_establish_riyadh_university_trigger:0 "Hat keinen Nationalgeist. §YSchlecht entwickelter feudaler Stammesstaat§!" #там 7 левелов, заебусь писать
+    SAU_max_steineke_tt:0 "§YKonzessionsinhaber:§! [USA.GetName]"
+    
+    #####RASHID UPD
+    
+    SAU_punish_the_ibadis_tt:0 "Eine der nationalen Regionen [IOM.GetName] oder [OMA.GetName] (außer Gwadar) ist weder in einer Allianz, noch im Krieg noch unterliegt sie [ROOT.GetName]"
+    SAU_punish_the_ibadis_tt_effect:0 "Wir werden einen Krieg gegen die Inhaber der Kernstaaten des „Imanats Oman und des Sultanats Maskat (außer Gwadar)“ führen!"
+    SAU_resumption_of_expansion_tt:0 "§YEroberungsentscheidungen gegen die Staaten der Arabischen Halbinsel, des Irak, Syriens, Palästinas und Ägyptens werden verfügbar sein. Die eroberten Gebiete könnten später entkernt werden.§!"
+    SAU_support_ottoman_claims_tt:0 "§9Das Osmanische Reich erhält Ansprüche auf alle europäischen Gebiete, die vor 1800 unter seiner Kontrolle standen. \nDie muslimischen Gebiete Albanien und Bosnien werden zu Kerngebieten des Osmanischen Reiches§!\n\n\n1Der Staat [ROOT.GetName] erhält das Ziel, Krieg gegen alle Länder zu führen, deren Gebiete vom Osmanischen Reich beansprucht werden§!"
+    SAU_loyalty_pizda:0 "§4Die Stammesloyalität ist auf Null gesunken§!"
+    SAU_tribal_unions_2_tt:0 "Die Zahl der durch den Beschluss „Aufruf zur Stammesmiliz“ erhaltenen Kamelkavalleriedivisionen wird um 3 erhöht."
+    
+    Shura_trigger_tooltip:0 "Die Al Saud-Dynastie oder Ulemas sind an der Macht"
+    Rashid_trigger_tooltip:0 "Die Al Saud-Dynastie ist an der Macht"
+    
+    SAU_muhammad_bin_talal_al_rashid:0 "Muhammad ibn Talal Al Rashid"
+    SAU_ukab_bin_ajl:0 "Ukab bin Ajl"
+    SAU_nuri_al_faisal_al_jarba:0 "Nouri Al-Faisal Al-Jarba"
+    SAU_ali_al_janaa_al_khatrabi:0 "Ali al-Janaa al-Khatrabi"
+    SAU_ajil_al_yaver:0 "Ajil Al-Yawer"
+    
+    tribe_war_theorist:0 "Theoretiker der Stammeskriegsführung"
+    
+    SAU_search_for_allies_in_the_middle_east_2:0 "$SAU_suche_nach_Verbündeten_im_Nahen_Osten$"
+    SAU_search_for_allies_in_the_middle_east_2_desc:0 "$SAU_search_for_allies_in_the_middle_east_desc$"
+    SAU_resumption_of_expansion:0 "Erweiterungen erneuern"
+    SAU_resumption_of_expansion_desc:0 ""
+    SAU_arab_turkish_union:0 "Arabisch-türkisches Bündnis"
+    SAU_arab_turkish_union_desc:0 ""
+    SAU_modernization_of_the_bureaucracy:0 "Modernisierung der Bürokratie"
+    SAU_modernization_of_the_bureaucracy_desc:0 ""
+    SAU_support_ottoman_claims:0 "Unterstützen Sie die osmanischen Ansprüche"
+    SAU_support_ottoman_claims_desc:0 ""
+    SAU_defenders_of_arabs:0 "Verteidiger der Araber"
+    SAU_defenders_of_arabs_desc:0 "Solange der Kalif der Führer der islamischen Welt bleibt, werden wir die Rolle der Verteidiger aller Araber übernehmen."
+    SAU_sultan_abdullah_ibn_mitab:0 "Sultan Abdullah ibn Mitab"
+    SAU_sultan_abdullah_ibn_mitab_desc:0 ""
+    SAU_sultan_muhammad_ibn_talal:0 "Sultan Muhammad ibn Talal"
+    SAU_sultan_muhammad_ibn_talal_desc:0 ""
+    SAU_bet_on_tribes:0 "Wetten Sie auf Stämme"
+    SAU_bet_on_tribes_desc:0 ""
+    SAU_remove_disloyal_ulema:0 "Illoyale Ulema entfernen"
+    SAU_remove_disloyal_ulema_desc:0 ""
+    SAU_support_gunsmiths:0 "Unterstützen Sie die Büchsenmacher"
+    SAU_support_gunsmiths_desc:0 ""
+    SAU_islamic_university_of_medina:0 "Islamische Universität Medina"
+    SAU_islamic_university_of_medina_desc:0 ""
+    SAU_bet_on_the_aristocracy:0 "Wetten Sie auf die Aristokratie"
+    SAU_bet_on_the_aristocracy_desc:0 ""
+    
+    SAU_TURKEY_PUPPPET:0 "Geben Sie den Thron an die Osmanen zurück"
+    SAU_OTTOMAN_PUPPET:0 "Unterwerfung der Osmanen"
+    
+    muslim_sau_union:0 "Muslimische Union"
+    SAU_Turkish_cooperation:0 "Türkisch-arabische Zusammenarbeit"
+    
+    SAU_dynasty_authority:0 "Autorität der Dynastie"
+    SAU_sharifs:0 "Sharifs"
+    SAU_rashid_guard:0 "Rashidi-Wache"
+    
+    SAU_nejd_to_hail_1_dyn:0 "Verlegung des Wirtschaftszentrums nach Hail"
+    SAU_nejd_to_hail_2_dyn:0 "$SAU_nejd_to_hail_1_dyn$"
+    
+    ## RASHID 2
+    
+    NWsaudi.52.t:0 "Ein Riss unter den Raschidis"
+    NWsaudi.52.d:0 "Obwohl Abdullah ibn Mitab während des vom Stamm der Schammar unterstützten Aufstands zum Sultan von Arabien ernannt wurde, unterstützten ihn nicht alle Stämme. Kurz nach der Niederlage der etablierten Wahhabiten beschloss Muhammad ibn Talal al-Raschid, Abdullah offen herauszufordern. Er erhielt Unterstützung von der Aristokratie und einigen Stämmen des Hedschas, die ein übermäßiges Erstarken der „widerspenstigen“ Stämme des Nordens befürchteten."
+    NWsaudi.52.a:0 "Wieder einmal wird die Familie Al Rashid durch interne Konflikte auseinandergerissen …"
+    
+    NWsaudi52a_tt:0 "§RInf die Stammesloyalität unter 50 % fällt, kommt es zu einem Palastputsch.\nDas Risiko eines Putsches bleibt bestehen, bis der Riss durch die Tötung eines der Gegner, einen Bürgerkrieg oder die Teilung des Landes beigelegt wird.§!"'
+    NWsaudi52a_tt2:0 "\nNeue Entscheidungen werden der Kategorie „Beziehungen zu Stämmen“ hinzugefügt."
+    loyalty_of_tribes_jihad_divisions_tt:0 "Änderungen der Anzahl der Stammesmilizdivisionen bei der Erklärung des Dschihad: §G+4§!"
+    
+    NWsaudi.53.t:0 "Alter Groll"
+    NWsaudi.53.d:0 "Abdullah ibn Mitab wurde 1920 Herrscher des Emirats Jabal Schammar, als der Raschidenstaat seine letzten Monate unter ständigen Angriffen der Saudis verbrachte. Muhammad ibn Talal schwor dem neuen Emir die Treue und versprach, Hail zu verteidigen, doch Abdullah, der ihm misstraute, befahl seine Verhaftung. Einige Zeit später jedoch ließen die Hierarchen den Gefangenen frei und ernannten ihn zum Emir, woraufhin Abdullah aus Hail zu den Saudis fliehen musste. \nJetzt, da die Raschiden Arabien wieder beherrschen, werden Muhammads Anhänger diese Ereignisse nutzen, um die Ungerechtigkeit des Sultans gegenüber seinen treuen Untertanen zu beweisen. Wir müssen auf diese Anschuldigungen irgendwie reagieren. \nInsbesondere können wir darauf wetten, dass Abdullah während des zweiten Krieges mit den Saudis seinen Anspruch auf den Thron geltend machte. Muhammad hat kein Recht, Intrigen zu spinnen, um den Mann zu diffamieren, der dafür gesorgt hat, dass die Wahhabiten Arabien nicht länger terrorisieren. Wir können jedoch auch versuchen, mit unseren Gegnern ins Gespräch zu kommen und Mohammeds Haftbefehl als legitim zu bezeichnen, da sein anschließender Putsch seine Illoyalität und Machtgier bewies."
+    NWsaudi.53.a:0 "Unsere jüngsten Erfolge sind wichtiger als alte Meinungsverschiedenheiten"
+    NWsaudi.53.b:0 "Die Festnahme war legal"
+    
+    NWsaudi.54.t:0 "Ende der Diskussion"
+    NWsaudi.54.d:0 "Abdullahs Versuch, sich den Großteil seiner Erfolge gegen die Saudis zuzuschreiben, stieß bei den Stammesangehörigen auf entschiedene Ablehnung. Sie sind der Ansicht, Ibn Mitab sei nur deshalb Sultan geworden, weil die Nomaden es erlaubten. Zudem sei der Sultan, so die Beduinen, nur der Primus inter Pares unter den Scheichs und habe kein Recht, sich wie die Wahhabiten zu verhalten und jegliche Kritik an sich selbst zu verbieten."
+    NWsaudi.54.a:0 "Wir haben versagt"
+    
+    NWsaudi.55.d:0 "Die Auseinandersetzungen mit Mohammeds Anhängern konnten die Position seiner Gegner nicht vollständig ausräumen, die Abdullah für seine Flucht zu den Saudis und seine unzureichende Vorbereitung auf die Verteidigung von Hail kritisierten. Dennoch gelang es uns, viele Stammesscheichs auf unsere Seite zu ziehen, die Mohammed nun als Verräter betrachten und teilweise sogar seine Hinrichtung fordern. Trotzdem ist die Macht des Sultans noch zu schwach, um derzeit entschlossen zu handeln."
+    NWsaudi.55.a:0 "Die Wahrheit ist auf unserer Seite"
+    
+    NWsaudi.56.t:0 "Umverteilung des Eigentums"
+    NWsaudi.56.d:0 "Viele Stämme betrachten [ROOT.GetLeader] als schwachen, leicht beeinflussbaren Anführer oder zumindest als jemanden, der auf die Stämme hört, die ihn bei seiner Thronbesteigung unterstützt haben. Diese Stämme hoffen, die Kontrolle über einige der Weiden, Brunnen und Kamele zu erlangen, die den Stadtbewohnern und Stämmen gehören, die die Saudis unterstützt haben. Dies könnte jedoch zur Verarmung und zum Hungertod vieler Menschen führen, da die besiegten Clans bereits geschwächt sind und sich einer solchen Umverteilung nicht widersetzen können."
+    NWsaudi.56.a:0 "Der Wunsch der Stämme ist absolut richtig"
+    NWsaudi.56.b:0 "Wir beschränken uns auf eine teilweise Umverteilung des Eigentums"
+    
+    NWsaudi.57.t:0 "Stammesbestechung"
+    NWsaudi.57.d:0 "Wir haben kürzlich Gerüchte gehört, dass die Gegner des Sultans begonnen haben, die Stämme zu bestechen, die im Kampf um den Thron neutral bleiben. Wir könnten uns auch an der Beschenkung der Beduinen beteiligen, doch dies würde die ohnehin schon sehr kleine Staatskasse noch weiter schmälern."
+    NWsaudi.57.a:0 "Beduinen werden für ihre Treue belohnt"
+    NWsaudi.57.b:0 "Das Land hat zu wenig Geld"
+    
+    NWsaudi.58.t:0 "Wahhabiten-Aufstand"
+    NWsaudi.58.d:0 "Uns erreichte die Nachricht, dass die Wahhabiten in mehreren Regionen unseres Landes beschlossen haben, erneut zu den Waffen zu greifen, um die Macht der „Heil Götzendiener“ zu stürzen. Dieser verzweifelte Aufstandsversuch ist zum Scheitern verurteilt, und den Vizekönigen gelingt es, die Lage unter Kontrolle zu halten. Wir können sofort alle verfügbaren Kräfte mobilisieren, um den Aufstand niederzuschlagen, doch ohne entsprechende Vorbereitung könnten wir zu viele Verluste erleiden, sowohl durch wahhabitische Überfälle als auch durch Truppenschwund. Vielleicht sollten wir uns etwas Zeit nehmen, um die Logistik vorzubereiten, bevor wir alle verfügbaren Kräfte zur Niederschlagung des Aufstands mobilisieren."
+    NWsaudi.58.a:0 "Wir werden sofort handeln"
+    NWsaudi.58.b:0 "Eine übereilte Leistung führt zu zu vielen Verlusten"
+    
+    NWsaudi.59.t:0 "Rebellion unterdrückt"
+    NWsaudi.59.d:0 "Unseren Truppen gelang es, den Aufstand der Wahhabiten niederzuschlagen, doch unser Angriff war schlecht vorbereitet. Aufgrund mangelnder Informationen agierten die eifrigen Scheichs zu chaotisch und unterschätzten oft die Stärke des Feindes."
+    NWsaudi.59.a:0 "Und trotzdem haben wir gewonnen"
+    
+    NWsaudi.60.d:0 "Obwohl viele Scheichs sofort in die Schlacht ziehen wollten, ließ der Sultan mehr Zeit, um Truppen und Nachschub im Aufstandsgebiet zu sammeln, bevor er aktive Operationen startete. Obwohl der Aufstand schließlich niedergeschlagen wurde, behaupteten die Gegner des Sultans, sein unentschlossenes Handeln sei ein weiterer Beweis seiner heimlichen Sympathien für die Wahhabiten. Sie behaupteten, [ROOT.GetLeader] sei während seiner Jahre ehrenhafter Gefangenschaft in Riad stark von den Saudis beeinflusst worden. Als er Sultan wurde, versuchte er, Beziehungen zu den Anhängern des Wahhabismus aufzubauen und die Ordnung wiederherzustellen, die unter Abdulaziz von Anfang an geherrscht hatte."
+    NWsaudi.60.a:0 "Wer würde diesen Unsinn glauben?"
+    
+    NWsaudi.61.t:0 "Palastputsch&quot;"
+    NWsaudi.61.d:0 ""
+    NWsaudi.61.a:0 "Kann er an der Macht bleiben?"
+    
+    NWsaudi.62.t:0 "Bürgerkrieg"
+    NWsaudi.62.d:0 "Die Spannungen zwischen Abdullah und Mohammed hatten sich schon seit langem verstärkt, und früher oder später musste der Konflikt zu einem regelrechten Bürgerkrieg eskalieren. Der Versuch des Sultans, seinen Gegner zu töten, zwang die Gegner der bestehenden Macht zu einem offenen Aufstand."
+    NWsaudi.62.a:0 "Ehre sei Sultan Abdullah!"
+    NWsaudi.62.b:0 "Ehre sei Sultan Muhammad!"
+    
+    NWsaudi.63.t:0 "Das Ende von Abdullah ibn Mitab Al Rashid"
+    NWsaudi.63.d:0 "In letzter Zeit hatte Abdullah ibn Mutaib Al Rashid an politischem Einfluss und Anhängern verloren, während [ROOT.GetLeader]s Position immer fester wurde. Daher beschloss der Sultan, drastische Maßnahmen zu ergreifen, um die Bedrohung seiner Herrschaft dauerhaft zu beseitigen."
+    NWsaudi.63.a:0 "Die Lage hat sich endlich stabilisiert"
+    
+    NWsaudi.64.t:0 "Das Ende von Muhammad ibn Talal al-Rashid"
+    NWsaudi.64.d:0 "In letzter Zeit hatte Muhammad ibn Talal al-Rashid an politischem Einfluss und Anhängern verloren, während [ROOT.GetLeader]s Position immer fester wurde. Daher beschloss der Sultan, drastische Maßnahmen zu ergreifen, um die Bedrohung seiner Herrschaft dauerhaft zu beseitigen."
+    
+    SAU_kill_oponent:0 "§RMord am Gegner§!"
+    SAU_country_section:0 "Teilung des Landes"
+    
+    SAU_support_emirate_of_hejaz:0 "Unterstützung für das Emirat Hedschas"
+    SAU_support_emirate_of_hejaz_desc:0 ""
+    
+    depletion_of_the_treasury:0 "Staatskasse erschöpft"
+    
+    SAU_40_days:0 "Seit der Trennung sind mindestens 40 Tage vergangen"
+    SAU_tribe_peredel_idea:0 "$NWsaudi.56.t$"
+    rashidi_posralis_var_tt:0 "\n\n§RAufgrund der extrem hohen Spannungen zwischen den Fraktionen führt ein Rückgang der Stammesloyalität unter 50 % zu einem Bürgerkrieg§!"
+    SAU_kill_oponent_tt:0 "§7Der Rashidi-Kluft ist vorbei§!"
+    SAU_kill_oponent_tt2:0 "Die Erfolgschance hängt von der Loyalität der Stämme ab. Wenn die Loyalität der Stämme über 70 % liegt, beträgt die Erfolgschance 100 %."
+    SAU_country_section_tt:0 "§ODer Sultan würde seinen Rivalen im Austausch gegen regelmäßige Tributzahlungen zum Emir des Hedschas ernennen.§!"
+    
+    ## ULEMAS FIX ##
+    
+    SAU_forbid_the_manifestation_of_luxury:0 "Verbieten Sie die Zurschaustellung von Luxus"
+    SAU_forbid_the_manifestation_of_luxury_desc:0 ""
+    SAU_ban_music:0 "Musik verbieten"
+    SAU_ban_music_desc:0 ""
+    SAU_ban_riba:0 "Ban Riba"
+    SAU_ban_riba_desc:0 ""
+    SAU_allow_only_pilgrims_and_businessmen_to_enter:0 "Nur Pilgern und Geschäftsleuten den Zutritt gewähren"
+    SAU_allow_only_pilgrims_and_businessmen_to_enter_desc:0 ""
+    SAU_ban_tobacco_import:0 "Verbot des Tabakimports"
+    SAU_ban_tobacco_import_desc:0 ""
+    SAU_expand_islam_education:0 "Investieren Sie in islamische Bildung"
+    SAU_expand_islam_education_desc:0 ""
+    SAU_breaking_ungodly_treaties:0 "Brechen Sie die schrecklichen Verträge"
+    SAU_breaking_ungodly_treaties_desc:0 ""
+    SAU_undermine_the_wellbeing_of_idolaters:0 "Untergrabung des Wohlergehens von „Götzendienern“"
+    SAU_undermine_the_wellbeing_of_idolaters_desc:0 ""
+    SAU_listen_to_brothers:0 "Hört auf die Brüder"
+    SAU_listen_to_brothers_desc:0 ""
+    SAU_forbid_contact_with_the_lands_of_idolaters:0 "Untergraben Sie das Wohlergehen der Götzendiener"
+    SAU_forbid_contact_with_the_lands_of_idolaters_desc:0 ""
+    SAU_expansion_to_europe:0 "Europäische Expansion"
+    SAU_expansion_to_europe_desc:0 "Zu lange haben die Europäer die Muslime unterdrückt. Es ist Zeit, die Situation zu ändern."
+    SAU_ban_radio:0 "Radio verbieten"
+    SAU_ban_radio_desc:0 "Obwohl Abdulaziz den Koran per Radio verbreitet hat, widerspricht dieses Gerät immer noch dem Wesen unserer Lehre. Zweifellos ist diese Box eine Behausung der Schaitane und hat in unserem Land keinen Platz."
+    SAU_condemn_ballooning:0 "Verurteilen Sie die luftgestützte Navigation"
+    SAU_condemn_ballooning_desc:0 "Obwohl wir nur über eine kleine Luftwaffe verfügen, wissen wir, dass Flugzeuge gegen den Willen Allahs fliegen und ihr Einsatz unerwünscht ist. Wir sollten die zivile Luftfahrt verbieten und vorzugsweise Nicht-Wahhabiten als Militärpiloten einsetzen."
+    SAU_limit_the_use_of_the_creations_of_satan:0 "Beschränken Sie die Nutzung der Schöpfungen des Shaitan"
+    SAU_limit_the_use_of_the_creations_of_satan_desc:0 "Viele Ulema betrachten alle beweglichen Maschinen als Schöpfungen des Schaitan. Wir müssen ihren Einsatz einschränken."
+    SAU_crush_vatican:0 "Zerschmettert den Vatikan"
+    SAU_crush_vatican_desc:0 ""
+    
+    SAU_Rebuild_StPeters_Basilica_into_a_Mosque:0 "Umbau des Petersdoms zu einer Moschee"
+    SAU_Rebuild_StPeters_Basilica_into_a_Mosque_desc:0 "Da die Muslime nun das Zentrum des katholischen Glaubens kontrollieren, muss der Petersdom das Schicksal der Hagia Sophia teilen."
+    
+    NWsaudi.65.t:0 "Bruch schrecklicher Verträge"
+    NWsaudi.65.d:0 "Da die Regierung nun unter der Kontrolle der Anhänger des wahren Wahhabismus steht, ist es möglicherweise an der Zeit, die Abkommen mit Götzendienern zu überdenken. Dies könnte auch die Überprüfung von Abkommen mit Ölkonzernen oder Nachbarländern einschließen, die nicht denselben religiösen Prinzipien folgen."
+    NWsaudi.65.a:0 "Inschallah"
+    
+    NWsaudi.66.t:0 "Saudis verlassen die Allianz"
+    NWsaudi.67.t:0 "Die Allianz auflösen"
+    NWsaudi.66.d:0 "In Saudi-Arabien sind vor kurzem Anhänger des radikalen Wahhabismus an die Macht gekommen. Das neue Regime hält Verträge mit Ländern, die nicht dem Wahhabismus angehören, für inakzeptabel."
+    NWsaudi.66.a:0 "Wahnsinn"
+    
+    NWsaudi.68.t:0 "Возвращение Саудов"
+    NWsaudi.68.d:0 "Nach dem Zusammenbruch des Dritten Saudischen Staates war der Al-Saud-Clan gezwungen, nach Kuwait umzusiedeln, genau wie drei Jahrzehnte zuvor. \n\nSaud, der älteste Sohn von Abdul-Aziz, übernahm die Führung des Clans und begann sofort, den kuwaitischen Emir und andere um Unterstützung zu bitten, um Riad zurückzuerobern. Er verbündete sich mit den Stämmen der Utaiba und Mutair, die einen Groll gegen die Raschidis hegten, und gemeinsam starteten sie einen Überraschungsangriff auf Riad, überraschten die örtliche Garnison und nahmen die Stadt schnell ein. \n\nGleichzeitig unterstützten die Stämme von Nejd, unzufrieden mit der Politik unserer Dynastie, offen Saud und rebellierten gegen unsere Herrschaft. Nun stehen wir vor der schwierigen Wahl, entweder die aufsässigen Saudis erneut zu unterdrücken oder aus der Geschichte zu verschwinden."
+    NWsaudi.68.a:0 "Zerschmettere sie!"
+    NWsaudi.68.b:0 "Es lebe Saud!"
+    
+    wahhabi_zeal:0 "Wahhabitischer Eifer"
+    SAU_zakat_collectors:0 "Zakat-Sammler"
+    SAU_centralization_end:0 "Schließen Sie die Zentralisierung ab"
+    SAU_eradicate_the_bidah_idea:0 "Eliminieren Sie inakzeptable Innovationen"
+    SAU_closed_border:0 "Schließt die Grenzen"
+    SAU_the_indomitability_of_the_Ikhwans:0 "Ikhwans Unbezwingbarkeit"
+    SAU_ban_radio_idea:0 "$OMA_prohib_radio$"
+    SAU_condemn_ballooning_idea:0 "Verurteilen Sie die luftgestützte Navigation"
+    SAU_limit_the_use_of_the_creations_of_satan_idea:0 "Beschränken Sie die Nutzung von Fahrzeugen"
+    SAU_self_sufficiency_of_the_wahhabis:0 "Die wahhabitische Selbstversorgung"
+    SAU_jizya:0 "Jizya"
+    
+    SAU_continue_jihad_abdul_tt:0 "Der §7Beschuldige Abdulaziz der religiösen Unmoral§!: Fokus wurde nicht genommen"
+    SAU_accuse_abdulaziz_of_religious_licentiousness_tt:0 "§9Die Loyalität der Ulema ist auf Null gesunken§!"
+    SAU_breaking_ungodly_treaties_tt:0 "§YWir werden aus allen Allianzen austreten§!"
+    
+    SAU_ban_radio_tt:0 "Die Zahl der durch den Beschluss „Dschihad ausrufen“ erhaltenen Kamelkavalleriedivisionen wird um 3 erhöht."
+    
+    SAU_qadan_bin_darwish:0 "Qadan bin Darwish"

@@ -1,0 +1,540 @@
+﻿l_german:
+
+##### Space News Localization
+
+roncw_spacenews.x.t:0 ""
+roncw_spacenews.x.d:0 ""
+roncw_spacenews.x.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.1.t:0 "Russland testet eine Interkontinentalrakete"
+roncw_spacenews.1.d:0 "Die Sowjetunion gibt bekannt, dass sie erfolgreich eine Interkontinentalrakete (ICBM) getestet hat, die „in jeden Teil der Welt“ abgefeuert werden kann. Diese Ankündigung löste in den Vereinigten Staaten große Besorgnis aus und löste eine landesweite Debatte über die „Raketenlücke“ zwischen Amerika und Russland aus."
+roncw_spacenews.1.a:1 "Ein großer Erfolg!"
+roncw_spacenews.1.b:1 "Beunruhigend ..."
+
+roncw_spacenews.2.t:0 "Sputnik gestartet"
+roncw_spacenews.2.d:0 "Die Sowjetunion läutet das „Weltraumzeitalter“ mit dem Start von Sputnik ein, dem ersten künstlichen Satelliten der Welt. Das Raumschiff, das nach dem russischen Wort für „Satellit“ Sputnik genannt wurde, startete um 22:29 Uhr Moskauer Zeit von der Trägerrakete Tyuratam in der Kasachischen Republik. Sputnik hatte einen Durchmesser von 56 Zentimetern, wog 84 Kilogramm und umkreiste die Erde einmal in einer Stunde und 36 Minuten. Mit einer Geschwindigkeit von 29.000 Kilometern pro Stunde hatte seine elliptische Umlaufbahn ein Apogäum (der erdfernste Punkt) von 944 Kilometern und ein Perigäum (der erdnächste Punkt) von 230 Kilometern. Sputnik war vor Sonnenaufgang oder nach Sonnenuntergang mit einem Fernglas sichtbar und sendete Radiosignale zur Erde, die stark genug waren, um von Funkamateuren empfangen zu werden. Diejenigen in den Vereinigten Staaten, die Zugang zu solchen Geräten hatten, schalteten ein und lauschten ehrfürchtig, als das piepende sowjetische Raumschiff mehrmals täglich über Amerika hinwegflog. Im Januar 1958 verschlechterte sich die Umlaufbahn des Sputniks wie erwartet und das Raumschiff verglühte in der Atmosphäre."
+roncw_spacenews.2.a:1 "Das Weltraumzeitalter hat begonnen!"
+
+roncw_spacenews.3.t:0 "Das erste Tier im Orbit"
+roncw_spacenews.3.d:0 "Am 3. November 1957, weniger als einen Monat nach Beginn des Weltraumzeitalters, unternahm die Sowjetunion mit dem Start von Sputnik 2 den nächsten großen Schritt. Um den Propagandawert des ersten Satelliten auszunutzen, nutzte Sputnik 2 in aller Eile einen Tierlebensraum und beförderte die Hündin Laika an Bord, das erste Tier, das die Erde umkreiste."
+roncw_spacenews.3.a:1 "Armer Köter ..."
+
+roncw_spacenews.4.t:0 "Explorer 1 gestartet"
+roncw_spacenews.4.d:0 "Explorer 1 war der erste Satellit der Vereinigten Staaten, der am 31. Januar 1958 ins All geschickt wurde. Nach dem Start des sowjetischen Sputnik 1 am 4. Oktober 1957 erhielt die US Army Ballistic Missile Agency den Auftrag, einen weiteren Satelliten mit ihrer unter der Leitung von Dr. Wernher von Braun entwickelten Jupiter-C-Rakete zu starten. Das Jet Propulsion Laboratory (JPL) erhielt den Auftrag, den künstlichen Satelliten zu entwerfen, zu bauen und zu betreiben, der als Nutzlast der Rakete dienen sollte. Das JPL schloss diese Aufgabe in weniger als drei Monaten ab."
+roncw_spacenews.4.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.5.t:0 "Vanguard 1 gestartet"
+roncw_spacenews.5.d:0 "Vanguard 1 (1958 Beta 2) war ein kleiner Satellit in der Erdumlaufbahn, der die Startfähigkeit einer dreistufigen Trägerrakete und die Auswirkungen der Umwelt auf einen Satelliten und seine Systeme in der Erdumlaufbahn testen sollte. Er diente auch der Durchführung geodätischer Messungen durch Bahnanalyse. Es war der zweite von den USA gestartete Satellit, der erste erfolgreiche Satellit der Vanguard-Serie und der erste Satellit, der Solarzellen nutzte."
+roncw_spacenews.5.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.6.t:0 "SCORE gestartet"
+roncw_spacenews.6.d:0 "SCORE (Signal Communications by Orbiting Relay) war der erste speziell für diesen Zweck gebaute Kommunikationssatellit der Welt. Er wurde am 18. Dezember 1958 an Bord einer amerikanischen Atlas-Rakete gestartet und war der zweite Test eines Kommunikationsrelaissystems im Weltraum (der erste war von der Pioneer 1 der USAF/NASA durchgeführt worden), die erste Übertragung einer menschlichen Stimme aus dem Weltraum und der erste erfolgreiche Einsatz der Atlas als Trägerrakete. Er erregte weltweite Aufmerksamkeit, als er über ein Tonbandgerät an Bord eine Weihnachtsbotschaft des US-Präsidenten [USA.GetLeader] per Kurzwelle ausstrahlte. Der Satellit wurde im Volksmund „Der sprechende Atlas“ genannt. SCORE, eine geopolitische Strategie, brachte die Vereinigten Staaten als hochfunktionale Antwort auf die Satelliten Sputnik 1 und Sputnik 2 auf technologische Stufe mit der Sowjetunion."
+roncw_spacenews.6.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.7.t:0 "Die UdSSR startet den ersten künstlichen Planeten"
+roncw_spacenews.7.d:0 "Die Vorbereitungen für den Start der Mondsonde E1 Nr. 4 wurden durch die Neujahrsfeierlichkeiten am 31. Dezember 1958, formal noch ein Arbeitstag, behindert. Am Morgen des 1. Januar 1959, als die Trägerrakete mit dem Raumfahrzeug von der Montagehalle an Standort 2 zur Startrampe gerollt wurde, erinnerte sich ein für die Missionsverfolgung zuständiger Offizier daran, von einem Anhänger der mobilen Bodenstation zum anderen gerannt zu sein, um seine außer Dienst gestellten Kollegen zu vertreten. Dennoch wurden alle letzten Tests und die Telemetrieverarbeitung erfolgreich abgeschlossen, und die Trägerrakete wurde am nächsten Abend zum Betanken und Abheben freigegeben."
+roncw_spacenews.7.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.8.t:0 "Erstes von Menschenhand geschaffenes Objekt in heliozentrischer Umlaufbahn"
+roncw_spacenews.8.d:0 "Luna 1, auch bekannt als Mechta, E-1 Nr. 4 und erster Mondrover, war die erste Raumsonde, die die Nähe des Erdmondes erreichte, und die erste Raumsonde, die in eine heliozentrische Umlaufbahn gebracht wurde. Als Impaktor konzipiert, wurde Luna 1 1959 im Rahmen des sowjetischen Luna-Programms gestartet. Aufgrund einer falsch getimten Zündung der Oberstufe während des Starts verfehlte sie jedoch den Mond und war damit die erste Raumsonde, die die geozentrische Umlaufbahn verließ."
+roncw_spacenews.8.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.9.t:0 "Vanguard 2 veröffentlicht"
+roncw_spacenews.9.d:0 "Vanguard 2 oder Vanguard II (vor dem Start Vanguard 2E) ist ein erdumlaufender Satellit, der am 17. Februar 1959 an Bord einer Vanguard SLV-4-Rakete im Rahmen des Projekts Vanguard der US Navy gestartet wurde. Der erfolgreiche Start war ein wichtiger Teil des Weltraumwettlaufs zwischen den USA und der Sowjetunion. Vanguard 2 war der erste Wettersatellit. Der Satellit wurde entwickelt, um die Wolkenbedeckungsverteilung während der Tageslichtphase seiner Umlaufbahn über einen Zeitraum von 19 Tagen zu messen und Informationen über die Dichte der Atmosphäre während seiner gesamten Umlaufbahn (etwa 300 Jahre) zu liefern."
+roncw_spacenews.9.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.10.t:0 "Discoverer 1 gestartet"
+roncw_spacenews.10.d:0 "Discoverer 1 war der erste einer Reihe von Satelliten des Aufklärungssatellitenprogramms CORONA. Er wurde am 28. Januar 1959 um 21:49:16 GMT mit einer Thor-Agena-A-Rakete vom Luftwaffenstützpunkt Vandenberg in Kalifornien gestartet. Es handelte sich um einen Prototyp des Satelliten KH-1, der jedoch weder über eine Kamera noch über eine Filmkapsel verfügte. Es war der erste Satellit, der in Richtung Südpol gestartet wurde, um eine polare Umlaufbahn zu erreichen, was jedoch erfolglos blieb. Ein später freigegebener CIA-Bericht kam zu dem Schluss: „Heute glauben die meisten Menschen, dass DISCOVERER 1 irgendwo in der Nähe des Südpols gelandet ist.“"
+roncw_spacenews.10.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.11.t:0 "Erster Spionagesatellit mit Kamera"
+roncw_spacenews.11.d:0 "Discoverer 4 war ein Überwachungssatellit der ersten Generation mit niedriger Auflösung der US-Luftwaffe, der an Bord einer Thor Agena-A-Rakete vom Luftwaffenstützpunkt Vandenberg gestartet wurde. Die Mission scheiterte, da der Satellit die Umlaufbahn nicht erreichte."
+roncw_spacenews.11.a:1 "Es gelang nicht, die Umlaufbahn zu erreichen ..."
+
+roncw_spacenews.12.t:0 "Explorer 6 gestartet"
+roncw_spacenews.12.d:0 "Explorer 6, kurz S-2, war ein amerikanischer Satellit, der am 7. August 1959 gestartet wurde. Es handelte sich um einen kleinen, kugelförmigen Satelliten, der zur Untersuchung von eingeschlossener Strahlung unterschiedlicher Energien, galaktischer kosmischer Strahlung, Geomagnetismus, Radioausbreitung in der oberen Atmosphäre und Mikrometeoritenfluss konzipiert war. Der Satellit testete außerdem ein Scangerät zur Erfassung der Wolkendecke der Erde und übertrug die ersten Bilder der Erde per Satellit."
+roncw_spacenews.12.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.13.t:0 "Luna 2 stürzt ab!"
+roncw_spacenews.13.d:0 "Luna 2, ursprünglich Zweite Sowjetische Weltraumrakete genannt und in den zeitgenössischen Medien Lunik 2 genannt, war die sechste Raumsonde des sowjetischen Luna-Programms zum Mond, E-1 Nr. 7. Die Raumsonde wurde am 12. September 1959 mit der Rakete Luna 8K72 s/n I1-7B gestartet. Sie folgte einem direkten Weg zum Mond. Zusätzlich zu den Funksendern, die Telemetriedaten zur Erde sendeten, setzte die Raumsonde eine Natriumgaswolke frei, sodass die Bewegung der Raumsonde visuell beobachtet werden konnte. Am 13. September 1959 schlug sie östlich des Mare Imbrium in der Nähe der Krater Aristides, Archimedes und Autolycus auf der Mondoberfläche auf. Sie war die erste Raumsonde, die die Mondoberfläche erreichte, und das erste von Menschenhand geschaffene Objekt, das mit einem anderen Himmelskörper Kontakt aufnahm."
+roncw_spacenews.13.a:1 "Autsch..."
+
+roncw_spacenews.14.t:0 "Erste Bilder von der Rückseite des Mondes"
+roncw_spacenews.14.d:0 "Luna 3 oder E-2A Nr. 1 war eine sowjetische Raumsonde, die 1959 im Rahmen des Luna-Programms gestartet wurde. Es war die erste Mission zur Fotografie der Rückseite des Mondes und die dritte sowjetische Raumsonde, die in die Nähe des Mondes geschickt wurde. Obwohl die Aufnahmen für spätere Verhältnisse eher schlecht waren, sorgten die historischen, nie zuvor gesehenen Ansichten der Rückseite des Mondes für Aufregung und Interesse, als sie weltweit veröffentlicht wurden. Nach der Verbesserung der Bilder durch Bildbearbeitung entstand ein vorläufiger Atlas der Rückseite des Mondes."
+roncw_spacenews.14.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.15.t:0 "TIROS-1 gestartet"
+roncw_spacenews.15.d:0 "TIROS-1 (oder TIROS-A) war der erste erfolgreiche Wettersatellit in einer erdnahen Umlaufbahn und der erste einer Reihe von Infrarot-Fernsehsatelliten. Die Raumsonde TIROS-1 wurde am 1. April 1960 um 06:40 Uhr EST von der NASA und Partnern von Cape Canaveral, Florida, in den USA gestartet. Missionspartner waren die NASA, das US Army Signal Research and Development Laboratory, RCA, das US Weather Bureau und das US Naval Photographic Interpretation Center."
+roncw_spacenews.15.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.16.t:0 "Discoverer 13 aus der Umlaufbahn geborgen"
+roncw_spacenews.16.d:0 "Dies ist die Wiedereintrittskapsel Discoverer XIII, die zusammen mit der Kapselhülle und dem Fallschirm am 11. August 1960 nördlich von Hawaii von der US Navy geborgen wurde. Es war das erste von Menschenhand geschaffene Objekt, das aus der Umlaufbahn geborgen wurde. Der Satellit Discoverer XIII war am Vortag von der Vandenberg AFB aus gestartet. „Discoverer“ war der Tarnname für das streng geheime Fotoaufklärungssatellitenprogramm Corona der US Air Force/CIA. Der Satellit Discoverer XIII hatte weder Kameras noch Filme an Bord, und die Kapsel enthielt nur Diagnoseinstrumente. Ab Discoverer XIV eine Woche später trugen die Corona-Satelliten jedoch Kameras und Filme an Bord. Bis zum Ende des Corona-Programms im Mai 1972 waren über 120 Corona-Satelliten erfolgreich über die Sowjetunion, China und andere Länder geflogen und hatten sie fotografiert."
+roncw_spacenews.16.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.17.t:0 "Echo 1A eingeführt"
+roncw_spacenews.17.d:0 "Der NASA-Satellit Echo 1 wurde von Gilmore Schjeldahls GT Schjeldahl Company in Northfield, Minnesota, gebaut. Der Ballonsatellit fungierte als Reflektor, nicht als Transceiver. Nachdem er in eine niedrige Erdumlaufbahn gebracht worden war, konnte ein Signal an ihn gesendet werden, das von seiner Oberfläche reflektiert und zur Erde zurückgesandt wurde."
+roncw_spacenews.17.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.18.t:0 "Discoverer 14 geborgen"
+roncw_spacenews.18.d:0 "Discoverer 14 (auch bekannt als KH-1 9009) war ein Spionagesatellit, der im Corona-Programm der Advanced Research Projects Agency (ARPA) des US-Verteidigungsministeriums und der US-Luftwaffe eingesetzt wurde. Am 19. August 1960 wurden brauchbare fotografische Filmaufnahmen der Sowjetunion, die der Satellit gemacht hatte, von einem C-119-Bergungsflugzeug geborgen. Dies war die erste erfolgreiche Bergung von Filmmaterial von einem Satelliten im Orbit und die erste Bergung eines aus der Erdumlaufbahn zurückkehrenden Objekts in der Luft."
+roncw_spacenews.18.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.19.t:0 "Besatzung von Korabl-Sputnik 2 kehrt lebend zurück!"
+roncw_spacenews.19.d:0 "Korabl-Sputnik 2, im Westen fälschlicherweise auch Sputnik 5 genannt, war ein sowjetischer künstlicher Satellit und der dritte Testflug der Raumsonde Wostok. Es war der erste Raumflug, bei dem Tiere in die Umlaufbahn gebracht und sicher zur Erde zurückgebracht wurden. Der Start am 19. August 1960 ebnete den Weg für den ersten bemannten Orbitalflug, Wostok 1, der weniger als acht Monate später startete."
+roncw_spacenews.19.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.20.t:0 "Erster Schimpanse im Weltraum"
+roncw_spacenews.20.d:0 "Ham, auch bekannt als Ham der Schimpanse und Ham der Astroschimpanse, war ein Schimpanse und der erste Hominide, der in die Umlaufbahn gebracht wurde. Am 31. Januar 1961 flog Ham einen suborbitalen Flug im Rahmen der Mercury-Redstone 2-Mission, die Teil des Projekts Mercury des US-Raumfahrtprogramms war. Hams Name ist ein Akronym für das Labor, das ihn auf seine historische Mission vorbereitete – das Holloman Aerospace Medical Center auf der Holloman Air Force Base in New Mexico, südwestlich von Alamogordo. Sein Name ist auch eine Hommage an den Kommandanten des Holloman Aeromedical Laboratory, Lieutenant Colonel Hamilton „Ham“ Blackshear."
+roncw_spacenews.20.a:1 "Harambe, bist du das?"
+
+roncw_spacenews.21.t:0 "Venera 1 gestartet"
+roncw_spacenews.21.d:0 "Venera 1, auch bekannt als Venera-1VA Nr. 2 und im Westen gelegentlich als Sputnik 8, war die erste Raumsonde, die im Rahmen des Venera-Programms der Sowjetunion an der Venus vorbeiflog. Gestartet im Februar 1961, flog sie am 19. Mai desselben Jahres an der Venus vorbei. Allerdings brach vor dem Vorbeiflug der Funkkontakt zur Sonde ab, sodass keine Daten übermittelt wurden."
+roncw_spacenews.21.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.22.t:0 "Erster bemannter Raumflug"
+roncw_spacenews.22.d:0 "Wostok 1 war der erste Raumflug des Wostok-Programms und der erste bemannte Raumflug der Geschichte. Die Raumkapsel Wostok 3KA startete am 12. April 1961 vom Kosmodrom Baikonur mit dem sowjetischen Kosmonauten Juri Gagarin an Bord und war damit der erste Mensch im Weltraum. Der orbitale Raumflug bestand aus einer einzigen Umlaufbahn um die Erde, die die obere Atmosphäre an ihrem tiefsten Punkt in 169 Kilometern (91 Seemeilen) streifte. Der Flug dauerte vom Start bis zur Landung 108 Minuten. Gagarin landete getrennt von seiner Kapsel mit dem Fallschirm auf der Erde, nachdem er sich in 7 Kilometern (23.000 Fuß) Höhe katapultiert hatte."
+roncw_spacenews.22.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.23.t:0 "Freedom 7 ist erfolgreich gelandet!"
+roncw_spacenews.23.d:0 "Mercury-Redstone 3, auch Freedom 7 genannt, war der erste bemannte Raumflug der USA am 5. Mai 1961. Pilot war der Astronaut Alan Shepard. Es war der erste bemannte Flug des Projekts Mercury. Ziel des Projekts war es, einen Astronauten in die Erdumlaufbahn zu bringen und ihn sicher wieder zurückzubringen. Shepards Mission war ein 15-minütiger suborbitaler Flug mit dem Hauptziel, seine Fähigkeit zu demonstrieren, den hohen G-Kräften beim Start und beim Wiedereintritt in die Erdatmosphäre standzuhalten."
+roncw_spacenews.23.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.24.t:0 "Erster Venus-Vorbeiflug"
+roncw_spacenews.24.d:0 "Venera 1, auch bekannt als Venera-1VA Nr. 2 und im Westen gelegentlich als Sputnik 8, war die erste Raumsonde, die im Rahmen des Venera-Programms der Sowjetunion an der Venus vorbeiflog. Gestartet im Februar 1961, flog sie am 19. Mai desselben Jahres an der Venus vorbei. Allerdings brach vor dem Vorbeiflug der Funkkontakt zur Sonde ab, sodass keine Daten übermittelt wurden."
+roncw_spacenews.24.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.25.t:0 "Wostok 2 gestartet"
+roncw_spacenews.25.d:0 "Wostok 2 war eine sowjetische Weltraummission, bei der der Kosmonaut German Titow am 6. August 1961 für einen ganzen Tag in die Erdumlaufbahn ging, um die Auswirkungen längerer Schwerelosigkeit auf den menschlichen Körper zu untersuchen. Titow umkreiste die Erde über 17 Mal und übertraf damit Juri Gagarins einmalige Erdumrundung auf Wostok 1 sowie die suborbitalen Raumflüge der amerikanischen Astronauten Alan Shepard und Gus Grissom auf ihren Missionen Mercury-Redstone 3 und 4. Tatsächlich wurde Titows Anzahl an Erdumrundungen und seine Flugzeit erst im Mai 1963 von einem amerikanischen Astronauten mit Gordon Coopers Raumflug Mercury-Atlas 9 übertroffen."
+roncw_spacenews.25.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.26.t:0 "Erstes orbitales Sonnenobservatorium"
+roncw_spacenews.26.d:0 "Das Orbiting Solar Observatory (kurz OSO)-Programm war der Name einer Reihe amerikanischer Weltraumteleskope, die in erster Linie der Erforschung der Sonne dienten, obwohl sie auch wichtige nicht-solare Experimente umfassten. Acht dieser Teleskope wurden zwischen 1962 und 1975 von der NASA erfolgreich mit Delta-Raketen in eine niedrige Erdumlaufbahn gebracht. Ihre Hauptaufgabe bestand darin, einen elfjährigen Sonnenfleckenzyklus im UV- und Röntgenspektrum zu beobachten. Die ersten sieben (OSO 1–7) wurden von Ball Aerospace, damals bekannt als Ball Brothers Research Corporation (BBRC), in Boulder, Colorado, gebaut. OSO 8 wurde von der Hughes Space and Communications Company in Culver City, Kalifornien, gebaut."
+roncw_spacenews.26.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.27.t:0 "Ranger 4 schlägt auf der Rückseite des Mondes ein"
+roncw_spacenews.27.d:0 "Ranger 4 war ein Raumfahrzeug des Ranger-Programms und wurde 1962 gestartet. Es sollte während eines zehnminütigen Fluges vor dem Aufprall auf dem Mond Bilder der Mondoberfläche an Erdstationen senden, eine Seismometerkapsel auf dem Mond notlanden, während des Fluges Gammastrahlendaten sammeln, die Radarreflexion der Mondoberfläche untersuchen und die Tests des Ranger-Programms zur Entwicklung von Mond- und interplanetaren Raumfahrzeugen fortsetzen."
+roncw_spacenews.27.a:1 "Autsch..."
+
+roncw_spacenews.28.t:0 "Ariel 1 gestartet"
+roncw_spacenews.28.d:0 "Ariel 1 (auch bekannt als UK-1 und S-55) war der erste britische Satellit und der erste Satellit des Ariel-Programms. Mit seinem Start im Jahr 1962 war Großbritannien nach der Sowjetunion und den USA das dritte Land, das einen Satelliten betrieb. Der Bau erfolgte in Großbritannien und den USA vom NASA Goddard Space Flight Center und dem SERC im Rahmen einer Vereinbarung, die 1959 und 1960 nach politischen Diskussionen getroffen wurde. Der Höhentest des US-amerikanischen Atomwaffentests Starfish Prime beeinträchtigte die Einsatzfähigkeit von Ariel 1."
+roncw_spacenews.28.a:1 "Meine Güte, Kumpel"
+
+roncw_spacenews.29.t:0 "Erster aktiver Kommunikationssatellit"
+roncw_spacenews.29.d:0 "Am 10. Juli 1962 starteten AT&amp;T Bell Telephone Laboratories (heute Nokia Bell Labs) und die NASA Telstar 1, den ersten Kommunikationssatelliten von Cape Canaveral. Die globale Kommunikation veränderte sich für immer."
+roncw_spacenews.29.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.30.t:0 "Wostok 3 gestartet"
+roncw_spacenews.30.d:0 "Wostok 3 war ein Raumflug des sowjetischen Raumfahrtprogramms, der die Leistungsfähigkeit des menschlichen Körpers in der Schwerelosigkeit testen und die Ausdauer des Raumfahrzeugs Wostok 3KA auf längeren Flügen erproben sollte. Der Kosmonaut Andrijan Nikolajew umkreiste die Erde vom 11. bis 15. August 1962 in fast vier Tagen 64 Mal im All. Diese Leistung erreichte die NASA erst mit dem Gemini-Programm (1965–1966)."
+roncw_spacenews.30.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.31.t:0 "Erster Venus-Vorbeiflug der Amerikaner"
+roncw_spacenews.31.d:0 "Mariner 2 (Mariner-Venus 1962), eine amerikanische Raumsonde zur Venus, war die erste robotische Raumsonde, die eine erfolgreiche Planetenbegegnung durchführte. Als erstes erfolgreiches Raumfahrzeug im Mariner-Programm der NASA war es eine vereinfachte Version des Block-I-Raumfahrzeugs des Ranger-Programms und eine exakte Kopie von Mariner 1. Die Missionen der Raumfahrzeuge Mariner 1 und 2 werden manchmal als Mariner-R-Missionen bezeichnet. Ursprünglich war geplant, die Sonden mit der Atlas-Centaur zu starten, aber schwerwiegende Entwicklungsprobleme mit diesem Fahrzeug machten einen Wechsel zur wesentlich kleineren zweiten Stufe Agena B erforderlich. Daher wurde das Design der Mariner-R-Fahrzeuge stark vereinfacht. Es wurden weit weniger Instrumente mitgeführt als die sowjetischen Venera-Sonden dieser Zeit – beispielsweise wurde auf eine Fernsehkamera verzichtet –, da die Atlas-Agena B nur halb so viel Tragfähigkeit hatte wie die sowjetische Trägerrakete 8K78. Die Raumsonde Mariner 2 wurde am 27. August 1962 von Cape Canaveral aus gestartet und kam am 14. Dezember 1962 der Venus bis auf 34.773 Kilometer nahe."
+roncw_spacenews.31.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.32.t:0 "Erste Frau im Weltraum"
+roncw_spacenews.32.d:0 "Am 16. Juni 1963 reiste die sowjetische Kosmonautin Walentina Tereschkowa an Bord der Raumfähre Wostok 6 als erste Frau ins All. Nach 48 Erdumrundungen und 71 Stunden kehrte sie zur Erde zurück. Damit verbrachte sie mehr Zeit im Weltraum als alle US-Astronauten zusammen bis zu diesem Zeitpunkt."
+roncw_spacenews.32.a:1 "Wer hat sie aus der Küche gelassen?"
+
+roncw_spacenews.33.t:0 "Wostok 5 gestartet"
+roncw_spacenews.33.d:0 "Wostok 5 war eine gemeinsame Mission des sowjetischen Raumfahrtprogramms zusammen mit Wostok 6; wie beim vorherigen Paar Wostok 3 und Wostok 4 näherten sich die beiden Wostok-Raumschiffe im Orbit einander an und stellten eine Funkverbindung her."
+roncw_spacenews.33.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.34.t:0 "Erstes wiederverwendbares bemanntes Raumfahrzeug"
+roncw_spacenews.34.d:0 "Flug 90 der North American X-15 war ein Testflug der NASA und der US Air Force im Jahr 1963. Es war der erste von zwei X-15-Missionen, die die 100 km hohe Kármán-Linie, die FAI-Definition des Weltraums, passierten, zusammen mit Flug 91 im darauffolgenden Monat. Geflogen wurde die X-15 von Joseph A. Walker, der beide X-15-Raumflüge leitete."
+roncw_spacenews.34.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.35.t:0 "Syncom 2 gestartet"
+roncw_spacenews.35.d:0 "Syncom 2 wurde am 26. Juli 1963 von der NASA mit der Trägerrakete Delta B von Cape Canaveral aus gestartet. Der Satellit konnte die von Herman Potočnik Noordung in den 1920er Jahren berechnete Höhe erfolgreich halten."
+roncw_spacenews.35.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.36.t:0 "Erstes Satellitennavigationssystem"
+roncw_spacenews.36.d:0 "Das Transit-System, auch bekannt als NAVSAT oder NNSS (Navy Navigation Satellite System), war das erste operativ eingesetzte Satellitennavigationssystem. Es wurde hauptsächlich von der US Navy genutzt, um ihren Polaris-U-Booten mit ballistischen Raketen genaue Standortinformationen zu liefern. Darüber hinaus diente es auch als Navigationssystem für Überwasserschiffe der Navy sowie für hydrografische und geodätische Vermessungen. Transit bot ab 1964 kontinuierlichen Satellitennavigationsdienst, zunächst für Polaris-U-Boote und später auch für zivile Zwecke."
+roncw_spacenews.36.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.37.t:0 "Erster geostationärer Satellit"
+roncw_spacenews.37.d:0 "Syncom 3 wurde am 19. August 1964 von Cape Kennedy aus gestartet und nach einem Giermanöver der dritten Stufe in eine elliptische Umlaufbahn mit einer Neigung von 16 Grad zum Äquator gebracht. Der Apogäumsmotor wurde gezündet, um den größten Teil der verbleibenden Neigung zu beseitigen und eine kreisförmige, nahezu synchrone Umlaufbahn von 35.670 km x 35.908 km zu erreichen. Die Raumsonde führte anschließend eine Reihe von Lage- und Geschwindigkeitsmanövern durch, um sich mit einer Neigung von 0,1 Grad am Äquator auszurichten und ihre Geschwindigkeit zu drosseln, sodass sie nach Westen zu ihrem geplanten Standort am 180. Längengrad driftete, wo ihre Geschwindigkeit in dieser Höhe mit der Erde synchronisiert war. Diese Manöver waren bis zum 23. September abgeschlossen, und Syncom 3 wurde in verschiedenen Kommunikationstests eingesetzt, darunter bei der Übertragung der Olympischen Spiele, zwischen den Philippinen, der USNS Kingsport und Camp Roberts in Kalifornien sowie bei Fernschreibübertragungen an ein Flugzeug auf der Strecke San Francisco–Honolulu. Der Satellitenbetrieb wurde am 1. Januar 1965 dem Verteidigungsministerium übergeben und bis 1966 von diesem betrieben. Im April 1969 wurde er abgeschaltet."
+roncw_spacenews.37.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.38.t:0 "Woschod 1 gestartet"
+roncw_spacenews.38.d:0 "Woschod 1 war der siebte bemannte sowjetische Raumflug. Im Oktober 1964 erreichte er mehrere Premieren in der Geschichte der bemannten Raumfahrt: Er war der erste Raumflug mit mehr als einem Besatzungsmitglied in die Umlaufbahn, der erste Flug ohne Raumanzüge und der erste, der entweder einen Ingenieur oder einen Arzt ins All beförderte. Außerdem stellte er mit 336 km (209 Meilen) einen Höhenrekord für bemannte Raumfahrzeuge auf."
+roncw_spacenews.38.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.39.t:0 "Erster Weltraumspaziergang"
+roncw_spacenews.39.d:0 "Am 18. März 1965 verließ der sowjetische Kosmonaut Alexei Leonow als erster Mensch eine Raumkapsel und schwebte, daran befestigt, frei im Orbit – um einen Weltraumspaziergang zu unternehmen. Er war Pilot der Mission Woschod 2, die Teil des Versuchs der Sowjetunion war, im Wettbewerb mit den USA den Mond zu erreichen. Leonows Spaziergang am 18. März 1965 verlief nicht ohne Schwierigkeiten. Obwohl er sich nur etwas mehr als 12 Minuten außerhalb seines Raumschiffs befand (für einen maximalen Propagandaeffekt in Farbe gefilmt), blähte sich sein Anzug auf, als er nicht länger durch die Innenatmosphäre seines Raumschiffs eingeschränkt war, und er konnte die Luftschleuse nicht wieder betreten. Leonow entlüftete den Anzug über seine Sicherheitsgrenzen hinaus, um ihn flexibler zu machen, und erlitt infolge der Dekompression die Taucherkrankheit. Später bemerkte er, dass er so stark geschwitzt hatte, dass der Schweiß in seinem Anzug herumschwappte. Auch beim Wiedereintrittsflug scheint nicht alles glatt gelaufen zu sein."
+roncw_spacenews.39.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.40.t:0 "Gemini 3 ändert seine Umlaufbahn"
+roncw_spacenews.40.d:0 "Gemini 3 war die erste bemannte Mission im Gemini-Programm der NASA. Am 23. März 1965 flogen die Astronauten Gus Grissom und John Young mit ihrem Raumschiff, das sie Molly Brown nannten, drei niedrige Erdumlaufbahnen. Es war der neunte bemannte US-Raumflug (darunter zwei X-15-Flüge über 100 Kilometer) und der 17. bemannte Raumflug weltweit, darunter acht sowjetische Flüge. Es war zugleich der letzte bemannte Flug, der von der Cape Kennedy Air Force Station in Florida aus gesteuert wurde, bevor die Missionskontrolle in ein neues Kontrollzentrum im neu eröffneten Manned Spacecraft Center in Houston, Texas, verlagert wurde."
+roncw_spacenews.40.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.41.t:0 "Erster Weltraumspaziergang eines Amerikaners"
+roncw_spacenews.41.d:0 "Woschod 2 war eine sowjetische bemannte Weltraummission im März 1965. Das in Wostok stationierte Raumschiff Woschod 3KD mit den beiden Besatzungsmitgliedern Pawel Beljajew und Alexei Leonow an Bord war mit einer aufblasbaren Luftschleuse ausgestattet. Ein weiterer Meilenstein in der Weltraumforschung war, dass Alexei Leonow als erster Mensch das Raumschiff in einem speziellen Raumanzug verließ, um einen zwölfminütigen Weltraumspaziergang zu unternehmen."
+roncw_spacenews.41.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.42.t:0 "Erster Mars-Vorbeiflug"
+roncw_spacenews.42.d:0 "Mariner 4 war die vierte einer Reihe von Raumsonden zur Planetenerkundung im Vorbeiflugmodus. Sie sollte wissenschaftliche Beobachtungen des Mars aus nächster Nähe durchführen und diese zur Erde übertragen. Nach dem Start am 28. November 1964 führte Mariner 4 den ersten erfolgreichen Vorbeiflug am Planeten Mars durch und lieferte die ersten Nahaufnahmen der Marsoberfläche. Sie nahm die ersten Bilder eines anderen Planeten aus dem Weltraum auf; ihre Darstellung einer kraterübersäten, scheinbar toten Welt veränderte die Sicht der Wissenschaftler auf das Leben auf dem Mars grundlegend. Weitere Missionsziele waren die Durchführung von Feld- und Partikelmessungen im interplanetaren Raum in der Nähe des Mars sowie die Bereitstellung von Erfahrungen und Kenntnissen über die technischen Möglichkeiten für interplanetare Langzeitflüge. Am 21. Dezember 1967 wurde die Kommunikation mit Mariner 4 abgebrochen."
+roncw_spacenews.42.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.43.t:0 "Gemini 5 gestartet"
+roncw_spacenews.43.d:0 "Gemini 5 war ein bemannter Raumflug im Rahmen des NASA-Projekts Gemini im Jahr 1965. Es war der dritte bemannte Gemini-Flug, der elfte bemannte amerikanische Raumflug (darunter zwei X-15-Flüge über 100 Kilometer) und der neunzehnte bemannte Raumflug aller Zeiten. Es war auch das erste Mal, dass eine amerikanische bemannte Weltraummission den Weltrekord für die beste Dauer hielt, der am 26. August 1965 aufgestellt wurde, indem sie den bisherigen Rekord der Sowjetunion, der 1963 von Wostok 5 aufgestellt wurde, brach."
+roncw_spacenews.43.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.44.t:0 "Erstes orbitales Rendezvous"
+roncw_spacenews.44.d:0 "Gemini 6A war ein bemannter Raumflug der USA im Rahmen des Gemini-Programms der NASA im Jahr 1965. Die Mission erreichte das erste bemannte Rendezvous mit einem anderen Raumschiff, dem Schwesterschiff Gemini 7. Obwohl die Sowjetunion zuvor bereits zweimal gleichzeitig Paare von Wostok-Raumschiffen gestartet hatte, nahmen diese Funkkontakt zueinander auf, konnten ihre Umlaufbahnen jedoch nicht anpassen und näherten sich einander nicht näher als einige Kilometer. Die Raumschiffe Gemini 6 und 7 hingegen näherten sich einander bis auf 30 cm und hätten andocken können, wenn sie entsprechend ausgerüstet gewesen wären. Gemini 6A war der fünfte bemannte Gemini-Flug, der 13. bemannte amerikanische Flug und der 21. bemannte Raumflug aller Zeiten (darunter zwei X-15-Flüge über 100 Kilometer)."
+roncw_spacenews.44.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.45.t:0 "Gemini 7 gestartet"
+roncw_spacenews.45.d:0 "Gemini 7 war ein bemannter Raumflug im Rahmen des Gemini-Programms der NASA im Jahr 1965. Es war der fünfte bemannte Gemini-Flug, der dreizehnte bemannte amerikanische Raumflug und der einundzwanzigste bemannte Raumflug, einschließlich sowjetischer Flüge und X-15-Flüge über der Kármán-Linie. Die Besatzung um Frank Borman und Jim Lovell verbrachte fast 14 Tage im Weltraum und umkreiste die Raumsonde insgesamt 206 Mal. Ihr Raumschiff war das passive Ziel für das erste bemannte Rendezvous im Weltraum, das die Besatzung von Gemini 6A durchführte."
+roncw_spacenews.45.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.46.t:0 "Erste sanfte Landung auf dem Mond"
+roncw_spacenews.46.d:0 "Luna 9, interne Bezeichnung Ye-6 Nr. 13, war eine unbemannte Weltraummission des Luna-Programms der Sowjetunion. Am 3. Februar 1966 gelang der Raumsonde Luna 9 als erstem Raumfahrzeug eine überlebensfähige Landung auf dem Himmelskörper."
+roncw_spacenews.46.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.47.t:0 "Venera 3 stürzt auf der Venus ab"
+roncw_spacenews.47.d:0 "Venera 3 war eine Raumsonde des Venera-Programms, die von der Sowjetunion gebaut und gestartet wurde, um die Oberfläche der Venus zu erkunden. Der Start erfolgte am 16. November 1965 um 04:19 UTC von Baikonur, Kasachstan, UdSSR. Die Sonde bestand aus einer Eintrittssonde, die in die Venusatmosphäre eindrang und mit einem Fallschirm zur Oberfläche gelangte, und einem Träger-/Vorbeiflugraumfahrzeug, das die Eintrittssonde zur Venus brachte und gleichzeitig als Kommunikationsrelais für die Eintrittssonde diente."
+roncw_spacenews.47.a:1 "Autsch..."
+
+roncw_spacenews.48.t:0 "Gemini 8 gestartet"
+roncw_spacenews.48.d:0 "Gemini 8 war der sechste bemannte Raumflug im Gemini-Programm der NASA und startete am 16. März 1966. Es war der zwölfte bemannte amerikanische Flug und der zweiundzwanzigste bemannte Raumflug aller Zeiten. Bei der Mission kam es zum ersten Mal zu einem Andocken zweier Raumfahrzeuge im Orbit, doch kam es zum ersten kritischen Systemausfall eines US-Raumfahrzeugs im Weltraum, der das Leben der Astronauten bedrohte und einen sofortigen Abbruch der Mission erforderlich machte. Die Besatzung kehrte sicher zur Erde zurück."
+roncw_spacenews.48.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.49.t:0 "Luna 10 umkreist jetzt den Mond"
+roncw_spacenews.49.d:0 "Die Raumsonde Luna 10 wurde am 31. März 1966 von einer Plattform in der Erdumlaufbahn in Richtung Mond gestartet. Die Raumsonde trat am 3. April 1966 in die Mondumlaufbahn ein und beendete ihre erste Erdumrundung drei Stunden später (am 4. April Moskauer Zeit). Nach einer Kurskorrektur am 1. April erreichte Luna 10, die zweite von zwei hastig vorbereiteten sowjetischen Ye-6S-Sonden, zwei Tage später um 18.44 GMT erfolgreich die Mondumlaufbahn. Ein 245 Kilogramm schwerer Instrumentenraum trennte sich vom Hauptbus, der sich in einer 350 x 1.000 Kilometer großen Umlaufbahn mit einer Neigung von 71,9° zum Mondäquator befand. Luna 10 war batteriebetrieben und absolvierte 460 Mondumrundungen und 219 aktive Datenübertragungen, bevor die Funksignale am 30. Mai 1966 eingestellt wurden."
+roncw_spacenews.49.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.50.t:0 "Gemini 11 gestartet"
+roncw_spacenews.50.d:0 "Gemini 11 war die neunte bemannte Raumflugmission des NASA-Projekts Gemini und fand vom 12. bis 15. September 1966 statt. Es war der 17. bemannte amerikanische Flug und der 25. Raumflug bis dahin (einschließlich X-15-Flüge über 100 Kilometer). Die Astronauten Charles „Pete“ Conrad Jr. und Richard F. Gordon Jr. führten das erste direkte Aufsteigemanöver (erste Umlaufbahn) mit einem Agena-Zielfahrzeug durch und dockten 1 Stunde und 34 Minuten nach dem Start daran an. Sie nutzten das Agena-Raketentriebwerk, um eine Erdumlaufbahn mit einem Weltrekordwert in hohem Apogäum zu erreichen, und erzeugten eine geringe künstliche Schwerkraft, indem sie die beiden durch ein Seil verbundenen Raumfahrzeuge rotieren ließen. Gordon führte außerdem zwei Außenbordeinsätze von insgesamt 2 Stunden und 41 Minuten durch."
+roncw_spacenews.50.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.51.t:0 "Gemini 12 gestartet"
+roncw_spacenews.51.d:0 "Gemini 12 war ein bemannter Raumflug im Jahr 1966 im Rahmen des NASA-Projekts Gemini. Es war der 10. und letzte bemannte Gemini-Flug (Gemini 1 und Gemini 2 waren unbemannte Missionen), der 18. bemannte amerikanische Raumflug und der 26. Raumflug aller Zeiten, einschließlich X-15-Flügen über 100 Kilometer (54 Seemeilen). Unter dem Kommando des Gemini-VII-Veteranen James A. Lovell beinhaltete der Flug drei Außenbordeinsätze (EVA) des Neulings Edwin „Buzz“ Aldrin, die insgesamt 5 Stunden und 30 Minuten dauerten. Es fanden auch das fünfte Rendezvous und das vierte Andockmanöver an ein Agena-Zielfahrzeug statt. Gemini XII markierte einen erfolgreichen Abschluss des Gemini-Programms und erreichte das letzte seiner Ziele, indem es erfolgreich demonstrierte, dass Astronauten effektiv außerhalb von Raumfahrzeugen arbeiten können. Dies war ausschlaggebend dafür, dass das Apollo-Programm sein Ziel erreichen konnte, bis Ende der 1960er Jahre einen Menschen auf dem Mond landen zu lassen."
+roncw_spacenews.51.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.52.t:0 "Cosmos 186 &amp; 188 gestartet"
+roncw_spacenews.52.d:0 "Am 27. Oktober 1967 um 09:29:59 GMT wurden die Trägerrakete Sojus 11A511 SN U15000-05 und Kosmos 186 am Standort 31/6 des Kosmodroms Baikonur aufgestellt und die geplante Mission konnte durchgeführt werden. Kosmos 186 wurde in einer niedrigen Erdumlaufbahn betrieben, hatte ein Perigäum von 172 Kilometern (107 Meilen), ein Apogäum von 212 Kilometern (132 Meilen), eine Neigung von 51,7° und eine Umlaufzeit von 88,7 Minuten und hatte eine Masse von 6.000 Kilogramm (13.000 Pfund)."
+roncw_spacenews.52.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.53.t:0 "Zond 5 gestartet"
+roncw_spacenews.53.d:0 "Zond 5 war eine Raumsonde des sowjetischen Zond-Programms. Im September 1968 war sie das zweite Raumschiff, das zum Mond flog und ihn umrundete, und das erste, das sicher zur Erde zurückkehrte. Zond 5 brachte die ersten terrestrischen Organismen in die Nähe des Mondes, darunter zwei Schildkröten, Fruchtfliegeneier und Pflanzen. Die Schildkröten erfuhren während des Fluges biologische Veränderungen, die jedoch hauptsächlich auf Hunger zurückzuführen waren und von der Raumfahrt kaum beeinflusst wurden. Die Zond-Raumsonde war eine Version der bemannten Mondvorbeiflugsonde Sojus 7K-L1. Sie wurde von einer Proton-K-Trägerrakete mit einer Block-D-Oberstufe gestartet, um während des Vorbeiflugs am Mond wissenschaftliche Studien durchzuführen."
+roncw_spacenews.53.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.54.t:0 "Erstes orbitales Ultraviolett-Observatorium"
+roncw_spacenews.54.d:0 "Die Orbiting Astronomical Observatory (OAO)-Satelliten waren eine Serie von vier amerikanischen Weltraumobservatorien, die die NASA zwischen 1966 und 1972 unter der Leitung von NASA-Astronomiechefin Nancy Grace Roman startete. Diese Observatorien, darunter das erste erfolgreiche Weltraumteleskop, ermöglichten die ersten qualitativ hochwertigen Beobachtungen vieler Objekte im ultravioletten Licht. Obwohl zwei OAO-Missionen scheiterten, schärfte der Erfolg der beiden anderen das Bewusstsein der astronomischen Gemeinschaft für die Vorteile weltraumgestützter Beobachtungen und führte zur Gründung des Hubble-Weltraumteleskops."
+roncw_spacenews.54.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.55.t:0 "Apollo 8 gestartet"
+roncw_spacenews.55.d:0 "Apollo 8 war das erste bemannte Raumschiff, das die niedrige Erdumlaufbahn verließ, und das erste, das den Mond erreichte, ihn umkreiste und zurückkehrte. Die dreiköpfige Astronautenbesatzung – Frank Borman, James Lovell und William Anders – war die erste menschliche Mission, die zum Mond flogen, einen Erdaufgang beobachteten und fotografierten und der Schwerkraft eines Himmelskörpers entkamen."
+roncw_spacenews.55.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.56.t:0 "Sojus 4 gestartet"
+roncw_spacenews.56.d:0 "Sojus 4 startete am 14. Januar 1969 mit dem Kosmonauten Wladimir Schatalow an Bord zu seinem Jungfernflug. Ziel der Mission war es, an Sojus 5 anzudocken, zwei Besatzungsmitglieder aus diesem Raumschiff zu holen und zur Erde zurückzukehren. Auch die drei vorherigen Sojus-Flüge waren Andockversuche gewesen, die jedoch alle aus verschiedenen Gründen gescheitert waren."
+roncw_spacenews.56.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.57.t:0 "Apollo 11 landet auf dem Mond"
+roncw_spacenews.57.d:0 "Apollo 11 war der Raumflug, bei dem erstmals Menschen auf dem Mond landeten. Kommandant Neil Armstrong und Mondlandepilot Buzz Aldrin bildeten die amerikanische Besatzung, die die Apollo-Mondlandeeinheit Eagle landete. Armstrong betrat sechs Stunden und 39 Minuten später als erster Mensch die Mondoberfläche; Aldrin folgte ihm 19 Minuten später. Sie verbrachten etwa zweieinviertel Stunden gemeinsam außerhalb des Raumfahrzeugs und sammelten 21,5 kg Mondmaterial, um es zur Erde zu bringen. Während sie sich auf der Mondoberfläche befanden, flog Kommandokapselpilot Michael Collins die Kommandokapsel Columbia allein in die Mondumlaufbahn. Armstrong und Aldrin verbrachten 21 Stunden und 36 Minuten auf der Mondoberfläche an einem Ort, den sie Tranquility Base nannten, bevor sie abhoben, um sich wieder der Columbia in der Mondumlaufbahn anzuschließen."
+roncw_spacenews.57.a:1 "Ein riesiger Schritt für die Menschheit"
+
+roncw_spacenews.58.t:0 "Apollo 12 landet auf dem Mond"
+roncw_spacenews.58.d:0 "Apollo 12 war der sechste bemannte Flug im Rahmen des US-amerikanischen Apollo-Programms und die zweite Mondlandung. Der Start erfolgte am 14. November 1969 vom Kennedy Space Center in Florida, vier Monate nach Apollo 11. Kommandant Charles „Pete“ Conrad und Pilot der Apollo-Mondlandefähre Alan L. Bean führten etwas mehr als einen Tag und sieben Stunden Mondlandungen durch, während Pilot Richard F. Gordon in der Mondumlaufbahn blieb. Der Landeplatz der Mission befand sich im südöstlichen Teil des Ozeans der Stürme."
+roncw_spacenews.58.a:1 "Schon wieder, was?"
+
+roncw_spacenews.59.t:0 "Apollo 13-Katastrophe"
+roncw_spacenews.59.d:0 "Apollo 13 war die siebte bemannte Mission des Apollo-Raumfahrtprogramms und die dritte mit dem Ziel einer Mondlandung. Die Raumsonde startete am 11. April 1970 vom Kennedy Space Center, wurde jedoch abgebrochen, nachdem zwei Tage nach Missionsbeginn ein Sauerstofftank im Servicemodul (SM) ausfiel. Stattdessen umrundete die Besatzung den Mond und kehrte am 17. April sicher zur Erde zurück. Kommandant der Mission war Jim Lovell, Jack Swigert war Pilot des Kommandomoduls (CM) und Fred Haise Pilot des Mondmoduls (LM). Swigert ersetzte Ken Mattingly, der nach einer Rötelninfektion am Boden bleiben musste. Durch das routinemäßige Rühren eines Sauerstofftanks entzündete sich die beschädigte Kabelisolierung im Inneren, was eine Explosion auslöste, bei der der Inhalt beider Sauerstofftanks des SM ins All entwich. Ohne Sauerstoff, der zum Atmen und zur Stromerzeugung benötigt wird, konnten die Antriebs- und Lebenserhaltungssysteme des SM nicht funktionieren. Die Systeme der Mondlandeeinheit mussten heruntergefahren werden, um die verbleibenden Ressourcen für den Wiedereintritt zu schonen. Die Besatzung war daher gezwungen, in die Mondlandeeinheit (LM) umzusteigen, die als Rettungsboot diente. Da die Mondlandung abgesagt wurde, arbeiteten die Missionskontrolleure daran, die Besatzung lebend nach Hause zu bringen."
+roncw_spacenews.59.a:1 "Houston, wir haben ein Problem"
+
+roncw_spacenews.60.t:0 "Luna 16 kehrt zurück"
+roncw_spacenews.60.d:0 "Luna 16, auch bekannt als Lunnik 16, war eine unbemannte Weltraummission im Rahmen des sowjetischen Luna-Programms. Es war die erste Robotersonde, die auf dem Mond landete und eine Mondbodenprobe zur Erde zurückbrachte. Die Probe stammte vom Mare Fecunditatis. Es war die erste Mondprobenrückführungsmission der Sowjetunion und nach Apollo 11 und Apollo 12 die dritte Mondprobenrückführungsmission insgesamt."
+roncw_spacenews.60.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.61.t:0 "Erstes ferngesteuertes Fahrzeug auf dem Mond"
+roncw_spacenews.61.d:0 "Lunochod 1 war der erste von zwei Roboter-Mondrovers, die die Sowjetunion im Rahmen ihres Lunochod-Programms auf dem Mond landete. Die Raumsonde Luna 17 brachte Lunochod 1 1970 zum Mond. Lunochod 1 war der erste ferngesteuerte Roboter-Rover, der sich frei über die Oberfläche eines astronomischen Objekts jenseits der Erde bewegen konnte. Er war zudem das erste Fahrzeug mit Rädern auf einem anderen Himmelskörper. Lunochod 0 (Nr. 201), der vorherige und erste Versuch, startete im Februar 1969, erreichte jedoch keine Umlaufbahn."
+roncw_spacenews.61.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.62.t:0 "Erstes Röntgen-Orbitalobservatorium"
+roncw_spacenews.62.d:0 "Uhuru war der erste Satellit, der speziell für die Röntgenastronomie gestartet wurde. Er war auch als X-ray Explorer Satellite, SAS-A (für „Small Astronomy Satellite“ A, erster der dreiteiligen SAS-Serie), SAS 1 oder Explorer 42 bekannt. Das Observatorium wurde am 12. Dezember 1970 in eine Umlaufbahn von etwa 560 km Apogäum, 520 km Perigäum, 3 Grad Neigung und einer Umlaufdauer von 96 Minuten gebracht. Die Mission endete im März 1973. Uhuru war eine Scan-Mission mit einer Rotationsdauer von etwa 12 Minuten. Sie führte die erste umfassende Durchmusterung des gesamten Himmels nach Röntgenquellen durch, wobei die Empfindlichkeit etwa dem 0,001-Fachen der Intensität des Krebsnebels entsprach."
+roncw_spacenews.62.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.63.t:0 "Venera 7 landet auf der Venus"
+roncw_spacenews.63.d:0 "Venera 7 war eine sowjetische Raumsonde und Teil der Venera-Serie von Venussonden. Als sie am 15. Dezember 1970 auf der Venusoberfläche landete, war sie die erste Raumsonde, die eine weiche Landung auf einem anderen Planeten durchführte und von dort Daten zur Erde übertrug."
+roncw_spacenews.63.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.64.t:0 "Saljut 1 gestartet"
+roncw_spacenews.64.d:0 "Saljut 1 (DOS-1) war die erste Raumstation, die die Sowjetunion am 19. April 1971 in eine niedrige Erdumlaufbahn brachte. Dem Saljut-Programm folgten fünf weitere erfolgreiche Starts von sieben weiteren Stationen. Das letzte Modul des Programms, Swesda (DOS-8), wurde zum Kern des russischen Segments der Internationalen Raumstation und befindet sich noch immer im Orbit."
+roncw_spacenews.64.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.65.t:0 "Sojus 11 gestartet"
+roncw_spacenews.65.d:0 "Sojus 11 war die einzige bemannte Mission zur ersten Raumstation der Welt, Saljut 1 (Sojus 10 hatte zwar angedockt, konnte aber aufgrund von Verriegelungsproblemen nicht eintreten). Die Besatzung, bestehend aus Georgi Dobrowolski, Wladislaw Wolkow und Wiktor Patsajew, erreichte die Raumstation am 7. Juni 1971 und flog am 29. Juni wieder ab. Die Mission endete in einer Katastrophe, als die Mannschaftskapsel während der Vorbereitungen für den Wiedereintritt drucklos wurde und die dreiköpfige Besatzung starb. Die drei Besatzungsmitglieder von Sojus 11 sind die einzigen bekannten Menschen, die im Weltraum ums Leben kamen."
+roncw_spacenews.65.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.66.t:0 "Erster von Menschen gesteuerter Rover auf dem Mond"
+roncw_spacenews.66.d:0 "Apollo 15 war die neunte bemannte Mission im Rahmen des US-amerikanischen Apollo-Programms und die vierte Mondlandung. Es war die erste J-Mission, die einen längeren Aufenthalt auf dem Mond und einen stärkeren wissenschaftlichen Fokus als frühere Landungen ermöglichte. Bei Apollo 15 kam erstmals das Lunar Roving Vehicle zum Einsatz."
+roncw_spacenews.66.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.67.t:0 "Erster Weltraumspaziergang im Weltraum"
+roncw_spacenews.67.d:0 "Al Worden war ein NASA-Astronaut, der mit Apollo 15 über den Mond flog und auf seiner Rückreise vom Mond im Jahr 1971 den ersten Weltraumspaziergang im Weltraum durchführte. Worden gehörte zur fünften Astronautenklasse der NASA, die 1966 ausgewählt wurde."
+roncw_spacenews.67.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.68.t:0 "Mariner 9 umkreist den Mars"
+roncw_spacenews.68.d:0 "Mariner 9 war eine robotische Raumsonde, die maßgeblich zur Erforschung des Mars beitrug und Teil des Mariner-Programms der NASA war. Mariner 9 startete am 30. Mai 1971 von der LC-36B der Cape Canaveral Air Force Station in Florida in Richtung Mars und erreichte den Planeten am 14. November desselben Jahres. Damit war sie die erste Raumsonde, die einen anderen Planeten umkreiste – nur knapp vor den sowjetischen Sonden Mars 2 (Start am 19. Mai) und Mars 3 (Start am 28. Mai), die beide nur wenige Wochen später den Mars erreichten."
+roncw_spacenews.68.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.69.t:0 "Erster Aufprall auf dem Mars"
+roncw_spacenews.69.d:0 "Mars 2 war eine unbemannte Raumsonde des Mars-Programms, einer Reihe unbemannter Marslander und -orbiter, die am 19. Mai 1971 von der Sowjetunion gestartet wurden. Die Missionen Mars 2 und Mars 3 bestanden aus identischen Raumfahrzeugen, jeweils mit einem Orbiter und einem angeschlossenen Lander. Der Orbiter ist identisch mit dem Venera-9-Bus bzw. -Orbiter. Der Bus-/Orbitertyp ist der 4MV. Gestartet wurden sie mit einer schweren Proton-K-Trägerrakete mit einer Blok-D-Oberstufe. Der Lander von Mars 2 war das erste von Menschenhand geschaffene Objekt, das die Marsoberfläche erreichte, allerdings versagte das Landesystem und der Lander ging verloren."
+roncw_spacenews.69.a:1 "Autsch..."
+
+roncw_spacenews.70.t:0 "Erste sanfte Landung auf dem Mars"
+roncw_spacenews.70.d:0 "Mars 3 war eine robotische Raumsonde des sowjetischen Marsprogramms und startete am 28. Mai 1971, neun Tage nach ihrem Zwillingsraumschiff Mars 2. Die Sonden waren identische robotische Raumfahrzeuge, die mit Proton-K-Raketen mit einer Block-D-Oberstufe gestartet wurden und jeweils aus einem Orbiter und einem angeschlossenen Lander bestanden. Nachdem der Mars-2-Lander auf der Marsoberfläche abgestürzt war, landete der Mars-3-Lander am 2. Dezember 1971 als erste Raumsonde sanft auf dem Mars. Er versagte 110 Sekunden nach der Landung und übertrug lediglich ein graues Bild ohne Details. Die Orbiter Mars 2 und Mars 3 umkreisten den Mars weitere acht Monate lang und sendeten Bilder zur Erde."
+roncw_spacenews.70.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.71.t:0 "Pioneer 10 auf Fluchtweg weg von der Sonne"
+roncw_spacenews.71.d:0 "Pioneer 10 ist eine amerikanische Raumsonde, die 1972 gestartet wurde und mit einem Gewicht von 258 Kilogramm die erste Mission zum Planeten Jupiter absolvierte. Danach erreichte Pioneer 10 als erstes von fünf künstlichen Objekten die nötige Fluchtgeschwindigkeit, um das Sonnensystem zu verlassen. Dieses Weltraumforschungsprojekt wurde vom NASA Ames Research Center in Kalifornien durchgeführt, und die Raumsonde wurde von TRW Inc. hergestellt."
+roncw_spacenews.71.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.72.t:0 "Pioneer 10 verlässt das innere Sonnensystem"
+roncw_spacenews.72.d:0 "Pioneer 10 ist eine amerikanische Raumsonde, die 1972 gestartet wurde und mit einem Gewicht von 258 Kilogramm die erste Mission zum Planeten Jupiter absolvierte. Danach erreichte Pioneer 10 als erstes von fünf künstlichen Objekten die nötige Fluchtgeschwindigkeit, um das Sonnensystem zu verlassen. Dieses Weltraumforschungsprojekt wurde vom NASA Ames Research Center in Kalifornien durchgeführt, und die Raumsonde wurde von TRW Inc. hergestellt."
+roncw_spacenews.72.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.73.t:0 "Anik A1-Telesat gestartet"
+roncw_spacenews.73.d:0 "Die Anik-Satelliten sind eine Reihe geostationärer Kommunikationssatelliten, die von 1972 bis 2013 für Telesat Canada für den kanadischen Fernsehsender gestartet wurden. Einige der späteren Satelliten der Serie sind noch im Orbit aktiv, während andere außer Dienst gestellt wurden und sich in einer Friedhofsumlaufbahn befinden. Die Namensgebung des Satelliten wurde in einem nationalen Wettbewerb ermittelt, den Julie-Frances Czapla aus Saint-Léonard, Québec, gewann. Auf Inuktitut bedeutet Anik „kleiner Bruder“."
+roncw_spacenews.73.a:1 "Komm damit klar, ja?"
+
+roncw_spacenews.74.t:0 "Erstes orbitales Gammastrahlenobservatorium"
+roncw_spacenews.74.d:0 "Der Small Astronomy Satellite 2, auch bekannt als SAS-2, SAS B oder Explorer 48, war ein Gammastrahlenteleskop der NASA. Es wurde am 15. November 1972 in eine niedrige Erdumlaufbahn mit einem Periapsis von 443 km und einem Apoapsis von 632 km gestartet. Am 8. Juni 1973 schloss es seine Beobachtungen ab."
+roncw_spacenews.74.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.75.t:0 "Skylab 2 gestartet"
+roncw_spacenews.75.d:0 "Skylab 2 war die erste bemannte Mission zur ersten orbitalen Raumstation der USA. Die Mission wurde am 25. Mai 1973 mit einer Saturn-IB-Rakete an Bord eines Apollo-Kommando- und Servicemoduls gestartet und brachte eine dreiköpfige Besatzung zur Station. Der Name Skylab 2 bezieht sich auch auf das für diese Mission verwendete Raumfahrzeug. Die Skylab-2-Mission stellte mit 28 Tagen einen neuen Rekord für die Dauer eines bemannten Raumflugs auf. Darüber hinaus waren die Besatzungsmitglieder die ersten Raumstationsinsassen, die sicher zur Erde zurückkehrten – die einzigen vorherigen Raumstationsinsassen, die Besatzung der Sojus-11-Mission von 1971, die die Station Saljut 1 24 Tage lang bemannt hatte, starben beim Wiedereintritt in die Erdatmosphäre aufgrund eines unerwarteten Druckabfalls in der Kabine."
+roncw_spacenews.75.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.76.t:0 "Skylab 3 gestartet"
+roncw_spacenews.76.d:0 "Skylab 3 war die zweite bemannte Mission zur ersten amerikanischen Raumstation Skylab. Die Mission begann am 28. Juli 1973 mit dem Start von drei Astronauten im Apollo-Kommando- und Servicemodul der Saturn-IB-Rakete und dauerte 59 Tage, 11 Stunden und 9 Minuten. Insgesamt absolvierte die Besatzung von Skylab 3 1.084,7 Astronautenstunden und führte wissenschaftliche Experimente in den Bereichen Medizin, Sonnenbeobachtung, Erdressourcen und andere Experimente durch."
+roncw_spacenews.76.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.77.t:0 "Skylab 4 gestartet"
+roncw_spacenews.77.d:0 "Skylab 4 war die dritte bemannte Skylab-Mission und brachte die dritte und letzte Besatzung an Bord der ersten amerikanischen Raumstation. Die Mission begann am 16. November 1973 mit dem Start von drei Astronauten an Bord eines Apollo-Kommando- und Servicemoduls auf einer Saturn-IB-Rakete vom Kennedy Space Center in Florida und dauerte 84 Tage, eine Stunde und 16 Minuten. Insgesamt absolvierten die Skylab-4-Astronauten 6.051 Stunden im Einsatz und führten wissenschaftliche Experimente in den Bereichen Medizin, Sonnenbeobachtung, Erdressourcen, Beobachtung des Kometen Kohoutek und andere Experimente durch."
+roncw_spacenews.77.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.78.t:0 "Erster Vorbeiflug an Jupiter"
+roncw_spacenews.78.d:0 "Pioneer 10 ist eine amerikanische Raumsonde, die 1972 gestartet wurde und mit einem Gewicht von 258 Kilogramm die erste Mission zum Planeten Jupiter absolvierte. Danach erreichte Pioneer 10 als erstes von fünf künstlichen Objekten die nötige Fluchtgeschwindigkeit, um das Sonnensystem zu verlassen. Dieses Weltraumforschungsprojekt wurde vom NASA Ames Research Center in Kalifornien durchgeführt, und die Raumsonde wurde von TRW Inc. hergestellt."
+roncw_spacenews.78.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.79.t:0 "Erste planetarische Gravitationsunterstützung"
+roncw_spacenews.79.d:0 "Mariner 10 war eine amerikanische robotische Raumsonde, die am 3. November 1973 von der NASA gestartet wurde, um an den Planeten Merkur und Venus vorbeizufliegen. Es war die erste Raumsonde, die an mehreren Planeten vorbeiflog. Mariner 10 wurde etwa zwei Jahre nach Mariner 9 gestartet und war die letzte Raumsonde des Mariner-Programms. (Mariner 11 und Mariner 12 wurden dem Voyager-Programm zugeteilt und in Voyager 1 und Voyager 2 umbenannt.) Die Missionsziele bestanden darin, die Umgebung, Atmosphäre, Oberfläche und Körpereigenschaften des Merkurs zu vermessen und ähnliche Untersuchungen der Venus durchzuführen. Sekundärziele waren die Durchführung von Experimenten im interplanetaren Medium und das Sammeln von Erfahrungen mit einer Schwerkraftmission mit zwei Planeten. Das Wissenschaftsteam von Mariner 10 wurde von Bruce C. Murray am Jet Propulsion Laboratory geleitet."
+roncw_spacenews.79.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.80.t:0 "Erster Merkur-Vorbeiflug"
+roncw_spacenews.80.d:0 "Mariner 10 war eine amerikanische robotische Raumsonde, die am 3. November 1973 von der NASA gestartet wurde, um an den Planeten Merkur und Venus vorbeizufliegen. Es war die erste Raumsonde, die an mehreren Planeten vorbeiflog. Mariner 10 wurde etwa zwei Jahre nach Mariner 9 gestartet und war die letzte Raumsonde des Mariner-Programms. (Mariner 11 und Mariner 12 wurden dem Voyager-Programm zugeteilt und in Voyager 1 und Voyager 2 umbenannt.) Die Missionsziele bestanden darin, die Umgebung, Atmosphäre, Oberfläche und Körpereigenschaften des Merkurs zu vermessen und ähnliche Untersuchungen der Venus durchzuführen. Sekundärziele waren die Durchführung von Experimenten im interplanetaren Medium und das Sammeln von Erfahrungen mit einer Schwerkraftmission mit zwei Planeten. Das Wissenschaftsteam von Mariner 10 wurde von Bruce C. Murray am Jet Propulsion Laboratory geleitet."
+roncw_spacenews.80.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.81.t:0 "Apollo-Sojus-Test-Projekt"
+roncw_spacenews.81.d:0 "Apollo-Sojus war die erste internationale Weltraummission, die im Juli 1975 gemeinsam von den USA und der Sowjetunion durchgeführt wurde. Millionen Menschen weltweit verfolgten im Fernsehen, wie ein amerikanisches Apollo-Modul an eine sowjetische Sojus-Kapsel andockte. Das Projekt und der denkwürdige Handschlag im Weltraum waren ein Symbol der Entspannung zwischen den beiden Supermächten. Es gilt allgemein als Abschluss des Wettlaufs ins All, der 1957 mit dem Start von Sputnik 1 begonnen hatte."
+roncw_spacenews.81.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.82.t:0 "Sojus 19 gestartet"
+roncw_spacenews.82.d:0 "Apollo-Sojus war die erste internationale Weltraummission, die im Juli 1975 gemeinsam von den USA und der Sowjetunion durchgeführt wurde. Millionen Menschen weltweit verfolgten im Fernsehen, wie ein Apollo-Modul der USA an eine Sojus-Kapsel der Sowjetunion andockte. Das Projekt und der denkwürdige Handschlag im Weltraum waren ein Symbol der Entspannung zwischen den beiden Supermächten. Es gilt allgemein als Abschluss des Wettlaufs ins All, der 1957 mit dem Start von Sputnik 1 begonnen hatte."
+roncw_spacenews.82.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.83.t:0 "Nächster Vorbeiflug an der Sonne"
+roncw_spacenews.83.d:0 "Helios-A und Helios-B sind zwei Sonden, die in eine heliozentrische Umlaufbahn gebracht wurden, um Sonnenprozesse zu untersuchen. Als Gemeinschaftsprojekt der westdeutschen Raumfahrtagentur DLR (70 Prozent Anteil) und der NASA (30 Prozent Anteil) starteten die Sonden am 10. Dezember 1974 bzw. 15. Januar 1976 von der Cape Canaveral Air Force Station in Florida. Gebaut vom Hauptauftragnehmer Messerschmitt-Bölkow-Blohm waren sie die ersten außerhalb der USA und der Sowjetunion gebauten Raumsonden, die die Erdumlaufbahn verließen. Die Sonden stellten mit 252.792 km/h (157.078 mph; 70.220 m/s) einen Höchstgeschwindigkeitsrekord für Raumfahrzeuge auf. Helios-B flog 3.000.000 Kilometer (1.900.000 Meilen) näher an der Sonne als Helios-A und erreichte am 17. April 1976 das Perihel in einer Rekordentfernung von 43,432 Millionen Kilometern (26.987.000 Meilen; 0,29032 AE), näher als die Umlaufbahn des Merkur. Helios-B wurde 13 Monate nach dem Start von Helios-A in die Umlaufbahn gebracht. Die Helios-Raumsonden schlossen ihre Hauptmissionen Anfang der 1980er Jahre ab, sendeten aber bis 1985 weiterhin Daten."
+roncw_spacenews.83.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.84.t:0 "Viking 1 macht Bilder vom Mars"
+roncw_spacenews.84.d:0 "Das Viking-Programm bestand aus zwei amerikanischen Raumsonden zum Mars, Viking 1 und Viking 2. Jede Raumsonde bestand aus zwei Hauptteilen: einem Orbiter, der die Marsoberfläche aus der Umlaufbahn fotografieren sollte, und einer Landesonde, die den Planeten von der Oberfläche aus erforschen sollte. Die Orbiter dienten den Landesonden nach der Landung auch als Kommunikationsrelais. Das Viking-Programm ging aus dem früheren, noch ehrgeizigeren Voyager-Mars-Programm der NASA hervor, das nichts mit den erfolgreichen Voyager-Raumsonden der späten 1970er Jahre zu tun hatte. Viking 1 wurde am 20. August 1975 gestartet und die zweite Sonde, Viking 2, am 9. September 1975. Beide Sonden trugen Titan-IIIE-Träger mit Centaur-Oberstufen. Viking 1 trat am 19. Juni 1976 in die Marsumlaufbahn ein, Viking 2 folgte am 7. August."
+roncw_spacenews.84.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.85.t:0 "International Ultraviolet Explorer gestartet"
+roncw_spacenews.85.d:0 "Der International Ultraviolet Explorer (IUE) war ein astronomischer Beobachtungssatellit, der in erster Linie zur Messung ultravioletter Spektren konzipiert war. Der Satellit war ein Gemeinschaftsprojekt der NASA, des britischen Science Research Council und der Europäischen Weltraumorganisation (ESA). Die Mission wurde erstmals Anfang 1964 von einer Gruppe Wissenschaftler im Vereinigten Königreich vorgeschlagen und am 26. Januar 1978 an Bord einer NASA-Delta-Rakete gestartet. Die Mission war ursprünglich auf drei Jahre angelegt, dauerte jedoch letztendlich fast 18 Jahre, bis der Satellit 1996 abgeschaltet wurde. Die Abschaltung erfolgte aus finanziellen Gründen, während das Teleskop noch nahezu mit der ursprünglichen Effizienz funktionierte. Es war das erste Weltraumobservatorium, das in Echtzeit von Astronomen betrieben wurde, die die Bodenstationen in den Vereinigten Staaten und Europa besuchten."
+roncw_spacenews.85.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.86.t:0 "Pioneer Venus Orbiter gestartet"
+roncw_spacenews.86.d:0 "Das Pioneer-Venus-Projekt war Teil des Pioneer-Programms und umfasste zwei Raumfahrzeuge, den Pioneer Venus Orbiter und die Pioneer Venus Multiprobe, die 1978 zur Venus gestartet wurden. Das Programm wurde vom Ames Research Center der NASA geleitet. Der Pioneer Venus Orbiter trat am 4. Dezember 1978 in die Umlaufbahn der Venus ein und führte Beobachtungen zur Charakterisierung der Atmosphäre und Oberfläche der Venus durch. Er übermittelte bis Oktober 1992 Daten. Die Pioneer Venus Multiprobe setzte am 9. Dezember 1978 vier kleine Sonden in der Venusatmosphäre aus. Alle vier Sonden übermittelten während ihres Abstiegs zur Oberfläche Daten. Eine Sonde überlebte die Landung und übertrug über eine Stunde lang Daten von der Oberfläche."
+roncw_spacenews.86.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.87.t:0 "Voyager 1 gestartet"
+roncw_spacenews.87.d:0 "Voyager 1 ist eine Raumsonde, die am 5. September 1977 von der NASA gestartet wurde. Als Teil des Voyager-Programms zur Erforschung des äußeren Sonnensystems startete Voyager 1 16 Tage nach ihrem Zwillingsobjekt Voyager 2. Am 30. September 2020 war die Raumsonde bereits 43 Jahre und 24 Tage in Betrieb und kommuniziert weiterhin mit dem Deep Space Network, um Routinebefehle zu empfangen und Daten zur Erde zu übertragen. Echtzeit-Entfernungs- und Geschwindigkeitsdaten werden von der NASA und dem Jet Propulsion Laboratory (JPL) bereitgestellt. Mit einer Entfernung von 150,6 AE (22,5 Milliarden km; 14,0 Milliarden Meilen) von der Erde (Stand: 17. September 2020) ist sie das am weitesten von der Erde entfernte menschengemachte Objekt."
+roncw_spacenews.87.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.88.t:0 "Erster Saturn-Vorbeiflug"
+roncw_spacenews.88.d:0 "Pioneer 11 (auch bekannt als Pioneer G) ist eine 260 Kilogramm schwere, robotische Raumsonde, die am 6. April 1973 von der NASA gestartet wurde, um den Asteroidengürtel, die Umgebung von Jupiter und Saturn, den Sonnenwind und die kosmische Strahlung zu erforschen. Sie war die erste Sonde, die Saturn traf, und die zweite, die den Asteroidengürtel und Jupiter durchflog. Danach erreichte Pioneer 11 als zweites von fünf künstlichen Objekten die Fluchtgeschwindigkeit, die es ihnen ermöglicht, das Sonnensystem zu verlassen. Aufgrund von Energieeinschränkungen und der großen Entfernung zur Sonde fand der letzte Routinekontakt mit der Raumsonde am 30. September 1995 statt, und die letzten verlässlichen technischen Daten wurden am 24. November 1995 empfangen."
+roncw_spacenews.88.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.89.t:0 "Voyager 1: Nahbegegnung mit Titan"
+roncw_spacenews.89.d:0 "Voyager 1 ist eine Raumsonde, die am 5. September 1977 von der NASA gestartet wurde. Als Teil des Voyager-Programms zur Erforschung des äußeren Sonnensystems startete Voyager 1 16 Tage nach ihrem Zwillingsobjekt Voyager 2. Am 30. September 2020 war die Raumsonde bereits 43 Jahre und 24 Tage in Betrieb und kommuniziert weiterhin mit dem Deep Space Network, um Routinebefehle zu empfangen und Daten zur Erde zu übertragen. Echtzeit-Entfernungs- und Geschwindigkeitsdaten werden von der NASA und dem Jet Propulsion Laboratory (JPL) bereitgestellt. Mit einer Entfernung von 150,6 AE (22,5 Milliarden km; 14,0 Milliarden Meilen) von der Erde (Stand: 17. September 2020) ist sie das am weitesten von der Erde entfernte menschengemachte Objekt."
+roncw_spacenews.89.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.90.t:0 "Erstes wiederverwendbares bemanntes Orbitalraumfahrzeug"
+roncw_spacenews.90.d:0 "STS-1 (Space Transportation System-1) war der erste orbitale Raumflug des Space-Shuttle-Programms der NASA. Der erste Orbiter, Columbia, startete am 12. April 1981 und kehrte am 14. April, 54,5 Stunden später, zurück, nachdem er die Erde 36 Mal umrundet hatte. Die Columbia hatte eine zweiköpfige Besatzung an Bord – Missionskommandant John W. Young und Pilot Robert L. Crippen. Es war der erste amerikanische bemannte Raumflug seit dem Apollo-Sojus-Test-Projekt im Jahr 1975. STS-1 war zudem der einzige Jungferntestflug eines neuen amerikanischen Raumfahrzeugs mit Besatzung, dem allerdings Atmosphärentests des Orbiters und Bodentests des Space-Shuttle-Systems vorausgegangen waren. Der Start erfolgte am 20. Jahrestag des ersten bemannten Raumflugs. Dies war eher ein Zufall als eine Jubiläumsfeier; ein technisches Problem hatte den Start von STS-1 zwei Tage früher, wie geplant, verhindert."
+roncw_spacenews.90.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.91.t:0 "Erste Venus-Bodenproben"
+roncw_spacenews.91.d:0 "Venera 13 und 14 waren identische Raumfahrzeuge, die gebaut wurden, um die Gelegenheit zum Venus-Start im Jahr 1981 zu nutzen. Ihre Starts erfolgten im Abstand von fünf Tagen: Venera 13 am 30. Oktober 1981 um 06:04 UTC und Venera 14 am 4. November 1981 um 05:31 UTC. Beide hatten eine Trockenmasse von 760 kg (1.680 lb) im Orbit."
+roncw_spacenews.91.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.92.t:0 "Saljut 7 gestartet"
+roncw_spacenews.92.d:0 "Saljut 7 war eine Raumstation in niedriger Erdumlaufbahn von April 1982 bis Februar 1991. Die erste Besatzung wurde im Mai 1982 mit zwei Besatzungsmitgliedern an Bord einer Sojus T-5 an Bord genommen, die letzte im Juni 1986 von einer Sojus T-15. Im Laufe ihrer Lebensdauer kamen verschiedene Besatzungen und Module zum Einsatz, darunter insgesamt 12 bemannte und 15 unbemannte Starts. Zu den unterstützenden Raumfahrzeugen gehörten die Raumfahrzeuge Sojus T, Progress und TKS. Die Station war Teil des sowjetischen Saljut-Programms und startete am 19. April 1982 mit einer Proton-Rakete von Station 200/40 des Kosmodroms Baikonur in der Sowjetunion. Saljut 7 war Teil des Übergangs von monolithischen zu modularen Raumstationen und diente als Testumgebung für das Andocken zusätzlicher Module und den erweiterten Stationsbetrieb. Es war die zehnte Raumstation überhaupt, die gestartet wurde. Saljut 7 war die letzte Raumstation des Saljut-Programms und wurde durch die Mir ersetzt."
+roncw_spacenews.92.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.93.t:0 "Erstes Infrarot-Observatorium"
+roncw_spacenews.93.d:0 "Der Infrared Astronomical Satellite (IRAS) war das erste Weltraumteleskop, das den gesamten Nachthimmel im Infrarotbereich durchmusterte. Nach Missionsende wurde der 1,1 Tonnen schwere Satellit nicht aus der Umlaufbahn genommen und stellt eine Gefahr für den Weltraum dar. Gestartet am 25. Januar 1983, dauerte seine Mission zehn Monate. Das Teleskop war ein Gemeinschaftsprojekt der USA (NASA), der Niederlande (NIVR) und Großbritanniens (SERC). Über 250.000 Infrarotquellen wurden bei Wellenlängen von 12, 25, 60 und 100 Mikrometern beobachtet. Unterstützung bei der Verarbeitung und Analyse der IRAS-Daten leistete das Infrared Processing and Analysis Center des California Institute of Technology. Derzeit beherbergt das Infrared Science Archive des IPAC das IRAS-Archiv."
+roncw_spacenews.93.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.94.t:0 "Erstes Raumschiff jenseits der Neptunbahn"
+roncw_spacenews.94.d:0 "Pioneer 10 ist eine amerikanische Raumsonde, die 1972 gestartet wurde und mit einem Gewicht von 258 Kilogramm die erste Mission zum Planeten Jupiter absolvierte. Danach erreichte Pioneer 10 als erstes von fünf künstlichen Objekten die nötige Fluchtgeschwindigkeit, um das Sonnensystem zu verlassen. Dieses Weltraumforschungsprojekt wurde vom NASA Ames Research Center in Kalifornien durchgeführt, und die Raumsonde wurde von TRW Inc. hergestellt."
+roncw_spacenews.94.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.95.t:0 "Erster Weltraumspaziergang ohne Kabel"
+roncw_spacenews.95.d:0 "STS-41-B war die zehnte Space-Shuttle-Mission der NASA und der vierte Flug der Raumfähre Challenger. Der Start erfolgte am 3. Februar 1984 und die Landung erfolgte am 11. Februar nach der Aussetzung zweier Kommunikationssatelliten. Bemerkenswert war auch der erste ungebundene Weltraumspaziergang."
+roncw_spacenews.95.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.96.t:0 "Erster Ballon auf einem anderen Planeten eingesetzt"
+roncw_spacenews.96.d:0 "Vega 1 (zusammen mit ihrem Zwilling Vega 2) ist eine sowjetische Raumsonde und Teil des Vega-Programms. Die Raumsonde war eine Weiterentwicklung der früheren Venera-Sonde. Sie wurde vom Babakin-Raumfahrtzentrum entworfen und als 5VK von Lawotschkin in Chimki gebaut. Der Name VeGa (ВеГа) setzt sich aus den ersten beiden Buchstaben der russischen Wörter für Venus („Venera“) und Halley („Galleya“) zusammen. Die Sonde wurde von zwei großen Solarzellenplatten angetrieben und zu den Instrumenten gehörten eine Antennenschüssel, Kameras, ein Spektrometer, ein Infrarot-Sondierer, Magnetometer (MISCHA) und Plasmasonden. Die 4.920 kg schwere Sonde wurde mit einer Proton-8K82K-Rakete vom Kosmodrom Baikonur in Tjuratam, Kasachische SSR, gestartet. Sowohl Vega 1 als auch Vega 2 waren dreiachsenstabilisierte Raumsonden. Die Raumsonden waren mit einem doppelten Stoßschutzschild zum Schutz vor Staub durch den Halleyschen Kometen ausgestattet."
+roncw_spacenews.96.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.97.t:0 "Erster Uranus-Vorbeiflug"
+roncw_spacenews.97.d:0 "Voyager 2 ist eine Raumsonde, die am 20. August 1977 von der NASA zur Erforschung der äußeren Planeten gestartet wurde. Als Teil des Voyager-Programms startete sie 16 Tage vor ihrem Zwillingsbruder Voyager 1 auf einer Flugbahn, die zwar länger dauerte, um Jupiter und Saturn zu erreichen, aber weitere Begegnungen mit Uranus und Neptun ermöglichte. Voyager 2 ist die einzige Raumsonde, die einen dieser beiden Eisriesen besucht hat. Voyager 2 ist die vierte von fünf Raumsonden, die die Fluchtgeschwindigkeit der Sonne erreicht haben und damit das Sonnensystem verlassen konnten."
+roncw_spacenews.97.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.98.t:0 "Space-Shuttle-Challenger-Katastrophe"
+roncw_spacenews.98.d:0 "STS-51-L war die verheerende 25. Mission des US-amerikanischen Space-Shuttle-Programms, dem Programm zur Durchführung routinemäßiger Transporte von Besatzung und Fracht von der Erde in die Umlaufbahn; und auch der letzte Flug des Space Shuttle Challenger. Die Mission war als erstes Lehrer-im-Weltraum-Projekt geplant und sollte außerdem sechs Tage lang den Halleyschen Kometen beobachten. Sie erreichte jedoch nie die Umlaufbahn. Ein Strukturfehler während der Aufstiegsphase 73 Sekunden nach dem Start vom Startkomplex 39B des Kennedy Space Center am 28. Januar 1986 tötete alle sieben Besatzungsmitglieder – Kommandant Dick Scobee, Pilot Michael J. Smith, die Missionsspezialisten Ellison S. Onizuka, Judith A. Resnik und Ronald E. McNair sowie die Nutzlastspezialisten Gregory Jarvis und Christa McAuliffe – und zerstörte den Orbiter. Unmittelbar nach der Katastrophe berief die NASA die Rogers-Kommission ein, um die Ursache der Explosion zu ermitteln. Als Ursache für den Zusammenbruch des Shuttles während des Fluges wurde ein Defekt einer O-Ring-Dichtung an der Feststoffrakete (SRB) an Steuerbord ermittelt. Die Space-Shuttle-Flüge wurden für 32 Monate ausgesetzt, während die Gefahren des Shuttles behoben wurden. Das Space-Shuttle-Programm wurde mit dem Start von STS-26, 32 Monate nach dem Unfall, wieder aufgenommen."
+roncw_spacenews.98.a:1 "Tragisch"
+
+roncw_spacenews.99.t:0 "Raumstation MIR im Orbit"
+roncw_spacenews.99.d:0 "Mir war eine Raumstation, die von 1986 bis 2001 in einer niedrigen Erdumlaufbahn operierte und von der Sowjetunion und später von Russland betrieben wurde. Mir war die erste modulare Raumstation und wurde von 1986 bis 1996 im Orbit zusammengebaut. Sie hatte eine größere Masse als jedes zuvor genutzte Raumfahrzeug. Zu dieser Zeit war sie der größte künstliche Satellit im Orbit. Nach dem Zerfall der Mir-Umlaufbahn wurde sie von der Internationalen Raumstation (ISS) abgelöst. Die Station diente als Forschungslabor für Mikrogravitation, in dem die Besatzungen Experimente in den Bereichen Biologie, Humanbiologie, Physik, Astronomie, Meteorologie und Raumfahrzeugsysteme durchführten, um Technologien zu entwickeln, die für eine dauerhafte Nutzung des Weltraums erforderlich sind."
+roncw_spacenews.99.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.100.t:0 "Vega 1 &amp; 2 Vorbeiflug am Haleyschen Kometen"
+roncw_spacenews.100.d:0 "Vega 2 (zusammen mit Vega 1) war eine sowjetische Raumsonde im Rahmen des Vega-Programms zur Erforschung des Halleyschen Kometen und der Venus. Die Raumsonde war eine Weiterentwicklung der früheren Venera-Sonde. Der Name VeGa (ВеГа) setzt sich aus den ersten beiden Buchstaben der russischen Wörter für Venus („Venera“) und Halley („Galleya“) zusammen. Sie wurden vom Babakin Space Centre entworfen und als 5VK von Lawotschkin in Chimki gebaut. Die Sonde wurde von zwei großen Solarpaneelen angetrieben. Zur Instrumentierung gehörten eine Antennenschüssel, Kameras, ein Spektrometer, ein Infrarot-Sondierer, Magnetometer (MISCHA) und Plasmasonden. Die 4.920 kg schwere Sonde wurde an Bord einer Proton 8K82K-Rakete vom Kosmodrom Baikonur in Tjuratam, Kasachische SSR, gestartet. Sowohl Vega 1 als auch Vega 2 waren dreiachsenstabilisierte Raumsonden. Die Raumsonden waren mit einem doppelten Stoßschutzschild zum Schutz vor Staub durch den Halleyschen Kometen ausgestattet."
+roncw_spacenews.100.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.101.t:0 "Erste Nahaufnahmen eines Kometen"
+roncw_spacenews.101.d:0 "Giotto war eine europäische robotische Raumsondenmission der Europäischen Weltraumorganisation. Die Raumsonde flog am Halleyschen Kometen vorbei und untersuchte ihn. Damit war sie die erste Raumsonde, die einen Kometen aus der Nähe beobachtete. Am 13. März 1986 gelang es der Raumsonde, sich dem Halleyschen Kern bis auf eine Entfernung von 596 Kilometern zu nähern. Benannt wurde sie nach dem italienischen Frührenaissance-Maler Giotto di Bondone. Er hatte den Halleyschen Kometen 1301 beobachtet und sich davon inspirieren lassen, ihn in seinem Gemälde „Anbetung der Heiligen Drei Könige“ als Stern von Bethlehem darzustellen."
+roncw_spacenews.101.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.102.t:0 "Erster Neptun-Vorbeiflug"
+roncw_spacenews.102.d:0 "Voyager 2 ist eine Raumsonde, die am 20. August 1977 von der NASA zur Erforschung der äußeren Planeten gestartet wurde. Als Teil des Voyager-Programms startete sie 16 Tage vor ihrem Zwillingsbruder Voyager 1 auf einer Flugbahn, die zwar länger dauerte, um Jupiter und Saturn zu erreichen, aber weitere Begegnungen mit Uranus und Neptun ermöglichte. Voyager 2 ist die einzige Raumsonde, die einen dieser beiden Eisriesen besucht hat. Voyager 2 ist die vierte von fünf Raumsonden, die die Fluchtgeschwindigkeit der Sonne erreicht haben und damit das Sonnensystem verlassen konnten."
+roncw_spacenews.102.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.103.t:0 "Hipparcos gestartet"
+roncw_spacenews.103.d:0 "Hipparcos war ein wissenschaftlicher Satellit der Europäischen Weltraumorganisation (ESA), der 1989 gestartet wurde und bis 1993 in Betrieb war. Es handelte sich um das erste Weltraumexperiment zur Präzisionsastrometrie, der genauen Vermessung der Positionen von Himmelskörpern am Himmel. Dies ermöglichte erstmals hochpräzise Messungen der intrinsischen Helligkeit (im Vergleich zur weniger präzisen scheinbaren Helligkeit), der Eigenbewegung und der Parallaxe von Sternen und ermöglichte so eine genauere Berechnung ihrer Entfernung und Tangentialgeschwindigkeit. In Kombination mit spektroskopischen Radialgeschwindigkeitsmessungen gelang es Astrophysikern schließlich, alle sechs Größen zu messen, die zur Bestimmung der Sternbewegung erforderlich sind. Der daraus resultierende Hipparcos-Katalog, ein hochpräziser Katalog mit mehr als 118.200 Sternen, wurde 1997 veröffentlicht. Der weniger präzise Tycho-Katalog mit mehr als einer Million Sternen wurde zur gleichen Zeit veröffentlicht, während der erweiterte Tycho-2-Katalog mit 2,5 Millionen Sternen im Jahr 2000 veröffentlicht wurde. Die Nachfolgemission von Hipparcos, Gaia, wurde 2013 gestartet."
+roncw_spacenews.103.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.104.t:0 "COBE gestartet"
+roncw_spacenews.104.d:0 "Der Cosmic Background Explorer (COBE /ˈkoʊbi/), auch Explorer 66 genannt, war ein Satellit für die Kosmologie, der von 1989 bis 1993 in Betrieb war. Seine Ziele waren die Untersuchung der kosmischen Mikrowellenhintergrundstrahlung (CMB) des Universums und die Bereitstellung von Messungen, die unser Verständnis des Kosmos verbessern würden."
+roncw_spacenews.104.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.105.t:0 "Magellan gestartet"
+roncw_spacenews.105.d:0 "Die Raumsonde Magellan, auch Venus Radar Mapper genannt, war eine 1.035 Kilogramm schwere, robotergestützte Raumsonde, die am 4. Mai 1989 von der US-amerikanischen NASA gestartet wurde, um die Oberfläche der Venus mithilfe eines Synthetic Aperture Radars zu kartieren und das Schwerefeld des Planeten zu messen. Die Magellan-Sonde war die erste interplanetare Mission, die vom Space Shuttle aus gestartet wurde, die erste, die die Trägheits-Oberstufenrakete zum Start nutzte, und die erste Raumsonde, die Aerobraking als Methode zur Zirkularisierung ihrer Umlaufbahn testete. Magellan war die fünfte erfolgreiche NASA-Mission zur Venus und beendete eine elfjährige Lücke in den Starts interplanetarer Sonden der USA."
+roncw_spacenews.105.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.106.t:0 "Erstes Bild des Sonnensystems"
+roncw_spacenews.106.d:0 "Das Familienporträt, manchmal auch Porträt der Planeten, ist ein Bild des Sonnensystems, das Voyager 1 am 14. Februar 1990 aus einer Entfernung von etwa 6 Milliarden Kilometern von der Erde aufnahm. Es zeigt Einzelbilder von sechs Planeten und einen teilweisen Hintergrund, der ihre relativen Positionen anzeigt. Das Bild ist ein Mosaik aus 60 Einzelbildern."
+roncw_spacenews.106.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.107.t:0 "HST eingeführt"
+roncw_spacenews.107.d:0 "Das Hubble-Weltraumteleskop (oft HST oder Hubble genannt) ist ein Weltraumteleskop, das 1990 in eine niedrige Erdumlaufbahn gebracht wurde und noch heute in Betrieb ist. Es war zwar nicht das erste Weltraumteleskop, aber eines der größten und vielseitigsten. Es ist sowohl als wichtiges Forschungsinstrument als auch als PR-Teleskop für die Astronomie bekannt. Das Hubble-Teleskop ist nach dem Astronomen Edwin Hubble benannt und zählt neben dem Compton Gamma Ray Observatory, dem Chandra X-ray Observatory und dem Spitzer-Weltraumteleskop zu den Großen Observatorien der NASA."
+roncw_spacenews.107.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.108.t:0 "Erster Asteroidenvorbeiflug"
+roncw_spacenews.108.d:0 "Galileo war eine unbemannte US-Raumsonde zur Erforschung des Planeten Jupiter und seiner Monde sowie mehrerer anderer Himmelskörper im Sonnensystem. Benannt nach dem italienischen Astronomen Galileo Galilei, bestand sie aus einem Orbiter und einer Eingangssonde. Sie wurde am 18. Oktober 1989 mit der Raumfähre Atlantis in die Erdumlaufbahn gebracht. Nach gravitativen Vorbeiflügen an Venus und Erde erreichte Galileo am 7. Dezember 1995 Jupiter und war die erste Raumsonde in einer Jupiterumlaufbahn. Sie startete die erste Sonde zum Jupiter und vermaß dessen Atmosphäre direkt. Trotz erheblicher Antennenprobleme gelang Galileo der erste Vorbeiflug an einem Asteroiden (951 Gaspra) und sie entdeckte den ersten Asteroidenmond, Dactyl, bei etwa 243 Ida. 1994 beobachtete Galileo die Kollision des Kometen Shoemaker-Levy 9 mit Jupiter."
+roncw_spacenews.108.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.109.t:0 "Erste polare Umlaufbahn um die Sonne"
+roncw_spacenews.109.d:0 "Ulysses ist eine außer Dienst gestellte robotische Raumsonde, deren Hauptaufgabe darin bestand, die Sonne zu umkreisen und sie in allen Breitengraden zu erforschen. Sie startete 1990 und führte 1994/1995, 2000/2001 und 2007/2008 drei schnelle Breitengradscans der Sonne durch. Darüber hinaus untersuchte die Sonde mehrere Kometen. Ulysses war ein Gemeinschaftsprojekt der NASA und der Europäischen Weltraumorganisation (ESA) unter Beteiligung des kanadischen National Research Council. Der letzte Tag des Missionsbetriebs von Ulysses war der 30. Juni 2009."
+roncw_spacenews.109.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.110.t:0 "Erste Mission in die Atmosphäre eines Gasriesen"
+roncw_spacenews.110.d:0 "Galileo war eine unbemannte US-Raumsonde zur Erforschung des Planeten Jupiter und seiner Monde sowie mehrerer anderer Himmelskörper im Sonnensystem. Benannt nach dem italienischen Astronomen Galileo Galilei, bestand sie aus einem Orbiter und einer Eingangssonde. Sie wurde am 18. Oktober 1989 mit der Raumfähre Atlantis in die Erdumlaufbahn gebracht. Nach gravitativen Vorbeiflügen an Venus und Erde erreichte Galileo am 7. Dezember 1995 Jupiter und war die erste Raumsonde in einer Jupiterumlaufbahn. Sie startete die erste Sonde zum Jupiter und vermaß dessen Atmosphäre direkt. Trotz erheblicher Antennenprobleme gelang Galileo der erste Vorbeiflug an einem Asteroiden (951 Gaspra) und sie entdeckte den ersten Asteroidenmond, Dactyl, bei etwa 243 Ida. 1994 beobachtete Galileo die Kollision des Kometen Shoemaker-Levy 9 mit Jupiter."
+roncw_spacenews.110.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.111.t:0 "Erstes orbitales Radioobservatorium"
+roncw_spacenews.111.d:0 "HALCA (Highly Advanced Laboratory for Communications and Astronomy), auch bekannt unter dem Projektnamen VSOP (VLBI Space Observatory Programme), dem Codenamen MUSES-B (für das zweite Raumfahrzeug der Mu Space Engineering-Serie) oder einfach Haruka, war ein japanischer Radioteleskopsatellit mit einem Durchmesser von 8 Metern, der für die Very Long Baseline Interferometry (VLBI) eingesetzt wurde. Es war die erste derartige weltraumgestützte dedizierte VLBI-Mission."
+roncw_spacenews.111.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.112.t:0 "Mars Pathfinder gestartet"
+roncw_spacenews.112.d:0 "Mars Pathfinder (MESUR Pathfinder) ist eine US-amerikanische robotische Raumsonde, die 1997 mit einer mobilen Sonde eine Basisstation auf dem Mars landete. Sie bestand aus einer Landesonde, die in Carl Sagan Memorial Station umbenannt wurde, und einem leichten (10,6 kg) fahrbaren Marsrover namens Sojourner, der als erster Rover außerhalb des Erde-Mond-Systems operierte. Er wurde am 4. Dezember 1996 von der NASA an Bord einer Delta-II-Rakete gestartet, einen Monat nach dem Start des Mars Global Surveyor, und landete am 4. Juli 1997 im Ares Vallis des Mars, in einer Region namens Chryse Planitia im Marsviereck Oxia Palus. Anschließend öffnete sich die Landesonde und gab den Blick auf den Rover frei, der zahlreiche Experimente auf der Marsoberfläche durchführte. Die Mission führte eine Reihe wissenschaftlicher Instrumente mit sich, um Atmosphäre, Klima und Geologie des Mars sowie die Zusammensetzung von Gestein und Boden zu analysieren. Es war das zweite Projekt des Discovery-Programms der NASA, das den Einsatz kostengünstiger Raumfahrzeuge und häufige Starts unter dem Motto „billiger, schneller und besser“ förderte, das der damalige Leiter Daniel Goldin propagierte. Geleitet wurde die Mission vom Jet Propulsion Laboratory (JPL), einer Abteilung des California Institute of Technology, die für das Mars-Erkundungsprogramm der NASA zuständig ist. Projektleiter war Tony Spear vom JPL."
+roncw_spacenews.112.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.113.t:0 "Internationale Weltraumstation gebaut"
+roncw_spacenews.113.d:0 "Die Internationale Raumstation (ISS) ist eine modulare Raumstation (ein bewohnbarer künstlicher Satellit) in einer niedrigen Erdumlaufbahn. Sie ist ein multinationales Gemeinschaftsprojekt der fünf beteiligten Raumfahrtagenturen NASA (USA), Roskosmos (Russland), JAXA (Japan), ESA (Europa) und CSA (Kanada). Eigentum und Nutzung der Raumstation werden durch zwischenstaatliche Verträge und Abkommen geregelt. Die Station dient als Forschungslabor für Mikrogravitation und Weltraumumgebung, in dem wissenschaftliche Forschung in den Bereichen Astrobiologie, Astronomie, Meteorologie, Physik und anderen Bereichen betrieben wird. Die ISS eignet sich für die Erprobung der Raumfahrzeugsysteme und -ausrüstung, die für mögliche zukünftige Langzeitmissionen zum Mond und zum Mars erforderlich sind."
+roncw_spacenews.113.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.114.t:0 "NEAR Shoemaker umkreist einen Asteroiden"
+roncw_spacenews.114.d:0 "Das Near Earth Asteroid Rendezvous – Shoemaker (NEAR Shoemaker), das nach seinem Start 1996 zu Ehren des Planetenforschers Eugene Shoemaker umbenannt wurde, war eine robotische Raumsonde, die vom Applied Physics Laboratory der Johns Hopkins University für die NASA entwickelt wurde, um den erdnahen Asteroiden Eros ein Jahr lang aus einer nahen Umlaufbahn zu untersuchen. Die Mission näherte sich dem Asteroiden und umkreiste ihn mehrmals. Schließlich landete sie am 12. Februar 2001 auf dem Asteroiden."
+roncw_spacenews.114.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.115.t:0 "NEAR Shoemaker landet auf einem Asteroiden"
+roncw_spacenews.115.d:0 "Das Near Earth Asteroid Rendezvous – Shoemaker (NEAR Shoemaker), das nach seinem Start 1996 zu Ehren des Planetenforschers Eugene Shoemaker umbenannt wurde, war eine robotische Raumsonde, die vom Applied Physics Laboratory der Johns Hopkins University für die NASA entwickelt wurde, um den erdnahen Asteroiden Eros ein Jahr lang aus einer nahen Umlaufbahn zu untersuchen. Die Mission näherte sich dem Asteroiden und umkreiste ihn mehrmals. Schließlich landete sie am 12. Februar 2001 auf dem Asteroiden."
+roncw_spacenews.115.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.116.t:0 "Genesis gestartet"
+roncw_spacenews.116.d:0 "Genesis war eine Probenrückführungssonde der NASA, die eine Probe von Sonnenwindpartikeln sammelte und zur Analyse zur Erde zurückbrachte. Es war die erste Probenrückführungsmission der NASA seit dem Apollo-Programm und die erste, die Material von außerhalb der Mondumlaufbahn zurückbrachte. Genesis startete am 8. August 2001, und die Probenrückführungskapsel stürzte am 8. September 2004 in Utah ab, nachdem ein Konstruktionsfehler die Auslösung des Bremsfallschirms verhinderte. Durch den Absturz wurden viele der Probensammler kontaminiert. Obwohl die meisten beschädigt wurden, konnten einige erfolgreich geborgen werden."
+roncw_spacenews.116.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.117.t:0 "Erste Umlaufbahn des Saturn"
+roncw_spacenews.117.d:0 "Die Weltraumforschungsmission Cassini-Huygens, allgemein Cassini genannt, war eine Zusammenarbeit zwischen der NASA, der Europäischen Weltraumorganisation (ESA) und der Italienischen Raumfahrtagentur (ASI), um eine Sonde zur Erforschung des Planeten Saturn und seines Systems, einschließlich seiner Ringe und natürlichen Satelliten, zu entsenden. Das robotische Raumfahrzeug der Flaggschiff-Klasse bestand sowohl aus der Cassini-Sonde der NASA als auch aus der Huygens-Landefähre der ESA, die auf Saturns größtem Mond Titan landete. Cassini war die vierte Raumsonde, die den Saturn besuchte, und die erste, die in seine Umlaufbahn eintrat. Die beiden Raumfahrzeuge wurden nach den Astronomen Giovanni Cassini und Christiaan Huygens benannt."
+roncw_spacenews.117.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.118.t:0 "Erste sanfte Landung auf Titan"
+roncw_spacenews.118.d:0 "Die Weltraumforschungsmission Cassini-Huygens, allgemein Cassini genannt, war eine Zusammenarbeit zwischen der NASA, der Europäischen Weltraumorganisation (ESA) und der Italienischen Raumfahrtagentur (ASI), um eine Sonde zur Erforschung des Planeten Saturn und seines Systems, einschließlich seiner Ringe und natürlichen Satelliten, zu entsenden. Das robotische Raumfahrzeug der Flaggschiff-Klasse bestand sowohl aus der Cassini-Sonde der NASA als auch aus der Huygens-Landefähre der ESA, die auf Saturns größtem Mond Titan landete. Cassini war die vierte Raumsonde, die den Saturn besuchte, und die erste, die in seine Umlaufbahn eintrat. Die beiden Raumfahrzeuge wurden nach den Astronomen Giovanni Cassini und Christiaan Huygens benannt."
+roncw_spacenews.118.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.119.t:0 "Hayabusa vorgestellt"
+roncw_spacenews.119.d:0 "Hayabusa war eine robotische Raumsonde der Japan Aerospace Exploration Agency (JAXA), die eine Materialprobe des kleinen erdnahen Asteroiden 25143 Itokawa zur weiteren Analyse zur Erde zurückbringen sollte. Hayabusa, früher bekannt als MUSES-C für Mu Space Engineering Spacecraft C, wurde am 9. Mai 2003 gestartet und traf Mitte September 2005 auf Itokawa. Nach der Ankunft in Itokawa untersuchte Hayabusa dessen Form, Rotation, Topographie, Farbe, Zusammensetzung, Dichte und Geschichte. Im November 2005 landete sie auf dem Asteroiden und sammelte Proben in Form winziger Körner asteroidenähnlichen Materials, die am 13. Juni 2010 an Bord der Raumsonde zur Erde zurückgebracht wurden."
+roncw_spacenews.119.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.120.t:0 "Erste Probenrückgabe vom Kometen"
+roncw_spacenews.120.d:0 "Stardust war eine 390 Kilogramm schwere, robotergestützte Raumsonde, die am 7. Februar 1999 von der NASA gestartet wurde. Ihre Hauptmission bestand darin, Staubproben aus der Koma des Kometen Wild 2 sowie Proben kosmischen Staubs zu sammeln und diese zur Analyse zur Erde zurückzubringen. Es war die erste Probenrückführungsmission dieser Art. Auf dem Weg zum Kometen Wild 2 flog die Sonde auch am Asteroiden 5535 Annefrank vorbei und untersuchte ihn. Die Hauptmission wurde am 15. Januar 2006 erfolgreich abgeschlossen, als die Probenrückführungskapsel zur Erde zurückkehrte."
+roncw_spacenews.120.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.121.t:0 "Keppler-Mission gestartet"
+roncw_spacenews.121.d:0 "Das Kepler-Weltraumteleskop ist ein ausgemustertes Weltraumteleskop der NASA, das erdgroße Planeten um andere Sterne entdecken sollte. Benannt nach dem Astronomen Johannes Kepler, startete die Raumsonde am 7. März 2009 in eine heliozentrische Umlaufbahn um die Erde. Der leitende Forscher war William J. Borucki. Nach neun Betriebsjahren war der Treibstoff des Reaktionskontrollsystems des Teleskops aufgebraucht, und die NASA gab am 30. Oktober 2018 die Außerdienststellung bekannt."
+roncw_spacenews.121.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.122.t:0 "Erste Probenrückgabe von Asteroid"
+roncw_spacenews.122.d:0 "Hayabusa war eine robotische Raumsonde der Japan Aerospace Exploration Agency (JAXA), die eine Materialprobe des kleinen erdnahen Asteroiden 25143 Itokawa zur weiteren Analyse zur Erde zurückbringen sollte. Hayabusa, früher bekannt als MUSES-C für Mu Space Engineering Spacecraft C, wurde am 9. Mai 2003 gestartet und traf Mitte September 2005 auf Itokawa. Nach der Ankunft in Itokawa untersuchte Hayabusa dessen Form, Rotation, Topographie, Farbe, Zusammensetzung, Dichte und Geschichte. Im November 2005 landete sie auf dem Asteroiden und sammelte Proben in Form winziger Körner asteroidenähnlichen Materials, die am 13. Juni 2010 an Bord der Raumsonde zur Erde zurückgebracht wurden."
+roncw_spacenews.122.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.123.t:0 "Erste Umlaufbahn des Merkur"
+roncw_spacenews.123.d:0 "MESSENGER war eine robotergestützte Raumsonde der NASA, die zwischen 2011 und 2015 den Planeten Merkur umkreiste und dessen chemische Zusammensetzung, Geologie und Magnetfeld untersuchte. Der Name ist ein Backronym für „MErcury Surface, Space ENvironment, GEochemistry and Ranging“ (MErcury-Oberfläche, Weltraumumgebung, GEochemie und Ranging) und eine Anspielung auf den Götterboten Merkur aus der römischen Mythologie. MESSENGER wurde im August 2004 an Bord einer Delta-II-Rakete gestartet. Ihre Flugbahn umfasste eine komplexe Abfolge von Vorbeiflügen – die Raumsonde flog einmal an der Erde, zweimal an der Venus und dreimal am Merkur selbst vorbei, wodurch sie mit minimalem Treibstoffverbrauch relativ zu Merkur abbremsen konnte. Bei ihrem ersten Vorbeiflug am Merkur im Januar 2008 war MESSENGER nach Mariner 10 im Jahr 1975 die zweite Mission, die Merkur erreichte."
+roncw_spacenews.123.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.124.t:0 "Erste Umlaufbahn des Riesenasteroiden Vesta"
+roncw_spacenews.124.d:0 "Dawn, die neunte Mission im Discovery-Programm der NASA, ist eine außer Dienst gestellte Raumsonde, die im September 2007 von der NASA mit dem Ziel gestartet wurde, zwei der drei bekannten Protoplaneten des Asteroidengürtels, Vesta und Ceres, zu erforschen. Sie wurde am 1. November 2018 außer Dienst gestellt und befindet sich derzeit in einer unkontrollierten Umlaufbahn um ihr zweites Ziel, den Zwergplaneten Ceres. Dawn ist die erste Raumsonde, die zwei außerirdische Körper umkreist, die erste Raumsonde, die entweder Vesta oder Ceres besucht, und die erste, die einen Zwergplaneten umkreist. Sie erreichte Ceres im März 2015, wenige Monate bevor New Horizons im Juli 2015 an Pluto vorbeiflog."
+roncw_spacenews.124.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.125.t:0 "Voyager 1 gestartet"
+roncw_spacenews.125.d:0 "Voyager 1 ist eine Raumsonde, die am 5. September 1977 von der NASA gestartet wurde. Als Teil des Voyager-Programms zur Erforschung des äußeren Sonnensystems startete Voyager 1 16 Tage nach ihrem Zwillingsobjekt Voyager 2. Am 30. September 2020 war die Raumsonde bereits 43 Jahre und 24 Tage in Betrieb und kommuniziert weiterhin mit dem Deep Space Network, um Routinebefehle zu empfangen und Daten zur Erde zu übertragen. Echtzeitdaten zu Entfernung und Geschwindigkeit werden von der NASA und dem Jet Propulsion Laboratory (JPL) bereitgestellt. Mit einer Entfernung von 150,6 AE (22,5 Milliarden km; 14,0 Milliarden Meilen) von der Erde (Stand: 17. September 2020) ist sie das am weitesten von der Erde entfernte menschengemachte Objekt."
+roncw_spacenews.125.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.126.t:0 "Erste sanfte Landung auf einem Kometen"
+roncw_spacenews.126.d:0 "Rosetta war eine Raumsonde der Europäischen Weltraumorganisation (ESA), die am 2. März 2004 startete. Zusammen mit ihrem Landemodul Philae führte Rosetta eine detaillierte Untersuchung des Kometen 67P/Churyumov-Gerasimenko (67P) durch. Auf ihrer Reise zum Kometen flog die Raumsonde an der Erde, dem Mars sowie den Asteroiden 21 Lutetia und 2867 Šteins vorbei. Sie war nach SOHO/Cluster und XMM-Newton die dritte Eckpfeilermission des ESA-Programms Horizont 2000."
+roncw_spacenews.126.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.127.t:0 "Erstes im Weltraum angebautes Nahrungsmittel gegessen"
+roncw_spacenews.127.d:0 "Das erste im Weltraum angebaute und geerntete Nahrungsmittel – eine Ernte roten Salats – wird bald von Astronauten an Bord der Internationalen Raumstation verzehrt. Der Salat wurde 15 Monate lang mit einem System namens Veg-01 angebaut, das rote, blaue und grüne LED-Lampen verwendet, um Pflanzen auf kleinem Raum zu züchten. Laut NASA werden die Astronauten den Salat mit Desinfektionstüchern auf Zitronensäurebasis reinigen – was ehrlich gesagt nach einem schrecklichen Dressing klingt –, bevor sie am Montag, dem 10. August, die Hälfte ihrer Ernte essen. Die andere Hälfte wird eingefroren und zur Analyse zur Erde zurückgebracht. Es ist unklar, wie der Salat zubereitet wird – ob er Teil einer Art Weltraumsalat sein wird oder nur als Garnitur für normales dehydriertes Weltraumessen dient."
+roncw_spacenews.127.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.128.t:0 "Erste Umlaufbahn eines Zwergplaneten"
+roncw_spacenews.128.d:0 "Dawn, die neunte Mission im Discovery-Programm der NASA, ist eine außer Dienst gestellte Raumsonde, die im September 2007 von der NASA mit dem Ziel gestartet wurde, zwei der drei bekannten Protoplaneten des Asteroidengürtels, Vesta und Ceres, zu erforschen. Sie wurde am 1. November 2018 außer Dienst gestellt und befindet sich derzeit in einer unkontrollierten Umlaufbahn um ihr zweites Ziel, den Zwergplaneten Ceres. Dawn ist die erste Raumsonde, die zwei außerirdische Körper umkreist, die erste Raumsonde, die entweder Vesta oder Ceres besucht, und die erste, die einen Zwergplaneten umkreist. Sie erreichte Ceres im März 2015, wenige Monate bevor New Horizons im Juli 2015 an Pluto vorbeiflog."
+roncw_spacenews.128.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.129.t:0 "Landetests der ersten Stufe der Falcon 9"
+roncw_spacenews.129.d:0 "Die Landetests der ersten Stufe der Falcon 9 waren eine Reihe von kontrollierten Sinkflugtests, die SpaceX zwischen 2013 und 2016 durchführte. Seit 2017 wird die erste Stufe der Falcon 9-Missionen routinemäßig gelandet, sofern die Raketenleistung dies zuließ und SpaceX sich entschied, die Stufe zu bergen. Ziel des Programms war es, den kontrollierten Wiedereintritt, Sinkflug und die Landung (EDL) der ersten Stufe der Falcon 9 in die Erdatmosphäre zuverlässig durchzuführen, nachdem die Stufe die Boost-Phase eines orbitalen Raumflugs abgeschlossen hat. Die ersten Tests zielten auf eine senkrechte Landung im Ozean bei Nullgeschwindigkeit ab. Spätere Tests versuchten, die Rakete präzise auf einem autonomen Raumhafen-Drohnenschiff (einem von SpaceX in Auftrag gegebenen Lastkahn, der eine stabile Landefläche auf See bieten soll) oder in der Landezone 1 (LZ-1), einer Betonplattform in Cape Canaveral, zu landen. Die erste Bodenlandung bei LZ-1 gelang im Dezember 2015, die erste Landung auf See mit einem Drohnenschiff im April 2016. Die zweite gelandete Trägerrakete, B1021, flog im März 2017 als erste wieder und wurde ein zweites Mal geborgen."
+roncw_spacenews.129.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.130.t:0 "Neue Horizonte gestartet"
+roncw_spacenews.130.d:0 "New Horizons ist eine interplanetare Raumsonde, die im Rahmen des New-Frontiers-Programms der NASA gestartet wurde. Die vom Applied Physics Laboratory (APL) der Johns Hopkins University und dem Southwest Research Institute (SwRI) unter der Leitung von S. Alan Stern entwickelte Raumsonde startete 2006 mit der Hauptmission, 2015 einen Vorbeiflug am Pluto-System durchzuführen. Im darauffolgenden Jahrzehnt sollte eine Nebenmission durchgeführt werden, um ein oder mehrere weitere Objekte des Kuipergürtels (KBOs) zu untersuchen, die zu 486958 Arrokoth führte. Es ist die fünfte Raumsonde, die die nötige Fluchtgeschwindigkeit erreicht hat, um das Sonnensystem zu verlassen."
+roncw_spacenews.130.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.131.t:0 "Erste sanfte Landung auf der Rückseite des Mondes"
+roncw_spacenews.131.d:0 "Chang&#39;e 4 ist eine robotische Raumsondenmission und Teil der zweiten Phase des chinesischen Monderkundungsprogramms. Am 3. Januar 2019 gelang ihr die erste weiche Landung der Menschheit auf der Rückseite des Mondes. Im Mai 2018 wurde der Kommunikationssatellit Queqiao erstmals in eine Halo-Umlaufbahn nahe dem Erde-Mond-Punkt L2 gebracht. Die robotische Landefähre und der Rover Yutu-2 starteten am 7. Dezember 2018 und erreichten am 12. Dezember 2018 eine Mondumlaufbahn, bevor sie auf der Rückseite des Mondes landeten. Die Mission ist die Fortsetzung von Chang&#39;e 3, der ersten chinesischen Mondlandung. Die Raumsonde wurde ursprünglich als Ersatz für Chang&#39;e 3 gebaut und stand nach der erfolgreichen Landung von Chang&#39;e 3 im Jahr 2013 zur Verfügung. Die Konfiguration von Chang&#39;e 4 wurde angepasst, um neue wissenschaftliche und Leistungsziele zu erreichen. Wie ihre Vorgänger ist die Mission nach Chang&#39;e, der chinesischen Mondgöttin, benannt."
+roncw_spacenews.131.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.132.t:0 "SpaceX Demo-2"
+roncw_spacenews.132.d:0 "Crew Dragon Demo-2 war der erste bemannte Testflug der Raumsonde Crew Dragon. Die Raumsonde mit dem Namen Endeavour startete am 30. Mai 2020 um 19:22:45 UTC (15:22:45 EST) an Bord der Falcon 9 Booster B1058.1 und brachte die NASA-Astronauten Douglas Hurley und Robert Behnken zur Internationalen Raumstation. Es war der erste bemannte orbitale Raumflug der USA seit der letzten Space-Shuttle-Mission STS-135 im Jahr 2011 und der erste, der jemals von einem kommerziellen Anbieter durchgeführt wurde. Demo-2 war zudem der erste orbitale Raumflug mit zwei Personen seit STS-4 im Jahr 1982, der von den USA aus gestartet wurde."
+roncw_spacenews.132.a:1 "Ein großer Erfolg!"
+
+roncw_spacenews.133.t:0 "Erster einsatzfähiger Rover auf Asteroid"
+roncw_spacenews.133.d:0 "Hayabusa2 ist eine Mission zur Rückführung von Asteroidenproben der japanischen Raumfahrtagentur JAXA. Sie ist der Nachfolger der Hayabusa-Mission, die 2010 Asteroidenproben zurückbrachte. Hayabusa2 wurde am 3. Dezember 2014 gestartet und traf am 27. Juni 2018 auf den erdnahen Asteroiden 162173 Ryugu. Sie beobachtete den Asteroiden anderthalb Jahre lang und nahm Proben. Sie verließ den Asteroiden im November 2019 und wird voraussichtlich am 6. Dezember 2020 zur Erde zurückkehren. Hayabusa2 trägt mehrere wissenschaftliche Nutzlasten zur Fernerkundung und Probenentnahme sowie vier kleine Rover, die die Asteroidenoberfläche untersuchten, um den ökologischen und geologischen Kontext der gesammelten Proben zu erforschen."
+roncw_spacenews.133.a:1 "Ein großer Erfolg!"

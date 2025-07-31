@@ -1,0 +1,46 @@
+﻿l_german:
+pac.1.t:0 "Großostasiatische Wohlstandssphäre"
+pac.1.d:0 "Premierminister Fumimaro Konoe verkündete das Konzept einer Neuen Ordnung in Ostasien. Ursprünglich war es ein idealistischer Wunsch, Asien von den europäischen Kolonialmächten zu „befreien“, doch bald sahen einige Nationalisten darin eine Möglichkeit, Ressourcen zu gewinnen, um Japan als moderne Macht zu erhalten, und Militaristen betrachteten dieselben Ressourcen als Rohstoffe für den Krieg. Konoe schlug eine Sphäre vor, um ein Großostasien zu schaffen. Dieses sollte Japan, Mandschukuo, China, Südostasien und Ozeanien umfassen. \n\nDarüber hinaus sollte eine neue internationale Ordnung geschaffen werden, die einen „gemeinsamen Wohlstand“ der asiatischen Länder anstrebt, die Wohlstand und Frieden teilen und frei von westlicher Kolonialisierung und Dominanz sein sollten. Zu den militärischen Zielen dieser Expansion gehörten Marineoperationen im Indischen Ozean und die Isolierung Australiens."
+pac.1.a:0 "Unser großes Ideal!"
+pac.1.b:0 "NEIN."
+
+pac.2.t:0 "Hawaii-Operation"
+pac.2.d:0 "Die Einsatzgruppe aus sechs Flugzeugträgern – Akagi, Kaga, Soryu, Hiryu, Shokaku und Zuikaku – ist bereit, die Missionen auszuführen. Sie verließ Nordjapan mit Kurs auf eine Position nordwestlich von Hawaii und plante, ihre 408 Flugzeuge zum Angriff auf Pearl Harbor einzusetzen: 360 für die beiden Angriffswellen und 48 für die defensive Luftaufklärung, darunter neun Kampfflugzeuge der ersten Welle. \n\nWir werden die US-Pazifikflotte vernichten!"
+pac.2.a:0 "Buun o inorimasu!"
+
+pac.3.t:0 "Die Schandrede"
+pac.3.d:0 "Präsident Franklin D. Roosevelt hielt nach dem Angriff auf Pearl Harbor eine Rede vor dem Kongress. Der Präsident unterzeichnete die Kriegserklärung gegen Japan. Nun stehen alle Amerikaner vereint gegen den Feind!"
+pac.3.a:0 "Wir sind vereint!"
+
+pac.4.t:0 "Den Vereinigten Staaten den Krieg erklärt"
+pac.4.d:0 "Wir werden unseren Verpflichtungen aus dem Dreimächtepakt nachkommen und den Vereinigten Staaten den Krieg erklären! Der Pakt war ein früheres Abkommen zwischen Deutschland, Italien und Japan, dessen Hauptziel darin bestand, die Intervention der USA in Konflikten zwischen den drei Nationen zu begrenzen."
+pac.4.a:0 "Unsere Verbündeten in Asien versetzen den Vereinigten Staaten einen schweren Schlag."
+
+pac.5.t:0 "C Betriebsbeginn"
+pac.5.d:0 "Operation C hat begonnen. Ziel ist die Eroberung Hongkongs. Die 23. Armee wird die Operation leiten."
+pac.5.a:0 "Angriff!"
+
+pac.6.t:0 "Südliche Operationen"
+pac.6.d:0 "Jetzt haben wir begonnen, Südostasien anzugreifen. Zu den Zielen gehören Hongkong, Malaya, die Philippinen, Malaya, Niederländisch-Ostindien, Borneo, Guam und der Bismarck-Archipel."
+pac.6.a:0 "Wir werden den Krieg gewinnen."
+
+pacnews.1.t:0 "Japan Strike USA"
+pacnews.1.d:0 "Eilmeldung: Japan hat heute Morgen Pearl Harbor angegriffen. \n\nDer US-Marinestützpunkt Pearl Harbor wurde überraschend von der Kaiserlich Japanischen Marine bombardiert. Der Angriff begann um 7:48 Uhr hawaiianischer Zeit. Der Stützpunkt wurde in zwei Angriffswellen von sechs Flugzeugträgern aus von kaiserlich japanischen Kampfflugzeugen, Bombern und Torpedoflugzeugen angegriffen. Alle acht Schlachtschiffe der US-Marine wurden beschädigt, vier sanken. Zahlreiche Soldaten und Zivilisten wurden getötet und verwundet. \n\nDer nicht angekündigte Angriff war für die amerikanische Bevölkerung ein schwerer Schock."
+pacnews.1.a:0 "Der Angriff ist ziemlich erfolgreich."
+pacnews.1.b:0 "Dies ist notwendig."
+pacnews.1.c:0 "Ein verabscheuungswürdiger Angriff!"
+pacnews.1.e:0 "Interessant."
+
+pacnews.2.t:0 "Roosevelts Rede"
+pacnews.2.d:0 "Nach dem japanischen Angriff auf den US-Marinestützpunkt Pearl Harbor hielt der Präsident der Vereinigten Staaten, Franklin D. Roosevelt, eine Schandrede und unterzeichnete die Kriegserklärung an Japan. \n\n„Gestern, am 7. Dezember 1941, einem Datum, das in Schande leben wird, wurden die Vereinigten Staaten von Amerika plötzlich und gezielt von See- und Luftstreitkräften des japanischen Kaiserreichs angegriffen“, sagte Roosevelt. Einige Beobachter sind der Meinung, er wollte damit den historischen Charakter der Ereignisse in Pearl Harbor betonen und forderte das amerikanische Volk implizit auf, den Angriff niemals zu vergessen und sein Datum in Erinnerung zu behalten. \n\nDie Rede war kurz. Doch es gelang ihr, alle Amerikaner zu einen."
+pacnews.2.a:0 "Es ist Zeit, diesen Kriegstreibern das Handwerk zu legen!"
+pacnews.2.b:0 "Das sieht düster aus."
+pacnews.2.c:0 "Gemeinsam werden wir siegreich sein."
+pacnews.2.e:0 "Wir werden nicht nachgeben."
+
+pacnews.3.t:0 "Deutschland erklärt den Vereinigten Staaten den Krieg"
+pacnews.3.d:0 "Deutschland und Italien erklärten den USA den Krieg. \n\nSie kamen ihren Verpflichtungen aus dem Dreimächtepakt nach und erklärten den USA den Krieg. Der Pakt war ein früheres Abkommen zwischen Deutschland, Italien und Japan, dessen Hauptziel es war, die Intervention der USA in Konflikten zwischen den drei Nationen zu begrenzen. Der US-Kongress erließ noch am selben Tag eine Kriegserklärung an Deutschland und Italien."
+pacnews.3.a:0 "Wir stehen zusammen!"
+pacnews.3.b:0 "Wir werden sie vernichten."
+pacnews.3.c:0 "Wir werden das Richtige tun!"
+pacnews.3.e:0 "Wir haben die richtige Seite gewählt."

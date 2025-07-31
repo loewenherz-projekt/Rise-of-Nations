@@ -1,0 +1,236 @@
+﻿l_german:
+ house_category:0 "Beispielhafte Debug-Entscheidungen des Parlaments"
+ open_house_gui:0 "Öffnen Sie das Repräsentantenhaus"
+ house_category:0 "Beispielhafte Debug-Entscheidungen des Parlaments"
+ HOUSE_seat_tt:0 "[HOUSE_seat_party]"
+ HOUSE_party_1:0 "Linkspopulisten"
+ HOUSE_party_2:0 "Republikanische Partei"
+ HOUSE_party_3:0 "Demokratische Partei"
+ HOUSE_party_4:0 "Libertäre Partei"
+ HOUSE_party_silver_gop:0 "Die Silberne Republikanische Partei"
+ HOUSE_party_left_populist:0 "Volkspartei"
+ HOUSE_party_right_populist:0 "Trump-Partei"
+ HOUSE_party_new_deal_democrats:0 "New-Deal-Demokraten"
+ HOUSE_party_obama_democrats:0 "Obama-Demokraten"
+ HOUSE_party_reagan_republicans:0 "Reagan-Republikaner"
+ HOUSE_party_fdr_democrats:0 "FDR-Demokraten"
+ HOUSE_party_great_society_democrats:0 "Demokraten der Great Society"
+ HOUSE_party_abolitionists:0 "Abolitionisten"
+ HOUSE_party_know_nothings:0 "Nichtswisser"
+ HOUSE_party_dem_repubs:0 "Demokratische Republikaner"
+ HOUSE_party_dixiecrats:0 "Dixiecrats"
+ HOUSE_party_progressives:0 "Progressive"
+ HOUSE_party_radical_repubs:0 "Radikale Republikaner"
+ HOUSE_party_gilded_age_repubs:0 "Republikaner des vergoldeten Zeitalters"
+ HOUSE_party_bourbon_dems:0 "Bourbon-Demokraten"
+ HOUSE_party_wilson_dems:0 "Wilson-Demokraten"
+ HOUSE_party_new_left:0 "Neue Linke"
+ HOUSE_party_right_populist_1900:0 "1900 Rechtspopulisten"
+ SUPPORTING_REPUBLICAN:0 "§RRepublikaner§!"
+SUPPORTING_DEMOCRAT:0 "§BDemokraten§!"
+SUPPORTING_SOCIALIST:0 "§OSozialisten§!"
+republican_campaign_key:0 "Den Republikanern wird ein Sieg bei den Wahlmännerstimmen prognostiziert [?republican_vote]"
+democratic_campaign_key:0 "Den Demokraten wird ein Sieg bei den Wahlmännerstimmen prognostiziert."
+socialist_campaign_key:0 "Es wird erwartet, dass Drittparteien [?socialist_vote] Wahlstimmen gewinnen"
+HOUSE_MAJORITY:0 "§GWir brauchen eine Mehrheit der Sitze im Repräsentantenhaus, um diesen Antrag anzunehmen.§!"
+SENATE_MAJORITY:0 "§BWir brauchen eine Mehrheit der Sitze im Senat, um diesem Antrag zuzustimmen.§!"
+production_boost:0 "§H Produktionssteigerung§!"
+USA_already_campaigning_in_state:0 "§H Bereits im Wahlkampf§!"
+#################################################
+USA_arizona_campaign_no_state:0 "Nicht-Staaten/Besetzte Gebiete Nehmen Sie nicht an Wahlen teil"
+ 
+USA_new_mexico_campaign_tt:0 "§Y[376.GetName] Wahlmännerstimmen§!\nWahlmännerstimmen: §Y[?376vote_value]\n\nUnterstützung der Republikaner: §R[?a376republican_support]§!\nUnterstützung der Demokraten: §B[?a376democratic_support]§!\nUnterstützung Dritter: §O[?a376socialist_support]§!"
+USA_ohio_campaign_tt:0 "§Y[261.GetName] Wahlmännerstimmen§!\nWahlmännerstimmen: §Y[?261vote_value]\n\nUnterstützung der Republikaner: §R[?a261republican_support]§!\nUnterstützung der Demokraten: §B[?a261democratic_support]§!\nUnterstützung Dritter: §O[?a261socialist_support]§!"
+USA_arizona_campaign_tt:0 "§Y[377.GetName] Wahlmännerstimmen§!\nWahlmännerstimmen: §Y[?377vote_value]\n\nUnterstützung der Republikaner: §R[?a377republican_support]§!\nUnterstützung der Demokraten: §B[?a377democratic_support]§!\nUnterstützung Dritter: §O[?a377socialist_support]§!"
+USA_massachusetts_campaign_tt:0 "§Y[357.GetName] Wahlmännerstimmen§!\nWahlmännerstimmen: §Y[?357vote_value]\n\nUnterstützung der Republikaner: §R[?a357republican_support]§!\nUnterstützung der Demokraten: §B[?a357democratic_support]§!\nUnterstützung Dritter: §O[?a357socialist_support]§!"
+USA_oklahoma_campaign_tt:0 "§Y[374.GetName] Wahlmännerstimmen§!\nWahlmännerstimmen: §Y[?374vote_value]\n\nUnterstützung der Republikaner: §R[?a374republican_support]§!\nUnterstützung der Demokraten: §B[?a374democratic_support]§!\nUnterstützung Dritter: §O[?a374socialist_support]§!"
+
+USA_new_mexico_campaign_tt:0 "§Y[376.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a376vote_value]\n\nUnterstützung der Republikaner: §R[?a376republican_support]§!\nUnterstützung der Demokraten: §B[?a376democratic_support]§!\nUnterstützung Dritter: §O[?a376socialist_support]§!"
+USA_ohio_campaign_tt:0 "§Y[261.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a261vote_value]\n\nUnterstützung der Republikaner: §R[?a261republican_support]§!\nUnterstützung der Demokraten: §B[?a261democratic_support]§!\nUnterstützung Dritter: §O[?a261socialist_support]§!"
+USA_arizona_campaign_tt:0 "§Y[377.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a377vote_value]\n\nUnterstützung der Republikaner: §R[?a377republican_support]§!\nUnterstützung der Demokraten: §B[?a377democratic_support]§!\nUnterstützung Dritter: §O[?a377socialist_support]§!"
+USA_massachusetts_campaign_tt:0 "§Y[357.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a357vote_value]\n\nUnterstützung der Republikaner: §R[?a357republican_support]§!\nUnterstützung der Demokraten: §B[?a357democratic_support]§!\nUnterstützung Dritter: §O[?a357socialist_support]§!"
+USA_oklahoma_campaign_tt:0 "§Y[374.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a374vote_value]\n\nUnterstützung der Republikaner: §R[?a374republican_support]§!\nUnterstützung der Demokraten: §B[?a374democratic_support]§!\nUnterstützung Dritter: §O[?a374socialist_support]§!"
+
+USA_new_york_campaign_tt:0 "§Y[358.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a358vote_value]\n\nUnterstützung der Republikaner: §R[?a358republican_support]§!\nUnterstützung der Demokraten: §B[?a358democratic_support]§!\nUnterstützung Dritter: §O[?a358socialist_support]§!"
+
+USA_new_jersey_campaign_tt:0 "§Y[359.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a359vote_value]\n\nUnterstützung der Republikaner: §R[?a359republican_support]§!\nUnterstützung der Demokraten: §B[?a359democratic_support]§!\nUnterstützung Dritter: §O[?a359socialist_support]§!"
+
+USA_pennsylvania_campaign_tt:0 "§Y[360.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a360vote_value]\n\nUnterstützung der Republikaner: §R[?a360republican_support]§!\nUnterstützung der Demokraten: §B[?a360democratic_support]§!\nUnterstützung Dritter: §O[?a360socialist_support]§!"
+
+USA_maryland_campaign_tt:0 "§Y[844.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a844vote_value]\n\nUnterstützung der Republikaner: §R[?a844republican_support]§!\nUnterstützung der Demokraten: §B[?a844democratic_support]§!\nUnterstützung Dritter: §O[?a844socialist_support]§!"
+
+USA_virginia_campaign_tt:0 "§Y[362.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a362vote_value]\n\nUnterstützung der Republikaner: §R[?a362republican_support]§!\nUnterstützung der Demokraten: §B[?a362democratic_support]§!\nUnterstützung Dritter: §O[?a362socialist_support]§!"
+
+USA_north_carolina_campaign_tt:0 "§Y[363.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a363vote_value]\n\nUnterstützung der Republikaner: §R[?a363republican_support]§!\nUnterstützung der Demokraten: §B[?a363democratic_support]§!\nUnterstützung Dritter: §O[?a363socialist_support]§!"
+
+USA_south_carolina_campaign_tt:0 "§Y[364.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a364vote_value]\n\nUnterstützung der Republikaner: §R[?a364republican_support]§!\nUnterstützung der Demokraten: §B[?a364democratic_support]§!\nUnterstützung Dritter: §O[?a364socialist_support]§!"
+
+USA_georgia_campaign_tt:0 "§Y[365.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a365vote_value]\n\nUnterstützung der Republikaner: §R[?a365republican_support]§!\nUnterstützung der Demokraten: §B[?a365democratic_support]§!\nUnterstützung Dritter: §O[?a365socialist_support]§!"
+
+USA_florida_campaign_tt:0 "§Y[366.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a366vote_value]\n\nUnterstützung der Republikaner: §R[?a366republican_support]§!\nUnterstützung der Demokraten: §B[?a366democratic_support]§!\nUnterstützung Dritter: §O[?a366socialist_support]§!"
+
+USA_alabama_campaign_tt:0 "§Y[367.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a367vote_value]\n\nUnterstützung der Republikaner: §R[?a367republican_support]§!\nUnterstützung der Demokraten: §B[?a367democratic_support]§!\nUnterstützung Dritter: §O[?a367socialist_support]§!"
+
+USA_tennessee_campaign_tt:0 "§Y[368.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a368vote_value]\n\nUnterstützung der Republikaner: §R[?a368republican_support]§!\nUnterstützung der Demokraten: §B[?a368democratic_support]§!\nUnterstützung Dritter: §O[?a368socialist_support]§!"
+
+USA_kentucky_campaign_tt:0 "§Y[369.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a369vote_value]\n\nUnterstützung der Republikaner: §R[?a369republican_support]§!\nUnterstützung der Demokraten: §B[?a369democratic_support]§!\nUnterstützung Dritter: §O[?a369socialist_support]§!"
+
+USA_mississippi_campaign_tt:0 "§Y[370.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a370vote_value]\n\nUnterstützung der Republikaner: §R[?a370republican_support]§!\nUnterstützung der Demokraten: §B[?a370democratic_support]§!\nUnterstützung Dritter: §O[?a370socialist_support]§!"
+
+USA_louisiana_campaign_tt:0 "§Y[371.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a371vote_value]\n\nUnterstützung der Republikaner: §R[?a371republican_support]§!\nUnterstützung der Demokraten: §B[?a371democratic_support]§!\nUnterstützung Dritter: §O[?a371socialist_support]§!"
+
+USA_arkansas_campaign_tt:0 "§Y[372.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a372vote_value]\n\nUnterstützung der Republikaner: §R[?a372republican_support]§!\nUnterstützung der Demokraten: §B[?a372democratic_support]§!\nUnterstützung Dritter: §O[?a372socialist_support]§!"
+
+USA_missouri_campaign_tt:0 "§Y[373.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a373vote_value]\n\nUnterstützung der Republikaner: §R[?a373republican_support]§!\nUnterstützung der Demokraten: §B[?a373democratic_support]§!\nUnterstützung Dritter: §O[?a373socialist_support]§!"
+
+USA_texas_campaign_tt:0 "§Y[375.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a375vote_value]\n\nUnterstützung der Republikaner: §R[?a375republican_support]§!\nUnterstützung der Demokraten: §B[?a375democratic_support]§!\nUnterstützung Dritter: §O[?a375socialist_support]§!"
+
+USA_california_campaign_tt:0 "§Y[378.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a378vote_value]\n\nUnterstützung der Republikaner: §R[?a378republican_support]§!\nUnterstützung der Demokraten: §B[?a378democratic_support]§!\nUnterstützung Dritter: §O[?a378socialist_support]§!"
+
+USA_nevada_campaign_tt:0 "§Y[379.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a379vote_value]\n\nUnterstützung der Republikaner: §R[?a379republican_support]§!\nUnterstützung der Demokraten: §B[?a379democratic_support]§!\nUnterstützung Dritter: §O[?a379socialist_support]§!"
+
+USA_utah_campaign_tt:0 "§Y[380.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a380vote_value]\n\nUnterstützung der Republikaner: §R[?a380republican_support]§!\nUnterstützung der Demokraten: §B[?a380democratic_support]§!\nUnterstützung Dritter: §O[?a380socialist_support]§!"
+
+USA_wyoming_campaign_tt:0 "§Y[381.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a381vote_value]\n\nUnterstützung der Republikaner: §R[?a381republican_support]§!\nUnterstützung der Demokraten: §B[?a381democratic_support]§!\nUnterstützung Dritter: §O[?a381socialist_support]§!"
+
+USA_colorado_campaign_tt:0 "§Y[382.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a382vote_value]\n\nUnterstützung der Republikaner: §R[?a382republican_support]§!\nUnterstützung der Demokraten: §B[?a382democratic_support]§!\nUnterstützung Dritter: §O[?a382socialist_support]§!"
+
+USA_kansas_campaign_tt:0 "§Y[383.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a383vote_value]\n\nUnterstützung der Republikaner: §R[?a383republican_support]§!\nUnterstützung der Demokraten: §B[?a383democratic_support]§!\nUnterstützung Dritter: §O[?a383socialist_support]§!"
+
+USA_nebraska_campaign_tt:0 "§Y[384.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a384vote_value]\n\nUnterstützung der Republikaner: §R[?a384republican_support]§!\nUnterstützung der Demokraten: §B[?a384democratic_support]§!\nUnterstützung Dritter: §O[?a384socialist_support]§!"
+
+USA_oregon_campaign_tt:0 "§Y[385.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a385vote_value]\n\nUnterstützung der Republikaner: §R[?a385republican_support]§!\nUnterstützung der Demokraten: §B[?a385democratic_support]§!\nUnterstützung Dritter: §O[?a385socialist_support]§!"
+
+USA_washington_campaign_tt:0 "§Y[386.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a386vote_value]\n\nUnterstützung der Republikaner: §R[?a386republican_support]§!\nUnterstützung der Demokraten: §B[?a386democratic_support]§!\nUnterstützung Dritter: §O[?a386socialist_support]§!"
+
+USA_idaho_campaign_tt:0 "§Y[387.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a387vote_value]\n\nUnterstützung der Republikaner: §R[?a387republican_support]§!\nUnterstützung der Demokraten: §B[?a387democratic_support]§!\nUnterstützung Dritter: §O[?a387socialist_support]§!"
+
+USA_montana_campaign_tt:0 "§Y[388.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a388vote_value]\n\nUnterstützung der Republikaner: §R[?a388republican_support]§!\nUnterstützung der Demokraten: §B[?a388democratic_support]§!\nUnterstützung Dritter: §O[?a388socialist_support]§!"
+
+USA_north_dakota_campaign_tt:0 "§Y[389.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a389vote_value]\n\nUnterstützung der Republikaner: §R[?a389republican_support]§!\nUnterstützung der Demokraten: §B[?a389democratic_support]§!\nUnterstützung Dritter: §O[?a389socialist_support]§!"
+
+USA_south_dakota_campaign_tt:0 "§Y[390.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a390vote_value]\n\nUnterstützung der Republikaner: §R[?a390republican_support]§!\nUnterstützung der Demokraten: §B[?a390democratic_support]§!\nUnterstützung Dritter: §O[?a390socialist_support]§!"
+
+USA_minnesota_campaign_tt:0 "§Y[391.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a391vote_value]\n\nUnterstützung der Republikaner: §R[?a391republican_support]§!\nUnterstützung der Demokraten: §B[?a391democratic_support]§!\nUnterstützung Dritter: §O[?a391socialist_support]§!"
+
+USA_iowa_campaign_tt:0 "§Y[392.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a392vote_value]\n\nUnterstützung der Republikaner: §R[?a392republican_support]§!\nUnterstützung der Demokraten: §B[?a392democratic_support]§!\nUnterstützung Dritter: §O[?a392socialist_support]§!"
+
+USA_michigan_campaign_tt:0 "§Y[393.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a393vote_value]\n\nUnterstützung der Republikaner: §R[?a393republican_support]§!\nUnterstützung der Demokraten: §B[?a393democratic_support]§!\nUnterstützung Dritter: §O[?a393socialist_support]§!"
+
+USA_wisconsin_campaign_tt:0 "§Y[394.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a394vote_value]\n\nUnterstützung der Republikaner: §R[?a394republican_support]§!\nUnterstützung der Demokraten: §B[?a394democratic_support]§!\nUnterstützung Dritter: §O[?a394socialist_support]§!"
+
+USA_illinois_campaign_tt:0 "§Y[395.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a395vote_value]\n\nUnterstützung der Republikaner: §R[?a395republican_support]§!\nUnterstützung der Demokraten: §B[?a395democratic_support]§!\nUnterstützung Dritter: §O[?a395socialist_support]§!"
+
+USA_indiana_campaign_tt:0 "§Y[396.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a396vote_value]\n\nUnterstützung der Republikaner: §R[?a396republican_support]§!\nUnterstützung der Demokraten: §B[?a396democratic_support]§!\nUnterstützung Dritter: §O[?a396socialist_support]§!"
+
+USA_maine_campaign_tt:0 "§Y[836.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a836vote_value]\n\nUnterstützung der Republikaner: §R[?a836republican_support]§!\nUnterstützung der Demokraten: §B[?a836democratic_support]§!\nUnterstützung Dritter: §O[?a836socialist_support]§!"
+
+USA_new_hampshire_campaign_tt:0 "§Y[837.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a837vote_value]\n\nUnterstützung der Republikaner: §R[?a837republican_support]§!\nUnterstützung der Demokraten: §B[?a837democratic_support]§!\nUnterstützung Dritter: §O[?a837socialist_support]§!"
+
+USA_vermont_campaign_tt:0 "§Y[838.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a838vote_value]\n\nUnterstützung der Republikaner: §R[?a838republican_support]§!\nUnterstützung der Demokraten: §B[?a838democratic_support]§!\nUnterstützung Dritter: §O[?a838socialist_support]§!"
+
+
+USA_connecticut_campaign_tt:0 "§Y[839.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a839vote_value]\n\nUnterstützung der Republikaner: §R[?a839republican_support]§!\nUnterstützung der Demokraten: §B[?a839democratic_support]§!\nUnterstützung Dritter: §O[?a839socialist_support]§!"
+
+USA_west_virginia_campaign_tt:0 "§Y[843.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a843vote_value]\n\nUnterstützung der Republikaner: §R[?a843republican_support]§!\nUnterstützung der Demokraten: §B[?a843democratic_support]§!\nUnterstützung Dritter: §O[?a843socialist_support]§!"
+
+USA_rhode_island_campaign_tt:0 "§Y[840.GetName] Wahlmännerstimmen§!\nZulässige Wahlmännerstimmen: §Y[?a840vote_value]\n\nUnterstützung der Republikaner: §R[?a840republican_support]§!\nUnterstützung der Demokraten: §B[?a840democratic_support]§!\nUnterstützung Dritter: §O[?a840socialist_support]§!"
+
+########### USA Decisions Localisation ###########
+dgk_usa_campaign_decisions_category:0 "[GetYear] Wahl"
+#dgk_usa_campaign_decisions_category_desc:0 "A description is needed for the 1900 US election."
+USA_campaign_runs:0 "Wahltag"
+USA_campaign_runs_new:0 "Wahltag"
+USA_open_campaign_rally:0 "Wahlkarte öffnen"
+USA_increase_republican_support:0 "Die Unterstützung der Republikaner wird zunehmen"
+USA_support_republicans:0 "Unterstützen Sie die Republikaner"
+USA_support_democrats:0 "Unterstützen Sie die Demokraten"
+USA_support_socialists:0 "Unterstützen Sie Drittanbieter"
+USA_increase_democratic_support:0 "Die demokratische Unterstützung wird zunehmen"
+USA_increase_socialist_support:0 "Der Drittanbieter-Support wird zunehmen"
+USA_republican_campaign_in_west_south_central_states:0 "Kampagnen starten"
+USA_republican_campaign_in_west_south_central_states1:0 "Zivile politische Kampagnen"
+USA_civilian_campaigns:0 "Zivile politische Kampagnen"
+INFO_POPUP_CLOSE_TOOLTIP:0 "Zum Schließen mit der rechten Maustaste klicken"
+USA_republican_campaign_in_new_england:0 "Republikanischer Wahlkampf in Neuengland"
+USA_republican_campaign_in_south_eastern_states:0 "Republikanischer Wahlkampf in den Südoststaaten"
+USA_republican_campaign_in_mid_atlantic_states:0 "Republikanischer Wahlkampf in den Mittelatlantikstaaten"
+USA_republican_campaign_in_north_east_central_states:0 "Republikanischer Wahlkampf in den nordöstlichen Zentralstaaten"
+USA_republican_campaign_in_north_west_central_states:0 "Wählen Sie unsere Kampagne"
+USA_republican_campaign_in_mountain_states:0 "Republikanischer Wahlkampf in den Mountain States"
+USA_republican_campaign_in_pacific_states:0 "Republikanischer Wahlkampf in den Pazifikstaaten"
+USA_republican_campaign_decisions.1.t:0 "Wahlkampfstaaten"
+USA_republican_campaign_decisions.3.t:0 "Wahlkampfstaaten"
+USA_republican_campaign_decisions.2.t:0 "Unsere Kampagne ist gescheitert"
+USA_republican_campaign_decisions.2.d:0 "nun ja"
+USA_republican_campaign_decisions.2.a:0 "Wir müssen uns verbessern"
+USA_democratic_campaign_decisions.2.a:0 "Wir müssen es besser machen"
+USA_democratic_campaign_decisions.1.d:0 "In welchem Bundesstaat sollten wir Wahlkampf betreiben?"
+USA_democratic_campaign_decisions.3.d:0 "In welchem Bundesstaat sollten wir Wahlkampf betreiben?"
+USA_republican_campaign_decisions.1.a:0 "Wir werden hier Wahlkampf machen!"
+USA_republican_campaign_decisions.1.b:0 "Wir werden hier Wahlkampf machen!"
+USA_republican_campaign_decisions.1.c:0 "Wir werden hier Wahlkampf machen!"
+USA_republican_campaign_decisions.1.d:0 "Nächste Seite"
+USA_republican_campaign_decisions.3.a:0 "Wir werden hier Wahlkampf machen!"
+USA_republican_campaign_decisions.3.b:0 "Wir werden hier Wahlkampf machen!"
+USA_republican_campaign_decisions.3.c:0 "Wir werden hier Wahlkampf machen!"
+USA_republican_campaign_decisions.3.d:0 "Wir werden hier Wahlkampf machen!"
+USA_democratic_campaign_in_texas:0 "Demokratischer Wahlkampf in Texas"
+USA_democratic_campaign_in_new_england:0 "Demokratischer Wahlkampf in Neuengland"
+USA_socialist_campaign_in_texas:0 "Sozialistische Kampagne in Texas"
+USA_socialist_campaign_in_new_england:0 "Sozialistische Kampagne in Neuengland"
+USA_puerto_rico_STATEHOOD:0 "§HPuerto Rico wird in die Union aufgenommen und nimmt an den Wahlen teil. Dieses Gebiet hat jedoch eine Menge Schulden angehäuft, die wir erben werden …§!"
+USA_OKLAHOMA_STATEHOOD:0 "§HOklahoma wird in die Union aufgenommen und nimmt an Wahlabstimmungen teil.§!"
+USA_ARIZONA_STATEHOOD:0 "§HArizona wird in die Union aufgenommen und nimmt an Wahlen teil.§!"
+USA_NEW_MEXICO_STATEHOOD:0 "§HNew Mexico wird in die Union aufgenommen und nimmt an Wahlen teil.§!"
+USA_ALASKA_STATEHOOD:0 "§HAlaska wird in die Union aufgenommen.§!"
+USA_HAWAII_STATEHOOD:0 "§HHawaii wird in die Union aufgenommen.§!"
+grant_statehood_puerto_rico:0 "Staatlichkeit für Puerto Rico"
+
+dgk_usa_statehood_policies_category:0 "Staatlichkeitspolitik"
+grant_statehood_oklahoma:0 "Staatlichkeit für Oklahoma"
+grant_statehood_new_mexico:0 "Staatlichkeit für New Mexico"
+grant_statehood_arizona:0 "Staatlichkeit für Arizona"
+grant_statehood_alaska:0 "Staatlichkeit für Alaska"
+grant_statehood_hawaii:0 "Staatlichkeit für Hawaii"
+gopprojectedwin:0 "§RDer GOP wird derzeit voraussichtlich [?republican_vote] Wahlmännerstimmen gewinnen.§! §YDerzeit ist die führende Partei die§! §RGOP§! §Ymit§! §C[?republican_vote]§! §Y Wahlmännerstimmen.§!"
+demprojectedwin:0 "§BDie Demokraten werden voraussichtlich derzeit [?democratic_vote] Wahlmännerstimmen gewinnen.§! §YDie führende Partei sind derzeit die§! §BDemokraten§! §Ymit§! §C[?democratic_vote]§! §YWahlmännerstimmen.§!"
+socprojectedwin:0 "§GDrittparteien werden voraussichtlich derzeit [?socialist_vote] Wahlmännerstimmen gewinnen.§! §YDerzeit sind die führenden Parteien die§! §GSozialisten§! §Ymit§! §C[?socialist_vote]§! §YWahlmännerstimmen.§!"
+USA_VP.1.t:0 "Theodore Roosevelt vs. John Long: Wer sollte Vizepräsident werden?"
+USA_VP.1.d:0 "Bei der bevorstehenden Wahl konkurriert Theodore Roosevelt gegen John Long um die Vizepräsidentschaft. Beide Kandidaten bringen unterschiedliche Qualitäten mit: Roosevelt ist für seine progressive Politik und seine Erfahrung als ehemaliger Präsident bekannt, während Long für seine legislativen Erfolge und sein Engagement für Wirtschaftsreformen bekannt ist. Bei ihrer Entscheidung wägen die Wähler Roosevelts Führungsstärke und seine breite öffentliche Anziehungskraft gegen Longs legislative Expertise und sein Engagement für Reformen ab. Wer ist Ihrer Meinung nach am besten für die Vizepräsidentschaft geeignet?"
+USA_VP.1.a:0 "Wählen Sie Theodore Roosevelt"
+USA_VP.1.b:0 "Wählen Sie John Long"
+focus_republican_majority_house_tt:0 "§RDieser Schwerpunkt erfordert eine republikanische Mehrheit im Repräsentantenhaus\n\n§WErforderliche Sitze: §Y[218]§!"
+focus_democratic_majority_house_senate_tt:0 "§BDieser Schwerpunkt erfordert eine demokratische Mehrheit im Repräsentantenhaus und im Senat\n\n§WErforderliche Sitze im Repräsentantenhaus: §Y[218]§!\n§WErforderliche Sitze im Senat: §Y[51]§!"
+focus_minority_coalition_tt:0 "§GDieser Schwerpunkt erfordert eine Koalition mit Minderheitsparteien im Repräsentantenhaus und im Senat.\n\n§WErforderliche Sitze im Repräsentantenhaus: §Y[200]§!\n§WErforderliche Sitze im Senat: §Y[45]§!"
+focus_supermajority_tt:0 "§RDieser Schwerpunkt erfordert eine qualifizierte Mehrheit im Repräsentantenhaus und im Senat\n\n§WErforderliche Sitze im Repräsentantenhaus: §Y[290]§!\n§WErforderliche Sitze im Senat: §Y[67]§!"
+focus_bipartisan_support_tt:0 "§ODieser Schwerpunkt erfordert überparteiliche Unterstützung im Repräsentantenhaus und im Senat\n\n§WErforderliche Sitze im Repräsentantenhaus: §Y[210]§!\n§WErforderliche Sitze im Senat: §Y[55]§!"
+focus_regional_support_tt:0 "§GDieser Schwerpunkt erfordert die Unterstützung der Mehrheit bestimmter Regionen\n\n§WErforderliche Sitze im Repräsentantenhaus im Nordosten: §Y[30]§!\n§WErforderliche Sitze im Repräsentantenhaus im Mittleren Westen: §Y[40]§!\n§WErforderliche Sitze im Repräsentantenhaus im Süden: §Y[60]§!\n§WErforderliche Sitze im Repräsentantenhaus im Westen: §Y[50]§!\n§WErforderliche Senatssitze aus Zielstaaten: §Y[20]§!"
+focus_balanced_support_tt:0 "§BDieser Schwerpunkt erfordert eine ausgewogene Unterstützung in den wichtigsten Swing States.\n\n§WErforderliche Sitze im Repräsentantenhaus aus Swing States: §Y[80]§!\n§WErforderliche Sitze im Senat aus Swing States: §Y[20]§!"
+focus_third_party_influence_tt:0 "§WDieser Schwerpunkt erfordert die Sicherung der Unterstützung von Drittparteien\n\n§WErforderliche Sitze von Drittparteien im Repräsentantenhaus: §Y[25]§!\n§WErforderliche Sitze von Drittparteien im Senat: §Y[10]§!"
+USA_gop_down:0 "§RVerringert die Unterstützung der Republikaner.§!"
+usa_gop_up:0 "§GErhöht die Unterstützung der Republikaner.§!"
+usa_dem_up:0 "§BErhöht die Unterstützung der Demokraten.§!"
+usa_dem_down:0 "§ODes verringert die Unterstützung der Demokraten.§!"
+usa_soc_up:0 "§OqErhöht die Unterstützung durch Drittanbieter.§!"
+usa_soc_down:0 "§LVerringert die Unterstützung durch Drittanbieter.§!"
+usa_senate_projection:0 "Mit Blick auf die bevorstehenden Senatswahlen zeigen aktuelle Prognosen das Kräfteverhältnis im Senat. Die Prognosen zeigen §B[?dsenators_support] Sitze für die Demokratische Partei§! und §R[?rsenators_support] Sitze für die Republikanische Partei§!. Anders als im Repräsentantenhaus gibt es diesmal keine prognostizierten Wechselsitze im Senatsrennen. Eine Mehrheit von 51 Sitzen ist entscheidend für die Kontrolle des Senats und die Einflussnahme auf zukünftige Gesetzgebungsvorhaben."
+USA_president_mckinley:0 "Präsident McKinley"
+USA_president_mckinley_desc:0 "William McKinley, der 25. Präsident der Vereinigten Staaten, führt die Nation mit einer Vision von Wohlstand und Fortschritt. Seine Regierung konzentriert sich auf Wirtschaftswachstum, territoriale Expansion und die Stärkung der globalen Präsenz Amerikas."
+usaalreadydone:0 "§YDer Präsident hat diesen Schwerpunkt bereits während seiner ersten Amtszeit gesetzt!§!"
+USA_court_republican_votes.tt:0 "Stimmen der Republikaner vor Gericht"
+USA_bribe_republican_representative.tt:0 "Bestechung eines republikanischen Abgeordneten"
+USA_private_meeting_republican.tt:0 "Privates Treffen mit republikanischem Abgeordneten"
+USA_promises_of_support_republican.tt:0 "Versprechen Sie dem republikanischen Abgeordneten künftige Unterstützung"
+USA_court_democratic_votes.tt:0 "Demokratische Stimmen vor Gericht"
+USA_bribe_democratic_representative.tt:0 "Bestechung eines demokratischen Abgeordneten"
+USA_private_meeting_democratic.tt:0 "Privates Treffen mit einem demokratischen Abgeordneten"
+USA_promises_of_support_democratic.tt:0 "Versprechen Sie dem demokratischen Abgeordneten künftige Unterstützung"
+aluminum_shortage:0 "§YAluminiummangel§!"
+rubber_shortage:0 "§YGummimangel§!"
+wartime_economy:0 "§YKriegszeitökonomie§!"
+oil_shortage:0 "§YÖlmangel§!"
+tungsten_shortage:0 "§YWolframmangel§!"
+war_economy_boost:0 "§YKriegswirtschaftsschub§!"
+chormium_shortage:0 "§YChrommangel§!"
+chromium_shortage:0 "Chrommangel"

@@ -1,0 +1,344 @@
+﻿l_german:
+ 
+ #Special generic desc
+ country_capitulated.0.d_defeat_hitler:0 "[FROM.FROM.GetLeader] hat endlich verkündet, dass die [ROOT.Adjective] Streitkräfte nach enormen Anstrengungen endlich einer bedingungslosen Kapitulation zugestimmt haben. Er verkündete daher, dass sein großer Sieg, der durch die Anstrengungen des gesamten [ROOT.ROOT]-Volkes und seiner Verbündeten möglich wurde, das Ende der Hitler-Tyrannei markiert. \n\nMit der endgültigen Niederlage des Nationalsozialismus bricht ein neuer Morgen über Europa an, doch vorerst bleibt [ROOT.GetAdjective] unter militärischer Besatzung, solange ein klares Friedensabkommen geschlossen wird."
+
+#News
+r56.news_event.1.t:0 "Mussolini von der Macht entfernt"
+r56.news_event.1.desc:0 "Nach der Niederlage Italiens in Äthiopien und dem jüngsten Friedensabkommen zwischen der italienischen und der äthiopischen Regierung kam es in fast allen größeren italienischen Städten zu massiven Protesten, die die Absetzung Mussolinis als italienischen Ministerpräsidenten und Neuwahlen forderten. Es kam zu massiven sozialen Unruhen und der Möglichkeit massiver Ausschreitungen. Viktor Emanuel III. setzte Mussolini als italienischen Ministerpräsidenten ab und setzte General Pietro Badoglio als Notstandsministerpräsident ein. Später stürmte ein Mob in Rom die dortige faschistische Parteizentrale und fand Mussolini tot auf. Er hatte sich eine Schusswunde zugefügt."
+r56.news_event.1.a:0 "Die italienische Inkompetenz schlägt erneut zu …"
+
+#1938 world cup
+r56.news_event.2.t:0 "Weltmeisterschaft 1938"
+r56.news_event.2.desc:0 "Die Fußballweltmeisterschaft fand kürzlich in Frankreich statt. Dies war die dritte Ausgabe des Turniers. Fünfzehn Mannschaften nahmen an einem K.-o.-Turnier teil. \n \n[SWI.GetName] besiegte [GER.GetName] in der ersten Runde. Die [SWI.GetName] schieden jedoch in der nächsten Runde gegen [HUN.GetName] aus. Das Team von [HUN.GetAdjective] schaffte es bis ins Finale, unterlag aber letztendlich gegen [ITA.GetName]. Für [ITA.GetName] ist es der zweite Turniersieg.\n \n Die Fußballweltmeisterschaft war für viele eine angenehme Ablenkung. Sie lenkte die Gedanken von den aufziehenden Gewitterwolken ab."
+r56.news_event.2.a:0 "Lass es uns in vier Jahren noch einmal machen."
+r56.news_event.2.b:0 "Ruhm allen [ITA.GetAdjective]s!"
+ 
+r56.news_event.3.t:0 "Albanien tritt der Komintern bei"
+r56.news_event.3.d:0 "Der Vorsitzende der Kommunistischen Partei Albaniens, Enver Hoxha, beantragte den Beitritt zur Komintern. Die Sowjetunion akzeptierte den Beitrittsantrag Albaniens, und das ehemalige Königreich Albanien ist nun Teil der Dritten Internationale. Da beide Länder dieselben Ideen und Ambitionen teilen, scheint ihre Freundschaft gefestigt, und Albanien sieht einer rosigen Zukunft in Europa entgegen." 
+r56.news_event.3.a:0 "Ein weiterer Sieg für das Proletariat."
+#was news 336
+r56.news_event.4.t:0 "Albanien tritt der Achse bei"
+r56.news_event.4.d:0 "Deutschland akzeptierte Albaniens Antrag auf Beitritt zur Achse. Sie stehen nun gemeinsam gegen den Kommunismus und die demokratischen Nationen. König Zog drückte seinen Willen aus, der ganzen Welt die Macht seines Landes zu demonstrieren. Großbritannien und Frankreich äußerten ihre Besorgnis über den Aufstieg des Faschismus in Europa und erinnerten deutsche Beamte an die Regeln des Versailler Vertrags, die Deutschland respektieren müsse. Es scheint, als würden die Demokratien des Westens nicht gegen Deutschland und Albanien reagieren."
+r56.news_event.4.a:0 "Und wieder eine Nation beugt sich vor Deutschland."
+
+#1942 world cup fictional event, probably would had been held in South America due to FIFA internal politics. 
+r56.news_event.6.t:0 "Weltmeisterschaft 1942"
+r56.news_event.6.desc:0 "Die Weltmeisterschaft fand kürzlich in [URG.GetNameDef] statt. Es war die vierte Ausgabe des Turniers. Sechzehn Teams nahmen an einem K.-o.-Turnier teil. \n \nDie zurückkehrenden [ITA.GetAdjective]-Meister unterlagen in der zweiten Runde den Gastgebern. Der Lauf der Gastgeber endete jedoch im Halbfinale mit einer Niederlage gegen [GER.GetNameDef]. Das Team von [GER.GetAdjective] konnte das Finale mit einem Sieg über [BRA.GetName] in einem spannenden Spiel für sich entscheiden. Für [GER.GetName] war es der erste Turniersieg.\n \n Die Weltmeisterschaft war für viele eine angenehme Ablenkung. Sie lenkte die Gedanken von der angespannten politischen Lage auf der ganzen Welt ab."
+r56.news_event.6.a:0 "Lass es uns in vier Jahren noch einmal machen."
+r56.news_event.6.b:0 "Ruhm allen [GER.GetAdjective]n!"
+
+#Brazil took imperialism
+r56.news_event.7.t:0 "[BRA.GetLeader] übernimmt die Macht in Brasilien"
+r56.news_event.7.d:0 "Nachrichten, die heute Morgen große Teile Lateinamerikas schockierten: [BRA.GetLeader] übernahm die Kontrolle über die brasilianische Regierung und das Militär. Der plötzliche Regierungswechsel überraschte viele internationale Beobachter und sogar einige brasilianische Bürger. Viele brasilianische Politiker erklärten jedoch, ein solcher Wechsel sei angesichts der internen Konflikte des letzten Jahrzehnts zu erwarten gewesen. Niemand weiß, wohin die neue Regierung gehen wird. Viele vermuten jedoch, dass sie eine sofortige Expansion anstrebt."
+r56.news_event.7.a:0 "Bezüglich der Entwicklung."
+r56.news_event.7.b:0 "Independência ou Morte!"
+
+#Paraguay coup 
+r56.news_event.8.t:0 "Militärputsch in Paraguay"
+r56.news_event.8.d:0 "Nach dem letztjährigen Chaco-Krieg, den Paraguay gewinnen konnte, blieb die paraguayische Regierung der schwachen Führung von Eusebio Ayala treu, doch [PAR.GetLeader] inszenierte nach seiner Zeit im Exil einen Staatsstreich. [PAR.GetLeader] errichtete rasch ein deutlich stärkeres Militärregime.\n\nNach der Vertreibung vieler Ayalas-Anhänger wird sich die paraguayische Regierung nun höchstwahrscheinlich neu organisieren müssen."
+r56.news_event.8.a:0 "Interessante Entwicklung."
+r56.news_event.8.b:0 "Es musste getan werden."
+
+#Paraguay civil war
+r56.news_event.9.t:0 "Bürgerkrieg in Paraguay"
+r56.news_event.9.d:0 "Nach dem letztjährigen Chaco-Krieg, den Paraguay gewinnen konnte, blieb die schwache Führung von Eusebio Ayala in der paraguayischen Regierung. Oberst Rafael Franco versuchte jedoch nach einem Exilaufenthalt außerhalb des Landes einen Staatsstreich. Ziel des Putsches war die Errichtung eines deutlich stärkeren Militärregimes. Der Putsch verlief jedoch nicht wie geplant, da Eusebio Ayala vor dem möglichen Putschversuch gewarnt wurde und andere politische Parteien zur Bewaffnung aufrief, um das Militär zu bekämpfen. \n\nEs scheint, dass dieser politische Konflikt nur mit Blut beigelegt werden kann."
+r56.news_event.9.a:0 "Hoffen wir auf ein schnelles Ende."
+r56.news_event.9.b:0 "Wir werden siegen!"
+
+#Generic tree warns neighbour of expansive policy
+r56.news_event.10.t:0 "[From.GetNameDefCap] verkündet expansionistische Politik"
+r56.news_event.10.d:0 "\nHeute in der Hauptstadt von [FROM.GetNameDef]. sagte [FROM.GetLeader] den Menschen seines Landes, dass sie über ihre Grenzen hinaus nach Ruhm und Glück blicken und die Grenzen erweitern müssten, die das Land derzeit blockiert. [FROM.GetLeader] erwähnte auch mehrfach die vermeintlichen Verfehlungen, die [ROOT.GetName] gegenüber [FROM.GetName] begangen hat. Ob dies nur harte Worte sind oder ob solche Ambitionen zu Konflikten führen, bleibt abzuwarten. Die Nachbarn von [FROM.GetName] sind jedoch besorgt über mögliche Konflikte in der Region. Viele hoffen auf eine diplomatische Lösung der Probleme von [FROM.GetName] mit seinen Nachbarn."
+r56.news_event.10.a:0 "Das ist, gelinde gesagt, beunruhigend."
+
+#Honduras going fascist 
+r56.news_event.11.t:0 "Übernahme der United Fruit Company in Honduras"
+r56.news_event.11.d:0 "Die United Fruit Company ist seit 1899 in Honduras aktiv. Damals übernahm sie sieben lokale Bananenproduzenten und begann, Bananen nach New Orleans zu exportieren. Seitdem mischt sich die United Fruit Company zunehmend in die honduranische Politik ein. Dieser jüngste Schritt des Unternehmens stellt jedoch eine Ausweitung seines Engagements im Land dar. Es scheint, als hätte die United Fruit Company das kleine lateinamerikanische Land vollständig übernommen. Was dies für den Rest Mittelamerikas bedeutet, weiß niemand."
+r56.news_event.11.a:0 "Das bedeutet Ärger"
+r56.news_event.11.b:0 "Zumindest werden Bananen billig sein"
+r56.news_event.11.c:0 "Es ist nur Geschäft"
+
+#Honduras goes AnCap
+r56.news_event.12.t:0 "„Freie Unternehmenszone“ in Mittelamerika eingerichtet"
+r56.news_event.12.d:0 "\nSeit der Übernahme Honduras durch die United Fruit Company läuft es für Samuel Zemurrays Unternehmen gut. Unter der Oberfläche scheint jedoch Unmut über die Rücksichtslosigkeit und die vollständige Kontrolle des Geschäftsmannes über staatliche Unternehmen zu herrschen. Seit heute Morgen hat eine Gruppe mächtiger Vorstandsmitglieder der United Fruit Company Zemurray durch einen Staatsstreich gestürzt. Sie haben rasch eine neue Regierung eingesetzt, die, wie sie es nennen, ideale Bedingungen für Unternehmen schaffen soll. Die Putschisten haben privaten Unternehmen die vollständige Kontrolle über das Tagesgeschäft des Landes überlassen. Der erste radikale Schritt, den sie zur Erreichung dieses Ziels unternommen haben, war die Privatisierung von Armee und Polizei unter konkurrierenden Restitutionstransfer- und Restitutionsbehörden." 
+r56.news_event.12.a:0 "Ein interessantes Experiment."
+r56.news_event.12.b:0 "Je freier der Markt, desto freier die Menschen!"
+r56.news_event.12.c:0 "Ein widerliches Wesen."
+
+#Gran Columbia
+r56.news_event.14.t:0 "[COL.GetNameDefCap] verkündet große kolumbianische Ambitionen"
+r56.news_event.14.d:0 "\nHeute in der Hauptstadt von [COL.GetNameDef]. sagte [COL.GetLeader] den Menschen seines Landes, dass sie über ihre Grenzen hinaus nach Ruhm und Glück blicken und die Grenzen erweitern müssten, die das Land derzeit blockiert. [FROM.Getleader] erwähnte auch wiederholt die Rückgewinnung des ehemaligen Landes Großkolumbien. Ob dies nur große Worte sind oder ob solche Ambitionen in Konflikte münden, bleibt abzuwarten. Die Nachbarn von [COL.GetName] sind jedoch besorgt über mögliche Konflikte. Es scheint, als stünde ihnen ein Krieg bevor."
+r56.news_event.14.a:0 "Über die Wendung der Ereignisse"
+r56.news_event.14.b:0 "Möglicherweise müssen wir eingreifen ..."
+r56.news_event.14.c:0 "Unsere Ambitionen lassen sich nicht aufhalten."
+
+#Chile civil war
+r56.news_event.13.t:0 "Der 3. chilenische Bürgerkrieg"
+r56.news_event.13.d:0 "Nach den jüngsten politischen Ereignissen in Chile ist die Nacistas-Bewegung zunehmend verärgert und kämpferisch gegenüber der aktuellen chilenischen Regierung. Diese Stimmung scheint sich bestätigt zu haben, als heute Morgen eine große Zahl militanter Faschisten unter der Führung von Jorge González von Marées versuchte, die chilenische Regierung durch einen Staatsstreich zu stürzen. Der chilenischen Regierung gelang es, das Militär im Norden zu sichern und bereitet eine Gegenmaßnahme vor. Allerdings scheint sie die Stärke der Nacistas-Bewegung stark unterschätzt zu haben, da sich viele ehemalige chilenische Offiziere und einige aktuelle Nachwuchsoffiziere ihrer Bewegung angeschlossen haben. Unglücklicherweise eskalierten die Kämpfe zwischen den beiden Kräften in den letzten 24 Stunden zu einem ausgewachsenen Bürgerkrieg."
+r56.news_event.13.a:0 "Bezüglich der Entwicklung."
+r56.news_event.13.b:0 "Wir werden den faschistischen Abschaum zerschlagen!"
+
+#Ecuadorian–Peruvian War
+r56.news_event.16.t:0 "Eskalation des Konflikts zwischen Ecuador und Peru"
+r56.news_event.16.d:0 "Seit 1935 kommt es in der umkämpften Region Pichincha immer wieder zu Grenzscharmützeln zwischen den Garnisonen von [ECU.GetnameDEF] und [PRU.GetnameDEF]. Diplomatische Bemühungen zwischen den beiden Ländern konnten verhindern, dass die Auseinandersetzungen zu einem umfassenden Konflikt eskalierten. Die jüngsten diplomatischen Auseinandersetzungen zwischen den beiden Regierungen führten jedoch zu einer Sackgasse zwischen den beiden Parteien. Diese Sackgasse hat sich in der vergangenen Woche zu einem offenen Krieg entwickelt. \n\nBeobachter hoffen, dass dieser Konflikt auf die Region Pichincha beschränkt bleibt und nicht beide Nationen in die aktuelle katastrophale internationale Lage hineinzieht."
+r56.news_event.16.a:0 "Schade."
+r56.news_event.16.a.1:0 "Hoffentlich dauert dieser Krieg nicht lange."
+r56.news_event.16.a.2:0 "Wir werden sie vernichten!"
+
+#Inca Empire
+r56.news_event.inc.t:0 "Die Wiederbelebung des Inka-Reiches"
+r56.news_event.inc.d:0 "Seit langer Zeit warten die Andenvölker Südamerikas auf den Inkari, jenes himmlische Wesen, das zurückkehren würde, um die Quechua-Völker zu vereinen, wie es Pachacutec in der Vergangenheit getan hätte.\nNun hat [PRU.GetLeader] die Aufgabe, den Glanz des alten Inka-Reiches mit der Stärke der Quechua-Völker Südamerikas wiederherzustellen.\n\nDieser neue Staat Südamerikas entwickelt sich zu einer neuen Regionalmacht mit der Absicht, die aktuellen Mächte wie [ARG.GetnameDEF] und [BRA.GetnameDEF] zu entthronen und sogar der Macht des Kontinents, den [USA.GetnameDEF], einen schweren Schlag zu versetzen. Die Quechua haben eine große Armee aufgestellt, die in der Kriegsführung in den Bergen erfahren ist."
+r56.news_event.inc.a:0 "Es ist Zeit, zu unseren Wurzeln zurückzukehren."
+r56.news_event.inc.b:0 "Könnte dies die Geburt einer neuen Macht in Südamerika sein?"
+
+#Ureta Power
+r56.news_event.2010.t:0 "General Ureta übernimmt die Macht in Peru"
+r56.news_event.2010.d:0 "Nach einer politischen Rivalität mit Alberto Flores ist General Eloy Ureta heute der Herrscher von Peru. Seine Aufgabe besteht darin, das Erbe von Sanchez Cerro fortzuführen und seine unvollendeten Werke in Peru zu vollenden. Da General Ureta seit den Anfängen ein Urrista war, wird erwartet, dass die Reformen nicht lange auf sich warten lassen und die Partei sich vom Einfluss des italienischen Faschismus lösen wird.\n\nDie Faschisten planen, die APRA-Partei aus Peru auszulöschen und ganz Südamerika vom sogenannten „Roten Krebs“ zu säubern, der seine Tentakel des Terrors von Moskau bis nach Südamerika ausbreitet.\nTausende Peruaner haben sich bereits von Eloy Uretas Worten überzeugen lassen und sind bereit, ihm sogar in den Krieg zu folgen."
+r56.news_event.2010.a:0 "Viva el Peru!"
+r56.news_event.2010.b:0 "Dies ist ein Neuanfang für Peru."
+
+#flores Power
+r56.news_event.2011.t:0 "Peruanische Schwarzhemden übernehmen die Macht"
+r56.news_event.2011.d:0 "Die Schwarzhemden, gegründet vom Urrista Luis Alberto Flores als Gegenmaßnahme gegen die kommunistischen Wellen der APRA und der Kommunistischen Partei Perus, haben die Regierung Perus übernommen. Flores&#39; Verdienste um den Schutz des Katholizismus ermöglichten ihm den Aufstieg zum Führer der Union Revolucionaria und regiert Peru nun nach dem Vorbild des italienischen Faschismus. Die Faschisten planen, die APRA aus Peru zu vertreiben und ganz Südamerika vom sogenannten „Roten Krebs“ zu säubern, der seine Schreckensantentakel von Moskau bis nach Südamerika ausbreitet. Tausende Peruaner sind bereits von Alberto Flores Worten überzeugt und bereit, ihm sogar in den Krieg zu folgen."
+r56.news_event.2011.a:0 "Viva el Peru!"
+r56.news_event.2011.b:0 "Dies ist ein Neuanfang für Peru."
+
+#revolucion peruana
+r56.news_event.2012.t:0 "Großer Marsch von Trujillo"
+r56.news_event.2012.d:0 "Nach einer Zeit schwerer Menschenrechtsverletzungen durch den Diktator Benavides und seinen Vorgänger Sanchez Cerro, deren volksfeindliche Handlungen in Peru mehrere Todesopfer forderten, war die Absage der Wahlen der Tropfen, der das Fass zum Überlaufen brachte. Die Kommunisten geloben, zu den Waffen zu greifen, um Benavides zu stürzen.\n\nDie Revolution wird die Kindersterblichkeit in Peru beenden, da 60 % der peruanischen Kinder vor Erreichen des 10. Lebensjahres sterben. Diese Zahlen werden von peruanischen und internationalen Staatsmännern bestätigt. Viele Jahre lang haben zivilistische Regierungen und Oligarchen nichts unternommen, um das Problem der Dezentralisierung Perus zu lösen.\nEs ist sehr wahrscheinlich, dass sich die Revolution in ganz Lateinamerika ausbreiten wird."
+r56.news_event.2012.a:0 "Viva la Revolution!"
+r56.news_event.2012.b:0 "Die Macht liegt nun in den Händen des peruanischen Volkes."
+
+#[PRU.GetLeader] accepts the throne of [PRU.GetNameDefCap]
+r56.news_event.2013.t:0 "[PRU.GetLeader] nimmt den Thron von [PRU.GetNameDefCap] an"
+r56.news_event.2013.d:0 "[PRU.GetLeader] hat gerade auf Ersuchen der provisorischen Regierung den Thron von [PRU.GetNameDefCap] angenommen. Nach einer großartigen republikanischen Geschichte von über 100 Jahren und ohne nennenswerte Fortschritte in seinem Land hat sich die Mehrheit der Peruaner für die Neugründung einer Monarchie in Peru entschieden, um den alten Glanz der Vizekönigsära wiederherzustellen, als Peru in Handel und Wirtschaft führend in Südamerika war.\n\nDer neue König würde zur Einheit aller Peruaner aufrufen, aber in einem politisch so gespaltenen Land könnte es Gegner des neuen Regimes geben. Der König müsste seine Kritiker mit harter Hand kontrollieren und das ganze Land einen."
+r56.news_event.2013.a:0 "Viva el Rey [PRU.GetLeader]"
+r56.news_event.2013.b:0 "Könnte dies die Geburt einer neuen Macht in Südamerika sein?"
+
+
+r56.news_event.17.t:0 "[new_controller.GetNameDefCap] Revolten gegen [FROM.GetAdjective] Besatzung!"
+r56.news_event.17.d:0 "\nNach Monaten intensiver Guerillakämpfe beschlossen die Widerstandskräfte von [new_controller.GetAdjective], ihre geheimen Aktivitäten aufzugeben und starteten einen koordinierten Aufstand gegen die Unterdrückung von [FROM.GetAdjective]. Garnisonen wurden rasch umzingelt, und angesichts der aussichtslosen Lage zogen sich die [FROM.GetAdjective] Streitkräfte in die von ihnen kontrollierten Gebiete zurück.\n\nObwohl dies ein erheblicher Rückschlag für [FROM.GetLeader] und seine Streitkräfte ist, ist der Krieg noch nicht vorbei und ein Gegenangriff ist weiterhin möglich.\nTatsächlich ist klar, dass die Widerstandsbewegung von [new_controller.GetAdjective] zu einer richtigen Armee organisiert werden muss, wenn sie traditionelle Militäroperationen fortsetzen will."
+r56.news_event.17.a:0 "Wird dieses Blutvergießen jemals enden?"
+
+#Hispanoamerican unification
+r56.news_event.18.t:1 "Hispanoamerika wiedervereinigt"
+r56.news_event.18.d:1 "Zum ersten Mal seit den Tagen des spanischen Imperiums versammeln sich alle Hispanoamerikaner unter einem Banner. Vereint in dem Wunsch, ihr eigenes Schicksal zu schmieden und Europäern und Angloamerikanern gleichgestellt zu sein.\nNachdem dieses scheinbar Unmögliche geschafft war, nahm die panhispanische Propaganda mit klarer Unterstützung der Regierung zu, während sich in Hispanoamerika eine hoffnungsvolle Stimmung breitmachte. Nun hat die [From.GetOldAdjective]-Regierung mit dem langsamen Prozess begonnen, die verschiedenen Gremien und Organisationen der neu vereinigten hispanisch-amerikanischen Gebiete zu effizienten Institutionen zu vereinen und den offiziellen Namen „[From.GetNameDef]“ anzunehmen. Noch immer herrscht Ungewissheit über die nächsten Schritte Hispanoaméricas; nur die Zeit wird zeigen, was die Zukunft für die aufstrebende amerikanische Macht bereithält."
+r56.news_event.18.a:1 "Dem Traum einen Schritt näher."
+r56.news_event.18.b:1 "Ist Bolivars Geist zurückgekehrt?"
+
+#Greenland sizeure 
+r56.news_event.19.t:0 "[USA.getnameDefCap] erobert Grönland"
+r56.news_event.19.d:0 "\nHeute Morgen gab es seltsame Nachrichten aus Washington: Der dänische Diplomat Henrik Kauffmann hat kürzlich die Kontrolle über Grönland unterzeichnet und an [USA.getnameDEF] übergeben. Kauffmann traf sich mit Vertretern von [USA.GetLeader], um das Abkommen zu formalisieren. Die Behörden in Nuuk kontaktierten Kauffmann mit der Bitte, das Abkommen vorzulegen, da sie eine amerikanische Besatzung einer möglichen Besetzung durch [ENG.getnameDEF] oder [CAN.getnameDEF] vorziehen. Beobachter äußerten Bedenken, dass das Abkommen völkerrechtlich fragwürdig sei. Diese Bedenken stießen jedoch auf taube Ohren, da die amerikanische Regierung das Abkommen umgehend unterzeichnete."
+r56.news_event.19.a:0 "Grönland? Jetzt eher unser Land."
+r56.news_event.19.b:0 "Ein mutiger Schritt seitens Amerikas."
+r56.news_event.19.c:0 "Wie können sie es wagen, uns zu entführen, was wir rechtmäßig gestohlen haben!"
+
+#The Kashgar Islamic rebellion/SIK-TNG War
+r56.news_event.20.t:0 "Der islamische Aufstand von Kashgar"
+r56.news_event.20.d:0 "[SIK.getleader] hat beschlossen, gegen die zunehmend autonomeren turkisch-muslimischen Milizen im Militärdistrikt Kashgar innerhalb von [TNG.getname] vorzugehen. Dieser Schritt richtet sich im Wesentlichen gegen [TNG.getleader] und seine Kontrolle über die Region. Die sogenannte „Rebellion“ eskalierte schnell zu einem ausgewachsenen Konflikt zwischen [SIK.getnamedef] und [TNG.getname], da die Streitkräfte von [TNG.getleader] schnell auf die Seite der Rebellen zogen.\n\nViele politische Experten prognostizieren, dass der Sieger dieses Konflikts der unangefochtene Herrscher der Region Xinjiang sein wird."
+r56.news_event.20.a:0 "Sie haben mich gezwungen!"
+r56.news_event.20.b:0 "Ein bloßer Bauerntausch."
+r56.news_event.20.c:0 "Junge, das ist schnell eskaliert."
+
+#Franco-American fascist Faction
+
+r56.news_event.21.t:0 "Frankreich Verbündete [USA.GetNameDef]"
+r56.news_event.21.d:0 "In einer großen, feierlichen Rede hat der Präsident [USA.getLeader] ein Bündnis mit der [FRA.GetAdjective]-Regierung angekündigt. Er fügte hinzu, dieses Bündnis werde so stark sein wie die Resolution, die George Washington, den Gründer der Nation, und seinen Adjutanten, den Marquis von La Fayette, vereinte.\n\n Das [USA.GetAdjective] und das [FRA.GetAdjective] Volk stehen nun Seite an Seite, um ihre Freiheiten zu verteidigen."
+
+r56.news_event.22.t:0 "Ein Napoleon übernimmt Frankreich"
+r56.news_event.22.desc:0 "Mit Hilfe des Militärs übernahm ein Napoleon, der behauptet, Napoleon VI. zu sein, die Macht in Frankreich. Offiziellen Erklärungen zufolge handelt es sich dabei nicht um eine gewaltsame Machtübernahme, sondern um eine Möglichkeit, parlamentarische Streitigkeiten durch die Einführung einer konsensfähigen Figur zu lösen, die über den Parteien steht und so der Republik zu neuem Wohlstand verhelfen soll.\n\nTrotz dieses republikanischen Tons ist klar, dass die neue Macht auch ständig an die Zeiten des Ersten Französischen Kaiserreichs erinnert und dass der Kaiser in seiner neuen „Republik“ nur über begrenzte offizielle Opposition verfügt."
+r56.news_event.22.a:0 "Er ist ganz sicher keiner von uns!"
+r56.news_event.22.b:0 "Der Bonapartismus war schon immer eine getarnte bürgerliche Diktatur."
+r56.news_event.22.c:0 "Wie lange würde es dauern, bis es überhaupt keine Partys mehr gäbe?"
+r56.news_event.22.e:0 "Eine Bedrohung oder ein potenzieller Verbündeter?"
+r56.news_event.22.d:0 "Es lebe der Kaiser!"
+
+#Romanian Civil war
+
+r56.news_event.23.t:0 "Bürgerkrieg in Rumänien"
+r56.news_event.23.desc:0 "Vom König bedroht, beschloss die rumänische nationalistische Eiserne Garde, offen gegen die Regierung zu revoltieren. Mithilfe mächtiger Verbündeter in der Armee gelang es ihnen, weite Teile des Landes zu sichern.\n\n Vor einer Menge seiner Anhänger verkündete er die Abschaffung der Monarchie und erklärte Rumänien zum Nationalen Legionsstaat."
+r56.news_event.23.a:0 "Die rumänische Monarchie muss verteidigt werden."
+r56.news_event.23.b:0 "Dies ist der ultimative Ausdruck bürgerlich-kapitalistischer Machtkämpfe."
+r56.news_event.23.c:0 "Ein weiteres Land wird von diesen Extremisten zerrissen."
+r56.news_event.23.e:0 "Die Eiserne Garde muss gewinnen."
+
+r56.news_event.24.t:0 "Die rumänischen Monarchisten legen ihre Waffen nieder"
+r56.news_event.24.desc:0 "Nach der Kapitulationserklärung der rumänischen Monarchisten marschierte die Eiserne Garde triumphierend durch die Straßen Bukarests. Nach dem Sieg im Krieg muss die neue „Nationallegion Rumänien“ nun den Frieden erringen und ihre Legitimität als einzige Vertretung des rumänischen Volkswillens etablieren."
+r56.news_event.24.a:0 "Eine weitere Krone fällt an gefährliche Revolutionäre."
+r56.news_event.24.b:0 "Dies ist das Ergebnis der bürgerlichen Konkurrenz."
+r56.news_event.24.c:0 "Cordeanus Risiko hat sich ausgezahlt."
+r56.news_event.24.d:0 "Cordeanus Risiko hat sich ausgezahlt."
+
+r56.news_event.25.t:0 "Das Ende des rumänischen Bürgerkriegs"
+r56.news_event.25.desc:0 "Der Putschversuch der faschistischen Eisernen Garde, des paramilitärischen Zweigs der rumänischen Partei „Alles für das Vaterland“, wurde von den loyalistischen Kräften, die die Monarchie verteidigten, niedergeschlagen. \n\nViele Faschisten weigerten sich, sich zu ergeben und hielten sich an ihre Worte, den Tod zu ehren, und die Tat des Tötens. Einige ihrer Anführer wählten jedoch das Exil, um das Überleben der Bewegung zu sichern."
+r56.news_event.25.a:0 "Die Institutionen haben ihre Position gehalten."
+r56.news_event.25.b:0 "Das Chaos in der Bourgeoisie macht unseren Aufstieg unvermeidlich."
+r56.news_event.25.c:0 "Die Institutionen haben ihre Position gehalten."
+r56.news_event.25.d:0 "Herzlichen Glückwunsch an Codreanu!"
+
+#Italian Civil war
+
+r56.news_event.26.t:0 "Bürgerkrieg in Italien"
+r56.news_event.26.desc:0 "Nachdem König Viktor Emanuel III. ihn seines Amtes als Premierminister enthoben hatte, beschloss der sogenannte Duce Benito Mussolini, seine Anhänger in Norditalien zu sammeln und zu seinen republikanischen Wurzeln zurückzukehren. \n\nIn einer Rede vor seinen Anhängern in der Stadt Salò erklärte er, dass ein wahrhaft faschistisches Land einem Diktator folgen müsse, und fügte hinzu, dass die Monarchie die einzige Sache sei, die die alten Römer verachtet hätten."
+r56.news_event.26.a:0 "Das Haus Savoyen muss geschützt werden."
+r56.news_event.26.b:0 "Dies ist der ultimative Ausdruck bürgerlich-kapitalistischer Machtkämpfe."
+r56.news_event.26.c:0 "Der Geburtsort des Faschismus zeigt das Ausmaß seines Versagens."
+r56.news_event.26.e:0 "Die Faschisten müssen gewinnen, um die Stärke unserer Ideale zu zeigen."
+
+#RSI victory
+r56.news_event.27.t:0 "Der italienische Bürgerkrieg endet"
+r56.news_event.27.desc:0 "Der Duce Benito Mussolini verkündete in einer Rede vor seinen Anhängern den Triumph der Italienischen Sozialrepublik. Truppen wie die X. Battaglia MAS und verschiedene Teile der Republikanischen Nationalgarde marschierten entlang der Via del Impero, umgeben von den Überresten des Forum Romanum. Obwohl Italien bereits zuvor faschistisch war, kündigt die vollständige Säuberung der Opposition eine noch strengere Anwendung der faschistischen Politik an, möglicherweise sogar eine neue Reihe „faschistischer“ Gesetze.\n\n Inzwischen wurden zahlreiche Oppositionsmitglieder verhaftet, und eine noch größere Zahl ging ins Exil."
+r56.news_event.27.a:0 "Es ist offensichtlich schwierig, den Faschismus auszurotten."
+r56.news_event.27.b:0 "Es ist offensichtlich schwierig, den Faschismus auszurotten."
+r56.news_event.27.c:0 "Es ist offensichtlich schwierig, den Faschismus auszurotten."
+r56.news_event.27.e:0 "Ein weiterer Beweis für die Stärke des Faschismus."
+
+#monarchist victory
+r56.news_event.28.t:0 "Der italienische Bürgerkrieg endet"
+r56.news_event.28.desc:0 "[ITA.GetLeader] triumphiert, als sich die letzten Rebellen den Einheiten der königlich-italienischen Armee ergeben. In der Basilica collegiata di Santa Maria ad Martyres (auch bekannt als Pantheon) wurde eine große Messe für die Seelen der Opfer des Bürgerkriegs abgehalten, gefolgt von einer Sühneprozession. \n\nDie monarchische Herrschaft ist nun wiederhergestellt. Wird der König das Parlament wiedereröffnen und das politische Leben florieren lassen oder versuchen, sich durch eine Art königliche Diktatur zu schützen? Es ist noch zu früh für eine Antwort."
+r56.news_event.28.a:0 "Ein Thron wurde gerettet!"
+r56.news_event.28.b:0 "Der feudo-bürgerliche Kapitalismus ist das Gegenteil der proletarischen Herrschaft."
+r56.news_event.28.c:0 "Es gibt keinen schrecklicheren Krieg als den Bürgerkrieg."
+r56.news_event.28.e:0 "Es gibt keinen schrecklicheren Krieg als den Bürgerkrieg."
+
+ r56.news_event.29.title:0 "Die Spannungen zwischen [VEN.GetName] und [695.Owner.GetName] nehmen zu"
+ r56.news_event.29.desc:0 "\nDie Spannungen haben zugenommen, nachdem der venezolanische Präsident [VEN.GetLeader] klargestellt hat, dass die Insel Curaçao, nur 60 Kilometer vor der Küste Venezuelas, rechtmäßiger Teil des Landes ist und zurückgegeben werden sollte. Selbst wenn dies mit Gewalt geschehen muss.\n\nSofern keine friedliche Einigung zwischen den beiden Nationen hinsichtlich des Streits erzielt werden kann, könnte ein Konflikt um die Insel ausbrechen."
+ r56.news_event.29.a:0 "Unbedeutend"
+ r56.news_event.29.b:0 "Es gehört uns von Rechts wegen"
+ #Extra yalta stuff marijn211
+ r56.news_event.30.title:0 "Alliierte Besetzung Deutschlands."
+ r56.news_event.30.desc:0 "Nach dem Ende des Zweiten Weltkriegs in Europa haben die Alliierten die vollständige Kontrolle über Deutschland übernommen und es unter vier Besatzungsmächten aufgeteilt: den Briten und Franzosen im Westen und den Amerikanern und Sowjets im Osten. Wie lange es dauern wird, bis sich diese Länder erholen und entnazifiziert werden, ist ungewiss."
+ r56.news_event.30.a:0 "Nie wieder."
+ #Japs democratic diplomacy
+ r56.news_event.31.title:0 "[JAP.getAdjective] Diplomatische Mission eröffnet Verhandlungen über ausländische Allianzen"
+ r56.news_event.31.desc:0 "\nUnsere Geheimdienste berichten von einer verstärkten Aktivität des [JAP.getAdjective] Außenministeriums und dessen Diplomaten, die in andere Länder reisen, was als Versuch gewertet werden kann, freundschaftliche Beziehungen zu einigen ihrer potenziellen Verbündeten aufzubauen. \n\nOb diese Verhandlungen jedoch erfolgreich sein werden oder nicht, ist noch ungewiss. Wir müssen uns der sich entwickelnden Situation bewusst sein und mit dem schlimmsten Ausgang für uns rechnen."
+ r56.news_event.31.a:0 "Wir sollten wachsam bleiben"
+
+ #Goering emerges in Texas, because every nazi deserve a second chance (/s)
+ r56.news_event.32.title:0 "Göring taucht in Texas wieder auf!"
+ r56.news_event.32.desc:0 "\nEin Foto ist aufgetaucht, das darauf hindeutet, dass Hermann Göring überlebt hat und nach [375.Controller.GetNameDef] geflohen ist. Der ehemalige deutsche Fliegerass, der Hitler bei seinem Aufstieg zur Macht unterstützte, wurde nach dem Ende des verheerenden Krieges in Deutschland vermisst und für tot erklärt. Offenbar floh er mit einem Flugzeug aus Deutschland, das sein Gewicht, einen Teil seiner Garderobe und einige Exemplare seiner Kunstsammlung transportieren konnte.\n\nNach seiner Ankunft wurde er von [375.Controller.GetAdjective]-Bewunderern willkommen geheißen und beherbergt und nun eingeladen, beim Kommando über die [375.Controller.GetAdjective]-Luftwaffe mitzuhelfen."
+ r56.news_event.32.a:0 "Wenn er entkommen ist, wie vielen Nazis ist das Gleiche passiert?"
+ r56.news_event.32.b:0 "Willkommen bei [375.Controller.GetNameDef]" 
+ r56.news_event.32.c:0 "Da ist der Bastard also hingegangen!"
+
+ r56.news_event.33.t:0 "Die keltische Welt vereint sich"
+ r56.news_event.33.desc:0 "Nach den jüngsten Entwicklungen wurde die keltische Welt unter der Führung von [FROM.GetLeader] vereint. Die keltische Regierung hat angekündigt, den Schutz und die Pflege der Traditionen durch den Staat sicherzustellen. In diesem Sinne hat sie bereits zur Unterstützung neodruidischer und neobardischer Bewegungen aufgerufen, um die Verbreitung des Keltentums zu gewährleisten.\n\nWährend in [FROM.Capital.GetCapitalVictoryPointName] Feierlichkeiten stattfinden, kritisieren Kritiker des neuen Staates die problematische Gründung der Union. Sie stimmen auch zu, dass eine starke Marine die Irische See blockieren und die verschiedenen Teile der neuen Union trennen könnte, was deren Einheit gefährden könnte."
+ r56.news_event.33.a:0 "Jahrhundertelange Demütigungen wurden gerächt!"
+ r56.news_event.33.b:0 "Faszinierend!"
+ r56.news_event.33.c:0 "Was für eine beunruhigende Entwicklung."
+
+ r56.news_event.34.t:0 "Die Levante vereint"
+ r56.news_event.34.desc:0 "Nach den jüngsten Entwicklungen wurde die gesamte Levante unter der Führung von [FROM.GetLeader] vereint. Die panarabische Regierung hat angekündigt, die heiligen Stätten vor ausländischen Angreifern zu schützen. Während in [FROM.Capital.GetCapitalVictoryPointName] Feierlichkeiten stattfinden, kritisieren Kritiker des neuen Staates die schwierige Gründung der Union. Sie weisen jedoch darauf hin, dass die Religion wahrscheinlich als einigender Faktor für die muslimische arabische Bevölkerung wirken wird."
+ r56.news_event.34.a:0 "Die Demütigung von 1919 ist gerächt!"
+ r56.news_event.34.b:0 "Faszinierend!"
+ r56.news_event.34.c:0 "Was für eine beunruhigende Entwicklung."
+
+ r56.news_event.35.t:0 "Die karibischen Inseln wurden vereint"
+ r56.news_event.35.desc:0 "Nach den jüngsten Entwicklungen wurden die Hauptinseln des karibischen Archipels unter der Führung von [FROM.GetLeader] vereinigt. Die [FROM.GetAdjective]-Regierung hat angekündigt, alle Einwohner zu schützen und dafür zu sorgen, dass das Land weltweit anerkannt wird.\n\nWährend in [FROM.Capital.GetCapitalVictoryPointName] gefeiert wird, kritisieren Kritiker des neuen Staates die problematische Gründung der Union. Sie stimmen auch zu, dass eine starke Marine die Karibik blockieren und die verschiedenen Teile der neuen Union trennen könnte, was deren Einheit gefährden könnte. Einige glauben sogar, dass sie die Inseln zwingen könnte, U-Boote für eine Art moderner Piraterie einzusetzen."
+ r56.news_event.35.a:0 "Hurra!"
+ r56.news_event.35.b:0 "Faszinierend!"
+ r56.news_event.35.c:0 "Was für eine beunruhigende Entwicklung."
+
+ r56.news_event.36.t:0 "[FROM.GetLeader] Vereint die Platin-Territorien"
+ r56.news_event.36.desc:0 "\nNach den jüngsten Entwicklungen wurden die Länder, die unter spanischer Herrschaft das Vizekönigreich des Rio de la Plata bildeten, unter der Führung von [FROM.GetLeader] vereinigt. Die [FROM.GetAdjective]-Regierung hat angekündigt, alle Einwohner zu schützen und dafür zu sorgen, dass das Land weltweit anerkannt wird.\n\nWährend in [FROM.Capital.GetCapitalVictoryPointName] gefeiert wird, kritisieren Gegner des neuen Staates die problematische Gründung der Union."
+ r56.news_event.36.a:0 "Hurra!"
+ r56.news_event.36.b:0 "Faszinierend!"
+ r56.news_event.36.c:0 "Was für eine beunruhigende Entwicklung."
+
+ r56.news_event.37.t:0 "[FROM.GetLeader] verkündet [FROM.GetNameDef]"
+ r56.news_event.37.desc:0 "\nDer afrikanische Kontinent entwickelt sich rasant. Während einer Zeremonie in seiner Hauptstadt [FROM.Capital.GetCapitalVictoryPointName] verkündete [FROM.GetLeader] die Gründung einer neuen Union namens [FROM.GetNameDef]. Die [FROM.GetAdjective]-Regierung kündigte an, den Schutz aller Einwohner zu gewährleisten und dem Land weltweite Anerkennung zu verschaffen.\n\nDiese Nachricht wirft Fragen hinsichtlich des Potenzials dieser neuen Union auf, ein wichtiger Akteur auf dem Kontinent zu werden."
+ r56.news_event.37.a:0 "Hurra!"
+ r56.news_event.37.b:0 "Faszinierend!"
+ r56.news_event.37.c:0 "Was für eine beunruhigende Entwicklung."
+
+ r56.news_event.38.t:0 "Großbritannien wiedervereinigt"
+ r56.news_event.38.desc:0 "\nLondon feiert, da es der englischen Regierung gelungen ist, die Kontrolle über die gesamte Insel Großbritannien zu übernehmen und einen neuen Akt der Union auszurufen. Dieser Schritt hat Großbritannien effektiv wiedervereinigt.\n\nWährend London feiert, fürchten andere Mächte möglicherweise eine Rückkehr des [FROM.GetAdjective]-Imperialismus auf die Weltbühne."
+ r56.news_event.38.a:0 "Hurra!"
+ r56.news_event.38.b:0 "Faszinierend!"
+ r56.news_event.38.c:0 "Was für eine beunruhigende Entwicklung."
+
+ r56.news_event.39.t:0 "Deutschland wiedervereinigt"
+ r56.news_event.39.desc:0 "Wieder einmal ist das deutsche Volk unter einer einzigen Regierung vereint. [FROM.getleader] wurde sofort mit Otto von Bismarck verglichen, nachdem es ihm gelungen war, die politischen Errungenschaften des „eisernen Kanzlers“ zu erreichen, wenn nicht sogar zu übertreffen.\n\nWährend Berlin feiert, fürchten andere Mächte möglicherweise eine Rückkehr der [FROM.GetAdjective] Streitkräfte auf die Weltbühne."
+ r56.news_event.39.a:0 "Wir werden nie wieder gespalten sein!"
+ r56.news_event.39.b:0 "Die Deutschen sind zurück, sagen Sie? Was könnte schiefgehen?"
+ r56.news_event.39.c:0 "Was für eine beunruhigende Entwicklung."
+
+ r56.news_event.40.t:0 "[ROM.GetNameDefCap] Richtet Ungarn aus"
+ r56.news_event.40.desc:0 "\nUnter dem Druck der [ROM.getAdjective]-Regierung stimmte [HUN.getLeader] einem Freundschaftsvertrag zu, der beide Länder innerhalb der [ROM.GetFactionName] vereinen würde. Dies würde Ungarn in Verteidigungsfragen eindeutig von Rumänien abhängig machen, löst aber nicht die ungarischen Spannungen bezüglich des Schicksals der in Siebenbürgen lebenden Magyarophonen. Es wird gesagt, dass einige Zugeständnisse zugunsten der Szekler gemacht wurden, aber die [ROM.GetAdjective]-Regierung könnte deren Auswirkungen in der Praxis noch einschränken."
+ r56.news_event.40.a:0 "Dadurch wird die Sicherheit Rumäniens gewährleistet."
+ r56.news_event.40.b:0 "Unsere Feinde breiten sich aus!"
+
+ r56.news_event.41.t:0 "[BRA.GetNameDefCap] Schwenkt Richtung Atlantik"
+ r56.news_event.41.desc:0 "\nNach der Verpflichtung von [BRA.getLeader], die lebenswichtigen Handelsrouten zwischen [BRA.GetNameDef] und dem Rest der Welt zu kontrollieren, sucht die [BRA.GetAdjective]-Außenpolitik nach Verbündeten entlang des Atlantiks. Um dieses Ziel zu erreichen, wurde die [BRA.GetFactionName] ausgerufen, und diplomatische Bemühungen sollen den Erfolg dieser neuen Politik sicherstellen."
+ r56.news_event.41.a:0 "Dadurch wird die [BRA.GetAdjective] Sicherheit gewährleistet."
+ r56.news_event.41.b:0 "Unsere Feinde breiten sich aus!" 
+ 
+ r56.news_event.42.t:0 "[BRA.GetFactionName] wurde signiert"
+ r56.news_event.42.desc:0 "\nNach der Verpflichtung von [BRA.getLeader], expansionistische Regime in ganz Südamerika zu bekämpfen, wurde in [BRA.Capital.GetCapitalVictoryPointName] ein neuer Bündnisvertrag namens [BRA.GetFactionName] unterzeichnet.\n\nAngesichts der Anzahl der anwesenden Delegierten, Botschafter und Außenminister scheint es ziemlich sicher, dass dies schwerwiegende Auswirkungen auf die politische Entwicklung der Region haben wird ... wenn nicht sogar auf die ganze Welt."
+ r56.news_event.42.a:0 "Dadurch wird die [BRA.GetAdjective] Sicherheit gewährleistet."
+ r56.news_event.42.b:0 "Unsere Feinde breiten sich aus!"
+
+ r56.news_event.43.t:0 "[SWE.GetNameDefCap] organisiert seine eigene Defensive Diplomatie"
+ r56.news_event.43.desc:0 "\nUm ihre Neutralitätspolitik in eine etwas andere Richtung zu lenken, hat [SWE.GetAdjective] beschlossen, eine Verteidigungsvertragsorganisation zu gründen, die als Dreh- und Angelpunkt ihrer Verteidigungspolitik dienen soll.\n\nDies würde ihnen Verbündete verschaffen, die es ihnen ermöglichen, ihre Umgebung zu sichern, könnte sie aber auch in Kriege um das Schicksal anderer Länder verwickeln."
+ r56.news_event.43.a:0 "Dadurch wird die [SWE.GetAdjective] Sicherheit gewährleistet."
+ r56.news_event.43.b:0 "Unsere Feinde breiten sich aus!"
+
+ r56.news_event.45.t:0 "Polen und die Ukraine teilen sich die Herrschaft über die Westukraine"
+ r56.news_event.45.desc:0 "\nSeit seiner Entstehung hatte die Existenz eines ukrainischen Staates enorme politische Folgen für Galizien-Wolhynien. Schon vor dem Zusammenbruch der UdSSR forderten die Ukrainische Nationaldemokratische Allianz und andere ukrainische Parteien mehr Autonomie für die Ukrainer, während die Ultranationalisten der OUN politische Morde begingen. Zu allem Überfluss war ursprünglich für 1944 eine Volksabstimmung in der Region geplant. Stattdessen hat [POL.Capital.GetName] nach Verhandlungen mit der [UKR.GetAdjective]-Regierung zugestimmt, das „Wolhynien-Experiment“ durch die Errichtung eines Kondominiums über die Westukraine auszuweiten. Die einheimischen Ukrainer werden unter der Führung von [DOU.Getleader] weitgehende Autonomie genießen, während Henryk Józewski als Brücke zwischen [DOU.Capital.GetName] und [POL.Capital.GetName] fungieren wird."
+ r56.news_event.45.a:0 "Wir müssen alle unsere Karten neu erstellen."
+ r56.news_event.45.b:0 "Ein vorteilhafter Kompromiss!"
+ r56.news_event.45.c:0 "Ein vorteilhafter Kompromiss!"
+
+ r56.news_event.46.t:0 "[USA.GetNameDefCap] Stellt die [ENG.getAdjective] Souveränität in den „Zerstörer für Stützpunkte“-Gebieten wieder her"
+ r56.news_event.46.desc:0 "\n\nDas Abkommen „Zerstörer gegen Stützpunkte“ ermöglichte den [ENG.GetNameDef] den Austausch von Schiffen im Austausch gegen die territoriale Kontrolle über [ENG.getAdjective] Gebiete. Da dessen Nutzen nun nachgelassen hat, unterzeichnete [USA.getLeader] eine Durchführungsverordnung zum Abzug der [USA.getAdjective] Streitkräfte und ihrer Verlegung auf andere Stützpunkte. Lokale [ENG.getAdjective] organisierten Flaggenhissungen, um die Rückkehr zum Status quo ante bellum zu signalisieren."
+ r56.news_event.46.a:0 "Die [USA.getAdjective] respektieren die Verträge"
+ r56.news_event.46.b:0 "Es ist normal, Verträge einzuhalten"
+ r56.news_event.46.c:0 "Nur ein weiteres angelsächsisches Abkommen"
+
+ r56.news_event.47.t:0 "[ENG.GetNameDefCap] stimmt der Föderation von [NFL.GetNonIdeologyName] mit [CAN.GetNonIdeologyName] zu"
+ r56.news_event.47.desc:0 "\n\nNach dem Ergebnis eines lokalen Referendums hat die [ENG.GetAdjective]-Regierung der Föderation von [NFL.GetNonIdeologyName] mit [CAN.GetNonIdeologyName] zugestimmt. In der Praxis wird das Gebiet zu einer [CAN.GetAdjective]-Provinz mit einem gewissen Maß an Autonomie."
+ r56.news_event.47.a:0 "Nun, das ist jetzt ihr Problem."
+ r56.news_event.47.b:0 "Hurra!"
+ r56.news_event.47.c:0 "Wenn es das ist, was sie wollen ..."
+
+ r56.news_event.48.t:0 "[ENG.GetNameDefCap] stellt [NFL.GetAdjective] Selbstverwaltung wieder her"
+ r56.news_event.48.desc:0 "\n\nNach dem Ergebnis eines lokalen Referendums hat die [ENG.GetAdjective]-Regierung der Wiederherstellung der Autonomie in [NFL.GetNonIdeologyName] zugestimmt. Das Gebiet war vor 1934 und der Gründung der „Newfoundland Commission of Government“, die als Vermittler der direkten britischen Herrschaft fungierte, autonom. Diese Ära geht nun mit der Wiederherstellung einer [NFL.getAdjective] gewählten autonomen Regierung endgültig zu Ende."
+ r56.news_event.48.a:0 "Sie haben sich schließlich erholt."
+ r56.news_event.48.b:0 "Wenn es das ist, was sie wollen ..."
+ r56.news_event.48.c:0 "Hurra!"
+ r56.news_event.48.d:0 "Nur ein weiteres angelsächsisches Abkommen"
+
+ r56.news_event.49.t:0 "[CSA.GetNameDefCap] Erlegen Sie [USA.GetNameDef] ihre Bedingungen auf."
+ r56.news_event.49.desc:0 "\n\nNach einem siegreichen Feldzug dominierten die [CSA.GetAdjective] Streitkräfte ihre [USA.GetAdjective] Gegner und schafften es, den Yankees in einem harten und demütigenden Vertrag ihren Willen aufzuzwingen. Dieser Zustand ist laut einem Vertreter des [CSA.getAdjective] Außenministeriums eine Rache für die abscheuliche Besetzung unserer Staaten nach unserem ersten Unabhängigkeitskrieg. In [CSA.GetCapitalVictoryPointName] fand eine Siegesparade statt, die von einem der letzten lebenden Veteranen des vorherigen Konflikts angeführt wurde. Während die Geschichtsbücher ihn vorerst noch als „Bürgerkrieg“ bezeichnen, ist es offensichtlich, dass die [CSA.getAdjective] ihn in „Erster Unabhängigkeitskrieg“ umbenennen wollen, um einen deutlichen Bruch mit der bisherigen [USA.getAdjective] Geschichte zu markieren."
+ r56.news_event.49.a:0 "Atlanta wurde gerächt! Für Dixie!"
+ r56.news_event.49.b:0 "Wir haben verloren..."
+ r56.news_event.49.c:0 "Ein weiteres Zeichen dafür, dass Kapitalismus Sklaverei ist"
+ r56.news_event.49.d:0 "Lästig..."
+
+ r56.news_event.50.t:0 "Mexiko wählt Leo Trotzki"
+ r56.news_event.50.desc:0 "\nNach Aufenthalten in Frankreich und Norwegen wurde der im Exil lebende kommunistische Führer Leo Trotzki von der mexikanischen Regierung willkommen geheißen. Er konnte die Bevölkerung sofort mit seinen feurigen Reden begeistern und wurde sogar als Sonderinspektor der mexikanischen Streitkräfte eingestellt. Dank seines neu gewonnenen Einflusses gelang es dem Exilkommunisten, einen erfolgreichen Wahlkampf zu organisieren und zum mexikanischen Präsidenten gewählt zu werden. Ein roter Morgen bricht über Mexiko an, und die Zeit wird zeigen, ob er seine neu gewonnene Macht nutzen wird, um das Privateigentum abzuschaffen und vielleicht den Kapitalismus herauszufordern, oder ob er die Dritte Kommunistische Internationale herausfordern und die Oberhand über die Marxisten weltweit gewinnen wird."
+ r56.news_event.50.a:0 "Es lebe die Revolution!"
+ r56.news_event.50.b:0 "Nur er kann die Arbeiter retten!"
+ r56.news_event.50.c:0 "Wir werden uns mit diesem ideologischen Verräter auseinandersetzen müssen."
+ r56.news_event.50.d:0 "Lästig..."
+
+
+ r56.news_event.1116.t:0 "Krise in [901.GetName]"
+ r56.news_event.1116.d:0 "„Wir haben den Kanal mit unserem Leben, unseren Knochen und unserem Blut gegraben, der Suezkanal gehört rechtmäßig uns!“, erklärt [EGY.GetAdjective]-Anführer [EGY.GetLeader], als er die sofortige Verstaatlichung der Suezkanal-Gesellschaft ankündigt, mit dem Ziel, jeglichen ausländischen Einfluss aus dem Gebiet zu vertreiben und es ausschließlich unter [EGY.GetAdjective]-Kontrolle zu bringen.\n\n[901.Owner.GetName] hat diesen Schritt als Bedrohung seiner Interessen in der Region bezeichnet und [EGY.GetNameDef] eindringlich gewarnt, dass sie bereit sind, militärische Gewalt anzuwenden, um ihren Einfluss auf den Kanal durchzusetzen, sollten sie nicht nachgeben.\n\nDa die beiden Seiten an einem Bruchpunkt stehen, könnte es schon bald zu einem Konflikt kommen."
+ r56.news_event.1116.a:0 "Der Kanal gehört rechtmäßig uns."
+ r56.news_event.1116.b:0 "Ein Schritt für die arabische Welt."
+ r56.news_event.1116.c:0 "Die [EGY.GetAdjective]s müssen befriedet werden."
+ r56.news_event.1116.e:0 "Die globale Struktur verändert sich."
+
+ r56.news_event.1117.t:0 "Nationalistischer Aufstand in Ägypten"
+ r56.news_event.1117.d:0 "Nationalistische Elemente innerhalb von [EGY.GetNameDef], angeführt von der Muslimbruderschaft, haben einen groß angelegten Aufstand gegen die Monarchie und als entschiedenes antiimperialistisches Modell inszeniert, das sie mit einem starken Führer an der Spitze fristlos aus Ägypten vertreiben wollen.\n\nDiese Entwicklung erfolgte kurz nachdem ausländische Länder versucht hatten, ihre Interessen und ihren Einfluss im Land zu festigen, was die [EGY.GetAdjective] Bevölkerung als Verrat empfindet, da die Monarchie zuvor geschworen hatte, Ägypten als starken und unabhängigen Staat zu erhalten. Nachdem dieses Versprechen nicht eingehalten wurde, wurden die Menschen über die Kante getrieben und haben den Bruchpunkt erreicht."
+ r56.news_event.1117.a:0 "Unsere Demütigung hat jetzt ein Ende."
+ r56.news_event.1117.b:0 "Dieser Aufstand muss niedergeschlagen werden."
+ r56.news_event.1117.c:0 "Handelt es sich hierbei um einen Dominoeffekt im Nahen Osten?"
+
+ r56.news_event.1119.t:0 "Rebellion in [SUD.GetNonIdeologyName]"
+ r56.news_event.1119.d:0 "Die Spannungen in [SUD.GetNonIdeologyName] nehmen seit Monaten zu, da die Bevölkerung zunehmend unzufrieden mit der [EGY.GetAdjective] Besatzung ist. Die harte Politik der [EGY.GetAdjective] schürt die Wut und Unruhe in der [SUD.GetAdjective] Bevölkerung nur noch weiter.\n\n Als Reaktion darauf hat sich eine Gruppe sudanesischer nationalistischer Führer zu einem bewaffneten Aufstand gegen die [EGY.GetAdjective] Besatzer zusammengeschlossen. Trotz anfänglicher Rückschläge sind die [SUD.GetAdjective] Rebellen entschlossen, den Kampf fortzusetzen.\n\n Da beide Seiten sich verschanzt haben und nicht nachgeben wollen, ist unklar, wie dieser Konflikt ausgehen wird. Eines ist jedoch sicher: Die Zukunft des Sudan steht auf dem Spiel."
+ r56.news_event.1119.a:0 "Sinnlose Wilde."
+ r56.news_event.1119.b:0 "Unsere Befreiung ist nahe!"
+ r56.news_event.1119.c:0 "Das afrikanische Kräfteverhältnis verändert sich."
+ 

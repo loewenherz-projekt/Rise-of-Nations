@@ -1,0 +1,12 @@
+﻿l_german:
+ trench:0 "Graben"
+ power_plant_plural:0 "Schützengräben"
+ trench_desc:0 "Der Graben ist ein langer, schmaler Graben, der hauptsächlich für Verteidigungspositionen verwendet wird. Er verursacht einen Angriffsabzug von $VALUE|+%0$ für jede Grabenebene"
+
+ farmland:0 "Bauernhof"
+ farmland_plural:0 "Bauernhöfe"
+ farmland_desc:0 "Dieses Gebäude bietet Nahrung"
+
+ power_plant:0 "Kraftwerk"
+ power_plant_plural:0 "Kraftwerke"
+ power_plant_desc:0 "Dadurch wird die Energie für den ordnungsgemäßen Betrieb Ihrer Fabriken bereitgestellt."

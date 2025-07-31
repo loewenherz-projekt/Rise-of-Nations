@@ -1,0 +1,6 @@
+﻿l_german:
+ sample_category:0 "Diagrammbeispiel-Debugentscheidungen"
+ open_radar_gui:0 "Öffnen Sie die Beispiel-GUI für Radardiagramme"
+ open_line_gui:0 "Öffnen Sie die GUI für das Beispiel eines Liniendiagramms"
+ open_dial_gui:0 "Open Dial-Beispiel-GUI"
+ line_graph_data_label:0 "[?SAMPLE_numbers^segment_idx]"

@@ -1,0 +1,485 @@
+﻿l_german:
+ ########################## Basics ##########################       \n      §H§!
+ DIPLOMACY_DOCKING_RIGHTS:0 "Dockingrechte"
+ 
+ ##### TECHNOLOGY
+ gwtank:0 "Panzer des Ersten Weltkriegs"
+ 
+ 
+ umc_narzgel.10.t:0 "Willkommen bei UMC"
+ umc_narzgel.10.d:0 "Hallo zusammen!\n\n----- ALLGEMEINE INFOS ------\nUMC hat gerade ein großes Update erhalten. Neue Mods wurden veröffentlicht und mit ihnen kommt mehr Zusammenhalt zwischen den bereits überarbeiteten Nationen. Stelle daher sicher, dass alle UMC-Mods aktiviert sind, um maximale Kompatibilität zu gewährleisten.\n\n----- TECHNISCHE INFOS ------\n- Immer „false“ = Fokus noch nicht abgeschlossen\n\n----- BENUTZERDEFINIERTE GENERALE ------\nIm Rahmen unseres Patreon-Programms bietet UMC die Erstellung benutzerdefinierter Generäle mit persönlichen Porträts im UMC-Stil an. Sie beeinträchtigen das Spielgeschehen nicht wesentlich, können aber bei Bedarf über die zweite Option deaktiviert werden.\n\nFür weitere Informationen, Fehlerberichte und Vorschläge kontaktiere uns auf unserem DISCORD-Server!\nViel Spaß!"
+ umc_narzgel.10.a:0 "Aktivieren Sie benutzerdefinierte Generäle."
+ umc_narzgel.10.b:0 "Deaktivieren Sie benutzerdefinierte Generäle."
+ 
+ UMC_yellow_ending_tt:0 "§!"
+ 
+ 
+ ##### GENERALS/ADMIRALS
+ UMC_gain_one_trained_field_marschal_EXPL:0 "Erhalte den ausgebildeten §H1§! Feldmarschall.\n"
+ 
+ UMC_gain_three_trained_general_EXPL:0 "Erhalte §H3§! ausgebildete §HGeneräle§!.\n"
+ UMC_gain_two_trained_general_EXPL:0 "Erhalte §H2§! ausgebildete §HGeneräle§!.\n"
+ UMC_gain_one_trained_general_EXPL:0 "Erhalte §H1§! ausgebildeten §HGeneral§!.\n"
+ 
+ UMC_gain_two_trained_admirals_EXPL:0 "Erhalte §H2§! ausgebildete §HAdmirals§!.\n"
+ UMC_gain_one_trained_admiral_EXPL:0 "Erhalte §H1§! ausgebildeten §HAdmiral§!.\n"
+ 
+ 
+ 
+ 
+ ### SCRIPTED LOC
+ UMC_accept_offer_tt:0 "Wenn sie unser Angebot annehmen:\n"
+ UMC_reject_offer_tt:0 "Wenn sie unser Angebot ablehnen:\n"
+ UMC_accept_demands_tt:0 "Wenn sie unsere Forderungen akzeptieren:\n"
+ UMC_reject_demands_tt:0 "Wenn sie unsere Forderungen ablehnen:\n"
+ UMC_act_in_time_tt:0 "Wenn sie nicht rechtzeitig richtig reagieren:\n"
+ UMC_or_tt:0 "Oder:\n"
+ UMC_you_will_be_able_to_tt:0 "Sie können:\n"
+ UMC_they_will_be_able_to_tt:0 "Sie werden in der Lage sein:\n"
+ UMC_event_will_have_following_effects_tt:0 "Dieses Ereignis hat folgende §GEffects§!:\n"
+ UMC_they_will_more_likely_send_volunteers_tt:0 "Sie werden uns eher §HFreiwillige§! zur Verfügung stellen.\n"
+ UMC_they_will_more_likely_send_lend_lease_tt:0 "Sie werden uns eher §HLease§! anbieten.\n"
+ 
+ UMC_because_stability_is_bellow_50_focus_tt:0 "Unsere §RStabilität§! liegt unter §R50%§!, daher wird dieser Fokus auch die folgenden §REffects§! haben:\n"
+ UMC_because_stability_is_bellow_50_event_tt:0 "Unsere §RStability§! liegt unter §R50%§!, daher wird dieses Ereignis auch die folgenden §REffects§! haben:\n"
+ 
+ UMC_destroy_two_early_battleships_tt:0 "Zerstöre §H2§! Frühe Schlachtschiffe.\n"
+ 
+ UMC_available_as_political_advisor_tt:0 "Diese Figur wird als §HPolitischer Berater§ verfügbar sein!:\n"
+ UMC_available_as_chief_of_army_tt:0 "Diese Figur wird als §HCheerführer§ erhältlich sein!:\n"
+ UMC_available_as_high_command_tt:0 "Diese Figur wird als §HMilitary High Command§ erhältlich sein!:\n"
+ UMC_available_as_materiel_manufacturer_tt:0 "Dieses Unternehmen wird als §HMaterialhersteller§ verfügbar sein!:\n"
+ UMC_available_as_industrial_concern_tt:0 "Dieses Unternehmen wird als §HIndustrial Concern§ verfügbar sein!:\n"
+ UMC_available_as_armor_designer_tt:0 "Dieses Unternehmen wird als §HArmor Designer§ verfügbar sein!:\n"
+ UMC_available_as_aircraft_designer_tt:0 "Dieses Unternehmen wird als §HAircraft Designer§ verfügbar sein!:\n"
+ 
+ UMC_FROM_will_be_able_to_futher_suport_tt:0 "[FROM.GetFlag]§H[FROM.GetName]§! wird in der Lage sein, unsere Sache weiter zu §Hunterstützen§!.\n"
+ UMC_ROOT_will_be_able_to_futher_suport_FROM_tt:0 "Wir werden in der Lage sein, [FROM.GetFlag]§H[FROM.GetName]§! weiter zu unterstützen.\n"
+ 
+ UMC_this_will_weaken_our_country_tt:0 "Dies wird unser Land §RWschwächen§!\n"
+ UMC_this_will_weaken_targeted_country_tt:0 "Dies wird das Zielland §RWeachen§!\n"
+ 
+ UMC_this_will_have_effect_on_your_puppets_tt:0 "Dieser Fokus wirkt sich auf alle Ihre §HPuppets§! aus.\n"
+ UMC_this_will_have_effect_on_your_puppets_and_faction_members_tt:0 "Dieser Fokus wirkt sich auf alle Ihre §HPuppets§! und §HFaction Members§! aus.\n"
+ 
+ 
+ UMC_rule_can_puppet_tt:0 "Legen Sie die Regel fest: £trigger_yes£Kann ein Land manipulieren.\n"
+ UMC_rule_can_declare_war_on_same_ideology_tt:0 "Legen Sie die Regel fest: £trigger_yes£Kann den Krieg gegen ein Land mit derselben Ideologiegruppe rechtfertigen und erklären.\n"
+ 
+ UMC_democratic_not_at_war_and_threat_under_5_tt: "We have §RDemocratic§! Government, World Tension is below §R5%§! and we are not at §RWar§!, therefore this focus will also have following effects:\n"
+ UMC_democratic_not_at_war_and_threat_under_25_tt: "We have §RDemocratic§! Government, World Tension is below §R25%§! and we are not at §RWar§!, therefore this focus will also have following effects:\n"
+ 
+ 
+ ### DEMOCRATIC LOWER
+ UMC_democratic_lower_half_tt:0 "Die Hälfte der aktuellen §HDemokratisch§! Unterstützung wird als §RStabilität§! Strafe angewendet:\n"
+ UMC_democratic_lower_quarter_tt:0 "Ein Viertel der aktuellen §HDemokratisch§! Unterstützung wird als §RStabilität§! Strafe angewendet:\n"
+ 
+ ### FASCISM LOWER
+ UMC_fascism_lower_half_tt:0 "Die Hälfte der aktuellen Unterstützung für „Faschismus“ wird als Strafe für „Stabilität“ angewendet:\n"
+ UMC_fascism_lower_quarter_tt:0 "Ein Viertel der aktuellen Unterstützung für „Faschismus“ wird als Strafe für „Stabilität“ verhängt:\n"
+ 
+ 
+ ### COMMUNISM LOWER
+ UMC_communism_lower_half_tt:0 "Die Hälfte der aktuellen Unterstützung für den Kommunismus wird als Strafe für die Stabilität angewendet:\n"
+ UMC_communism_lower_quarter_tt:0 "Ein Viertel der aktuellen Unterstützung für den Kommunismus wird als Strafe für die Stabilität verhängt:\n"
+ 
+ 
+ 
+ 
+ ### ARMY EXP
+ UMC_army_xp_more_than_25:0 "§H25§!£Armeeerfahrung"
+ UMC_army_xp_more_than_25_blocked:0 "§R25§!£Armeeerfahrung"
+ UMC_army_xp_more_than_25_tooltip:0 "Die Auswahl kostet 25 £ Armeeerfahrung."
+ UMC_army_xp_more_than_50:0 "§H50§!£Armeeerfahrung"
+ UMC_army_xp_more_than_50_blocked:0 "§R50§!£Armeeerfahrung"
+ UMC_army_xp_more_than_50_tooltip:0 "Die Auswahl kostet 50 £ Armeeerfahrung."
+ UMC_army_xp_more_than_75:0 "§H75§!£Armeeerfahrung"
+ UMC_army_xp_more_than_75_blocked:0 "§R75§!£Armeeerfahrung"
+ UMC_army_xp_more_than_75_tooltip:0 "Die Auswahl kostet 75 £ Armeeerfahrung."
+ UMC_army_xp_more_than_100:0 "§H100§!£Armeeerfahrung"
+ UMC_army_xp_more_than_100_blocked:0 "§R100§!£Armeeerfahrung"
+ UMC_army_xp_more_than_100_tooltip:0 "Die Auswahl kostet 100 £ Armeeerfahrung."
+ UMC_army_xp_more_than_150:0 "§H150§!£Armeeerfahrung"
+ UMC_army_xp_more_than_150_blocked:0 "§R150§!£Armeeerfahrung"
+ UMC_army_xp_more_than_150_tooltip:0 "Die Auswahl kostet 150 £ Armeeerfahrung."
+ UMC_army_xp_more_than_200:0 "§H200§!£Armeeerfahrung"
+ UMC_army_xp_more_than_200_blocked:0 "§R200§!£Armeeerfahrung"
+ UMC_army_xp_more_than_200_tooltip:0 "Die Auswahl kostet 200 £ Armeeerfahrung."
+ UMC_army_xp_more_than_250:0 "§H250§!£Armeeerfahrung"
+ UMC_army_xp_more_than_250_blocked:0 "§R250§!£Armeeerfahrung"
+ UMC_army_xp_more_than_250_tooltip:0 "Die Auswahl kostet 250 £ Armeeerfahrung."
+ UMC_army_xp_more_than_300:0 "§H300§!£Armeeerfahrung"
+ UMC_army_xp_more_than_300_blocked:0 "§R300§!£Armeeerfahrung"
+ UMC_army_xp_more_than_300_tooltip:0 "Die Auswahl kostet 300 £ Armeeerfahrung."
+ UMC_army_xp_more_than_350:0 "§H350§!£Armeeerfahrung"
+ UMC_army_xp_more_than_350_blocked:0 "§R350§!£Armeeerfahrung"
+ UMC_army_xp_more_than_350_tooltip:0 "Die Auswahl kostet 350 £ Armeeerfahrung."
+ UMC_army_xp_more_than_400:0 "§H400§!£Armeeerfahrung"
+ UMC_army_xp_more_than_400_blocked:0 "§R400§!£Armeeerfahrung"
+ UMC_army_xp_more_than_400_tooltip:0 "Die Auswahl kostet 400 £ Armeeerfahrung."
+ UMC_army_xp_more_than_450:0 "§H450§!£Armeeerfahrung"
+ UMC_army_xp_more_than_450_blocked:0 "§R450§!£Armeeerfahrung"
+ UMC_army_xp_more_than_450_tooltip:0 "Die Auswahl kostet 450 £ Armeeerfahrung."
+ UMC_army_xp_more_than_500:0 "§H500§!£Armeeerfahrung"
+ UMC_army_xp_more_than_500_blocked:0 "§R500§!£Armeeerfahrung"
+ UMC_army_xp_more_than_500_tooltip:0 "Die Auswahl kostet 500 £ Armeeerfahrung."
+ 
+ ### AIR EXP
+ UMC_air_xp_more_than_25:0 "§H25§!£Flugerlebnis"
+ UMC_air_xp_more_than_25_blocked:0 "§R25§!£Flugerlebnis"
+ UMC_air_xp_more_than_25_tooltip:0 "Die Auswahl kostet 25 £ Lufterfahrung."
+ 
+ 
+ ### NAVY EXP
+ UMC_navy_xp_more_than_25:0 "§H25§!£Navy_Erfahrung"
+ UMC_navy_xp_more_than_25_blocked:0 "§R25§!£Navy_Erfahrung"
+ UMC_navy_xp_more_than_25_tooltip:0 "Die Auswahl kostet 25 £ Navy-Erfahrung."
+ 
+ 
+ 
+ UMC_is_controlled_by_ROOT_or_puppet_st_EXPL:0 "Wird von [ROOT.GetFlag]§H[ROOT.GetName]§! oder unserer Puppet gesteuert."
+ UMC_is_controlled_by_ROOT_or_allies_st_EXPL:0 "Wird von [ROOT.GetFlag]§H[ROOT.GetName]§! oder einer anderen Nation kontrolliert, mit der wir in einer Fraktion sind."
+ UMC_is_puppet_or_in_faction_st_EXPL:0 "Ist in der Fraktion von oder Marionette von [ROOT.GetFlag]§H[ROOT.GetName]§!."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ########################## FLAGS ##########################        \n      §H§!
+ 
+ COM_von_falkenhausen_recalled_FLAG:0 "Von Falkenhausen aus China zurückgerufen"
+ 
+ 
+ 
+ ########################## SFC Decisions ##########################        \n      §H§!
+ COM_support_foreign_country_cat:0 "Unterstützung für ausländische Nationen"
+ 
+ ### GER to ETH
+ COM_sfc_GER_to_EHT_dec:0 "Unterstützen Sie den Äthiopienkrieg"
+ COM_sfc_GER_to_EHT_dec_EXPL:0 "Erhalte §H4§! Milizdivisionen.\n"
+ COM_sfc_GER_to_EHT_dec_desc:0 "Sobald sein Land von italienischen Truppen angegriffen wurde, versuchte [ETH.GetLeader], Unterstützung beim Völkerbund zu sammeln, um die Invasoren aufzuhalten. Doch vergebens. Jetzt müssen wir die Gelegenheit nutzen und dort eingreifen, wo sie versagt haben, und seinen Kampf gegen Mussolinis gewaltige Ambitionen unterstützen."
+ 
+ umc_sfc.10.t:0 "[GER.GetLeader] Unterstützt unseren Kampf"
+ umc_sfc.10.d:0 ""
+ umc_sfc.10.a:0 "T&#39;iru!"
+ 
+ ### GER to SPR (D0X)
+ COM_sfc_GER_to_SPR_dec:0 "Unterstützen Sie das nationalistische Spanien"
+ COM_sfc_GER_to_SPR_dec_EXPL:0 "Gewinnen Sie §H4§! Divisionen mit deutscher Ausrüstung.\n"
+ COM_sfc_GER_to_SPR_dec_desc:0 ""
+ COM_sfc_GER_to_SPR_condor_dec:0 "Erweiterung der Condor-Legion"
+ COM_sfc_GER_to_SPR_condor_dec_desc:0 ""
+ COM_sfc_GER_to_SPR_attache_dec:0 "Schicken Sie Attachés in das nationalistische Spanien"
+ COM_sfc_GER_to_SPR_attache_dec_EXPL0:0 "§HWilhelm Ritter von Tomma§! tritt [SPR.GetFlag]§H[SPR.GetName]§! bei.\n§HHugo Sperrle§! Tritt [SPR.GetFlag]§H[SPR.GetName]§! bei.\n"
+ COM_sfc_GER_to_SPR_attache_dec_EXPL1:0 "§HWilhelm Ritter von Tomma§! schließt sich [D01.GetFlag]§H[D01.GetName]§! an.\n§HHugo Sperrle§! schließt sich [D01.GetFlag]§H[D01.GetName]§! an.\n"
+ COM_sfc_GER_to_SPR_attache_dec_EXPL2:0 "§HWilhelm Ritter von Tomma§! schließt sich [D02.GetFlag]§H[D02.GetName]§! an.\n§HHugo Sperrle§! schließt sich [D02.GetFlag]§H[D02.GetName]§! an.\n"
+ COM_sfc_GER_to_SPR_attache_dec_EXPL3:0 "§HWilhelm Ritter von Tomma§! schließt sich [D03.GetFlag]§H[D03.GetName]§! an.\n§HHugo Sperrle§! schließt sich [D03.GetFlag]§H[D03.GetName]§! an.\n"
+ COM_sfc_GER_to_SPR_attache_dec_desc:0 ""
+ 
+ umc_sfc.20.t:0 "[GER.GetLeader] Unterstützt unseren Kampf"
+ umc_sfc.20.d:0 ""
+ umc_sfc.20.a:0 "Viva la España!"
+
+
+
+ ### USA to CHI
+ COM_sfc_USA_to_CHI_small_arms_dec:0 "Kleinwaffen nach China liefern"
+ COM_sfc_USA_to_CHI_dec_EXPL:0 "Gewinnen Sie §H2§! ausgebildete amerikanische Divisionen.\n"
+ COM_sfc_USA_to_CHI_small_arms_dec_desc:0 ""
+ COM_sfc_USA_to_CHI_heavy_weapons_dec:0 "Liefern Sie schwere Waffen nach China"
+ COM_sfc_USA_to_CHI_heavy_weapons_dec_desc:0 ""
+ COM_sfc_USA_to_CHI_motorized_dec:0 "Erlass spezieller gepanzerter Freiwilligendivisionen"
+ COM_sfc_USA_to_CHI_motorized_dec_desc:0 ""
+ COM_sfc_USA_to_CHI_flying_tigers_dec:0 "Besiege die fliegenden Tiger"
+ COM_sfc_USA_to_CHI_flying_tigers_dec_desc:0 ""
+ COM_sfc_USA_to_CHI_attache_dec:0 "Senden Sie Attachés nach China"
+ COM_sfc_USA_to_CHI_attache_dec_desc:0 ""
+ 
+ umc_sfc.30.t:0 "Amerikanisches Leih- und Pachtprogramm"
+ umc_sfc.30.d:0 ""
+ umc_sfc.30.a:0 "Tui hui ruqin zhe!"
+ 
+ umc_sfc.35.t:0 "Ein neuer General für [CHI.GetName]"
+ umc_sfc.35.d:0 "[CHI.GetLeader] hat einen Brief an [USA.GetLeader] geschickt, in dem er vorschlägt, dass wir einen unserer Generäle als Stabschef zur [CHI.GetAdjective]-Armee schicken.\n\nDies würde uns die persönliche Dankbarkeit von [CHI.GetLeader] einbringen und könnte unserem General wertvolle Erfahrungen verschaffen sowie den Streitkräften von [CHI.GetLeader] helfen, den Krieg zu gewinnen.\n\nWelchen unserer Generäle sollten wir schicken?"
+ umc_sfc.35.a:0 "Schicken Sie Joseph Stillwell."
+ umc_sfc.35.b:0 "Schicken Sie Douglas MacArthur."
+ umc_sfc.35.c:0 "Schicken Sie Dwight Eisenhower."
+ 
+ 
+ ### JAP to RAJ
+ COM_sfc_JAP_to_CHI_cw_dec:0 "Rüste die neu organisierte chinesische Armee aus"
+ COM_sfc_JAP_to_CHI_cw_dec_desc:0 ""
+ 
+ ### JAP to RAJ
+ COM_sfc_JAP_to_RAJ_dec:0 "Zusätzliche Unterstützung für Free India leisten"
+ COM_sfc_JAP_to_RAJ_dec_EXPL:0 "Erhalte §H4§! Japanische Freiwilligendivisionen.\n"
+ COM_sfc_JAP_to_RAJ_dec_desc:0 ""
+ COM_sfc_JAP_to_RAJ_attache_dec:0 "Senden Sie Attachés nach Indien"
+ COM_sfc_JAP_to_RAJ_attache_dec_desc:0 ""
+ 
+ umc_sfc.40.t:0 "[JAP.GetLeader] Bietet zusätzliche Unterstützung"
+ umc_sfc.40.d:0 ""
+ umc_sfc.40.a:0 "Dadurch gewinnen wir die Oberhand."
+ 
+ umc_sfc.45.t:0 "Militärattachés in Indien"
+ umc_sfc.45.d:0 ""
+ umc_sfc.45.a:0 "Hitoshi Imamura wird die Expedition leiten."
+ umc_sfc.45.b:0 "Masaharu Homma kennt Indien bereits, er ist die beste Option."
+ umc_sfc.45.c:0 "Rikichi Andō ist am entbehrlichsten."
+ 
+ 
+ umc_sfc.100000.t:0 ""
+ umc_sfc.100000.d:0 ""
+ umc_sfc.100000.a:0 ""
+ umc_sfc.100000.b:0 ""
+ 
+ 
+ ########################## INTERNAL STUFF Decisions ##########################        \n      §H§!
+ COM_internal_stuff_cat:0 "Interne Maßnahmen und Entscheidungen"
+ COM_internal_stuff_cat_desc:0 "Intrigen, staatliche Entscheidungen, Armeeführung und Außenbeziehungen – auf all das muss sich ein guter Führer konzentrieren."
+ 
+ ##### GERMANY
+ GER_CHI_promoted_chiang_wei_kuo_op:0 "Beförderung von Chiang Wei-kuo"
+ 
+ COM_is_GER_get_rid_of_the_nazis_dec:0 "Ger Rid of the Nazis"
+ COM_is_GER_get_rid_of_the_nazis_dec_desc:0 "Die NSDAP hat uns im Stich gelassen. Hitler hat seine Kriegslust deutlich gezeigt, die von den westlichen Alliierten schnell bekämpft wurde. Nun wird unser Land erneut als Aggressor betrachtet. Aber nicht mehr lange. Nicht nur die Bevölkerung, sondern auch das Militär brennt darauf, diesen Tumor ein für alle Mal loszuwerden."
+ COM_is_GER_give_himmler_field_command_dec:0 "Geben Sie Himmler das Feldkommando"
+ COM_is_GER_give_himmler_field_command_dec_desc:0 ""
+ COM_is_GER_recall_von_falkenhausen_dec:0 "Rückruf von Falkenhausen aus China"
+ COM_is_GER_recall_von_falkenhausen_dec_EXPL1:0 "Entscheidet über das Schicksal von §HAlexander von Falkenhausen§!.\n"
+ COM_is_GER_recall_von_falkenhausen_dec_EXPL2:0 "Wenn wir den Fokus &#39;§HStahlpakt§!&#39; abgeschlossen haben, können wir ihn auf Militärmission nach [ITA.GetFlag]§H[ITA.GetName]§! schicken. Wenn er unser Angebot §Gakzeptiert§! hat:\n"
+ COM_is_GER_recall_von_falkenhausen_dec_EXPL3:0 "Wenn wir den Fokus „§HDas gemeinsame Ziel vereint uns§!“ abgeschlossen haben, können wir ihn auf eine Militärmission nach [JAP.GetFlag]§H[JAP.GetName]§! schicken. Wenn er unser Angebot §Gannimmt§!:\n"
+ COM_is_GER_recall_von_falkenhausen_dec_EXPL4:0 "Wenn wir den Fokus „§HDer finnische Löwe§!“ abgeschlossen haben, können wir ihn auf eine Militärmission nach [FIN.GetFlag]§H[FIN.GetName]§! schicken. Wenn er unser Angebot §Gannimmt§!:\n"
+ COM_is_GER_recall_von_falkenhausen_dec_EXPL5:0 "Wenn wir ihn als §HServe§! zu Hause auswählen, hat das Ereignis die folgenden §GEffects§!:\n"
+ COM_is_GER_recall_von_falkenhausen_dec_desc:0 ""
+ COM_is_GER_next_mission_for_von_falkenhausen_dec:0 "Nächste Mission für von Falkenhausen"
+ COM_is_GER_next_mission_for_von_falkenhausen_dec_desc:0 ""
+ COM_is_GER_promote_chiang_wei_kuo_dec:0 "Werben Sie für Chiang Wei-kuo"
+ COM_is_GER_promote_chiang_wei_kuo_dec_desc:0 "Chiang Wei-kuo ist ein Adoptivsohn des chinesischen Präsidenten Chiang Kai-shek und absolviert derzeit eine Ausbildung bei der Wehrmacht. Er hat bereits eine spezialisierte Gebirgsjägerausbildung absolviert und sich dadurch das begehrte Ärmelabzeichen Edelweiß der Gebirgsjäger verdient. Aufgrund seiner hervorragenden Treffsicherheit trägt er außerdem die Schützenschnur. Er wäre sicherlich eine gute Ergänzung für unser Kommando, und seine Beförderung könnte unsere Beziehungen zu China sogar noch weiter verbessern."
+ COM_is_GER_first_step_to_CZE_germanization_dec:0 "Eindeutschen Czech Names"
+ COM_is_GER_first_step_to_CZE_germanization_dec_FLAG:0 "Hat §HEindeutschen Tschechischen Namen§ ausgewählt! Entscheidung."
+ COM_is_GER_first_step_to_CZE_germanization_dec_desc:0 "Der erste Schritt zur Germanisierung der Tschechen besteht darin, ihre Sprache loszuwerden. Deutsch wird die ursprüngliche Sprache auf Schildern sein, in Büros gesprochen und in Schulen gelehrt."
+ COM_is_GER_get_rid_of_the_POL_names_dec:0 "Weg mit den polnischen Namen"
+ COM_is_GER_get_rid_of_the_POL_names_dec_desc:0 ""
+ 
+ ### NEXT MISSION FOR VON FALKENHAUSEN
+ umc_is_ger.10.t:0 "Von Falkenhausens nächste Mission"
+ umc_is_ger.10.d:0 "Alexander von Falkenhausen wurde kürzlich aufgrund der Stärkung der Beziehungen zu Japan von seiner Militärmission in China abberufen, wo er seit 1930 als Militärberater von Chiang Kai-shek diente. \n\nNachdem wir diesen erfahrenen General nun wieder in der Heimat haben, können wir eine weitere Hilfsmission mit von Falkenhausen als Anführer organisieren. Nur wenige Länder – hauptsächlich unsere Verbündeten oder potenziellen Verbündeten mit weniger erfahrenem Militär – bieten sich als geeignete Ziele an. Dies hängt jedoch von unseren bisherigen Regierungsentscheidungen ab. \n\nSchließlich könnte ein General dieser Qualität im Inland die besten Einsatzmöglichkeiten finden."
+ umc_is_ger.10.a:0 "Die Italiener könnten sein Können gebrauchen."
+ umc_is_ger.10.b:0 "Seine ruhige Weisheit wird den Japanern am meisten helfen."
+ umc_is_ger.10.c:0 "Schicken Sie ihn zu den Finnen, um ihnen bei der Vorbereitung auf die sowjetische Bedrohung zu helfen."
+ umc_is_ger.10.e:0 "Er wird uns zu Hause am besten dienen."
+ 
+ umc_is_ger.11.t:0 "Von Falkenhausens Mission"
+ umc_is_ger.11.d:0 ""
+ umc_is_ger.11.a:0 "Eine hervorragende Idee."
+ umc_is_ger.11.b:0 "Es besteht keine Notwendigkeit, dass sich ein deutscher General in unsere Angelegenheiten einmischt."
+ 
+ umc_is_ger.12.t:0 "[FROM.GetName] Akzeptiert von Falkenhausens Mission"
+ umc_is_ger.12.d:0 ""
+ umc_is_ger.12.a:0 "Wie erwartet."
+ 
+ umc_is_ger.13.t:0 "[FROM.GetName] lehnt von Falkenhausens Hilfe ab"
+ umc_is_ger.13.d:0 ""
+ umc_is_ger.13.a:0 "Dann können wir ihn besser einsetzen."
+ 
+ ### RECALL VON FALKENHAUSEN
+ umc_is_ger.20.t:0 "[FROM.GetName] Erinnert sich an von Falkenhausen"
+ umc_is_ger.20.d:0 ""
+ umc_is_ger.20.a:0 "Scham."
+ 
+ 
+ 
+ 
+ 
+ umc_is_ger.10000.t:0 ""
+ umc_is_ger.10000.d:0 ""
+ umc_is_ger.10000.a:0 ""
+ umc_is_ger.10000.b:0 ""
+ umc_is_ger.10000.c:0 ""
+ 
+ 
+ 
+ 
+ ##### JAPAN
+ COM_is_JAP_victory_over_south_dec:0 "Verkünden Sie einen totalen Sieg in Nanshin-ron"
+ COM_is_JAP_victory_over_south_dec_TRIG1:0 "„Wir“ oder unsere „Puppen“ kontrollieren alle „Küstenstaaten“ in „China“ und „Guangxi“."
+ COM_is_JAP_victory_over_south_dec_TRIG2:0 "§HWir§! oder unsere §HPuppets§! kontrollieren alle §HStaaten§! in §HINdochina§!."
+ COM_is_JAP_victory_over_south_dec_TRIG3:0 "§HWe§! oder unsere §HPuppets§! kontrollieren alle §HStates§! in §HMalaya§!."
+ COM_is_JAP_victory_over_south_dec_TRIG4:0 "§HWir§! oder unsere §HPuppets§! kontrollieren alle §HStaaten§! in §HIndonesien§!."
+ COM_is_JAP_victory_over_south_dec_TRIG5:0 "§HWir§! oder unsere §HPuppets§! kontrollieren alle §HIslands§! im §HPacific§!."
+ COM_is_JAP_victory_over_south_dec_desc:0 ""
+ 
+ COM_is_JAP_victory_over_north_dec:0 "Verkünden Sie einen totalen Sieg in Hokushin-ron"
+ COM_is_JAP_victory_over_north_dec_desc:0 ""
+ 
+ JAP_marco_polo_bridge_incident_dec:0 "Vorfall auf der Marco-Polo-Brücke"
+ JAP_marco_polo_bridge_incident_dec_desc:0 ""
+ 
+ 
+ 
+ 
+ 
+ COM_is_JAP_handle_the_militarists_dec:0 "Bewältigen Sie die Militaristen"
+ COM_is_JAP_handle_the_militarists_dec_desc:0 "Militaristen, die nach Krieg und Macht streben, sind allzu oft Teil von Gekokujō-Aktionen, bei denen „der Untere regiert den Oberen“. Untere und mittlere Offiziere nutzen das Gekokujō als Rechtfertigung für prinzipiellen Ungehorsam, sofern dieser von moralischen Prinzipien motiviert ist. Provokationsangriffe nicht nur in der Mandschurei, sondern auch auf den Heimatinseln sind alarmierende Beispiele für diese Vorfälle.\n\nWir müssen die Militaristen in Schach halten, bevor die Lage außer Kontrolle gerät."
+ 
+ COM_is_JAP_exploit_foreign_training_of_ija_generals_dec:0 "Ausnutzung der ausländischen Ausbildung von IJA-Generälen"
+ COM_is_JAP_exploit_foreign_training_of_ija_generals_dec_desc:0 "Viele Kommandeure der Dai-Nippon Teikoku Rikugun wurden als Attachés in westliche Länder entsandt, vor allem während des Ersten Weltkrieges und danach. Sie studierten dort militärische Taktiken und Ausrüstung – und sammelten nützliche Informationen, die ihnen zu Hause von großem Nutzen sind."
+ 
+ COM_is_JAP_winter_training_dec:0 "Wintertraining"
+ COM_is_JAP_winter_training_dec_EXPL:0 "Füge §G1§! Logistikfähigkeit und §HWinterspezialist§! Eigenschaft zu §H1§! zufälligem General hinzu.\n"
+ COM_is_JAP_winter_training_dec_desc:0 "Eine Invasion in die sowjetischen Eisgebiete Sibiriens wird zweifellos schwierig sein. Wir müssen zusätzliche Anstrengungen unternehmen, um unsere Kommandeure weiter auszubilden und sie auf das kalte und unwirtliche Klima vorzubereiten. Die nördlichen mandschurischen Gebiete sind für derartige Manöver bestens geeignet."
+ 
+ COM_is_JAP_put_the_manchus_to_their_place_dec:0 "Weisen Sie die Mandschus in ihre Schranken"
+ COM_is_JAP_put_the_manchus_to_their_place_dec_EXPL:0 "Die §HMandschu-Loyalisten§! werden sich unserer §HFaction§! anschließen und unsere §HPuppet§! werden.\n"
+ COM_is_JAP_put_the_manchus_to_their_place_dec_desc:0 "Unser mandschurischer Marionettenstaat zeigt keinerlei Loyalität mehr. Japanische Eliten werden zunehmend verdrängt, und lokale Monarchen gewinnen an Macht. Die Kwantung-Armee schwächt sich ab, und in der Machtlücke entsteht eine neue mandschurische Armee.\n\nWir sollten sofort damit aufhören. Ein Angriff auf unseren eigenen Marionettenstaat wäre jedoch weder auf den Heimatinseln noch im Ausland eine willkommene Entscheidung. Wir würden erneut als Aggressor angesehen, und das würde unsere zukünftigen Kooperationsbemühungen mit anderen Nationen erschweren. Vielleicht wäre es die beste Entscheidung, einfach abzuwarten..."
+ 
+ COM_is_JAP_rapid_naval_armaments_supplement_programme_dec:0 "Schnelles Ergänzungsprogramm für Marinewaffen"
+ COM_is_JAP_rapid_naval_armaments_supplement_programme_dec_desc:0 ""
+ 
+ COM_is_JAP_reorganize_military_advance_in_china_dec:0 "Reorganisieren Sie den militärischen Vormarsch in China"
+ COM_is_JAP_reorganize_military_advance_in_china_dec_desc:0 ""
+ 
+ COM_is_JAP_take_administration_of_north_east_coast_dec:0 "Nehmen Sie die Verwaltung der Nordostküste Chinas"
+ COM_is_JAP_take_administration_of_north_east_coast_dec_desc:0 ""
+ 
+ COM_is_JAP_ichi_go_sakusen_mis:0 "Operation Ichi-gō"
+ COM_is_JAP_ichi_go_sakusen_mis_TRIG1:0 "Wir oder unsere Marionetten kontrollieren alle ehemaligen Küstenstaaten von [CHI.GetFlag]§H[CHI.GetName]§!."
+ COM_is_JAP_ichi_go_sakusen_mis_TRIG2:0 "Wir oder unsere Puppets kontrollieren alle früheren Zustände von [GXC.GetFlag]§H[GXC.GetName]§!."
+ COM_is_JAP_ichi_go_sakusen_mis_desc:0 "Die Operation Ichi-Go, auch bekannt als „Operation Nummer Eins“, ist die größte japanische Operation in der Militärgeschichte. Die beiden Hauptziele der Ichi-Go-Operation sind die Öffnung einer Landroute nach Französisch-Indochina und die Eroberung von Luftwaffenstützpunkten im Südosten Chinas, von denen aus amerikanische Bomber das japanische Heimatland und die japanische Schifffahrt angriffen."
+ 
+ COM_is_JAP_hachi_go_sakusen_mis:0 "Operation Hachi-gō"
+ COM_is_JAP_hachi_go_sakusen_mis_TRIG1:0 "Wir oder unsere Marionetten kontrollieren alle ehemaligen Oststaaten von [SOV.GetFlag]§H[SOV.GetName]§! bis hin zu §H[657.GetName]§!."
+ COM_is_JAP_hachi_go_sakusen_mis_TRIG2:0 "Wir oder unsere Puppets kontrollieren alle früheren Zustände von [MON.GetFlag]§H[MON.GetName]§!."
+ COM_is_JAP_hachi_go_sakusen_mis_desc:0 "Operation Ichi-Go, auch Operationsplan Nr. 8 genannt, war ein vom gemeinsamen Operationsbüro des Generalstabs der japanischen Armee und der Kwantung-Armee ausgearbeiteter Plan für die Invasion der östlichen Teile der Sowjetunion. Der Umfang der Operation war enorm: Der Plan sah den Einsatz von 50 Divisionen der IJA vor, die an einer fast 5.000 Kilometer langen Frontlinie kämpfen sollten. Die japanischen Ziele lagen bis zu 1.200 Kilometer tief in sowjetischem Gebiet."
+ 
+ JCD_unrest_on_the_home_islands_dec:0 "Unruhen auf den Heimatinseln"
+ JCD_unrest_on_the_home_islands_dec_EXPL1:0 "Zufälliger §HGeneral§! verliert die Eigenschaft §HSamurai-Linie§!.\n"
+ JCD_unrest_on_the_home_islands_dec_EXPL2:0 "Zufälliger §HGeneral§! erhält die Eigenschaft §HKommunistischer Sympathisant§!.\n"
+ JCD_unrest_on_the_home_islands_dec_desc:0 "Angesichts der jüngsten verstärkten Bemühungen, die japanische Politik zu ändern, ist die Lage auf den Heimatinseln instabil geworden. Die Macht wechselt hier schnell, bewaffnete Auseinandersetzungen und Sabotageakte sind fast an der Tagesordnung, und das Schlimmste: Die japanische Lebensweise als Ganzes ist bedroht."
+ 
+ 
+ COM_is_JAP_propose_surrender_to_CHI_dec:0 "Legt unsere Waffen nieder – Kapitulation"
+ COM_is_JAP_propose_surrender_to_CHI_dec_EXPL:0 "Gewinnen Sie unser und das §HTerritory§! unserer Marionette auf dem Festland. [PRC.GetFlag]§H[PRC.GetName]§! könnte unter den richtigen Bedingungen einen Teil davon bekommen.\n"
+ COM_is_JAP_propose_surrender_to_CHI_dec_desc:0 "Es besteht keine Hoffnung, dass wir unser Territorium auf dem Festland zurückgewinnen können. Es gibt keinen anderen Ausweg, als Verhandlungen mit unserem Feind aufzunehmen. Wir werden die Botschaft aussenden, dass wir bereit sind, Frieden zu akzeptieren."
+ COM_is_JAP_propose_surrender_to_MAN_dec:0 "Schlagen Sie [MAN.GetName] unsere Kapitulation vor"
+ COM_is_JAP_propose_surrender_to_MAN_dec_desc:0 "Es besteht keine Hoffnung, dass wir unser Territorium auf dem Festland zurückgewinnen können. Es gibt keinen anderen Ausweg, als Verhandlungen mit unserem Feind aufzunehmen. Wir werden die Botschaft aussenden, dass wir bereit sind, Frieden zu akzeptieren."
+ COM_is_JAP_propose_surrender_to_SOV_dec:0 "Schlagen Sie [SOV.GetName] unsere Kapitulation vor"
+ COM_is_JAP_propose_surrender_to_SOV_dec_EXPL:0 "Gewinnen Sie unser §HTerritorium§! auf dem asiatischen Festland.\n"
+ COM_is_JAP_propose_surrender_to_SOV_dec_desc:0 "Es besteht keine Hoffnung, dass wir unser Territorium auf dem Festland zurückgewinnen können. Es gibt keinen anderen Ausweg, als Verhandlungen mit unserem Feind aufzunehmen. Wir werden die Botschaft aussenden, dass wir bereit sind, Frieden zu akzeptieren."
+ 
+ COM_is_JAP_failure_on_the_mainland_mis:0 "Scheitern auf dem Festland"
+ COM_is_JAP_failure_on_the_mainland_mis_desc:0 "Die Kriegslage hat sich nicht unbedingt zu Japans Vorteil entwickelt. Wir wurden vom chinesischen Festland verdrängt. Obwohl unsere Armee und Marine weiterhin versuchen, dort wieder Fuß zu fassen, ist jede Minute, die diese Situation andauert, für uns sehr demütigend. Sollten wir unsere Position dort nicht zurückgewinnen, müssen wir möglicherweise sogar Verhandlungen mit unserem Feind in Betracht ziehen, um diese unangenehme Situation zu lösen."
+ 
+ ##### CHINA
+ COM_is_CHI_inter_party_investigation_and_control_dec:0 "Parteiübergreifende Untersuchung und Kontrolle"
+ COM_is_CHI_inter_party_investigation_and_control_dec_desc:0 "Um korrupte Beamte auszuschalten und ihre Machtübernahme zu verhindern, müssen wir Maßnahmen ergreifen, um eine angemessene Kontrolle der staatlichen Einrichtungen sicherzustellen."
+ COM_is_CHI_arrest_the_corrupted_officials_dec:0 "Verhaften Sie die korrupten Beamten"
+ COM_is_CHI_arrest_the_corrupted_officials_dec_desc:0 "Es bleibt keine Zeit für langsame, schleppende Fortschritte. Die Korruption zerfrisst unseren Staat von innen heraus, und wir müssen schnell handeln, um diejenigen loszuwerden, die ihre eigenen Interessen über die des Staates stellen."
+ 
+ COM_is_CHI_revoke_the_unequal_treaties:0 "Widerruf der ungleichen Verträge"
+ COM_is_CHI_revoke_the_unequal_treaties_desc:0 "Als „Ungleicher Vertrag“ bezeichnet man eine Reihe von Verträgen, die das China der Qing-Dynastie im 19. und frühen 20. Jahrhundert nach militärischen Angriffen oder Drohungen ausländischer Mächte mit westlichen Mächten, dem Russischen Reich und dem Japanischen Kaiserreich unterzeichnete. Der Begriff „Ungleicher Vertrag“ wurde mit dem Konzept unseres „Jahrhunderts der Demütigung“ in Verbindung gebracht, insbesondere mit den Zugeständnissen an ausländische Mächte und dem Verlust der Zollautonomie über die Vertragshäfen. Mit dem Aufstieg des chinesischen Nationalismus und Antiimperialismus haben wir jedoch endlich die Chance, diese Verträge aufzukündigen und unseren Traum von einem vollständig vereinten und souveränen China zu verwirklichen."
+ 
+ COM_is_CHI_INV_assert_our_authority_in_CHV_dec:0 "Unsere Autorität in den neuen Gebieten behaupten"
+ COM_is_CHI_INV_assert_our_authority_in_CHV_dec_desc:0 "Der Aufstand wurde erfolgreich entfacht und nun müssen wir die süßen Früchte unseres Tuns ernten. Eine neue chinesische Marionette, die nur unserer Verwaltung unterworfen ist."
+ 
+ COM_is_CHI_yellow_river_flood_dec:0 "Überschwemmung des Gelben Flusses"
+ COM_is_CHI_yellow_river_flood_dec_desc:0 "Während die Japaner immer tiefer in unser Territorium vordringen, wird unsere Verteidigung immer verzweifelter. Um ihren weiteren Vormarsch nach West- und Südchina zu stoppen, schlug Chen Guofu dem [CHI.GetLeader] vor, die Deiche am Gelben Fluss bei Zhengzhou zu öffnen. Ursprünglich war geplant, den Deich bei Zhaokou zu zerstören. Aufgrund der Schwierigkeiten an dieser Stelle sollte jedoch stattdessen der Deich bei Huayuankou am Südufer zerstört werden.\n\nSollten wir diese Operation durchführen, sind mit hohen Verlusten zu rechnen ... und wir werden uns damit sicherlich nicht die Gunst der Bevölkerung sichern."
+ 
+ umc_is_chi.20.t:0 "Überschwemmung des Gelben Flusses"
+ umc_is_chi.20.d:0 "Auf direkten Befehl des Generalissimus [CHI.GetLeader] wurde der Deich bei Huayuankou am Südufer zerstört.\n\nDie Fluten überfluteten und zerstörten Tausende Quadratkilometer Ackerland und verlagerten die Mündung des Gelben Flusses Hunderte von Kilometern nach Süden. Tausende Dörfer wurden überschwemmt oder zerstört, mehrere Millionen Dorfbewohner wurden aus ihren Häusern vertrieben und mussten fliehen. Eine unbekannte Zahl japanischer Soldaten kam durch die Flut ums Leben.\n\nDie Flut selbst wird als „größter Umweltkriegsakt der Geschichte“ bezeichnet. Wir betrachten sie als das größte Verbrechen an unserem eigenen Volk. Wir müssen dies zu unserem Vorteil nutzen und den wahren Schutz des Volkes sicherstellen."
+ umc_is_chi.20.a:0 "Das Volk wird das nicht verzeihen."
+ 
+ umc_is_chi.25.t:0 "Überschwemmung des Gelben Flusses"
+ umc_is_chi.25.d:0 "Auf direkten Befehl des Generalissimus [CHI.GetLeader] wurde der Deich bei Huayuankou am Südufer zerstört.\n\nDie Fluten überfluteten und zerstörten Tausende Quadratkilometer Ackerland und verlagerten die Mündung des Gelben Flusses Hunderte von Kilometern nach Süden. Tausende Dörfer wurden überschwemmt oder zerstört, und mehrere Millionen Dorfbewohner wurden aus ihren Häusern vertrieben und zu Flüchtlingen.\n\nGlücklicherweise waren unsere eigenen Opferzahlen nicht hoch. Schlimmer noch: Die gesamte Infrastruktur in [607.GetName], [606.GetName] und [598.GetName] wurde größtenteils zerstört, und die dortigen Industrieanlagen wurden bestenfalls schwer beschädigt."
+ umc_is_chi.25.a:0 "Ein wahres Beispiel dafür, wie barbarisch sie sind."
+ 
+ COM_is_CHI_buy_the_time_dec:0 "Beschwichtigen Sie die Japaner"
+ COM_is_CHI_buy_the_time_dec_EXPL:0 "Wenn Sie diesen Nationalgeist haben, werden sich die Schwerpunkte von §RLock§! auf einen Krieg mit [CHI.GetFlag]§H[CHI.GetName]§! konzentrieren.\n"
+ COM_is_CHI_buy_the_time_dec_desc:0 "Die Zeit drängt. Die NRA ist nicht bereit für einen umfassenden Konflikt mit den Japanern und wird es auch noch einige Zeit nicht sein, bis die Modernisierungsprogramme greifen. Bis dahin müssen wir die Japaner beschwichtigen und ihnen so viel geben, wie es kostet, um ihre weiteren feindseligen Aktionen gegen unser Land hinauszuzögern."
+ 
+ umc_is_chi.10.t:0 "Chinesische Beschwichtigungspolitik"
+ umc_is_chi.10.d:0 ""
+ umc_is_chi.10.a:0 "Wir haben es nicht eilig."
+ umc_is_chi.10.b:0 "Sie können uns nicht bestechen."
+ 
+ umc_is_chi.11.t:0 "[JAP.GetName] akzeptiert die Zugeständnisse"
+ umc_is_chi.11.d:0 ""
+ umc_is_chi.11.a:0 "Das sollte uns etwas Zeit verschaffen."
+ 
+ umc_is_chi.12.t:0 "[JAP.GetName] lehnt die Zugeständnisse ab"
+ umc_is_chi.12.d:0 ""
+ umc_is_chi.12.a:0 "Dann müssen wir uns auf den Krieg vorbereiten."
+ 
+ 
+ umc_is_chi.100000.t:0 ""
+ umc_is_chi.100000.d:0 ""
+ umc_is_chi.100000.a:0 ""
+ umc_is_chi.100000.b:0 ""
+ 
+ ##### MAN
+ COM_is_MAN_increase_our_legitimacy_dec:0 "Unsere Legitimität steigern"
+ COM_is_MAN_increase_our_legitimacy_dec_desc:0 "Die Einsetzung Kaiser Puyis durch Japan als Kaiser von Mandschukuo wird von der mandschurischen Bevölkerung noch nicht akzeptiert, geschweige denn vom Rest Chinas.\n\nWir müssen umfangreiche Ressourcen aufwenden, um unsere Legitimität zu stärken und als der wahre Herrscher Chinas angesehen zu werden."
+ 
+ 
+ ##### MAW - MANCHURIAN WARLORD
+ COM_is_MAW_push_in_chahar_dec:0 "Push in Chahar"
+ COM_is_MAW_push_in_chahar_dec_desc:0 "Wir teilen eine lange Grenze mit dem ehemals verbündeten Staat Mengjiang, der nun nominell unter der Kontrolle des nationalistischen Chinas steht. Sollten unsere Streitkräfte siegen, können wir dessen Instabilität leicht ausnutzen und den Marionettenstaat rasch in unsere Fengtian-Clique integrieren."
+ 
+ MAN_border_incident_forgotten_MEN:0 "Verlasse den Grenzkonflikt [610.GetName]-[611.GetName]"
+ MAN_escalate_incident_to_border_conflict_MEN:0 "Angriff auf die Grenze von [611.GetName]!"
+ MAN_border_conflict_time_until_cancelled_MEN:0 "[610.GetName]-[611.GetName] Grenzkonflikt"
+ MAN_border_conflict_escalate_conflict_MEN:0 "Eskalieren Sie den Konflikt zwischen [610.GetName] und [611.GetName]."
+ MAN_border_conflict_escalate_to_war_MEN:0 "Eskalation des Konflikts bis zum umfassenden Krieg"
+ 
+ umc_is_man.10.t:0 "[GXC.GetName] bewegt sich gegen [611.GetName]"
+ umc_is_man.10.d:0 "Die Situation hat sich in den letzten Stunden zugespitzt, als die Soldaten von [MAN.GetLeader] einen geplanten Vormarsch gegen die Truppen unserer Mengjiang-Marionette in der Äußeren Mongolei begannen.\n\nEs besteht kein Zweifel, dass es bald zu einer umfassenden Schlacht kommen wird."
+ umc_is_man.10.a:0 "Schicken Sie so viel Hilfe wie möglich."
+ umc_is_man.10.b:0 "Wir können nur beobachten und abwarten."
+ 
+ umc_is_man.11.t:0 "Sieg in [611.GetName]"
+ umc_is_man.11.d:0 "Beim Zusammenstoß im Grenzgebiet zwischen [MAN.GetName] und der chinesischen Marionettenarmee von Mengkukuo errangen unsere Streitkräfte einen klaren Sieg über die Streitkräfte von [MEN.GetLeader]. Die [MEN.GetAdjective]-Streitkräfte haben sich zurückgezogen, um sich neu zu formieren, und unsere Streitkräfte haben die Kontrolle über die Provinz [611.GetName] übernommen.\n\nDieser Sieg stärkt unsere Moral und unser Ansehen bei anderen führenden chinesischen Persönlichkeiten enorm."
+ umc_is_man.11.a:0 "Ein Teil unseres ehemaligen Landes wurde zurückgewonnen."
+ 
+ umc_is_man.12.t:0 "Patt in [611.GetName]"
+ umc_is_man.12.d:0 "Die Kämpfe im Gebiet [610.GetName]-[611.GetName] sind zum Stillstand gekommen, da es beiden Seiten nicht gelungen ist, die jeweils andere Seite zu verdrängen. Beide Seiten konnten nur wenig Gebiet gewinnen. Späher berichten, dass sich die [MEN.GetAdjective]-Soldaten der Gegenseite in Verteidigungsgebiet verschanzen. Offenbar wollen sie ihr Gebiet verteidigen, werden aber wahrscheinlich nicht gegen unsere Linien vorstoßen."
+ umc_is_man.12.a:0 "Dies war unsere größte Chance."
+ 
+ umc_is_man.13.t:0 "Niederlage in [611.GetName]"
+ umc_is_man.13.d:0 "Den Truppen unter dem Kommando von [MEN.GetLeader] ist es gelungen, uns aus dem umstrittenen Gebiet zwischen [610.GetName] und [611.GetName] zu vertreiben. Unsere Truppen haben sich geordnet zurückgezogen und reorganisieren sich, falls wir die Schlacht in Zukunft wieder aufnehmen wollen."
+ umc_is_man.13.a:0 "Sie sind stärker als wir erwartet hatten."
+ 
+ umc_is_man.14.t:0 "Sieg in [611.GetName]"
+ umc_is_man.14.d:0 ""
+ umc_is_man.14.a:0 "Das war fast unerwartet."
+ 
+ umc_is_man.15.t:0 "Mengjiang-Sieg in [611.GetName]"
+ umc_is_man.15.d:0 ""
+ umc_is_man.15.a:0 "Das war fast unerwartet."
+ 
+ umc_is_man.16.t:0 "Patt in [611.GetName]"
+ umc_is_man.16.d:0 ""
+ umc_is_man.16.a:0 "Ein zufriedenstellendes Ergebnis."
+ 
+ umc_is_man.17.t:0 "Patt in [611.GetName]"
+ umc_is_man.17.d:0 ""
+ umc_is_man.17.a:0 "Wir haben nichts verloren."
+ 
+ umc_is_man.18.t:0 "Niederlage in [611.GetName]"
+ umc_is_man.18.d:0 ""
+ umc_is_man.18.a:0 "Hoppla."
+ 
+ umc_is_man.19.t:0 "Mengjiang-Niederlage in [611.GetName]"
+ umc_is_man.19.d:0 "Den Streitkräften unter dem Kommando von [MAN.GetLeader] ist es gelungen, die Mengjiang-Streitkräfte aus dem umstrittenen Gebiet zwischen [610.GetName] und [611.GetName] zu vertreiben. Die Streitkräfte unserer Marionette wurden vollständig zerschlagen und die gesamte Äußere Mongolei wurde rasch von den Fengtian-Streitkräften besetzt."
+ umc_is_man.19.a:0 "Wir hatten dort unseren Halt verloren."
+ 
+ 
+ 
+ 
+ umc_is_man.10000.t:0 ""
+ umc_is_man.10000.d:0 ""
+ umc_is_man.10000.a:0 ""
+ umc_is_man.10000.b:0 ""
+ umc_is_man.10000.c:0 ""

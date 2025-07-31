@@ -1,0 +1,157 @@
+﻿l_german:
+
+ BOP_TOOLTIP:1 "Der §Y[root.GetPowerBalanceName]§! liegt derzeit bei [?.root.power_balance_value|0%H] auf der Seite von §Y[root.GetActiveSideName]§!"
+ BOP_TOOLTIP_TREND:0 "Das Kräfteverhältnis tendiert derzeit auf die Seite von §Y[root.GetTrendingSideName]§! von [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
+ BOP_TOOLTIP_STABLE:1 "Das Kräfteverhältnis ist derzeit stabil."
+ BOP_LEFT_SIDE_TOOLTIP:0 "[root.GetLeftSideName]"
+ BOP_RIGHT_SIDE_TOOLTIP:0 "[root.GetRightSideName]"
+ BOP_ACTIVE_RANGE_DESC:0 "[root.GetActiveRangeName]"
+ BOP_ACTIVE_RANGE_TOOLTIP:0 "[root.GetActiveRangeModDesc][root.GetActiveRangeRuleDesc]"
+
+ BOP_CHANGE_RATE_DAILY:2 "$VALUE|2%H$ pro Tag"
+ BOP_CHANGE_RATE_WEEKLY:2 "$VALUE|2%H$ pro Woche"
+
+ BOP_RANGE_DESC:0 "$NAME|Y$\nBereich: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
+ BOP_RANGE_MODIFIER:0 "§YModifikatoren:§!\n$DESC$"
+ BOP_RANGE_RULE:0 "§YRegeln:§!\n$DESC$"
+ BOP_RANGE_ACTIVATION_EFFECT:0 "\n§YAktivierungseffekt:§!\n$DESC$"
+ BOP_RANGE_DEACTIVATION_EFFECT:0 "\n§YDeaktivierungseffekt:§!\n$DESC$"
+ 
+ BOP_PERCENTAGE:0 "$WERT|0%$"
+ BOP_LEVELS:0 "$FREIGEGEBEN$/$GESAMT$"
+ 
+ BOP_STATIC_MODIFIER:0 "$NAME|H$"
+ 
+ ETH_centralization_balance:0 "Gleichgewicht der Kräfte"
+ ETH_mesafint_total_control_range:0 "Mesafint in der Kontrolle der Politik"
+ ETH_mesafint_dominant_range:0 "Mesafint dominiert die Politik"
+ ETH_mesafint_power_range:0 "Mesafint in Power"
+ ETH_mesafint_influence_range:0 "Mesafint beeinflusst die Politik"
+ ETH_balance_range:0 "Politisches Gleichgewicht"
+ ETH_mekwanint_influence_range:0 "Mekwanint beeinflusst die Politik"
+ ETH_mekwanint_power_range:0 "Mekwanint an der Macht"
+ ETH_mekwanint_dominant_range:0 "Mekwanint dominiert die Politik"
+ ETH_mekwanint_total_control_range:0 "Mekwanint kontrolliert die Politik"
+ 
+ ETH_decentralization_anarchist:0 "Anarchisten"
+ ETH_total_anarchist_range:0 "Anarchisten kontrollieren die Politik"
+ ETH_anarchist_dominant_range:0 "Anarchisten dominieren die Politik"
+ ETH_anarchist_power_range:0 "Anarchisten an der Macht"
+ ETH_anarchist_influence_range:0 "Anarchisten beeinflussen die Politik"
+
+ ETH_communist_side:0 "Kommunisten"
+ ETH_communist_total_control_range:0 "Kommunisten kontrollieren die Politik"
+ ETH_communist_influence_range:0 "Kommunisten beeinflussen die Politik"
+ ETH_communist_power_range:0 "Kommunisten an der Macht"
+ ETH_communist_dominant_range:0 "Kommunisten dominieren die Politik"
+
+ ETH_bop_is_mesafint_influence_or_higher_tt:0 "Mesafint-Einfluss:\n Mindestens §Y$ETH_mesafint_influence_range$§!"
+ ETH_bop_is_mesafint_power_or_higher_tt:0 "Mesafint-Einfluss:\n Mindestens §Y$ETH_mesafint_power_range$§!"
+ ETH_bop_is_mekwanint_influence_or_higher_tt:0 "Mekwanint-Einfluss:\n Mindestens §Y$ETH_mekwanint_influence_range$§!"
+ ETH_bop_is_mekwanint_power_or_higher_tt:0 "Mekwanint-Einfluss:\n Mindestens §Y$ETH_mekwanint_power_range$§!"
+ # Ethiopia Static Modifiers 
+ ETH_withdraw_priviliges_power_balance:0 "Reduzierte Mesafint-Privilegien"
+ ETH_increase_priviliges_power_balance:0 "Erweiterte Mesafint-Privilegien"
+ ETH_increase_communist_power_balance:0 "Zunehmende kommunistische Unterstützung"
+ ETH_increase_anarchist_power_balance:0 "Zunehmende Unterstützung für Anarchisten"
+ ETH_bop_anarchist_communist_changed:0 "Seit dem Start der Unterstützungskampagne ist es weniger als ein Jahr her."
+ ETH_bop_anarchist_privileges_changed:0 "Seit dem Start der Unterstützungskampagne ist es weniger als ein Jahr her."
+ ETH_mesafint_side:0 "§YMesafint§! Seite"
+ ETH_mekwanint_side:0 "§YMekwanint-Seite§!"
+
+ ETH_mesafint_total_control_range_state_modifiers_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §R-25%§!\n$modifier_production_speed_infrastructure_factor$: §R-20%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-20%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+20%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+20%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-25%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10%§!"
+ ETH_mesafint_dominant_range_state_modifiers_tt:0 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §R-20%§!\n$modifier_production_speed_infrastructure_factor$: §R-15%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-15%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+15%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+15%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-20%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10%§!"
+ ETH_mesafint_power_range_state_modifiers_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §R-15%§!\n$modifier_production_speed_infrastructure_factor$: §R-10%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-10%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+10%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-15%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10%§!"
+ ETH_mesafint_influence_range_state_modifiers_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §R-10%§!\n$modifier_production_speed_infrastructure_factor$: §R-5%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-5%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-10%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10%§!"
+ 
+ ETH_balance_range_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §Y0%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §Y0%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §Y0%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §Y0%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §Y0%§!"
+ 
+ ETH_mekwanint_influence_range_state_modifiers_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §R-5%§!\n$modifier_production_speed_infrastructure_factor$: §G+5%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+5%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §R-5%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+0%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §R-10%§!"
+ ETH_mekwanint_power_range_state_modifiers_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+0%§!\n$modifier_production_speed_infrastructure_factor$: §G+10%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+10%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §R-10%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §R-5%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+10%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §R-10%§!"
+ ETH_mekwanint_dominant_range_state_modifiers_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+0%§!\n$modifier_production_speed_infrastructure_factor$: §G+15%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+15%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §R-15%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §R-5%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+15%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §R-10%§!"
+ ETH_mekwanint_total_control_range_state_modifiers_tt:1 "\n§YState-Modifikatoren:§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+0%§!\n$modifier_production_speed_infrastructure_factor$: §G+20%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+20%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §R-20%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §R-10%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+20%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §R-10%§!"
+ 
+ 
+ ETH_risk_of_rebellion_tt:0 "Risiko einer Rebellion\n Eine Rebellion wird ausgelöst, wenn die Stabilität weniger als §Y15 %§! oder die Popularität der Regierungspartei weniger als §Y40 %§! beträgt."
+ ETH_risk_of_disintegration_tt:0 "§RRisk§!, dass [ROOT.GetName] auseinanderfällt\n Das Land wird zerfallen, wenn die Stabilität weniger als §Y15 %§! oder die Popularität der Regierungspartei weniger als §Y40 %§! beträgt."
+ ETH_risk_of_demoralized_ras_tt:0 "§RRisk§! einer demoralisierten Ras, wenn derzeit nur 50 % oder weniger des Heimatgebiets kontrolliert werden.\n Dies löst eine §YMission§! zur Rückeroberung des Landes aus."
+ ETH_BoP_spanish_exiles_modifier:0 "Zufluchtsort für im Exil lebende spanische Anarchisten"
+
+ ####### SWITZERLAND BoP Modifiers #######
+
+ SWI_centralization_bop:1 "Gleichgewicht der Kräfte"
+ SWI_centralization_bop_canton:0 "Kantone"
+ SWI_centralization_bop_council:0 "Bundesrat"
+ SWI_centralization_bop_fully_cantons:0 "Volle kantonale Macht"
+ SWI_centralization_bop_very_cantons:0 "Starke kantonale Macht"
+ SWI_centralization_bop_balanced:0 "Gleichgewicht zwischen Rat und Kantonen"
+ SWI_centralization_bop_very_council:0 "Starke Kontrolle durch den Rat"
+ SWI_centralization_bop_fully_council:0 "Volle Kontrolle durch den Rat"
+
+
+ SWI_guiding_principles_cantons:0 "Schweizer Leitbilder"
+ SWI_guiding_principles_council:0 "Schweizer Leitbilder"
+ SWI_guisan_power_balance:0 "Henri Guisan"
+ SWI_aktion_nationaler_widerstand_mod:0 "Aktion Nationaler Widerstand"
+
+
+
+
+ ####### ITALY #######
+ ITA_power_balance:0 "Nationales Kräftegleichgewicht"
+ ITA_grand_council_side:1 "[GetGrandCouncilName]"
+ ITA_mussolini_side:0 "$ITA_benito_mussolini$"
+ ITA_balbo_side:0 "$ITA_italo_balbo$"
+ ITA_grandi_side:0 "$ITA_dino_grandi$"
+ ITA_king_side:1 "$ITA_vittorio_emanuele_iii$"
+ ITA_king_umberto_side:0 "$ITA_prince_umberto_king$"
+ ITA_communism_side:0 "Kommunistische Fraktion"
+ ITA_democratic_side:0 "Sozialistische Fraktion"
+ ITA_pope_side:0 "Seine Heiligkeit"
+
+ ITA_balance_range:0 "Politisches Gleichgewicht"
+ ITA_grand_council_low_control_range:0 "Geringer Einfluss des Rates"
+ ITA_grand_council_medium_control_range:0 "Dominanter Einfluss des Rates"
+ ITA_grand_council_high_control_range:0 "Misstrauensantrag gegen den Duce"
+ ITA_grand_council_total_control_range:0 "Totale Kontrolle des Großen Rates"
+ ITA_mussolini_low_control_range:0 "Niedrige Duce-Autorität"
+ ITA_mussolini_medium_control_range:0 "Konsolidierte Macht des Duce"
+ ITA_mussolini_high_control_range:0 "Diktatorische Autorität des Duce"
+ ITA_mussolini_total_control_range:0 "Totale Dominanz des Duce"
+ ITA_balbo_low_control_range:0 "$ITA_mussolini_low_control_range$"
+ ITA_balbo_medium_control_range:0 "$ITA_mussolini_medium_control_range$"
+ ITA_balbo_high_control_range:0 "$ITA_mussolini_high_control_range$"
+ ITA_balbo_total_control_range:0 "$ITA_mussolini_total_control_range$"
+ ITA_grandi_low_control_range:0 "$ITA_mussolini_low_control_range$"
+ ITA_grandi_medium_control_range:0 "$ITA_mussolini_medium_control_range$"
+ ITA_grandi_high_control_range:0 "$ITA_mussolini_high_control_range$"
+ ITA_grandi_total_control_range:0 "$ITA_mussolini_total_control_range$"
+ ITA_king_low_control_range:0 "Schwacher Einfluss des Hauses Savoyen"
+ ITA_king_medium_control_range:0 "Einflussreiches Haus Savoyen"
+ ITA_king_high_control_range:0 "Konsolidiertes Haus Savoyen"
+ ITA_king_total_control_range:0 "Dominierendes Haus Savoyen"
+ ITA_king_umberto_low_control_range:0 "$ITA_king_low_control_range$"
+ ITA_king_umberto_medium_control_range:0 "$ITA_king_mittlerer_Kontrollbereich$"
+ ITA_king_umberto_high_control_range:0 "$ITA_king_high_control_range$"
+ ITA_king_umberto_total_control_range:0 "$ITA_king_total_control_range$"
+ ITA_communism_low_control_range:0 "Geringer kommunistischer Einfluss"
+ ITA_communism_medium_control_range:0 "Kommunistische Vorherrschaft in der Politik"
+ ITA_communism_high_control_range:0 "Kommunistische Dominanz in der Politik"
+ ITA_communism_total_control_range:0 "Kommunistische Vorherrschaft"
+ ITA_democratic_low_control_range:0 "Geringer sozialistischer Einfluss"
+ ITA_democratic_medium_control_range:0 "Sozialistische Vorherrschaft in der Politik"
+ ITA_democratic_high_control_range:0 "Sozialistische Dominanz in der Politik"
+ ITA_democratic_total_control_range:0 "Sozialistische Vorherrschaft"
+ ITA_pope_low_control_range:0 "Geringer päpstlicher Einfluss"
+ ITA_pope_medium_control_range:0 "Konsolidierter päpstlicher Einfluss"
+ ITA_pope_high_control_range:0 "Päpstliche Dominanz"
+ ITA_pope_total_control_range:0 "Aufstieg des Papstes"
+ ITA_bop_cap_for_colonies_impact_tt:0 "Der Verlust von Nicht-Kernstaaten hat keinen Einfluss mehr auf das Kräftegleichgewicht, solange der Wert größer als §Y30 %§! in Richtung §Y$ITA_grand_council_side$§! ist."
+
+ ITA_power_balance_lost_core_1:0 "Verlorene Kerne"
+ ITA_power_balance_lost_core_2:0 "$ITA_power_balance_lost_core_1$"
+ ITA_power_balance_lost_core_3:0 "$ITA_power_balance_lost_core_1$"
+ ITA_power_balance_lost_core_4:0 "$ITA_power_balance_lost_core_1$"
+ ITA_power_balance_lost_core_5:0 "$ITA_power_balance_lost_core_1$"
+
+ 

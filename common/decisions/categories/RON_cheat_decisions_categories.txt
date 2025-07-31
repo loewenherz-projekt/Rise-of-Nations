@@ -1,0 +1,15 @@
+RON_cheat_decisions = {
+	icon = GFX_decision_cat_generic_crisis
+	
+	allowed = {
+		always = yes
+	}
+	
+	visible = {
+		always = yes
+	}
+	
+	priority = {
+		base = 1000
+	}
+}

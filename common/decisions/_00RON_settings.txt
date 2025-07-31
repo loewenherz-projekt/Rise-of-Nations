@@ -40,6 +40,7 @@ RON_game_settings = {
 			set_global_flag = change_era_in_progress
 		}
 	}
+
 	RON_russian_weather_report = {
 		allowed = {
 			RON_is_allowed_to_trigger_russian_winter = yes

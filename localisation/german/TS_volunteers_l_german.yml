@@ -1,0 +1,12 @@
+﻿l_german:
+
+
+
+ TS_RECALL_DIPLO_TITLE:0 "Freiwillige zurückrufen"
+ TS_RECALL_DIPLO_ACTION_DESC:0 "Rufen Sie unsere Freiwilligen aus diesem Land zurück.\n\nDies wird dazu führen, dass unser Ansehen bei ihnen sinkt." 
+
+ TS_recall_volunteers_LOC:0 "Möchten Sie unsere Freiwilligen von\n\n§Y[From.Getname]?§!\n\nabberufen? Dies wird als Verrat an unserer vorherigen Vereinbarung, ihnen zu helfen, angesehen."
+ TS_recall_volunteers_TITLE:0 "[ROOT.GetAdjective] Freiwillige zurückgerufen"
+ TS_recall_volunteers_DESC:0 "§Y[ROOT.GetName]§!\n\nHat beschlossen, seine Freiwilligen zurückzurufen.\n\nDadurch haben sie nicht nur nicht geliefert, was sie uns versprochen hatten, sondern sie haben möglicherweise auch noch riesige Löcher in unsere Frontlinie gerissen."
+ 
+ TS_betrayed_volunteers:0 "Zurückgerufene Kräfte, die uns versprochen wurden!"

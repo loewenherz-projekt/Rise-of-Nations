@@ -1,0 +1,424 @@
+﻿l_german:
+ Constantinople:0 "Konstantinopel"
+ EastConstantinople:0 "Ost-Konstantinopel"
+ Vilnius:0 "Wilna"
+ Magdagrad:0 "Magdagrad"
+ Zizigrad:0 "Zizigrad"
+ Marcus:0 "Marcus Island"
+ Daemado:0 "Daemado"
+ Rijeka:0 "Rijeka"
+ 
+ #New city names
+ SAINT_PT:0 "Sankt Petersburg"
+ PETRO_GRAD:0 "Petrograd"
+ KAISER_STADT:0 "Kaiserstadt"
+ Titograd:0 "Titograd"
+ Beijing:0 "Peking"
+ 
+ ##German Names
+ Germania:0 "Germania"
+ Hindenburg:0 "Hindenburg"
+ Ludendorff:0 "Ludendorff"
+ Westprussia:0 "Westpreußen"
+ Strassburg:0 "Straßburg"
+ Mulhausen:0 "Mülhausen"
+ Elsass:0 "Elsass-Lothringen"
+ Kattowitz:0 "Kattowitz"
+ Nordschleswig:0 "Nordschleswig"
+ Tsingtao:0 "Tsingtau"
+ Posen:0 "Posen"
+ Gdingen:0 "Gdingen"
+ Bromberg:0 "Bromberg"
+ Thorn:0 "Dorn"
+ Lodz:0 "Lodz" #German
+ Plotzk:0 "Plotzk"
+ Auschwitz:0 "Auschwitz"
+ Jutland:0 "Jütland"
+ Nanzig:0 "Nanzig"
+ Karlsbad:0 "Karlsbad"
+ Reichenberg:0 "Reichenberg"
+ Nordsudetenland:0 "Nordsudetenland"
+ Ostrau:0 "Ostrau"
+ Ostsudetenland:0 "Ostsudetenland"
+ Sudsudetenland:0 "Südsudetenland"
+ Bozen:0 "Bozen"
+ Sudtyrol:0 "Südtirol"
+ Veldes:0 "Veldes"
+ Oberkrain:0 "Oberkrain"
+ Krain:0 "Krain"
+ Laibach:0 "Laibach"
+ Odenburg:0 "Ödenburg"
+ Pressburg:0 "Pressburg"
+ Lemberg:0 "Lemberg"
+ Stanislau:0 "Stanislau"
+ Brestlito:0 "Brest-Litowsk"
+ Wilna:0 "Wilna"
+ eastberlin:0 "Ost-Berlin"
+ westberlin:0 "West-Berlin"
+ 
+ #Polish Names
+ Gdansk:0 "Danzig"
+ Szczecin:0 "Stettin"
+ Olsztyn:0 "Allenstein"
+ Warmia:0 "Ermland-Masuren"
+ Koszalin:0 "Koszalin"
+ Koszalin_voi:0 "Koszalin"
+ Kostrzyn:0 "Kostrzyn nad Odra"
+ Gorzow:0 "Gorzów"
+ Wroclaw:0 "Breslau"
+ Wroclaw_voi:0 "Breslau"
+ Opole:0 "Oppeln"
+ Opole_voi:0 "Oppeln"
+ Gliwice:0 "Gleiwitz"
+ Nysa:0 "Nysa"
+ Trzebnica:0 "Trebnitz"
+ 
+ #Chinese Names
+ Diaoyu:0 "Diaoyu-Inseln"
+ Haishenwai:0 "Haishenwai"
+ Boli:0 "Bólì"
+ 
+ #Japanese Names
+ Urajiosutoku:0 "Urajiosutoku"
+ Kitakarafuto:0 "Kita Karafuto"
+ 
+ #Soviet Names (Russian, Ukranian, and Belarusian)
+ Kaliningrad:0 "Kaliningrad"
+ Sakhalinsk:0 "Juschno-Sachalinsk"
+ Southsakhalin:0 "Süd-Sachalin"
+ Sovetsk:0 "Sowetsk"
+ Khotyn:0 "Chotyn"
+ Kishinev:0 "Kischinau"
+ Bilhorod:0 "Bilhorod-Dnistrowskyj"
+ Budjak:0 "Budjak"
+ Stanislav:0 "Stanislaw"
+ Lvov:0 "Lemberg"
+ Lviv:0 "Lemberg"
+ Rivne:0 "Riwne"
+ Volhynia:0 "Wolhynien"
+ Brest:0 "Brest"
+ Pinsk:0 "Pinsk"
+ Navahrudak:0 "Navahrudak"
+ Baranavichy:0 "Baranawitschy"
+ Hrodna:0 "Hrodna"
+ Vileyka:0 "Wilejka"
+ Maladzyechna:0 "Maladsetschna"
+ Vilna:0 "Wilna"
+ Karelija:0 "Karelien"
+ Vyborg:0 "Wyborg"
+ Pechengsky:0 "Petschengsky"
+ Kuoloyarvi:0 "Kuoloyärvi"
+ Beltsy:0 "Beltsy"
+
+ #Vanilla Fix
+ form_country_oman_required_states_tt:0 "Steuert alle §YOmani§!-Zustände."
+ form_country_oman_coring_states_tt:0 "Erhalte Kerne in allen §YOmani§!-Zuständen.\n"
+ form_country_yemen_required_states_tt:0 "Steuert alle §YYemeni§!-Zustände."
+ form_country_yemen_coring_states_tt:0 "Erhalte Kerne in allen §YYemeni§!-Zuständen.\n"
+ 
+ GER_reichskommissariat_moskowien:0 "Reichskommissariat Moskau"
+ GER_reichsprotektorat_bohmen_und_mahren:0 "Reichsprotektorat Böhmen-Mähren"
+ GER_generalgouvernement:0 "Generalgouvernement"
+ 
+ CHI_communist_infiltration_state_1027:0 " [1027.GetName][1027.GetCommaIfMoreInfiltration]"
+
+ #Reichsprotektorat
+ GER_form_the_reichsprotektorat:0 "Bilden Sie das Reichsprotektorat"
+ GER_form_the_reichsprotektorat_desc:0 "Um die Nutzung lokaler Ressourcen, der Industrie und der Arbeitskräfte zu verbessern, sollten wir die Einrichtung einer quasi-autonomen Untertanenregierung in unseren eroberten Gebieten in Erwägung ziehen."
+ GER_reichsprotektorat:0 "Reichsprotektorat"
+ GER_reichsprotektorat_desc:0 "Ermöglicht die Schaffung bestimmter Reichsprotektorat-Untertanen außerhalb des kontrollierten Gebiets."
+ 
+ #Burgenland Question
+ HUN_burgenland_question:0 "Anfrage Burgenland aus Deutschland"
+ HUN_burgenland_question_desc:0 "Das Burgenland ist unser rechtmäßiges Territorium. Wir mussten es 1921 durch eine fragwürdige Parlamentswahl verlieren. Doch jetzt, da Deutschland dieses Gebiet kontrolliert, könnte man es vielleicht dazu überreden, es uns zu überlassen ..."
+ 
+ #Separate Burma
+ BS_colony_politic_category:0 "Separates Burma"
+ BS_colony_politic_category_desc:0 "Wir können eine neue Verfassung beschließen, die eine vollständig gewählte Versammlung vorsieht und den Burmesen viele Machtbefugnisse überträgt."
+ ENG_separate_burma:0 "Trennung von Burma und Indien"
+
+ #All
+ BS_request_territoy_category:0 "Gebiet anfordern"
+ 
+ #Operation Achse
+ GER_operation_achse_category:0 "Operation Achse"
+ GER_operation_achse_category_desc:0 "Mit Unterstützung von König Viktor Emanuel III. stürzten und verhafteten die Italiener Mussolini. Darüber hinaus haben sie uns verlassen und sich den Alliierten zugewandt. Wir müssen Maßnahmen ergreifen, um diese Situation zu lösen."
+ GER_operation_achse:0 "Operation Achse"
+ 
+ #New order in France
+ GER_new_order_in_france_category:0 "Neuer Auftrag in Frankreich"
+ GER_new_order_in_france_category_desc:0 "Wir haben ganz Frankreich erobert! Da sie eine große Bedrohung für uns darstellten, könnte eine Balkanisierung Frankreichs vielleicht hilfreich sein, um sie unter Kontrolle zu bringen."
+ GER_ss_staat_burgund:0 "Form the SS-Staat Burgund"
+ GER_ss_staat_burgund_desc:0 "Heinrich Himmler, der Anführer der Schutzstaffel, hat die Gründung des SS-Staates Burgund vorgeschlagen. Heinrich Himmler sagte: „Burgund ist ein altes wirtschaftliches und kulturelles Zentrum und wäre getrennt von Frankreich leichter zu kontrollieren.“"
+ GER_unabhangiger_staat_bretagne:0 "Bilden Sie das Protektorat Bretagne"
+ GER_unabhangiger_staat_bretagne_desc:0 "Unser Führer, Adolf Hitler, hat einen unabhängigen britischen Staat vorgeschlagen. Er hat diese Absicht gelegentlich gegenüber seinem Generalstab erwähnt und diese Pläne fertiggestellt und umgesetzt."
+ 
+ #New name of cities
+ BS_new_name_of_cities_category:0 "Neue Namen für unsere Städte"
+ BS_new_name_of_cities_category_desc:0 "Einige von uns besetzte Städte haben von ihren früheren Herrschern politisch bedeutsame Namen erhalten. Da diese Städte nun in unserer Hand sind, können wir ihnen neue, weniger umstrittene Namen geben."
+ BS_new_name_of_leningrad:0 "Neuer Name für [195.GetName]"
+ BS_new_name_of_stalingrad:0 "Neuer Name für [217.GetName]"
+ 
+ #North German Confederation
+ form_north_german_confederation_category:0 "Den Norddeutschen Bund wiederbeleben"
+ form_north_german_confederation_category_desc:0 "Norddeutschland wiedervereinigen und den Norddeutschen Bund wiederbeleben."
+ form_north_german_confederation:0 "Den Norddeutschen Bund wiederbeleben"
+ 
+ #Invade Monaco
+ BS_invade_monaco_category:0 "Erobern Sie Monaco"
+ BS_invade_monaco_category_desc:0 "Monaco ist ein winziges Land und von unseren Truppen umzingelt. Manche meinen, es könnte zu einer Basis für unsere Feinde werden. Da Monaco sehr schwach ist, können wir es leicht besiegen und die Bedrohung neutralisieren."
+ BS_invade_monaco:0 "Erobern Sie Monaco"
+ 
+ 
+ ## Liechtenstein
+ 
+ BS_invade_liechtenstein:0 "Erobere Liechtenstein"
+ 
+ #Annex Tangier
+ BS_invade_tangier_category:0 "Occupy Tanger"
+ BS_invade_tangier_category_desc:0 "Europa befindet sich im Krieg, und Frankreich, das einflussreichste Land in Tanger, ist an die Deutschen gefallen. Infolge dieser Situation fordern die Spanier die Besetzung Tangers, um unsere Südküste zu sichern. Die ganze Welt blickt nun auf Deutschland, daher wird sich sicherlich niemand um dieses winzige Gebiet kümmern."
+ BS_invade_tangier:0 "Occupy Tanger"
+ 
+ #Form Confederate States
+ form_confederate_states_category:0 "Ruhm der Konföderierten Staaten"
+ form_confederate_states_category_desc:0 "Unser glorreiches Land, die Konföderierten Staaten von Amerika, wird wiedergeboren und wir werden nie wieder verlieren."
+ form_confederate_states:0 "Ruhm der Konföderierten Staaten"
+ 
+ #Transfer territories
+ BS_transfer_territories_category:0 "Gebiete übertragen"
+ BS_transfer_territories_category_desc:0 "Wir müssen nicht alle besetzten Gebiete behalten. Besser wäre es, die Länder unseren Verbündeten oder Marionetten zu überlassen."
+ GER_eastern_poland:0 "Ostpolen zum Generalgouvernement"
+ GER_transnistria_romania:0 "Transnistrien nach Rumänien"
+
+
+
+ #New Slovenia event
+ germany.940.t:0 "Die Kapitulation Londons"
+ germany.940.d:0 "London hat sich unserem Anspruch auf Slowenien geschlagen gegeben. Jetzt haben wir zwei Möglichkeiten: Slowenien mit unseren Freunden aufzuteilen oder ganz zu beanspruchen."
+ germany.940.a:0 "Teilen Sie Slowenien mit Italien und Ungarn."
+ germany.940.b:0 "Nimm alles!"
+ 
+ germany.941.t:0 "Deutschland tritt einen Teil Sloweniens ab"
+ germany.941.d:0 "Deutschland hat uns einen Teil Sloweniens überlassen."
+ germany.941.a:0 "Großartig!"
+
+ germany.942.t:0 "Deutschland tritt einen Teil Sloweniens ab"
+ germany.942.d:0 "Deutschland hat uns einen Teil Sloweniens überlassen."
+ germany.942.a:0 "Großartig!"
+ 
+ #Burgenland Question
+ bs.1.t:0 "Ungarn fordert Burgenland auf"
+ bs.1.d:0 "Das Burgenland gehörte bis 1921 zu Ungarn. Danach wurde das Gebiet nach Parlamentswahlen an Österreich abgetreten. Obwohl die Bevölkerung mehrheitlich deutschsprachig ist, möchte Ungarn das Gebiet zurückhaben."
+ bs.1.a:0 "Ungarn sind dort nur eine Minderheit."
+ bs.1.b:0 "Lass es sie haben."
+ 
+ bs.100.t:0 "Deutschland hat unsere Anfrage angenommen"
+ bs.100.d:0 "Die deutsche Regierung hat unserer Bitte entsprochen. Ungarn, kommt zurück nach Hause!"
+ bs.100.a:0 "Die Deutschen sind unsere besten Freunde!"
+ 
+ bs.101.t:0 "Deutschland lehnte unsere Anfrage ab"
+ bs.101.d:0 "Die deutsche Regierung hat unsere Anfrage abgelehnt. Sie betrachtet sie wahrscheinlich als leichtsinnige Anfrage."
+ bs.101.a:0 "Es war eine absurde Forderung, und wir werden sie zurückziehen."
+ bs.101.b:0 "Wir werden keinen Schritt zurück machen."
+ 
+ #Separate Burma
+ bs_burma_separate_tt:0 "§YBurma§! wird von §Y[RAJ.GetName]§! getrennt sein."
+ 
+ #Pope Died
+ bs.3.t:0 "Der Tod von Papst Pius XI." #Copied from Wikipedia https://en.wikipedia.org/wiki/Pope_Pius_XI#Death_and_burial
+ bs.3.d:0 "Papst Pius XI. war schon länger krank, als er am 25. November 1938 innerhalb weniger Stunden zwei Herzinfarkte erlitt. Er litt unter schweren Atemproblemen und konnte seine Wohnung nicht verlassen. Fachärzte berichteten, dass Herzinsuffizienz und Bronchialanfälle seine ohnehin schon schlechten Aussichten hoffnungslos verschlechtert hatten. \nPapst Pius XI. starb am 10. Februar 1939 um 5:31 Uhr (römischer Zeit) im Alter von 81 Jahren an einem dritten Herzinfarkt. Seine letzten Worte an seine Nächsten waren klar und bestimmt: „Meine Seele scheidet in Frieden von euch allen.“"
+ bs.3.a:0 "Oh je..."
+ bs.3.b:0 "Hoffentlich wird Pius XII. ebenso lange regieren."
+ 
+ #Italy wants left axis
+ bs.400.t:0 "Ersetzen Sie den Premierminister"
+ bs.400.d:0 "Unser König, Viktor Emanuel III., glaubt, dass wir diesen Krieg verlieren und teuer dafür bezahlen werden. Aus dieser Überzeugung heraus möchte unser König den Premierminister durch einen Nichtfaschisten ersetzen."
+ bs.400.a:0 "Ersetzen Sie ihn sofort."
+ bs.400.b:0 "Das ist zu riskant."
+ 
+ bs.401.t:0 "Die Verhaftung Mussolinis"
+ bs.401.d:0 "Der italienische König Viktor Emanuel III. hat die sofortige Verhaftung von Ministerpräsident Benito Mussolini angeordnet, um die Faschisten zu stürzen. Obwohl Viktor Emanuel III. Mussolini selbst zum Ministerpräsidenten ernannt hatte, musste er mit ansehen, wie sein Land den Krieg verlor, und will keine weiteren Niederlagen. Nach seinem Befehl hat die neue italienische Regierung die Alliierten um einen Waffenstillstand gebeten, doch sie werden für ihre Taten bezahlen müssen."
+ bs.401.a:0 "Hat Italien Deutschland erneut verraten?"
+ bs.401.ITA:0 "Jetzt brauchen wir einen Waffenstillstand mit den Alliierten."
+ bs.401.ITA_tt:0 "„Wir werden die Kolonien verlieren!“"
+ bs.401.GER:0 "Vernichtet den Verräter!"
+ 
+ bs.402.t:0 "Italien bietet Waffenstillstand an"
+ bs.402.d:0 "Nach Mussolinis Verhaftung hat die neue italienische Regierung einen Waffenstillstand mit den Alliierten gefordert. Trotz ihrer früheren Verbindungen zu den Achsenmächten haben sie eine antifaschistische Regierung eingesetzt und kämpfen nun gegen Deutschland. Sollten wir ihr Angebot annehmen, müssen sie ihre Kolonien aufgeben."
+ bs.402.a:0 "Wir brauchen sie jetzt mehr als später."
+ bs.402.b:0 "Wie dem auch sei, es wird sich nie ändern, dass sie Kriegsverbrecher sind."
+ 
+ bs.403.t:0 "Großbritannien hat unser Angebot angenommen"
+ bs.403.d:0 "Die britische Regierung hat unser Angebot angenommen. Obwohl wir unsere wenigen Kolonien verlieren werden, ist der Preis im Vergleich zu dem, was wir gewinnen, angemessen."
+ bs.403.a:0 "Jetzt können wir uns auf den Kampf gegen Deutschland konzentrieren."
+ 
+ bs.404.t:0 "Großbritannien lehnte unser Angebot ab"
+ bs.404.d:0 "Die britische Regierung hat unser Angebot abgelehnt. Ihre Wut auf uns ist einfach zu groß."
+ bs.404.a:0 "Wir haben keine Wahl."
+
+ #Operation achse
+ bs.4.t:0 "Deutschland errichtete Marionettenregierung im Norden"
+ bs.4.d:0 "Deutschland hat die Kontrolle über die nördliche Hälfte Italiens übernommen, Mussolini freigelassen und ihn in das von Deutschland besetzte Gebiet gebracht, um dort ein Satellitenregime zu errichten."
+ bs.4.a:0 "Zerstört die Faschisten!"
+ 
+ #Occupy Schutzzone
+ bs.5.t:0 "Deutsch-Slowakischer Vertrag"
+ bs.5.d:0 "Im Rahmen des Schutzabkommens zwischen Deutschland und der Slowakei können wir nun einen Teil der Westslowakei besetzen. Obwohl das Gebiet klein erscheint, befinden sich dort mehrere Waffenfabriken und wichtige ehemalige tschechoslowakische Waffenlager. Was sollen wir tun?"
+ bs.5.a:0 "Militärische Besetzung."
+ bs.5.b:0 "Bleibt die Slowakei."
+ 
+ #Capital of Austria-Hungary
+ bs.11.t:0 "Kapitalfrage"
+ bs.11.d:0 "Nach der Wiederherstellung Österreich-Ungarns diskutierten einige Regierungsvertreter über einen Hauptstadtwechsel. Obwohl die Ungarn die beiden Länder wiedervereinen sollten, war Wien die Hauptstadt unseres alten Reiches. Was sollten wir tun?"
+ bs.11.a:0 "Wien ist die legitime Hauptstadt."
+ bs.11.b:0 "Die Ungarn werden dieses Reich von Ungarn selbst aus führen."
+
+ #Suicide of Hitler
+ bs.12.d:0 "Bei der Einnahme Berlins entdeckten unsere Truppen Hitlers Leiche in einem Bunker der Stadt. Der Führer entschied sich offenbar für den Tod, anstatt die Alliierten das Land übernehmen zu sehen, und nahm sich das Leben, um nicht gefangen genommen zu werden.\n\nGemäß Hitlers Willen übernahm Karl Dönitz nun die Führung der Nazis."
+ bs.12.a:0 "Die Nazis sind gefallen."
+
+ #Cairo Conference (Actually, most of them came from Yalta Conference)
+ bs.13.t:0 "Die Kairoer Konferenz"
+ bs.13.d:2 "Da der Krieg in Ostasien zügig voranschreitet, ist es für die unvermeidlichen Sieger an der Zeit, über die Zukunft Ostasiens nachzudenken.\n\nWir könnten [cairo_partner.GetNameDef] eine Konferenz über die Teilung Koreas nach dem Krieg vorschlagen, um unsere Einflusssphären auf dem Kontinent abzugrenzen.\n\nUnsere „Freunde“ in [cairo_partner.GetNameDef] haben signalisiert, dass sie an einer solchen Konferenz interessiert wären. Zweifellos werden sie eine Belohnung für ihre Opfer erwarten."
+ bs.13.a:0 "Wir brauchen eine Konferenz zur Zukunft Ostasiens."
+ bs.13.b:0 "Wir können nicht mit [cairo_partner.GetNameDef] zusammenarbeiten."
+ bs.14.t:0 "Die Kairoer Konferenz"
+ bs.14.d:0 "Da der Krieg gegen [JAP.GetNameDef] seinem unvermeidlichen Ende entgegengeht, hat [cairo_origin.GetNameDef] uns wegen einer Konferenz über die Zukunft Ostasiens kontaktiert.\n\nSie schlagen eine Teilung Koreas in Nord und Süd vor. Dies würde unseren Einflussbereich weit nach Ostasien ausdehnen und einige der Verluste wettmachen, die wir in diesem grausamen Kampf erlitten haben."
+ bs.14.a:0 "Für eine dauerhafte Zusammenarbeit."
+ bs.14.b:0 "Wir werden unseren eigenen Frieden diktieren."
+ bs.15.t:0 "[cairo_partner.GetNameDefCap] weigert sich, teilzunehmen"
+ bs.15.d:0 "Unsere geplante Konferenz zur Zukunft Ostasiens ist geplatzt.\n\n[cairo_partner.GetLeader] hat in aller Deutlichkeit jegliche Notwendigkeit von Planung und Zusammenarbeit im Nachkriegsostasien zurückgewiesen.\n\nWir treffen uns, wenn ich meine Forderungen an [JAP.GetNameDef] am Verhandlungstisch vorbringe. Ich werde nicht zulassen, dass [cairo_partner.GetNameDef] durch kleinliche Politik in die Quere kommt."
+ bs.15.a:0 "Das ist besorgniserregend."
+ bs.17.t:0 "Die Teilung Koreas"
+ bs.17.d:0 "Wie im Kairoer Abkommen festgelegt, soll Korea in zwei separate Staaten aufgeteilt werden, die jeweils in die Gewalt einer der Kriegsparteien fallen."
+ bs.17.a:0 "Armes Korea ..."
+
+ #Cairo Conference News
+ bs.16.t:0 "Die Kairoer Konferenz"
+ bs.16.d:0 "Da ein gemeinsamer Sieg gegen [JAP.GetNameDef] unvermeidlich ist, wollen [cairo_origin.GetNameDef] und [cairo_partner.GetNameDef] die zukünftige Stabilität in Europa sichern. [cairo_origin.GetLeader], [cairo_partner.GetLeader] und die Staats- und Regierungschefs anderer am Krieg beteiligter Länder haben sich getroffen, um über das Schicksal von [JAP.GetNameDef] zu einigen.\n\nTagelange Verhandlungen führten zur Zeichnung einer neuen Karte Ostasiens. Diese neue Ordnung Ostasiens wird durch die Wunde, die sich mitten durch Korea zieht, zwischen Nord und Süd geteilt."
+ bs.16.a:0 "Loben Sie den Tag nicht, bevor der Abend vorbei ist."
+ bs.16.b:0 "Wir forderten, was uns richtig erschien."
+ bs.16.c:0 "Lassen Sie uns diesen Krieg schnell beenden."
+ bs.16.e:0 "Dies könnte das Ende von [JAP.GetNameDef] sein."
+
+ #Danzig
+ bshistory.2.t:0 "Die Diskussion über unsere Zukunft"
+ bshistory.2.d:0 "Die Mehrheit der Bevölkerung Danzigs ist deutsch, und die meisten von ihnen wünschen sich eine Wiedereingliederung in Deutschland. Glücklicherweise hat ein deutsch-polnischer Krieg begonnen. Dies ist der beste Zeitpunkt, um Entscheidungen zu treffen."
+ bshistory.2.a:0 "Treten Sie Deutschland bei."
+ bshistory.2.b:0 "Zu Polen zu gehören ist viel sicherer."
+ bshistory.2.c:0 "Wir werden unsere Souveränität selbst schützen!"
+ 
+ bshistory.3.t:0 "Danzig hat beschlossen, an unserer Seite zu stehen"
+ bshistory.3.d:0 "Das Danziger Parlament hat beschlossen, auf unserer Seite zu stehen."
+ bshistory.3.a:0 "Danzig ist ein Teil Deutschlands!"
+ 
+ bshistory.4.t:0 "Danzig hat beschlossen, an unserer Seite zu stehen"
+ bshistory.4.d:0 "Obwohl die Mehrheit der Bevölkerung in Danzig deutsch ist, haben sie sich entschieden, auf unserer Seite zu stehen."
+ bshistory.4.a:0 "Willkommen zu Hause."
+ 
+ bshistory.5.t:0 "Danzig schließt sich Polen an"
+ bshistory.5.d:0 "Obwohl deutsche Faschisten in Danzig Machtpositionen innehaben, scheinen sie uns eher zu hassen als Polen. Sie haben beschlossen, Teil Polens zu sein und erklärten: „Wir können die Wilden nicht ausstehen!“"
+ bshistory.5.a:0 "Es spielt keine Rolle, wir werden sie zusammen mit dem Rest Polens erobern!"
+ 
+ bshistory.6.t:0 "Danzig beschloss, den Status Quo beizubehalten"
+ bshistory.6.d:0 "Das Danziger Parlament hat beschlossen, den Status Quo beizubehalten."
+ bshistory.6.a:0 "Sie werden es bereuen ..."
+ bshistory.6.b:0 "Polen ist wichtiger als Danzig!"
+ 
+ bshistory.10.t:0 "Wir sind von Deutschland annektiert"
+ bshistory.10.d:0 "Aufgrund äußerer Umstände wurden wir von Deutschland annektiert."
+ bshistory.10.a:0 "Wir haben keine Wahl."
+ 
+ #New name of Leningrad
+ bs_city.1.t:0 "Ein neuer Name für [195.GetName]"
+ bs_city.1.d:0 "Wir können den Namen dieser historischen Stadt ändern. Welchen Namen sollen wir ihr geben?"
+ bs_city.1.SAINT:0 "Sankt Petersburg"
+ bs_city.1.PETRO:0 "Petrograd"
+ bs_city.1.LUDENDORFF:0 "Ludendorff"
+ bs_city.1.ZIZIGRAD:0 "Zizigrad"
+ 
+ #New name of Stalingrad
+ bs_city.2.t:0 "Ein neuer Name für [217.GetName]"
+ bs_city.2.d:0 "Wir können den Namen dieser historischen Stadt ändern. Welchen Namen sollen wir ihr geben?"
+ bs_city.2.VOLGOGRAD:0 "Wolgograd"
+ bs_city.2.TSARITSYN:0 "Zarizyn"
+ bs_city.2.HINDENBURG:0 "Hindenburg"
+ bs_city.2.KAISER:0 "Kaiserstadt"
+ bs_city.2.MAGDAGRAD:0 "Magdagrad"
+ 
+ bs_fra.1.t:0 "Die Regierung von Léon Blum stürzte"
+ bs_fra.1.d:0 "Léon Blum gelang es nicht, ein stabiles Ministerium aufzubauen. Seine sozialistische Regierung stürzte und er wurde seines Amtes enthoben."
+ bs_fra.1.a:0 "Édouard Daladier wird versuchen, eine Regierung zu bilden."
+ 
+ bs_gre.1.t:0 "Der Tod von Konstantinos Demertzis"
+ bs_gre.1.d:0 "Heute wurde Premierminister Konstantinos Demertzis tot aufgefunden. Todesursache war ein Herzinfarkt."
+ bs_gre.1.a:0 "Metaxas wird zum Premierminister ernannt"
+ 
+ bs_ger.1.t:0 "Deutschland tritt Transnistrien ab"
+ bs_ger.1.d:0 "Unser Freund Deutschland hat uns die Region Transnitrien überlassen. Jetzt können wir Bessarabien sicherer verteidigen."
+ bs_ger.1.a:0 "Was für ein schönes Geschenk!"
+
+ ##flag##
+ ITA_left_axis:0 "Italien verließ die Achse"
+ BRM_separated:0 "Burma getrennt"
+ DAN_joined_germany:0 "Danzig schloss sich Deutschland an"
+ DAN_stay_independence:0 "Danzig entschied sich für die Unabhängigkeit"
+
+ RULE_ALLOW_BS_EXTRA:0 "Erlaube BS Extra-Zeug"
+ RULE_BS_GAMEPLAY:0 "Schöne Staaten"
+ RULE_ALLOW_BS_EXTRA_ALLOWED_DESC:0 "Erlauben Sie Beautiful States Extra-Material; neu veröffentlicht"
+ RULE_ALLOW_BS_EXTRA_BLOCKED_DESC:0 "Die meisten Extra-Inhalte von Beautiful States werden deaktiviert: Entscheidungen, Ereignisse, annektierte neue Länder (wie Andorra) usw."
+ BS_ALLOWED:0 "Erlaubt"
+ BS_BLOCKED:0 "Blockiert"
+ king_leopold_iii:0 "König Leopold III."
+ king_george_ii:0 "König Georg II."
+
+ #Burgenland Question
+ GER_accepts_burgenland:0 "Deutschland hat das Burgenland abgetreten"
+ GER_refuses_burgenland:0 "Deutschland hat das Burgenland nicht abgetreten"
+ ITA_arrest_ofmussolini:0 "Verhaftung Mussolinis"
+ ROM_transfer_transnistria:0 "Übergeben Sie Transnistrien"
+
+
+ 
+ GRE_Metaxa:0 "Metaxá"
+ GRE_Metaxa_long:0 "Kathestós Metaxá"
+ 
+ STRATEGICREGION_208:0 "Süddeutschland"
+ STRATEGICREGION_209:0 "Süditalien"
+ STRATEGICREGION_210:0 "Slowakei"
+ STRATEGICREGION_211:0 "Zentralbalkan"
+ STRATEGICREGION_212:0 "Nordkorea"
+ STRATEGICREGION_213:0 "Norditalien"
+ STRATEGICREGION_214:0 "Westfrankreich"
+ STRATEGICREGION_215:0 "Portugal"
+ STRATEGICREGION_216:0 "Koreanische Straße"
+ STRATEGICREGION_217:0 "Hokkaido"
+ STRATEGICREGION_218:0 "Kyushu"
+ STRATEGICREGION_219:0 "Jütland"
+ STRATEGICREGION_220:0 "Ostpreußen"
+ STRATEGICREGION_221:0 "Shandong-Halbinsel"
+ STRATEGICREGION_222:0 "Baikalsee"
+ STRATEGICREGION_223:0 "Golf von Aden"
+ STRATEGICREGION_224:0 "Irische See"
+ STRATEGICREGION_225:0 "Südosten"
+ STRATEGICREGION_226:0 "Atlasgebirge"
+ STRATEGICREGION_227:0 "New-Mexiko"
+ STRATEGICREGION_228:0 "Sudan"
+	stratocracy:0"Stratokratie"
+ WAR_NAME_JAP_USA:0 "Pazifikkrieg"
+ WAR_NAME_USA_JAP:0 "Pazifikkrieg"
+ WAR_NAME_JAP_CHI:0 "Zweiter Chinesisch-Japanischer Krieg"
+ WAR_NAME_CHI_JAP:0 "Chinesischer Antijapanischer Krieg"
+ WAR_NAME_JAP_MAN:0 "Zweiter Japanisch-Qing-Krieg"
+ WAR_NAME_MAN_JAP:0 "Zweiter Qing-Japan-Krieg"
+CHI_JAP:0 "Besetztes Pazifikgebiet"
+ WAR_NAME_SOV_FIN:0 "Winterkrieg"
+ WAR_NAME_SOV_MAN:0 "Mandschurische Operation"
+ WAR_NAME_SOV_PER:0 "Sowjetische Invasion des Iran"
+ WAR_NAME_ENG_PER:0 "Anglo-Invasion des Iran"
+ buddhist_nationalism:0 "Nationaler Buddhismus"
+ WAR_NAME_GER_SOV:0 "Unternehmen Barbarossa"
+ WAR_NAME_SOV_GER:0 "Großer Vaterländischer Krieg"
+ WAR_NAME_GER_POL:0 "Polenfeldzug"
+ WAR_NAME_POL_GER:0 "September-Kampagne"

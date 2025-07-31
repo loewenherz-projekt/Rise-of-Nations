@@ -1,0 +1,12 @@
+﻿l_german:
+
+### Cheat Decisions Category ###
+RON_cheat_decisions:0 "§Y[DEV]§! Cheat-Befehle"
+RON_cheat_decisions_desc:0 "Entwicklungs- und Testbefehle für Modder und Spieler, die experimentieren möchten."
+
+### Cheat Decisions ###
+RON_max_infrastructure:0 "§Y[CHEAT]§! Maximale Infrastruktur"
+RON_max_infrastructure_desc:0 "Maximiert sofort alle Infrastruktur, Fabriken, Werften, Luftstützpunkte und Verteidigungsanlagen in allen kontrollierten Staaten.\n\n§RDies ist eine Cheat-Entscheidung für Entwicklungs- und Testzwecke.§!"
+
+RON_unlock_all_research:0 "§Y[CHEAT]§! Alle Forschungen freischalten"
+RON_unlock_all_research_desc:0 "Schaltet sofort alle wichtigen Technologien frei, einschließlich Land-, Luft- und Marinedoktrinen, Ausrüstung, Industrie und Nuklearforschung.\n\n§RDies ist eine Cheat-Entscheidung für Entwicklungs- und Testzwecke.§!"

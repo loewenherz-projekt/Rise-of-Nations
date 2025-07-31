@@ -1,0 +1,891 @@
+﻿l_german:
+ #DANISH REGION ===============================================================================================================================
+ 
+ #Fixed Link
+ DEN_fixed_link:0 "Feste Verbindung"
+ DEN_fixed_link_desc:0 "Die Überquerung des Dänischen Belts dauert heutzutage eine Stunde mit der Fähre. Das ist für jedes moderne Land schlichtweg inakzeptabel – und angesichts eines drohenden Krieges könnte es fatal sein. Unsere Infrastruktur muss modernisiert werden, bevor andere Projekte in Betracht gezogen werden können."
+ DEN_fixed_link_tt:0 "Maximale §YInfrastruktur§! in §YSjaelland§! und §YJütland§! hinzufügen"
+ 
+ #Industrialise Scania
+ DEN_industrialise_scania:0 "Scania industrialisieren"
+ DEN_industrialise_scania_desc:0 "Schweden ist ein hochmodernisiertes Land und ein Vorbild für uns alle, aber es gibt noch Verbesserungspotenzial. Die Industrialisierung des skandinavischen Festlands wird in unserer Nähe beginnen."
+ 
+ #Industrialise Southern Sweden
+ DEN_industrialise_southern_sweden:0 "Industrialisierung Südschwedens"
+ DEN_industrialise_southern_sweden_desc:0 "Scania war ein hervorragender erster Schritt, aber wir können es noch besser machen. Wir werden unsere Anstrengungen nach Norden ausdehnen und unsere Kapazitäten entsprechend steigern. Der dicht besiedelte Süden Schwedens ist reif für eine Modernisierung."
+ 
+ #Industrialise Northern Sweden
+ DEN_industrialise_northern_sweden:0 "Industrialisieren Sie Nordschweden"
+ DEN_industrialise_northern_sweden_desc:0 "Unsere Arbeit ist fast abgeschlossen und endet logischerweise im Norden. Unsere Bemühungen werden Schweden fest in die Moderne führen."
+ 
+ #Road To The North
+ DEN_road_to_the_north:0 "Straße nach Norden"
+ DEN_road_to_the_north_desc:0 "Da Schweden nun industrialisiert ist, müssen wir uns seiner Infrastruktur zuwenden. Es wird ein Mammutprojekt, doch die Integration in unsere eigene feste Verbindung ist machbar und notwendig."
+ DEN_road_to_the_north_tt:0 "Maximale §YInfrastruktur§! hinzufügen in §YScania§!, §YSmåland§!, §YVästergötland§!, §YSvealand§!, §YNorrland§! und §YLappland§!"
+ 
+ #The Baltic Sea Wall
+ DEN_the_baltic_sea_wall:0 "Der Ostseewall"
+ DEN_the_baltic_sea_wall_desc:0 "Die skandinavischen Völker haben das Potenzial, die Ostsee vollständig unter ihre Kontrolle zu bringen. Doch dazu müssen sie sich zunächst vor den Streitkräften von See schützen. Dies ist der nächste Schritt, um Schweden an dänische Standards anzugleichen."
+ 
+ #The Lappland Line
+ DEN_the_lappland_line:0 "Die Lapplandlinie"
+ DEN_the_lappland_line_desc:0 "Das sowjetische Interesse an Finnland bedeutet, dass wir unsere Sicherheit im Osten nicht dem Zufall überlassen dürfen. Da unsere Produktionsmittel und unser Schutz zur See gesichert sind, müssen wir dafür sorgen, dass nichts ungefragt über den Landweg nach Schweden gelangt."
+ DEN_the_lappland_line_tt:0 "Fügen Sie §Y12 Landfestungen§! an der finnischen Grenze hinzu.\n"
+ 
+ #Industrialise Ostlandet
+ DEN_industrialise_ostlandet:0 "Industrialisieren Sie Ostlandet"
+ DEN_industrialise_ostlandet_desc:0 "Norwegen verfügt nur über sehr wenig geeignetes Land für Industriebauten, aber wir werden das Potenzial dessen, was vorhanden ist, voll ausschöpfen, um norwegischen Boden zu einer wirkungsvollen Kraft für die skandinavischen Interessen zu machen."
+ 
+ #Norwegian Naval Industry
+ DEN_norwegian_naval_industry:0 "Norwegische Marineindustrie"
+ DEN_norwegian_naval_industry_desc:0 "Die norwegische Marineindustrie ist bereits jetzt nicht zu verachten, aber wir können sie weiter ausbauen und versuchen, unseren Platz in der Ostsee, der Nordsee und darüber hinaus zu festigen."
+ 
+ #Offshore Drilling Platforms
+ DEN_offshore_drilling_platforms:0 "Offshore-Bohrplattformen"
+ DEN_offshore_drilling_platforms_desc:0 "Unsere Industriegutachter haben Beweise für Ölvorkommen vor der Küste von Vestlandet vorgelegt. Die Suche danach wird eine technische Meisterleistung sein, doch jüngste amerikanische Fortschritte haben gezeigt, dass Offshore-Bohrungen möglich sind. Wir werden versuchen, dies nachzuahmen."
+ 
+ #Fortify The Norwegian Coast
+ DEN_fortify_the_norwegian_coast:0 "Befestigen Sie die norwegische Küste"
+ DEN_fortify_the_norwegian_coast_desc:0 "Große Teile der norwegischen Küste sind unzugänglich und schwer zu verteidigen. Wir haben sie zugänglich gemacht und werden sie nun auch verteidigungsfähig machen. Wir müssen uns vor der Nordsee schützen."
+ 
+ #Great Coastal Road
+ DEN_great_coastal_road:0 "Große Küstenstraße"
+ DEN_great_coastal_road_desc:0 "Unsere Pläne für ein großes skandinavisches Verkehrsnetz werden in Norwegen fortgesetzt. Wir werden die Straßen standardisieren und modernisieren und den skandinavischen Verkehr ins 20. Jahrhundert führen."
+ DEN_great_coastal_road_tt:0 "Maximale §YInfrastruktur§! in §YOstlandet§!, §YVestlandet§!, §YTrondelag§! und §YNord-Norge§! hinzufügen"
+ 
+ #Industrialise Helsinki
+ DEN_industrialise_helsinki:0 "Helsinki industrialisieren"
+ DEN_industrialise_helsinki_desc:0 "Finnland ist eine Nation voller Potenzial und wir werden unser Bestes tun, um dieses Potenzial zu nutzen. Besonders Helsinki und die umliegende Region sind vielversprechend."
+ 
+ #Road To The East
+ DEN_road_to_the_east:0 "Finnische Straßenprojekte"
+ DEN_road_to_the_east_desc:0 "Unsere Bemühungen um das finnische Verkehrssystem werden fortgesetzt. Finnland kann für diejenigen, die sich nicht auskennen, unwirtlich sein – wir planen, dieses Problem zu beseitigen."
+ DEN_road_to_the_east_tt:0 "Fügen Sie maximale §YInfrastructure§! in §YUusimaa§!, §YPohjanmaa§!, §YSavo§! und §YLappi§! hinzu."
+ 
+ #Finish The Mannerheim Line
+ DEN_finish_the_mannerheim_line:0 "Beenden Sie die Mannerheim-Linie"
+ DEN_finish_the_mannerheim_line_desc:0 "Die sowjetische Bedrohung darf nicht unterschätzt werden. Um einen möglichen Einfall zu überleben, müssen wir zur Verteidigung bereit sein – und der Bau von Befestigungen ist ein notwendiger erster Schritt. Wir müssen die Befestigungen, die wir für die sowjetische Bedrohung vorbereitet haben, fertigstellen."
+ DEN_finish_the_mannerheim_line_tt:0 "Fügen Sie §Y8 Landfestungen§! in der Nähe von Leningrad hinzu.\n"
+ 
+ #Paint The Skies Red
+ DEN_paint_the_skies_red:0 "Befestigen Sie die finnische Seenplatte"
+ DEN_paint_the_skies_red_desc:0 "Die südlichen Befestigungen haben den Weg des geringsten Widerstands einfach versperrt. Wir müssen weiterhin wichtige Engpässe in unserem eigenen Gebiet befestigen – wie etwa die Landbrücken zwischen den finnischen Seen."
+ 
+ #Industrialise Jutland 
+ DEN_industrialise_jutland:0 "Industrialisieren Sie Jütland"
+ DEN_industrialise_jutland_desc:0 "Jütland ist seit langem unsere Verbindung zum Festland, und wir sollten dafür sorgen, dass es ein gutes Beispiel für europäischen Fleiß ist. In allen Produktionsbereichen gibt es Verbesserungspotenzial – und wir wollen diese Verbesserung vorantreiben."
+ 
+ #Industrialise the Islands
+ DEN_industrialise_the_islands:0 "Själland industrialisieren"
+ DEN_industrialise_the_islands_desc:0 "Seeland ist ein großer Teil Dänemarks, weist aber einen erheblichen Mangel an Industriekapazitäten auf. Wir müssen dies so schnell wie möglich ändern, um Arbeitsplätze für unsere Bevölkerung zu schaffen und ein ausreichend modernes Militär aufzubauen."
+ 
+ #Militarise the Mainland
+ DEN_militarise_the_mainland:0 "Jütland militarisieren"
+ DEN_militarise_the_mainland_desc:0 "Jütland ist unsere Verbindung zum Festland und zu allen Bedrohungen, die vom Festland ausgehen. Wir müssen uns bewaffnen, um es zu verteidigen, und deshalb müssen wir Jütland selbst militarisieren."
+ 
+ #Militarise the Islands
+ DEN_militarise_the_islands:0 "Sjaelland militarisieren"
+ DEN_militarise_the_islands_desc:0 "Seeland ist in allen Richtungen durch Meerengen vom Festland getrennt. Es gibt keinen sichereren Ort für die Entwicklung unserer militärischen Produktion – und noch nie war die Zeit dafür so dringlich."
+ 
+ #Fortress Denmark
+ DEN_fortress_denmark:0 "Festung Dänemark"
+ DEN_fortress_denmark_desc:0 "Wir sind von potenziellen Feinden umgeben. Unser einziger Freund ist unsere natürlich unzugängliche Geografie – und diese werden wir optimal ausnutzen. Minimale Befestigungen sollten uns auf dem Landweg völlig unzugänglich machen und nur minimalen Widerstand leisten."
+ 
+ #Icelandic Militarisation
+ DEN_icelandic_militarisation:0 "Isländische Militarisierung"
+ DEN_icelandic_militarisation_desc:0 "Islands Isolation ist Stärke und Schwäche zugleich. Es ist schwer anzugreifen – doch die Verteidigungskräfte sind völlig auf sich allein gestellt. Wir müssen uns gegen einen möglichen Einfall wappnen, damit wir nicht überrascht werden."
+ 
+ #The Winter Base
+ DEN_the_winter_base:0 "Die Winterbasis"
+ DEN_the_winter_base_desc:0 "Grönland ist eine eintönige Eiswüste, die außer einem kleinen Marinestützpunkt nutzlos ist. Eine kleine Erweiterung und Befestigung würde viel dazu beitragen, es zu einem mächtigen Aufmarschgebiet für zukünftige Operationen zu machen."
+ DEN_the_winter_base_tt:0 "Fügen Sie §Y3§! §YInfrastruktur§! in §YGrönland§! hinzu.\n"
+ 
+ #Industrialise the North Sea Provinces
+ DEN_industrialise_the_north_sea_provinces:0 "Industrialisieren Sie die Färöer-Inseln und Island"
+ DEN_industrialise_the_north_sea_provinces_desc:0 "Die Färöer-Inseln und Island liegen isoliert im Atlantik und in der Nordsee – perfekte Orte, um Industrien aufzubauen, fernab von unseren potenziellen Feinden im Süden und Osten."
+ 
+ #Upgrade the Ports
+ DEN_upgrade_the_ports:0 "Verbessere die Werften"
+ DEN_upgrade_the_ports_desc:0 "Wir behaupten, die Ostsee zu beherrschen, doch unsere Marineindustrie ist erschreckend unterentwickelt. Unsere Werften müssen saniert werden, wenn wir überhaupt eine ernsthafte Marine aufbauen wollen."
+ 
+ #Invest in the Oil and Coal Industry
+ DEN_invest_in_the_oil_and_coal_industry:0 "Investieren Sie in die Öl- und Kohleindustrie"
+ DEN_invest_in_the_oil_and_coal_industry_desc:0 "Fossile Brennstoffe sind in fast jeder Hinsicht ein notwendiger Bestandteil unserer modernen Welt, und dennoch produziert Dänemark keine nutzbaren Mengen davon. Dem müssen wir mit staatlichen Investitionen Abhilfe schaffen."
+ 
+ #Invest in the Steel Industry
+ DEN_invest_in_the_steel_industry:0 "Investieren Sie in die Stahlindustrie"
+ DEN_invest_in_the_steel_industry_desc:0 "Stahl ist die treibende Kraft und das Rückgrat jeder Rüstungsindustrie. Um eine moderne Armee aufzubauen, müssen wir unseren Stahl selbst produzieren. Eine staatliche Beteiligung an bestehenden dänischen Industrien wird unsere Versorgung sicherstellen."
+ 
+ #Fund Danish Universities
+ DEN_fund_danish_universities:0 "Fonds für dänische Universitäten"
+ DEN_fund_danish_universities_desc:0 "Dänemark ist voll von klugen Köpfen, denen es an den Mitteln mangelt, ihr volles Potenzial und das ihres Landes zu entfalten. Dem können und müssen wir entgegenwirken. Ein staatlich gefördertes Hochschulbildungsprogramm ist logisch und notwendig."
+ 
+ #Theoretical Weaponry
+ DEN_theoretical_weaponry:0 "Theoretische Waffen"
+ DEN_theoretical_weaponry_desc:0 "Unsere Investition hat sich vielfach gelohnt. In der dänischen Wissenschaftsgemeinde sind leistungsstarke neue Anwendungen für exotische Materialien entstanden, und wir können dieses neu gewonnene Wissen mit großem und möglicherweise weltveränderndem Erfolg nutzen."
+ 
+ #North Sea RADAR
+ DEN_north_sea_RADAR:0 "Nordsee-RADAR"
+ DEN_north_sea_RADAR_desc:0 "Funkortung ist das neueste Konzept der Nachrichtendienste und könnte uns ermöglichen, potenzielle Bedrohungen weit in der Nordsee zu erkennen. Wir haben jetzt die Gelegenheit, dieses System zu installieren – wir sollten sie uns nicht entgehen lassen."
+ 
+ ########################
+ ### MILITARY SECTION ###
+ 
+ #Army Reforms
+ DEN_army_reforms:0 "Armeereformen"
+ DEN_army_reforms_desc:0 "Im internationalen Vergleich ist unsere Armee klein und unzureichend ausgerüstet. Wir müssen ernsthafte Anstrengungen unternehmen, um unsere Taktik und Ausrüstung zu modernisieren, sonst werden wir im übertragenen und wörtlichen Sinne von größeren Streitkräften überholt."
+ 
+ #Form The Danish Volunteer Corps
+ DEN_form_the_danish_volunteer_corps:0 "Bilden Sie das dänische Freiwilligenkorps"
+ DEN_form_the_danish_volunteer_corps_desc:0 "Wir können nicht jeden Krieg auf der Welt führen, aber es liegt in unserem Interesse, an denen teilzunehmen, die für unsere internationalen Interessen relevant sein könnten. Das dänische Freiwilligenkorps wird ein nützliches Instrument sein, um Stellvertreterkriege im Ausland zu führen."
+ 
+ #Expand Foreign Operations
+ DEN_expand_foreign_operations:0 "Ausbau der Auslandsaktivitäten"
+ DEN_expand_foreign_operations_desc:0 "Aufgrund unserer geringen Bevölkerungszahl ist es schwierig, unseren ausländischen Verbündeten Hilfe zu leisten. Doch wir müssen Hilfe anbieten, wenn wir unsere Interessen wahren und den gefährlichen Elementen entgegentreten wollen, die heute in der Welt ihr Unwesen treiben. Die Ausweitung unserer Auslandseinsätze ist hierfür genau das Richtige."
+ 
+ #Foreign Military Advisors
+ DEN_foreign_military_advisors:0 "Dansk Industri Syndikat"
+ DEN_foreign_military_advisors_desc:0 "Das Dansk Industri Syndikat ist ein Unternehmen, das sich hauptsächlich auf den Metallguss spezialisiert hat. Ein wenig politischer und wirtschaftlicher Einfluss dürfte ausreichen, um das Unternehmen davon zu überzeugen, sich stärker auf die Produktion von Waffen für die dänische Armee zu spezialisieren."
+ 
+ #German Military Doctrine
+ DEN_german_military_doctrine:0 " Deutsche Waffen und Rüstungen"
+ DEN_german_military_doctrine_desc:0 "Für viele Menschen bietet die Entwicklung der deutschen Kriegsmaschinerie erhebliche Chancen. Unsere Militärberater sehen in ihrer Panzertechnologie eine Chance – wenn wir mit dem Zugang zu unserer Innenpolitik, den sie dadurch erhalten, klarkommen."
+ 
+ #Soviet Military Doctrine
+ DEN_soviet_military_doctrine:0 " Sowjetische Waffen und Artillerie"
+ DEN_soviet_military_doctrine_desc:0 "Wenn es etwas gibt, das in den letzten Jahren in großen Mengen aus der Sowjetunion kam, dann sind es Waffen. Die sowjetische Artillerie könnte dieses Feld revolutionieren, doch wir müssen ihre revolutionäre Absicht berücksichtigen, wenn wir dieses Feld erforschen wollen."
+ 
+ #British Military Doctrine
+ DEN_british_military_doctrine:0 " Britische Waffen und Elektronik"
+ DEN_british_military_doctrine_desc:0 "Die Briten haben in jüngster Zeit große Fortschritte in der Elektronik und im Maschinenbau erzielt. Mit ein wenig politischem Geben und Nehmen können wir uns mit britischem Know-how Zugang zu diesem Bereich und seinem gesamten Potenzial verschaffen."
+ 
+ #Infantry Focus
+DEN_infantry_focus:0 "Infanterie-Fokus"
+DEN_infantry_focus_desc:0 "Die Kriegsführung mit Maschinengewehren hat das Gesicht der Welt verändert, doch die Infanterie bildet noch immer das Rückgrat jeder starken Armee. Wir sollten unsere Anstrengungen entsprechend ausrichten."
+
+#Mechanised Focus
+DEN_mechanised_focus:0 "Mechanisierter Fokus"
+DEN_mechanised_focus_desc:0 "Die Fähigkeit, Infanterie und Ausrüstung über große Entfernungen zu transportieren, war früher durch die Pferdezucht des Landes begrenzt. Heute können wir die benötigte Pferdestärke einfach in einer Fabrik produzieren. Das sollten wir vorrangig nutzen."
+
+#Armor Focus
+DEN_armor_focus:0 "Rüstungsfokus"
+DEN_armor_focus_desc:0 "Panzer waren im Ersten Weltkrieg schwerfällig und taktisch unflexibel. Das hat sich in den letzten Jahren geändert. Wir sollten die Forschung auf die Möglichkeiten moderner Panzerung konzentrieren."
+ 
+ #Modernise the Army
+ DEN_modernise_the_army:0 "Modernisierung der Armee"
+ DEN_modernise_the_army_desc:0 "Gezielte Forschungsanstrengungen sind gut und schön, aber wir müssen uns in allen Bereichen verbessern, um unsere Waffen und Rüstungen wettbewerbsfähig zu machen. Es gibt in allen Bereichen immer Verbesserungsbedarf."
+ 
+ #Found the Danish Air Force
+ DEN_found_the_danish_air_force:0 "Gründung der dänischen Luftwaffe"
+ DEN_found_the_danish_air_force_desc:0 "Vor kurzem wurden die Marine- und Heeresfliegertruppen des dänischen Militärs gegründet. Es ist an der Zeit, eine eigene Luftwaffe als eigenständigen Teil unserer Streitkräfte aufzubauen. Der Ausbau unserer Einrichtungen und die Modernisierung unserer Flugzeugkonstruktionen sind ein erster Schritt."
+ 
+ #Indigenious Designs
+ DEN_indigenious_designs:0 "Skandinavisk Aero Industri"
+ DEN_indigenious_designs_desc:0 "Da unsere Luftwaffe nun offiziell existiert, können wir uns auf die Produktion von Kampfflugzeugen konzentrieren. Skandinavisk Aero Industri ist ein privates Unternehmen, das unsere Bemühungen rationalisieren und überlegene Kampfflugzeuge entwickeln könnte."
+ 
+ #Luftwaffe Tactics
+ DEN_luftwaffe_tacticts:0 "Deutsche Marinebomber"
+ DEN_luftwaffe_tacticts_desc:0 "Die deutsche Marine hat eine Generation moderner Marinebomber hervorgebracht, die ideal für unsere Einsätze in Nord- und Ostsee sind. Wenn wir uns jedoch ihrem militärischen Einsatz öffnen, könnten wir uns auch ihrer Ideologie aussetzen."
+ 
+ #Royal Air Force Tactics
+ DEN_royal_air_force_tacticts:0 "Britische schwere Bomber"
+ DEN_royal_air_force_tacticts_desc:0 "Die Briten verfügen über zahlreiche revolutionäre strategische Flugzeuge, die in der Lage sind, riesige Mengen Sprengstoff und Brandsätze über große Entfernungen abzuwerfen. Sie könnten diese Flugzeuge auch nutzen – wenn wir ihnen einige politische Zugeständnisse machen."
+ 
+ #Soviet Air Force Tactics
+ DEN_soviet_air_force_tacticts:0 "Sowjetische mittlere Bomber"
+ DEN_soviet_air_force_tacticts_desc:0 "Die Sowjets haben viele neue und interessante Ideen im Bereich taktischer Bomber und sie könnten diese Entwürfe mit uns teilen – wir sollten uns jedoch vor ihren unaufhörlichen Bemühungen in Acht nehmen, dabei ihre Revolution zu verbreiten.“"
+ 
+ #Expand the Air Force
+ DEN_expand_the_air_force:0 "Ausbau der Luftwaffe"
+ DEN_expand_the_air_force_desc:0 "Mit externer Beratung und harter Arbeit haben wir so etwas wie den Grundstein für eine moderne Luftwaffe gelegt. Doch unsere Arbeit ist noch lange nicht getan. Ein weiterer Ausbau ist dringend notwendig, um die Sicherheit unseres Luftraums zu gewährleisten."
+ 
+ #Keep the Seas Clear
+ DEN_keep_the_seas_clear:0 "Halten Sie die Meerenge frei"
+ DEN_keep_the_seas_clear_desc:0 "Die Ostsee – und insbesondere die Gewässer rund um unseren dänischen Belt – sind von entscheidender strategischer Bedeutung. Wir müssen unsere Anstrengungen auf die Entwicklung moderner Torpedoflugzeuge konzentrieren, um die Sicherheit unserer heimischen Gewässer zu gewährleisten."
+ 
+ #Keep the Skies Clear
+ DEN_keep_the_skies_clear:0 "Dänemark sauber halten"
+ DEN_keep_the_skies_clear_desc:0 "Unsere Marine wird sich um die Meerengen kümmern. Die Sorge unserer Luftwaffe muss darin bestehen, den Himmel über Dänemark von äußeren Kräften freizuhalten, und unsere Forschungsanstrengungen müssen dies widerspiegeln. Modernisierte Kampfflugzeugmodelle haben Priorität."
+
+#Jet Experiments
+DEN_jet_experiments:0 "Jet-Experimente"
+DEN_jet_experiments_desc:0 "Theoretische Forschungen haben uns die Möglichkeit eines neuen Luftantriebstyps aufgezeigt, der mithilfe interner Strahlturbinen eine beispiellose Geschwindigkeit, Reichweite und Wendigkeit in hochmodernen Kampfflugzeug- und Bombermodellen erreicht."
+
+#Expand Naval Operations
+DEN_expand_naval_operations:0 "Ausweitung der Marineoperationen"
+DEN_expand_naval_operations_desc:0 "Die Ostsee und die Nordsee sind für die Sicherheit unseres Landes von entscheidender Bedeutung. Um unseren Platz in den Meeren zu sichern, müssen wir unsere Produktions- und Wartungskapazitäten für die Marine ausbauen."
+
+#Secure the Straits
+DEN_secure_the_straits:0 "Sichern Sie die Meerengen"
+DEN_secure_the_straits_desc:0 "Wir können uns nicht darauf verlassen, dass unsere heimischen Gewässer sicher sind. Wir müssen uns gegen eine Invasion von See her wappnen – als teilweise auf Inseln basierende Nation sind wir für diese Strategie besonders anfällig."
+
+#Naval Wolf Packs
+DEN_naval_wolf_packs:0 "Marine-Wolfsrudel"
+DEN_naval_wolf_packs_desc:0 "Wir können nicht hoffen, eine Marine aufzubauen, die den Industriegiganten auf allen Seiten Paroli bieten kann, aber wir können versuchen, sie mit unseren eigenen U-Boot-Gruppen auszuhungern. Wir sollten Forschung und Produktion auf den Bau von U-Booten konzentrieren."
+
+#Home Sea Defence
+DEN_home_sea_defence:0 "Startseite Seeverteidigung"
+DEN_home_sea_defence_desc:0 "Wir teilen uns die Ostseeküste sowohl mit den Sowjets als auch mit den Nazis. Wenn wir unsere Seesicherheit aufrechterhalten wollen, müssen wir die Forschung auf die Modernisierung unserer Binnenflotte konzentrieren."
+
+#North Sea Superiority
+DEN_north_sea_superiority:0 "Überlegenheit der Nordsee"
+DEN_north_sea_superiority_desc:0 "Mit einigen industriellen Anstrengungen und gezielter Prototypenentwicklung könnten wir unsere Seestreitkräfte möglicherweise in die Nordsee verlegen. Derzeit sind unsere Streitkräfte nicht in der Lage, mehr als einen leichten Angriff sicher durchzuführen – wir könnten jedoch problemlos zu einer Seemacht werden."
+
+#Danish Merchant Marine
+DEN_danish_merchant_marine:0 "Dänische Handelsmarine"
+DEN_danish_merchant_marine_desc:0 "Der Schlüssel zu unserer gesamten Industrie, vom Land über die Luft bis zur See, liegt in der Fähigkeit, Ressourcen unserer Handelspartner sicher an unsere Küsten zu bringen. Eine engagierte Handelsmarine würde einen großen Beitrag dazu leisten."
+
+#German Dealings
+DEN_german_dealings:0 "Deutsches U-Boot-Programm"
+DEN_german_dealings_desc:0 "Die Berichte über die unglaublich fortschrittlichen deutschen U-Boote sind unseren Marineberatern nicht entgangen. Wir sind daran interessiert, uns diese revolutionäre Tarnkappentechnologie zu sichern – und die Deutschen sind an potenziellen Verbündeten interessiert."
+
+#British Dealings
+DEN_british_dealings:0 "Britisches Schlachtschiffprogramm"
+DEN_british_dealings_desc:0 "Die britische Marine war im Ersten Weltkrieg berühmt und ist es auch heute noch. Sie hat einige revolutionäre Schlachtschiffmodelle entwickelt und wird diese möglicherweise weitergeben, wenn wir dem demokratischen Ideal ein wenig Treue zeigen."
+
+#Soviet Dealings
+DEN_soviet_dealings:0 "Sowjetisches Kreuzerprogramm"
+DEN_soviet_dealings_desc:0 "Die sowjetische Präsenz in der Ostsee lässt sich nicht leugnen, und ihre Erfahrung in der Seefahrt reicht fast so weit zurück wie unsere. Ihre starke industrielle Basis hat einige revolutionäre Kreuzer hervorgebracht – doch sie werden jede Chance nutzen, ihre Revolution zu exportieren."
+
+#Control the Baltic
+DEN_control_the_baltic:0 "Kontrollieren Sie die Ostsee"
+DEN_control_the_baltic_desc:0 "Wir können die Kontrolle über die Ostsee nicht einer anderen Macht von außen überlassen. Wir müssen Vorbereitungen treffen, um eine größere Marine aufzustellen und bereit sein, diese zur Sicherung unserer heimischen Gewässer einzusetzen."
+
+#########################
+### POLITICAL SECTION ###
+ 
+#International Relations
+DEN_international_relations:0 "Internationale Beziehungen"
+DEN_international_relations_desc:0 "Unser Land ist klein, aber unsere strategische Lage am Großen Belt und unsere kriegerischen Nachbarn im Süden und Osten garantieren, dass wir Verbündete finden werden. Wir müssen nur die Hand ausstrecken und sehen, wer die angebotene Hand ergreift."
+
+#An Empire Once More
+DEN_an_empire_once_more:0 "Die Kalmarer Union neu gründen"
+DEN_an_empire_once_more_desc:0 "Die Machenschaften Dänemarks waren der einigende Dreh- und Angelpunkt des Bündnisses zwischen den Nationen Dänemark, Norwegen und Schweden im Jahr 1397. Jetzt, da wir wieder auf gemeinsame Ziele hinarbeiten, ist es an der Zeit, diese Union wiederzubeleben."
+DEN_an_empire_once_more_tt:0 "Dänemark besitzt oder hat Marionetten, die §YStockhom§! und §YOslo§! kontrollieren."
+
+####FASCIST SECTION####
+
+#Nationalist Teachings
+DEN_nationalist_teachings:0 "Nationalistische Lehren"
+DEN_nationalist_teachings_desc:0 "Das am meisten überschätzte Ideal einer „aufgeklärten“ Gesellschaft ist die Vorstellung, dass Macht im Vertrauen auf äußere Kräfte liegt. Die Zeit, in der wir unser Schicksal selbst in die Hand nehmen, ist gekommen und vorbei – aber vielleicht ist es noch nicht zu spät."
+
+#Right Wing Rallies
+DEN_right_wing_rallies:0 "Kundgebungen der Rechten"
+DEN_right_wing_rallies_desc:0 "Die demokratischen Machthaber predigen gern die Meinungsfreiheit als erstrebenswertes Ideal, doch noch nie haben sie der nationalistischen Stimme der Vernunft Gehör verschafft. Wir werden diesen Fehler mit allen uns zur Verfügung stehenden Mitteln korrigieren."
+
+#Denmark Stands Alone
+DEN_denmark_stands_alone:0 "Dänemark steht allein da"
+DEN_denmark_stands_alone_desc:0 "Wir waren vielleicht nicht immer stolz auf unsere Regierung, aber wir waren immer stolz auf unsere Nation. Die Nazis schlossen sich uns schnell an, sobald unsere Ziele mit ihren übereinstimmten, aber ihre imperialistischen Ziele sind leicht zu durchschauen."
+
+#Befriend Germany
+DEN_befriend_germany:0 "Befriend Germany"
+DEN_befriend_germany_desc:0 "Ein Mann, der stolz auf sein Land ist, ist heutzutage selten und wertvoll. Der Stolz Hitlers und seiner Nazis auf ihr vereintes Land ist besonders bewundernswert und steht unserem in nichts nach. Unsere Ziele ergänzen sich – und unser Handlungskonzept ist klar."
+
+#Viking Heraldry
+DEN_viking_heraldry:0 "Wikinger-Heraldik"
+DEN_viking_heraldry_desc:0 "In längst vergangenen Zeiten fürchtete Europa die plündernden Dänen, die sich mit Feuer und Axt nahmen, was sie wollten. Wir haben einen Großteil der beispielhaften und notwendigen Geschichte vergessen. Wir müssen die Menschen daran erinnern, wer ihr Land aufgebaut hat."
+
+#Conquerors of Scandanavia
+DEN_conquerors_of_scandanavia:0 "Eroberer Skandinaviens"
+DEN_conquerors_of_scandanavia_desc:0 "Dänemark hatte schon immer eine entscheidende Position sowohl für die Kontrolle der Ostsee als auch für die Kontrolle Skandinaviens selbst inne. Wir halten den Schlüssel zur gesamten skandinavischen Halbinsel in der Hand – und die schwachen, demokratischen Übergangsstaaten im Norden werden uns nicht im Weg stehen."
+
+#Rally Beneath The Dannebrog
+DEN_rally_beneath_the_dannebrog:0 "Kundgebung unter dem Dannebrog"
+DEN_rally_beneath_the_dannebrog_desc:0 "Selbst in unserer stolzen und reinen Bevölkerung gibt es Unzufriedene und Feiglinge. Doch hisst die Flagge, und alle guten Patrioten werden sich ihr anschließen. Kommt alle, stolze Bürger Dänemarks. Versammelt euch unter dem Dannebrog!"
+
+#Invade Osel
+DEN_invade_osel:0 "Erobere Ösel"
+DEN_invade_osel_desc:0 "Für einen Esten ist die Insel Ösel vielleicht seine Heimat. Für einen Dänen ist sie eine Gelegenheit, die dänische Kontrolle über die Ostsee zu festigen. Eine schnelle Invasion wäre vielleicht ratsam."
+
+#Control Riga
+DEN_control_riga:0 "Kontrolle Riga"
+DEN_control_riga_desc:0 "Lettland ist keine imposante Macht, aber die Hauptstadt Riga ist immer noch ein Zentrum der baltischen Industrie. Wir müssen Lettland sichern und unseren Einfluss in den baltischen Staaten sichern."
+
+#Close The Baltic Gap
+DEN_close_the_baltic_gap:0 "Schließen Sie die Ostseelücke"
+DEN_close_the_baltic_gap_desc:0 "Die Sowjets sind darauf spezialisiert, sich in Gebiete zu begeben, in denen sie nicht willkommen sind. Es ist an der Zeit, unseren Hauptfeind aus der Ostsee zu entfernen. Zum Wohle unseres Volkes werden wir Leningrad dem sowjetischen Bären abnehmen."
+
+#Industrialise Latvia
+DEN_industrialise_latvia:0 "Lettland industrialisieren"
+DEN_industrialise_latvia_desc:0 "Lettland ist ein wichtiger Stützpunkt auf der anderen Seite des Meeres, aber erbärmlich unterentwickelt. Wir werden Maßnahmen ergreifen, um dies zu ändern und einen starken Stützpunkt an der sowjetischen Landgrenze zu sichern."
+DEN_industrialise_latvia_tt:0 "Maximale §YInfrastruktur§! in §YKurzeme§! und §YVidzeme§! hinzufügen.\n"
+
+#Industrialise Estonia
+DEN_industrialise_estonia:0 "Estland industrialisieren"
+DEN_industrialise_estonia_desc:0 "Die estnischen Inseln sind als Stützpunkte nützlich, aber Estland selbst bietet auch die Möglichkeit, unsere Produktion auf breiter Front zu steigern. Diese Chance sollten wir nutzen."
+DEN_industrialise_estonia_tt:0 "Maximale §YInfrastruktur§! in §YHarju§! und §YTartu§! hinzufügen.\n"
+
+#Reclaim Schleswig-Holstein
+DEN_reclaim_schleswig_holstein:0 "Schleswig-Holstein zurückerobern"
+DEN_reclaim_schleswig_holstein_desc:0 "„Schleswig-Holstein“ nennen die Deutschen Südjütland heute gern. Sie vergessen dabei gern, dass sie es einst dem dänischen Königshaus abgenommen haben. Vielleicht sollten wir ihnen zeigen, wie lange das Gedächtnis der Dänen anhält."
+
+#Influence France
+DEN_influence_france:0 "Einfluss Frankreich"
+DEN_influence_france_desc:0 "Die Franzosen haben viel durchgemacht, und es scheint, als ob noch viel mehr auf sie zukommt. Der französische Nationalstolz mag auf einem historischen Tiefstand sein, aber wir sollten Schritte unternehmen, um diese alte Identität wiederzuerwecken."
+
+#Befriend France
+DEN_befriend_france:0 "Befreunde dich mit Frankreich"
+DEN_befriend_france_desc:0 "Die nationalistische Partei Frankreichs hat in letzter Zeit an Stärke gewonnen, und es wartet eine mächtige Allianz darauf, von uns geschmiedet zu werden. Wir sind bereit, im Interesse Frankreichs zu handeln."
+
+#Reclaim Normandy
+DEN_reclaim_normandy:0 "Die Normandie zurückerobern"
+DEN_reclaim_normandy_desc:0 "Das Lehen der Normandie, das die Briten im Mittelalter so stolz besetzten, wurde von und für einen Dänen geschaffen – Hrolf Ragnvaldsson. Frankreich hatte Zeit, sein Schicksal selbst in die Hand zu nehmen. Es ist Zeit, dass wir unseres in die Hand nehmen."
+
+#Influence Britain
+DEN_influence_britain:0 "Einfluss Großbritannien"
+DEN_influence_britain_desc:0 "In der nicht allzu fernen Vergangenheit war Großbritannien eine stolze Kolonialmacht, die einen riesigen Teil der Welt kontrollierte. Dieser einstige Ruhm hat nachgelassen und ist heute praktisch seinem eigenen Commonwealth verpflichtet. Wir sollten den alten imperialen Riesen wieder zum Leben erwecken."
+
+#Befriend Britain
+DEN_befriend_britain:0 "Befreunde dich mit Großbritannien"
+DEN_befriend_britain_desc:0 "Vor langer Zeit war Großbritannien das Ziel ungehinderter dänischer Überfälle. Wir mögen stolz auf unsere Vergangenheit sein, aber wir erkennen an, dass Großbritannien heute ein wertvoller Verbündeter ist, und wir sind bereit, diese Vergangenheit hinter uns zu lassen, um gemeinsam eine Zukunft zu gestalten."
+
+#Operation Longboat
+DEN_operation_longboat:0 "Operation Langboot"
+DEN_operation_longboat_desc:0 "Britannien, insbesondere die schottischen Länder, waren einst praktisch nordisches Territorium. Wie können wir den Briten ihr eigenes Territorium anvertrauen? Wir sollten die alte dänische Plünderkultur wiederbeleben und diese Länder für uns beanspruchen."
+
+#Influence Norway
+DEN_influence_norway:0 "Einfluss Norwegen"
+DEN_influence_norway_desc:0 "Die Norweger hatten einst eine stolze Geschichte, doch sie haben sie absichtlich vergessen und einen sanfteren, schwächeren Weg gewählt. Egal – wir erinnern uns, wer die Wikinger waren, und wir werden sie daran erinnern."
+
+#Cross The Straits
+DEN_cross_the_strait:0 "Überqueren Sie die Meerenge"
+DEN_cross_the_strait_desc:0 "Vielleicht kann man sich darauf verlassen, dass Norwegen zur Vernunft kommt. Vielleicht auch nicht. So oder so, wir haben lange genug gewartet, um echtes skandinavisches Land in die Gemeinschaft der echten Skandinavier aufzunehmen. Ein Einigungskrieg ist unser richtiger und einziger Weg."
+
+#Befriend Norway
+DEN_befriend_norway:0 "Marionette Norwegen"
+DEN_befriend_norway_desc:0 "Das norwegische Volk hat in seiner Innenpolitik einen Sinn erkannt – und da wir so eng miteinander verbunden sind, warum sollten wir unsere Nationen nicht noch enger zusammenbringen? Mit der norwegischen Militärkooperation können wir nur gemeinsam erfolgreich sein."
+
+#Influence Sweden
+DEN_influence_sweden:0 "Einfluss Schweden"
+DEN_influence_sweden_desc:0 "Das schwedische Reich war bereits vor dreihundert Jahren eine Weltmacht. Vielleicht gelingt es uns, den alten imperialen Giganten wieder zum Handeln zu bewegen und die schwedische Bevölkerung dazu zu bewegen, stolz unter ihrer eigenen Flagge zu stehen."
+
+#Befriend Sweden
+DEN_befriend_sweden:0 "Puppe Schweden"
+DEN_befriend_sweden_desc:0 "Die Schweden scheinen erkannt zu haben, dass sie einst groß waren – und haben der Welt verkündet, dass sie wieder groß sein wollen. Es ist nur recht und billig, dass sie mit uns zusammenarbeiten, die wir sie so geduldig auf den richtigen Weg geführt haben."
+DEN_befriend_sweden_tt:0 "Wenn Schweden akzeptiert, überträgt es das Eigentum an §YScania§! an Dänemark"
+
+#Reclaim scania
+DEN_reclaim_scania:0 "Scania zurückfordern"
+DEN_reclaim_scania_desc:0 "Schonen wurde von den Dänen unter König Harald Blauzahn regiert, bis die Schweden es uns entrissen. Sie haben das Potenzial, groß zu werden – aber wir werden ihnen nicht erlauben, Land zu beanspruchen, das rechtmäßig uns gehört. Krieg ist unsere einzige Möglichkeit."
+
+#Influence Finland
+DEN_influence_finland:0 "Einfluss Finnland"
+DEN_influence_finland_desc:0 "Finnland hat erst vor relativ kurzer Zeit seine Unabhängigkeit von Russland erlangt und ist der Tyrannei des sowjetischen Bären nur knapp entkommen. Das Land blickt auf eine lange und stolze skandinavische Geschichte zurück, und unsere ist das Beispiel, das es an diese glorreiche Vergangenheit erinnern soll."
+
+#For Their Own Good
+DEN_for_their_own_good:0 "Zu ihrem eigenen Besten"
+DEN_for_their_own_good_desc:0 "Die Finnen leben auf Messers Schneide, aber sie erkennen das offensichtlich nicht. Sie haben nichts getan, um die Sowjetunion abzuwenden, und trotten unbekümmert ihrem Schicksal entgegen. Wenn sie sich nicht auf den Krieg gegen die Kommunisten vorbereiten, werden wir sie mit Gewalt darauf vorbereiten."
+
+#Befriend Finland
+DEN_befriend_finland:0 "Marionette Finnland"
+DEN_befriend_finland_desc:0 "Finnland ist ein Land von großer kultureller und strategischer Bedeutung. Das Land ist sich dessen erst seit kurzem voll bewusst. Wir können Finnland bei der Verwirklichung seiner Visionen unterstützen, indem wir ihm einige gut positionierte dänische Berater in seinem Regierungssystem zur Seite stellen."
+
+#Expand The Union
+DEN_expand_the_union:0 "Erweitern Sie die Union"
+DEN_expand_the_union_desc:0 "Die Kalmarer Union ist zwar scheinbar vollständig, doch fehlt ihr noch immer ein wichtiger Teil ihres Erbes. Finnland war zuvor Teil des schwedischen Reiches, und nun wird das aufstrebende dänische Reich seinen Beitritt zu unserer glorreichen Union begrüßen."
+
+#A State Undivided
+DEN_a_state_undivided:0 "Ein ungeteilter Staat"
+DEN_a_state_undivided_desc:0 "Die einsatzbereiten Streitkräfte der Norweger, Schweden und Finnen waren eine Zeit lang nützlich, doch nun ist die Zeit gekommen, die Ländereien für uns zu beanspruchen. Bald werden wir die Vereinigung des gesamten rechtmäßigen Dänemarks verkünden, einen ungeteilten Staat."
+DEN_a_state_undivided_tt:0 "Dänemark besitzt oder hat Marionetten, die §YStockhom§!, §Yslo§! und §YHelsinki§! kontrollieren."
+
+#Karelia Is Ours
+DEN_karelia_is_ours:0 "Karelien gehört uns"
+DEN_karelia_is_ours_desc:0 "Die Bedeutung Kareliens für die skandinavische Bevölkerung kann nicht hoch genug eingeschätzt werden, und die Bitterkeit über seinen Verlust ist bis heute ungebrochen. Die Sowjets sind zwar imposant, aber uns zu nehmen, was uns gehört, ist das einzig Richtige. Es ist Krieg!"
+
+#Operation Vinland
+DEN_operation_vinland:0 "Operation Vinland"
+DEN_operation_vinland_desc:0 "Die überheblichen Spanier und Portugiesen trösten sich gerne mit der Illusion, Christoph Kolumbus habe die Neue Welt entdeckt. In Wirklichkeit begann die Kolonisierung der Neuen Welt mit dem Isländer Leif Erikson. Wir werden sein Land zurückerobern."
+
+####DEMOCRATIC SECTION####
+
+#Support The Status Quo
+DEN_support_the_status_quo:0 "Verteidigung der Freiheit"
+DEN_support_the_status_quo_desc:0 "Wir sind eine demokratische Nation, und trotz anderslautender deutscher und sowjetischer Rhetorik sind wir stolz darauf. Es ist an der Zeit, der Welt zu beweisen, dass wir unsere Lebensweise verteidigen werden."
+
+#Liberal Freedoms
+DEN_liberal_freedoms:0 "Liberale Freiheiten"
+DEN_liberal_freedoms_desc:0 "Unser Volk genießt viele Rechte und Freiheiten, die manche unserer Nachbarn ihren Bürgern nicht gewähren. Wir haben eine freie und ideale Lebensweise – und wir müssen sicherstellen, dass unser Volk bereit und willens ist, diese zu verteidigen."
+
+#Seek Support From Britain
+DEN_seek_support_from_britain:0 "Bitten Sie Großbritannien um Unterstützung"
+DEN_seek_support_from_britain_desc:0 "Um unsere Zukunft im Kriegsfall zu sichern, wäre die Unterstützung mächtigerer Nationen unabdingbar. Großbritannien wird unsere Befürchtungen sicherlich verstehen, da wir an zwei seiner größten potenziellen Feinde grenzen."
+
+#Seek Support From France
+DEN_seek_support_from_france:0 "Bitten Sie Frankreich um Unterstützung"
+DEN_seek_support_from_france_desc:0 "Um unsere Zukunft im Kriegsfall zu sichern, wäre die Unterstützung mächtigerer Nationen unabdingbar. Frankreich hat einen Krieg gegen die deutsche Maschinerie gewonnen und wird uns wahrscheinlich unterstützen, wenn es wieder zu einem Krieg kommt."
+
+#United Against Tyranny
+DEN_nations_against_tyranny:0 "Vereint gegen die Tyrannei"
+DEN_nations_against_tyranny_desc:0 "Der britische Commonwealth ist nicht nur eine symbolische Union. Überall auf der Welt bereiten sich Großbritannien und seine Kolonien auf einen Krieg gegen diejenigen vor, die uns unsere Lebensweise nehmen wollen. Wir haben die Chance, daran teilzuhaben – können wir es uns leisten, sie zu verpassen?"
+
+#A United North
+DEN_a_united_north:0 "Ein vereinter Norden"
+DEN_a_united_north_desc:0 "Die Kalmarer Union gehört der Vergangenheit an, doch die Sicherheit, die sie bot, muss es nicht sein. Unsere Schwesterregierungen in Norwegen und Dänemark werden zweifellos den Sinn einer gemeinsamen militärischen Notfallplanung erkennen."
+
+#Alliance With Finland
+DEN_alliance_with_finland:0 "Bündnis mit Finnland"
+DEN_alliance_with_finland_desc:0 "Finnland ist einer großen Bedrohung ausgesetzt, und auch wenn die finnische Ideologie leicht von uns abweicht, rechtfertigt das nicht, dass es von der roten Kriegsmaschinerie zermalmt wird. Die Einbeziehung Finnlands in die Gemeinschaft stärkt die demokratischen Verbündeten und gewährleistet ihre Sicherheit – eine Win-Win-Situation."
+
+#The Fascist Threat
+DEN_the_fascist_threat:0 "Die faschistische Bedrohung"
+DEN_the_fascist_threat_desc:0 "Die aggressive Rhetorik der Nazis ist kein leeres Gerede – sie haben ihre Wut mit gefährlichen Taten untermauert. Wir dürfen nicht zulassen, dass es so weitergeht. Die Zeit für Krieg ist gekommen."
+
+#The Red Menace
+DEN_the_red_menace:0 "Die rote Bedrohung"
+DEN_the_red_menace_desc:0 "Der sowjetische Bär zermalmt bereits die halbe Welt unter seinem Gewicht. Ganz Europa wird bedroht sein, wenn wir noch länger mit der Abwehr seines Vormarsches warten. Die Alliierten müssen sich zusammenschließen – nicht im Namen des Kapitalismus, sondern im Namen der Freiheit."
+
+#Defence Against Fascism
+DEN_defence_against_fascism:0 "Verteidigung gegen den Faschismus"
+DEN_defence_against_fascism_desc:0 "Unsere größte Bedrohung – vielleicht die größte Bedrohung für die Demokratie überhaupt – liegt im Süden. Unsere Militärberater sind jedoch der Ansicht, dass selbst kleine Befestigungen einen großen Beitrag dazu leisten könnten, die Panzerspitze der Nazis zu schwächen."
+
+#Defence Against Communism
+DEN_defence_against_communism:0 "Verteidigung gegen den Kommunismus"
+DEN_defence_against_communism_desc:0 "Unser Land ist klein, und eine gut platzierte Invasion von See aus könnte unser Ende bedeuten, wenn wir nicht vorbereitet sind. Nachdem der Zugang vom Süden gesichert ist, besteht der logische nächste Schritt darin, den Sowjets den Zugang vom Meer aus zu verwehren."
+
+#A Stronger Democracy
+DEN_a_stronger_democracy:0 "Eine stärkere Demokratie"
+DEN_a_stronger_democracy_desc:0 "Der Grundstein der Demokratie ist das Vertrauen in die Regierung. Es ist an der Zeit, dass wir unsere Ressourcen in den Aufbau dieses Vertrauens investieren. Weltweit braut sich Krieg zusammen – welches Recht haben wir, von unseren Bürgern zu verlangen, für ihr Land zu kämpfen und zu sterben, wenn sie dessen Führung nicht vertrauen?"
+
+#Danish Patriotism
+DEN_danish_patriotism:0 "Dänischer Patriotismus"
+DEN_danish_patriotism_desc:0 "Dänemark ist ein kleines Land mit einer kleinen Bevölkerung – und jeder Mann, jede Frau und jedes Kind ist stolz auf das Land. Wenn wir an diesen stolzen nationalen Patriotismus appellieren, können wir die Menschen sicherlich davon überzeugen, uns beim Schutz unserer Nation und unserer Heimat zu unterstützen."
+
+####COMMUNIST SECTION####
+
+#Empower The Workers
+DEN_empower_the_workers:0 "Stärkung der Arbeitnehmer"
+DEN_empower_the_workers_desc:0 "Die Fassade des demokratischen „Sozialismus“ ist eine Lüge, die uns die Regierung gerne erzählt. Der Kommunismus ist in Europa nicht nur als Wirtschaftssystem, sondern als Lebensform auf dem Vormarsch. Der Weg nach vorn liegt in der geballten Kraft des einfachen Arbeiters."
+
+#Workers Rallies
+DEN_workers_rallies:0 "Arbeiterkundgebungen"
+DEN_workers_rallies_desc:0 "Wir haben den Menschen gesagt, dass es einen anderen Weg gibt, aber erst jetzt hatten wir die Freiheit, diese Botschaft auf die Straße zu tragen. Die einzig richtige Stimme ist die Stimme des Volkes, und wir werden dafür sorgen, dass Dänemark sie hört."
+
+#The Danish Struggle
+DEN_the_danish_struggle:0 "Der dänische Kampf"
+DEN_the_danish_struggle_desc:0 "Die Vision des Kommunismus mag ihren Ursprung in der Sowjetunion haben, doch wir haben unsere eigene Vision für unsere Zukunft als Volk. Dänemark kann und wird sich um seine eigene Zukunft kümmern, jetzt, da wir auf dem richtigen Weg sind."
+
+#The International Struggle
+DEN_the_international_struggle:0 "Der internationale Kampf"
+DEN_the_international_struggle_desc:0 "Der Kampf der Arbeiter kennt keine Grenzen und Nationalitäten. Die Kommunistische Internationale ist ein bewundernswertes Unterfangen, und jeder dänische Arbeiter wird stolz sein, daran teilhaben zu können. Arbeiter aller Länder, vereinigt euch!"
+
+#Socialist Propoganda
+DEN_socialist_propoganda:0 "Sozialistische Propaganda"
+DEN_socialist_propoganda_desc:0 "Erst jetzt kommt die Botschaft zum Vorschein, dass das Volk keine Angst vor irgendeiner Regierung oder Militärmacht haben muss. Wir werden unser Schicksal selbst in die Hand nehmen, und unser Land wird nicht als sterile Regierungseinheit, sondern als vereintes Volk dahinterstehen."
+
+#Establish The Commissariat School
+DEN_establish_the_commissariat_school:0 "Gründung der Kommissariatsschule"
+DEN_establish_the_commissariat_school_desc:0 "Das Militär war der Regierung unterstellt, doch im kommunistischen Ideal sind Militär, Regierung und Volk eins. Wir müssen damit beginnen, politisch gewählte Amtsträger für militärische Aufgaben auszubilden, um sicherzustellen, dass unser Volk als Einheit zusammenarbeitet."
+
+#All For Denmark
+DEN_all_for_denmark:0 "Alles für Dänemark"
+DEN_all_for_denmark_desc:0 "Es ist bedauerlich, dass sich das dänische Volk gegen diejenigen verteidigen muss, die unsere neu gewonnene Lebensweise zerstören wollen, aber es ist die Realität. Wenn wir wirklich sicher sein wollen, muss jeder Bürger wissen, wie man zu den Waffen greift und sein Zuhause verteidigt."
+ 
+#Remove The False Tyrant
+DEN_remove_the_false_tyrant:0 "Entfernen Sie den falschen Tyrannen"
+DEN_remove_the_false_tyrant_desc:0 "Trotzki hat Recht – der stalinistische Kommunismus ist nichts weiter als ein Mechanismus, um die Unterdrückung der Arbeiterklasse zu verschleiern. Das Leid des sowjetischen Volkes ist uns nicht unbekannt. Es gibt keinen besseren Zeitpunkt als jetzt, um unseren Nachbarn die Befreiung zu bringen."
+
+#The Revolution Spreads To Sweden
+DEN_the_revolution_spreads_sweden:0 "Die Revolution greift auf Schweden über"
+DEN_the_revolution_spreads_sweden_desc:0 "Obwohl Schweden angeblich eine Demokratie ist, weigert es sich hartnäckig, auf den Willen seines eigenen Volkes zu hören. Es scheint, als müssten die Dänen mit gutem Beispiel vorangehen und in das goldene Zeitalter der Arbeiterschaft eintreten."
+
+#Swedish Brotherhood
+DEN_swedish_brotherhood:0 "Schwedische Bruderschaft"
+DEN_swedish_brotherhood_desc:0 "Das schwedische Volk unterstützt den Kommunismus mit bewundernswerter Begeisterung – jetzt ist der perfekte Zeitpunkt, es für die Sache der Arbeiter zu gewinnen."
+
+#The Revolution Spreads To Norway
+DEN_the_revolution_spreads_norway:0 "Die Revolution greift auf Norwegen über"
+DEN_the_revolution_spreads_norway_desc:0 "Norwegen ist eine großartige Nation mit einem starken, aufrechten Volk. Dieses Volk hat es verdient zu erfahren, was die Regierung ihm vorenthält: Es gibt eine andere Lebensweise jenseits der Sklaverei des Kapitalismus."
+
+#Norwegian Brotherhood
+DEN_norwegian_brotherhood:0 "Norwegische Bruderschaft"
+DEN_norwegian_brotherhood_desc:0 "Das norwegische Volk hat den Kommunismus als nationale Lebensweise angenommen – jetzt ist es sicherlich an der Zeit, dass es sich uns anschließt und mit uns zusammenarbeitet."
+
+#Destroy The Swedish Bourgoisie
+DEN_destroy_the_swedish_bourgoisse:0 "Zerstöre die schwedische Bourgoisse"
+DEN_destroy_the_swedish_bourgoisse_desc:0 "Wir haben versucht, das schwedische Volk zum Lebensideal der Arbeiter zu führen, doch die korrupte Elite der Regierung unterdrückt die Arbeiter noch immer. Wir müssen dieser Gräueltat mit Gewalt ein Ende setzen."
+
+#Destroy The Norwegian Bourgoisie
+DEN_destroy_the_norwegian_bourgoisse:0 "Zerstöre die norwegische Bourgoisse"
+DEN_destroy_the_norwegian_bourgoisse_desc:0 "Die sogenannte aufgeklärte Demokratie des norwegischen Volkes ist eine Falle, aus der sich die arbeitende Bevölkerung offenbar nicht befreien kann. Wir müssen ihr helfen, selbst wenn das Krieg gegen die unterdrückerische Regierung bedeutet."
+
+#Red Winter
+DEN_red_winter:0 "Roter Winter"
+DEN_red_winter_desc:0 "Finnland hat sich lange der kommunistischen Revolution widersetzt, nur weil die Sowjets als Nachbarn einschüchternd wirken. Die finnischen Arbeiter können und müssen sich mit ganz Skandinavien erheben. Wir werden sie unterstützen, damit sie ihr Schicksal selbst in die Hand nehmen können!"
+
+#Break The Finnish Resistance
+DEN_break_the_finnish_resistance:0 "Den finnischen Widerstand brechen"
+DEN_break_the_finnish_resistance_desc:0 "Den Finnen wurde jede Chance gegeben, auf die Stimme der Vernunft zu hören und ihr Volk zu befreien. Jetzt ist es an der Zeit, den Arbeitern, die sich erhoben haben, Unterstützung zu zeigen – militärische Unterstützung."
+
+#Finnish Brotherhood
+DEN_finnish_brotherhood:0 "Finnische Bruderschaft"
+DEN_finnish_brotherhood_desc:0 "Trotz ihres Hasses und ihrer Angst vor dem Kommunismus haben die Finnen mehr Angst vor dem sowjetischen Bären als vor dem Ideal, das sie repräsentieren. Wir sind selbst keine Freunde der Sowjets – und wir können einen sanfteren Weg zur Befreiung ihrer Arbeiter bieten."
+
+#Enemy Of The People
+DEN_enemy_of_the_people:0 "Volksfeind"
+DEN_enemy_of_the_people_desc:0 "Adolf Hitler ist der Archetyp eines unterdrückerischen Herrschers, der sein Volk dazu treibt, in seinem eigenen Namen zu siegen und sein Leben für nichts anderes als den perversen Imperialismus zu geben. Wenn es ein Land gibt, das wir für die Revolution befreien müssen, dann ist es Deutschland."
+
+#Strike First
+DEN_strike_first:0 "Schlag zuerst zu"
+DEN_strike_first_desc:0 "Die Kolonialpolitik Großbritanniens hat in der Zukunft der Arbeiter, die wir zu gestalten versuchen, keinen Platz. Sie werden unseren aufgeklärten Staat zweifellos als Vorwand nutzen, um uns zu Marionetten zu machen – es sei denn, wir kommen ihnen zuvor."
+
+#Support The French Workers
+DEN_support_the_french_workers:0 "Unterstützen Sie die französischen Arbeiter"
+DEN_support_the_french_workers_desc:0 "Die kommunistische Unterstützung in Frankreich ist überwältigend, und es bedarf nur einer kleinen Unterstützungsbekundung, um die Arbeiter ihres Landes zur Selbstbefreiung zu bewegen. Wir werden diesen kleinen Anstoß geben."
+
+#Free The French Workers
+DEN_free_the_french_workers:0 "Befreit die französischen Arbeiter"
+DEN_free_the_french_workers_desc:0 ""
+
+
+ ### DANISH SECTION ###
+ 
+ DEN_kalmar_union:0 "Kalmar Union"
+ DEN_kalmar_union_desc:0 "Die Völker Dänemarks, Norwegens und Schwedens sind wieder vereint. Die Welt blickt mit Ehrfurcht auf Skandinavien!"
+ 
+ DEN_finnish_drill_sergeants:0 "Finnische Drill Sergeants"
+ DEN_finnish_drill_sergeants_desc:0 "Das finnische Volk ist stoisch in der Verteidigung seiner Heimat und wird unseren Truppen gute Dienste leisten, indem es sie in seinen Gebräuchen ausbildet."
+ 
+ DEN_inspired_population:0 "Inspirierte Bevölkerung"
+ DEN_inspired_population_desc:0 "Inspiriert von Reden über vergangene Siege und Heldentaten strömen die jungen Männer Dänemarks nun zu unserem Militär, um selbst Teil der Geschichte zu werden."
+
+ DEN_german_tech:0 "Deutsche Technologiezusammenarbeit"
+ DEN_german_tech_desc:0 "Deutschland stellt uns großzügig Pläne für seine technologischen Wunderwerke zur Verfügung."
+ DEN_german_tech_tt:0 "Ermöglicht deutsche Designs."
+ 
+ DEN_soviet_tech:0 "Sowjetische technologische Zusammenarbeit"
+ DEN_soviet_tech_desc:0 "Die Sowjetunion stellt uns großzügig Pläne für ihre technologischen Wunderwerke zur Verfügung."
+ DEN_soviet_tech_tt:0 "Ermöglicht sowjetische Designs."
+ 
+ DEN_british_tech:0 "Britische technologische Zusammenarbeit"
+ DEN_british_tech_desc:0 "Das Vereinigte Königreich stellt uns großzügig Pläne für seine technologischen Wunderwerke zur Verfügung."
+ DEN_british_tech_tt:0 "Ermöglicht britische Designs."
+ 
+
+ # EVENTS
+
+ danish_empire_faction:0 "Større Scandinavia"
+ danish_communist_faction:0 "Kalmarer Union der Sozialistischen Republiken"
+ austria_fascist_faction:0 "Österreich Imperium"
+ austria_communist_faction:0 "Sozialistische Staaten Europas"
+
+ 
+ denmark.1006.t:0 "Militärbündnis aus Dänemark"
+ denmark.1006.d:0 "Die Dänische Nationalsozialistische Arbeiterpartei hat die Macht übernommen und uns offiziell um ein Militärbündnis gebeten."
+ denmark.1006.a:0 "Gemeinsam sind wir stark"
+ denmark.1006.b:0 "Deutschland braucht keine weiteren Verbündeten"
+ 
+ news.1006a.t:0 "Deutschland hat unser Bündnis akzeptiert"
+ news.1006a.d:0 "Nach sorgfältiger Überlegung hat der deutsche Führer unseren Vorschlag angenommen und Dänemark offiziell in die Achse aufgenommen!"
+ news.1006a.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1006b.t:0 "Deutschland hat unser Bündnis abgelehnt"
+ news.1006b.d:0 "Nach sorgfältiger Überlegung hat der deutsche Führer unseren Bündnisvorschlag abgelehnt!"
+ news.1006b.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1010.t:0 "Parteifusion aus Dänemark"
+ denmark.1010.d:0 "Die Dänische Nationalsozialistische Arbeiterpartei hat die Macht übernommen und uns offiziell einen Antrag auf eine Regierungsfusion übermittelt."
+ denmark.1010.a:0 "Gemeinsam sind wir stark!"
+ denmark.1010.b:0 "Schweden wird nicht versklavt!"
+ 
+ news.1010a.t:0 "Schweden hat unser Bündnis akzeptiert"
+ news.1010a.d:0 "Trotz unserer historischen Differenzen hat sich die schwedische Regierung mit unserer verschmolzen. Wir haben jetzt die volle Kontrolle über ihr Land!"
+ news.1010a.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1010b.t:0 "Schweden hat unser Bündnis abgelehnt"
+ news.1010b.d:0 "Nach reiflicher Überlegung hat die schwedische Regierung unser Militärbündnis abgelehnt!"
+ news.1010b.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1007.t:0 "Parteifusion aus Dänemark"
+ denmark.1007.d:0 "Die Dänische Nationalsozialistische Arbeiterpartei hat die Macht übernommen und uns offiziell einen Antrag auf eine Regierungsfusion übermittelt."
+ denmark.1007.a:0 "Gemeinsam sind wir stark!"
+ denmark.1007.b:0 "Norwegen wird nicht versklavt!"
+ 
+ news.1007a.t:0 "Norwegen hat unser Bündnis akzeptiert"
+ news.1007a.d:0 "Da die norwegische Regierung wusste, dass unsere beiden Länder gemeinsam weitaus mächtiger wären, hat sie sich mit unserer zusammengeschlossen. Wir haben jetzt die volle Kontrolle über ihr Land!"
+ news.1007a.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1007b.t:0 "Norwegen hat unser Bündnis abgelehnt"
+ news.1007b.d:0 "Nach reiflicher Überlegung hat die norwegische Regierung unser Militärbündnis abgelehnt!"
+ news.1007b.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1003.t:0 "Parteifusion aus Dänemark"
+ denmark.1003.d:0 "Die Dänische Nationalsozialistische Arbeiterpartei hat die Macht übernommen und uns offiziell einen Antrag auf eine Regierungsfusion übermittelt."
+ denmark.1003.a:0 "Gemeinsam sind wir stark!"
+ denmark.1003.b:0 "Finnland kann auf eigenen Beinen stehen!"
+ 
+ news.1003a.t:0 "Finnland hat unser Bündnis akzeptiert"
+ news.1003a.d:0 "Um eine sowjetische Invasion besser abwehren zu können, hat sich die finnische Regierung mit unserer zusammengeschlossen. Wir haben jetzt die volle Kontrolle über ihr Land!"
+ news.1003a.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1003b.t:0 "Finnland hat unser Bündnis abgelehnt"
+ news.1003b.d:0 "Da die finnische Regierung an keinem weiteren Krieg beteiligt sein will, hat sie unser Militärbündnis abgelehnt!"
+ news.1003b.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1005.t:0 "Fraktionseinladung aus Dänemark"
+ denmark.1005.d:0 "Die Dänische Nationalsozialistische Arbeiterpartei hat die Macht übernommen und uns offiziell um ein Militärbündnis gebeten."
+ denmark.1005.a:0 "Gemeinsam sind wir stark!"
+ denmark.1005.b:0 "Frankreich kann auf eigenen Beinen stehen!"
+ 
+ news.1005a.t:0 "Frankreich hat unser Bündnis akzeptiert"
+ news.1005a.d:0 "Vereint gegen den korrupten Westen und Osten hat die französische Regierung unser Militärbündnis akzeptiert!"
+ news.1005a.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1005b.t:0 "Frankreich hat unser Bündnis abgelehnt"
+ news.1005b.d:0 "Da die französische Regierung an unserer neuen Weltordnung nicht teilhaben will, hat sie unser Militärbündnis abgelehnt!"
+ news.1005b.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1001.t:0 "Fraktionseinladung aus Dänemark"
+ denmark.1001.d:0 "Die Dänische Nationalsozialistische Arbeiterpartei hat die Macht übernommen und uns offiziell um ein Militärbündnis gebeten."
+ denmark.1001.a:0 "Gemeinsam sind wir stark!"
+ denmark.1001.b:0 "Großbritannien kann auf eigenen Beinen stehen!"
+ 
+ news.1001a.t:0 "Großbritannien hat unser Bündnis akzeptiert"
+ news.1001a.d:0 "Vereint gegen den korrupten Westen und Osten hat die britische Regierung unser Militärbündnis akzeptiert!"
+ news.1001a.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1001b.t:0 "Großbritannien hat unser Bündnis abgelehnt"
+ news.1001b.d:0 "Da die britische Regierung an unserer neuen Weltordnung nicht teilhaben will, hat sie unser Militärbündnis abgelehnt!"
+ news.1001b.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1002.t:0 "Militärbündnis aus Dänemark"
+ denmark.1002.d:0 "Die dänische Regierung hat darum gebeten, unserer Fraktion beizutreten. Dies würde uns einen guten Stützpunkt in Nordeuropa verschaffen."
+ denmark.1002.a:0 "Die freie Welt soll immer stärker werden!"
+ denmark.1002.b:0 "Großbritannien braucht keine weiteren Verbündeten"
+ 
+ news.1002a.t:0 "Großbritannien hat unser Bündnis akzeptiert"
+ news.1002a.d:0 "Nach sorgfältiger Prüfung hat uns das britische Parlament in die Alliierten aufgenommen!"
+ news.1002a.a:0 "Demokratie und Freiheit dürfen niemals ins Wanken geraten!"
+ 
+ news.1002b.t:0 "Großbritannien hat unser Bündnis abgelehnt"
+ news.1002b.d:0 "Nach sorgfältiger Prüfung hat das britische Parlament unseren Bündnisantrag abgelehnt."
+ news.1002b.a:0 "Dänemark wird dann auf eigenen Beinen stehen"
+ 
+ denmark.1009.t:0 "Militärbündnis aus Dänemark"
+ denmark.1009.d:0 "Die Kommunistische Partei Dänemarks hat die Macht übernommen und uns offiziell um ein Militärbündnis gebeten."
+ denmark.1009.a:0 "Gemeinsam sind wir stark"
+ denmark.1009.b:0 "Die Sowjetunion braucht keine weiteren Verbündeten"
+ 
+ news.1009a.t:0 "Die Sowjetunion hat Dänemarks Bündnis akzeptiert"
+ news.1009a.d:0 "Nach sorgfältiger Überlegung hat die Kommunistische Partei der Sowjetunion den Vorschlag Dänemarks angenommen und Dänemark offiziell in die Komintern aufgenommen!"
+ news.1009a.a:0 "Dänemark tritt der Komintern bei!"
+ 
+ news.1009b.t:0 "Die Sowjetunion hat unser Bündnis abgelehnt"
+ news.1009b.d:0 "Nach sorgfältiger Überlegung hat die Kommunistische Partei der Sowjetunion unseren Vorschlag für ein Bündnis abgelehnt!"
+ news.1009b.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1011.t:0 "Militärbündnis aus Dänemark"
+ denmark.1011.d:0 "Die Kommunistische Partei Dänemarks hat die Macht übernommen und uns offiziell um ein Militärbündnis gebeten."
+ denmark.1011.a:0 "Gemeinsam sind wir stark"
+ denmark.1011.b:0 "Schweden braucht keine weiteren Verbündeten"
+ 
+ news.1011csa.t:0 "Schweden hat unser Bündnis akzeptiert"
+ news.1011csa.d:0 "Nach sorgfältiger Überlegung hat die Kommunistische Partei Schwedens unseren Vorschlag angenommen und unser Militärbündnis formell akzeptiert!"
+ news.1011csa.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1011csb.t:0 "Schweden hat unser Bündnis abgelehnt"
+ news.1011csb.d:0 "Nach sorgfältiger Prüfung hat die Kommunistische Partei Schwedens unseren Vorschlag für ein Bündnis abgelehnt!"
+ news.1011csb.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1008.t:0 "Militärbündnis aus Dänemark"
+ denmark.1008.d:0 "Die Kommunistische Partei Dänemarks hat die Macht übernommen und uns offiziell um ein Militärbündnis gebeten."
+ denmark.1008.a:0 "Gemeinsam sind wir stark"
+ denmark.1008.b:0 "Norwegen braucht keine weiteren Verbündeten"
+ 
+ news.1008cna.t:0 "Norwegen hat unser Bündnis akzeptiert"
+ news.1008cna.d:0 "Nach sorgfältiger Überlegung hat die Kommunistische Partei Norwegens unseren Vorschlag angenommen und unser Militärbündnis formell akzeptiert!"
+ news.1008cna.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1008cnb.t:0 "Norwegen hat unser Bündnis abgelehnt"
+ news.1008cnb.d:0 "Nach sorgfältiger Überlegung hat die Kommunistische Partei Norwegens unseren Vorschlag für ein Bündnis abgelehnt!"
+ news.1008cnb.a:0 "Sie werden es bereuen!"
+ 
+ denmark.1004.t:0 "Militärbündnis aus Dänemark"
+ denmark.1004.d:0 "Die Kommunistische Partei Dänemarks hat die Macht übernommen und uns offiziell um ein Militärbündnis gebeten."
+ denmark.1004.a:0 "Gemeinsam sind wir stark"
+ denmark.1004.b:0 "Finnland braucht keine weiteren Verbündeten"
+ 
+ news.1004cfa.t:0 "Finnland hat unser Bündnis akzeptiert"
+ news.1004cfa.d:0 "Nach sorgfältiger Überlegung hat die Kommunistische Partei Finnlands unseren Vorschlag angenommen und unser Militärbündnis formell akzeptiert!"
+ news.1004cfa.a:0 "Niemand wird uns aufhalten!"
+ 
+ news.1004cfb.t:0 "Finnland hat unser Bündnis abgelehnt"
+ news.1004cfb.d:0 "Nach sorgfältiger Überlegung hat die Kommunistische Partei Finnlands unseren Vorschlag für ein Bündnis abgelehnt!"
+ news.1004cfb.a:0 "Sie werden es bereuen!"
+
+ denmark.1101.t:0 "Panzer III-Design erhalten"
+ denmark.1101.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den mittleren Panzer Panzerkampfwagen III erhalten."
+ denmark.1101.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1101.a.tt:0 "Sie erhalten eine verbesserte Variante des §YPanzer III Medium Tank§!"
+ 
+ denmark.1102.t:0 "Panzer IV-Design erhalten"
+ denmark.1102.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den mittleren Panzer Panzerkampfwagen IV erhalten."
+ denmark.1102.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1102.a.tt:0 "Sie erhalten eine verbesserte Variante des §YPanzer IV Medium Tank§!"
+ 
+ denmark.1103.t:0 "Panzer V Panther-Design erhalten"
+ denmark.1103.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den mittleren Panzer Panzerkampfwagen V erhalten."
+ denmark.1103.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1103.a.tt:0 "Sie erhalten eine verbesserte Variante des §YPanzer V Panther Medium Tank§!"
+ 
+ denmark.1104.t:0 "Panzer I-Design erhalten"
+ denmark.1104.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den leichten Panzerkampfwagen I erhalten."
+ denmark.1104.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1104.a.tt:0 "Sie erhalten eine verbesserte Variante des §YPanzer I Leichtpanzer§!"
+ 
+ denmark.1105.t:0 "Panzer II-Design erhalten"
+ denmark.1105.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den leichten Panzerkampfwagen II erhalten."
+ denmark.1105.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1105.a.tt:0 "Sie erhalten eine verbesserte Variante des §YPanzer II Leichtpanzer§!"
+ 
+ denmark.1106.t:0 "Leoparden-Design erhalten"
+ denmark.1106.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den leichten Panzerkampfwagen 1602 Leopard erhalten."
+ denmark.1106.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1106.a.tt:0 "Sie erhalten eine verbesserte Variante des §YLeopard Light Tank§!"
+ 
+ denmark.1107.t:0 "Grosstraktor-Design erhalten"
+ denmark.1107.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den schweren Panzer Großtraktor erhalten."
+ denmark.1107.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1107.a.tt:0 "Sie erhalten eine verbesserte Variante des §YGroßtraktor Heavy Tank§!"
+ 
+ denmark.1108.t:0 "Tiger I-Design erhalten"
+ denmark.1108.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den schweren Panzerkampfwagen VI Tiger I erhalten."
+ denmark.1108.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1108.a.tt:0 "Sie erhalten eine verbesserte Variante des §YPanzer VI Tiger I Heavy Tank§!"
+ 
+ denmark.1109.t:0 "Tiger II-Design erhalten"
+ denmark.1109.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den schweren Panzerkampfwagen VI Ausf.b Tiger II erhalten."
+ denmark.1109.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1109.a.tt:0 "Sie erhalten eine verbesserte Variante des „Panzer VI Ausf.b Tiger II Heavy Tank“!"
+ 
+ denmark.1110.t:0 "Maus-Design erhalten"
+ denmark.1110.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den superschweren Panzerkampfwagen VIII Maus erhalten."
+ denmark.1110.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1110.a.tt:0 "Sie erhalten eine verbesserte Variante des „Panzer VIII Maus Super Heavy Tank“!"
+ 
+ denmark.1111.t:0 "E-50-Design erhalten"
+ denmark.1111.d:0 "Wir haben gerade von unseren deutschen Kollegen Entwürfe für den modernen Panzer E-50 erhalten."
+ denmark.1111.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1111.a.tt:0 "Sie erhalten eine verbesserte Variante des §YE-50 Modern Tank§!"
+ 
+ denmark.1112.t:0 "Deutschland hat unsere technologische Zusammenarbeit aufgekündigt"
+ denmark.1112.d:0 "Deutschland möchte seine Pläne nicht länger mit uns teilen und hat alle Berater aus unserem Land abgezogen."
+ denmark.1112.a:0 "Wir werden ihre eigenen Pläne gegen sie verwenden!"
+ 
+ denmark.1113.t:0 "Vickers II-Design erhalten"
+ denmark.1113.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den leichten Panzer Vickers II erhalten."
+ denmark.1113.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1113.a.tt:0 "Sie erhalten eine verbesserte Variante des §YLeichtpanzers Vickers II§!"
+ 
+ denmark.1114.t:0 "Matilda-Design erhalten"
+ denmark.1114.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den leichten Panzer Matilda erhalten."
+ denmark.1114.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1114.a.tt:0 "Sie erhalten eine verbesserte Variante des §YLeichtpanzers Matilda§!"
+ 
+ denmark.1115.t:0 "Valentinstag-Design erhalten"
+ denmark.1115.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den leichten Panzer Valentine erhalten."
+ denmark.1115.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1115.a.tt:0 "Sie erhalten eine verbesserte Variante des „Valentine Light Tank“!"
+ 
+ denmark.1116.t:0 "Crusader-Design erhalten"
+ denmark.1116.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den mittleren Panzer Crusader erhalten."
+ denmark.1116.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1116.a.tt:0 "Sie erhalten eine verbesserte Variante des §YCrusader Medium Tank§!"
+ 
+ denmark.1117.t:0 "Cromwell-Design erhalten"
+ denmark.1117.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den mittleren Panzer Cromwell erhalten."
+ denmark.1117.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1117.a.tt:0 "Sie erhalten eine verbesserte Variante des §YCromwell Medium Tank§!"
+ 
+ denmark.1118.t:0 "Comet-Design erhalten"
+ denmark.1118.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den mittleren Panzer Comet erhalten."
+ denmark.1118.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1118.a.tt:0 "Sie erhalten eine verbesserte Variante des §YComet Medium Tank§!"
+ 
+ denmark.1119.t:0 "Vickers A1E1 Unabhängiges Design erhalten"
+ denmark.1119.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den schweren Panzer Vickers A1E1 Independent erhalten."
+ denmark.1119.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1119.a.tt:0 "Sie erhalten eine verbesserte Variante des §YVickers A1E1 Independent Heavy Tank§!"
+ 
+ denmark.1120.t:0 "Churchill-Design erhalten"
+ denmark.1120.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den schweren Panzer Churchill erhalten."
+ denmark.1120.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1120.a.tt:0 "Sie erhalten eine verbesserte Variante des §YChurchill Heavy Tank§!"
+ 
+ denmark.1121.t:0 "Black Prince Design erhalten"
+ denmark.1121.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den schweren Panzer Black Prince erhalten."
+ denmark.1121.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1121.a.tt:0 "Sie erhalten eine verbesserte Variante des „Black Prince Heavy Tank“!"
+ 
+ denmark.1122.t:0 "Schildkröten-Design erhalten"
+ denmark.1122.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den superschweren Panzer Tortoise erhalten."
+ denmark.1122.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1122.a.tt:0 "Sie erhalten eine verbesserte Variante des „Tortoise Super Heavy Tank“!"
+ 
+ denmark.1123.t:0 "Centurion-Design erhalten"
+ denmark.1123.d:0 "Wir haben gerade von unseren britischen Kollegen Entwürfe für den modernen Panzer Centurion erhalten."
+ denmark.1123.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1123.a.tt:0 "Sie erhalten eine verbesserte Variante des §YCenturion Modern Tank§!"
+ 
+ denmark.1124.t:0 "Großbritannien hat unsere technologische Zusammenarbeit aufgekündigt"
+ denmark.1124.d:0 "Großbritannien möchte seine Pläne nicht länger mit uns teilen und hat alle Berater aus unserem Land abgezogen."
+ denmark.1124.a:0 "Wir werden ihre eigenen Pläne gegen sie verwenden!"
+ 
+ denmark.1125.t:0 "T-26-Design erhalten"
+ denmark.1125.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den leichten Panzer T-26 erhalten."
+ denmark.1125.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1125.a.tt:0 "Sie erhalten eine verbesserte Variante des §YT-26 Light Tank§!"
+ 
+ denmark.1126.t:0 "BT-7-Design erhalten"
+ denmark.1126.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den leichten Panzer BT-7 erhalten."
+ denmark.1126.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1126.a.tt:0 "Sie erhalten eine verbesserte Variante des §YBT-7 Light Tank§!"
+ 
+ denmark.1127.t:0 "T-60-Design erhalten"
+ denmark.1127.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den leichten Panzer T-60 erhalten."
+ denmark.1127.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1127.a.tt:0 "Sie erhalten eine verbesserte Variante des §YT-60 Light Tank§!"
+ 
+ denmark.1128.t:0 "A-32-Design erhalten"
+ denmark.1128.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den mittleren Panzer A-32 erhalten."
+ denmark.1128.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1128.a.tt:0 "Sie erhalten eine verbesserte Variante des §YA-32 Medium Tank§!"
+ 
+ denmark.1129.t:0 "T-34-Design erhalten"
+ denmark.1129.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den mittleren Panzer T-34 erhalten."
+ denmark.1129.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1129.a.tt:0 "Sie erhalten eine verbesserte Variante des §YT-34 Medium Tank§!"
+ 
+ denmark.1130.t:0 "T-44-Design erhalten"
+ denmark.1130.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den mittleren Panzer T-44 erhalten."
+ denmark.1130.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1130.a.tt:0 "Sie erhalten eine verbesserte Variante des §YT-44 Medium Tank§!"
+ 
+ denmark.1131.t:0 "T-35-Design erhalten"
+ denmark.1131.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den schweren Panzer T-35 erhalten."
+ denmark.1131.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1131.a.tt:0 "Sie erhalten eine verbesserte Variante des §YT-35 Heavy Tank§!"
+ 
+ denmark.1132.t:0 "KV-1-Design erhalten"
+ denmark.1132.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den schweren Panzer KV-1 erhalten."
+ denmark.1132.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1132.a.tt:0 "Sie erhalten eine verbesserte Variante des §YKV-1 Heavy Tank§!"
+ 
+ denmark.1133.t:0 "IS-1-Design erhalten"
+ denmark.1133.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den schweren Panzer IS-1 erhalten."
+ denmark.1133.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1133.a.tt:0 "Sie erhalten eine verbesserte Variante des §YIS-1 Heavy Tank§!"
+ 
+ denmark.1134.t:0 "IS-7-Design erhalten"
+ denmark.1134.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den superschweren Panzer IS-7 erhalten."
+ denmark.1134.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1134.a.tt:0 "Sie erhalten eine verbesserte Variante des §YIS-7 Super Heavy Tank§!"
+ 
+ denmark.1135.t:0 "T-54-Design erhalten"
+ denmark.1135.d:0 "Wir haben gerade von unseren sowjetischen Kollegen Entwürfe für den modernen Panzer T-54 erhalten."
+ denmark.1135.a:0 "Ausgezeichnet, nehmen Sie sie sofort in Produktion!"
+ denmark.1135.a.tt:0 "Sie erhalten eine verbesserte Variante des §YT-54 Modern Tank§!"
+ 
+ denmark.1136.t:0 "Die Sowjetunion hat unsere technologische Zusammenarbeit aufgekündigt"
+ denmark.1136.d:0 "Die Sowjetunion möchte ihre Pläne nicht länger mit uns teilen und hat alle Berater aus unserem Land abgezogen."
+ denmark.1136.a:0 "Wir werden ihre eigenen Pläne gegen sie verwenden!"

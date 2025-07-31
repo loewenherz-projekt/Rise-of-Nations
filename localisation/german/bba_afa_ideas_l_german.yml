@@ -1,0 +1,18 @@
+﻿l_german:
+ 
+ bba_AFA_skilled_desert_warriors:0 "Krieger, die in der Wüstenkriegsführung erfahren sind"
+ bba_AFA_skilled_desert_warriors_desc:0 "Die Afar-Krieger waren schon immer für ihre unerschütterlichen Fähigkeiten im Wüstenkampf bekannt und aufgrund dieser Tatsache und des rauen Geländes der Danakil-Wüste konnte Aussa so lange der Annexion durch das äthiopische Reich entgehen."
+ HOA_state_bank_idea:0 "Staatsbank von [ROOT.GetNameDef]"
+ HOA_state_funded_projects_idea:0 "Staatlich geförderte Projekte"
+ HOA_improved_irregulars_idea:0 "Verbesserte unregelmäßige Taktiken"
+ HOA_every_man_a_warrior_idea:0 "Jeder Mann ein Krieger"
+ HOA_our_finest_idea:0 "Unser Bestes"
+ HOA_our_strength_idea:0 "Die Stärken der [ROOT.GetAdjective]-Leute"
+ HOA_education_idea:0 "Verbesserte Bildung"
+ HOA_volunteers_idea:0 "Die [ROOT.GetAdjective] Freiwilligentruppe"
+ HOA_jagged_alliance_idea:0 "Sicherheit in Allianzen"
+ HOA_rallying_the_people_idea:0 "Die Menschen sammeln"
+ HOA_rightfully_ours_idea:0 "Die Rückeroberung des Imperiums"
+
+
+

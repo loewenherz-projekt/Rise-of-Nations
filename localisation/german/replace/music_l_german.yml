@@ -1,0 +1,21 @@
+﻿l_german:
+ # HOI4 Soundtrack
+ maintheme_allies:0 "Verbündete-Thema"
+
+ # Main Theme
+ maintheme:0 "Giovinezza\n\n\n\n\n\n\n\n\n£giovinezza_texticon\n\n\n\n\n\n\n"
+
+ # RoN
+ ron_music_TITLE:0 "Aufstieg der Nationen"
+ 1919:0 "1919\n\n\n\n\n\n\n\n\n£1919_texticon\n\n\n\n\n\n\n"
+ aces_high:0 "Asse hoch\n\n\n\n\n\n\n\n\n£aces_high_texticon\n\n\n\n\n\n\n"
+ cant_help_falling_in_love:0 "Ich kann nicht anders, als mich zu verlieben\n\n\n\n\n\n\n\n\n£fallin_love_texticon\n\n\n\n\n\n\n"
+ battle_cry_of_freedom:0 "Schlachtruf der Freiheit\n\n\n\n\n\n\n\n\n£freedom_texticon\n\n\n\n\n\n\n"
+ dream_of_flight:0 "Der Traum vom Fliegen\n\n\n\n\n\n\n\n\n£flight_texticon\n\n\n\n\n\n\n"
+ rule_brittania:0 "Rule Britannia\n\n\n\n\n\n\n\n\n£brits_texticon\n\n\n\n\n\n\n"
+ rise_of_nations_theme:0 "Das Thema „Der Aufstieg der Nationen“\n\n\n\n\n\n\n\n\n£ron_texticon\n\n\n\n\n\n\n"
+ tico_tico:0 "Tico Tico no Fubá\n\n\n\n\n\n\n\n\n£tico_texticon\n\n\n\n\n\n\n"
+ youth_isr:0 "Giovinezza\n\n\n\n\n\n\n\n\n£giovinezza_texticon\n\n\n\n\n\n\n"
+ german_fatherland:0 "Was ist des Deutschen Vaterlandes\n\n\n\n\n\n\n\n\n£deutchsland_texticon\n\n\n\n\n\n\n"
+ toten_erwachen_wolfnacht:0 "Die Toten Erwachen\n\n\n\n\n\n\n\n\n£deutchsland_2_texticon\n\n\n\n\n\n\n"
+ glory_russia_syria:0 "Slava Rossii\n\n\n\n\n\n\n\n\n£wagner_syria_texticon\n\n\n\n\n\n\n"

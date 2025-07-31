@@ -1,0 +1,23 @@
+﻿l_german:
+
+KM_marine:0 "Küstenverteidigungseinheit"
+KM_marine_desc:0 "Auf die Verteidigung von Küstenstädten, Häfen und Befestigungen spezialisierte Truppen. Stark in der Verteidigung, aber langsam in der Bewegung und schwach in der Offensive."
+
+GER_KM_units_tech:0 "Küstenverteidigungstruppen"
+GER_KM_units_tech_desc:0 "Ermöglicht die Rekrutierung von Truppen, die auf die Verteidigung von Küstenstädten, Häfen und Befestigungen spezialisiert sind.\nStarke Verteidigungsfähigkeiten, aber langsame Bewegungen und schwache Angreifer."
+
+ZDKM.1:0 "Die Kriegsmarine"
+ZDKM.1.t:0 "Optionen für „Die Kriegsmarine“ Mod"
+ZDKM.1.desc:0 "Sie haben vier Optionen:\n\n#1 Nur Skins und Modelle.\nDies ermöglicht den Zugriff auf die Vorlage für Küstenverteidigungseinheiten und alle Modelle. Es werden keine Schiffe jährlich geliefert.\n\n#2 Historische Schiffe.\nDies liefert die historischen jährlichen Schiffsbauten und Marinetechnologie jeweils um den 30. Januar 1940-45.\n\n#3 Verbesserte historische Schiffe.\nDies liefert verbesserte historische Schiffsbauten der Stufe III jeweils um den 30. Januar 1940-45. *Siehe Hinweis unten.\n\n#4 Z-Plan JETZT!\nLiefert sofort 250 Schiffe und 300 U-Boote mit verbesserter Technologie der Stufe IV. *Siehe Hinweis unten.\n\n\nSIE SOLLTEN ALLE AKTUELLEN FLOTTEN FÜR OPTIONEN 3 und 4 LÖSCHEN, BEVOR Sie die Option auswählen, da alle Schiffe durch verbesserte Versionen ersetzt werden und Sie andernfalls doppelte Namen erhalten. Gruppieren und löschen Sie einfach die Flotten in den drei Häfen Wilhelmshaven, Kiel und Königsberg. Diese Duplizierung ist frustrierenderweise erforderlich, um die Kompatibilität zwischen den Mods zu gewährleisten."
+ZDKM.1.a:0 "Nur Skins und Modelle"
+ZDKM.1.a.tt:0 "Dies ermöglicht den Zugriff auf die Vorlage der Küstenverteidigungseinheit und alle Modelle. Es werden jährlich keine Schiffe ausgeliefert"
+ZDKM.1.b:0 "Historische Schiffe"
+ZDKM.1.b.tt:0 "Dies wird die historischen jährlichen Schiffsbauten und Marinetechnik um den 30. Januar jedes Jahres 1940-45 liefern"
+ZDKM.1.c:0 "Verbesserte historische Schiffe"
+ZDKM.1.c.tt:0 "LÖSCHEN SIE VORHANDENE FLOTTEN, BEVOR SIE DIESE OPTION AUSWÄHLEN - Dadurch werden jedes Jahr um den 30. Januar 1940-45 verbesserte historische Schiffsbauten der Stufe III bereitgestellt"
+ZDKM.1.d:0 "Z-Plan JETZT!"
+ZDKM.1.d.tt:0 "LÖSCHEN SIE VORHANDENE FLOTTEN, BEVOR SIE DIESE OPTION AUSWÄHLEN - Liefert sofort 250 Schiffe und 300 U-Boote mit verbesserter Technologie der Stufe IV"
+ZDKM.100:0 "Die Kriegsmarine Mod"
+ZDKM.100.t:0 "Die Kriegsmarine Bericht "
+ZDKM.100.d:0 "Die Admiralität berichtet, dass alle Marineeinsätze für dieses Jahr wie befohlen abgeschlossen wurden.\n\nZeig Heil"
+ZDKM.100.a:0 "Anerkannt, Anerkannt!"

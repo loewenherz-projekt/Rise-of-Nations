@@ -1,0 +1,21 @@
+﻿l_german:
+ DER_dervish_war:0 "Derwischkrieg"
+ DER_dervish_war_desc:0 "Der Somaliland-Feldzug, auch Anglo-Somalischer Krieg oder Derwischkrieg genannt, ist ein Unabhängigkeitskrieg der somalischen Derwischbewegung vom britischen und italienischen Imperium mit dem Ziel, einen unabhängigen somalischen Staat zu gründen."
+ dervish_war_text:0 "£generic_dervish_war_text_icon Kriegseskalationsstufe: §Y[?DER.DER_dervish_war_level]§!"
+ dervish_war_level_tt:1 "§YAktuelle Kriegseskalation§!\nDie Eskalationsstufe steigt mit der Zeit.\n\nKriegsdauer: §Y+[?DER.DER_war_escalation_level]§!"
+ dervish_war_icon_tt:1 "§YKriegeskalation§!\nEffekte, die durch zunehmende Kriegseskalation ausgelöst werden, nach Level:\n Level 5:\n [DER.GetName] kann unbestrittene Unabhängigkeit erlangen"
+ dervish_war_1_tt:0 "Stufe 1\n Keine Effekte"
+ dervish_war_2_tt:0 "Stufe 2\n Keine Effekte"
+ dervish_war_3_tt:1 "Stufe 3\n Keine Effekte"
+ dervish_war_4_tt:1 "Stufe 4\n Keine Effekte"
+ dervish_war_5_tt:1 "Level 5\n §Y[DER.GetName]§! kann unbestrittene Unabhängigkeit erlangen"
+
+ DER_time_based_dervish_war_mission:0 "Allmähliche Eskalation des Krieges"
+ DER_time_based_dervish_war_mission_desc:0 "Je länger der Krieg dauert, desto größer wird die Besorgnis in der Welt. Seit Beginn des Krieges im Jahr 1900 wird die Eskalation des Krieges mit jedem Halbjahr um eins zunehmen."
+
+ DER_peace_with_britain:0 "Britischen Rückzug erzwingen"
+ DER_peace_with_britain_desc:0 "Da der Derwischkrieg in Großbritannien unpopulär ist, können wir unseren Schritt unternehmen, um die Briten zum Rückzug aus unserem Heimatland zu zwingen."
+ DER_peace_with_britain_tt:0 "Mehr als §Y4§! Kriegseskalation"
+
+ DER_lost_dervish_war:0 "Niederlage im Derwischkrieg"
+ DER_lost_dervish_war_desc:0 "Die britische Niederlage im Derwischkrieg hat gezeigt, dass die britische Armee nicht ganz so stark ist, wie viele dachten, und dass sie am Ende ziemlich schwach ist …"
