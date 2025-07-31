@@ -56,22 +56,40 @@ def translate_line(line: str) -> str:
 
 
 def translate_file(src: Path, dest: Path):
+    """Translate one file and save it to the destination."""
     dest.parent.mkdir(parents=True, exist_ok=True)
-    with src.open('r', encoding='utf-8-sig') as f:
-        lines = [translate_line(line) for line in f]
-    with dest.open('w', encoding='utf-8') as out:
-        out.writelines(lines)
+    with src.open("r", encoding="utf-8-sig") as f:
+        lines = f.readlines()
+
+    print(f"  Translating {src} -> {dest} ({len(lines)} lines)...")
+    translated = [translate_line(line) for line in lines]
+
+    with dest.open("w", encoding="utf-8") as out:
+        out.writelines(translated)
 
 
 def translate_directory(src_dir: Path, dest_dir: Path):
+    """Translate all .yml files within ``src_dir`` to ``dest_dir``."""
+    files_to_translate = []
     for root, _, files in os.walk(src_dir):
         for file in files:
-            if file.endswith('.yml'):
+            if file.endswith(".yml"):
                 src_path = Path(root) / file
                 rel = src_path.relative_to(src_dir)
                 dest_path = dest_dir / rel
-                dest_path = Path(str(dest_path).replace('_l_english', '_l_german'))
-                translate_file(src_path, dest_path)
+                dest_path = Path(
+                    str(dest_path).replace("_l_english", "_l_german")
+                )
+                files_to_translate.append((src_path, dest_path))
+
+    total = len(files_to_translate)
+    print(f"Found {total} files to translate.")
+
+    for idx, (src_path, dest_path) in enumerate(files_to_translate, start=1):
+        print(f"[{idx}/{total}] Processing {src_path}")
+        translate_file(src_path, dest_path)
+
+    print("Translation complete.")
 
 
 if __name__ == '__main__':

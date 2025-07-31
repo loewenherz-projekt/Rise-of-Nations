@@ -53,10 +53,17 @@ def translate_line(line: str) -> str:
 
 
 def translate_file(eng_path: str, ger_path: str):
-    with open(eng_path, 'r', encoding='utf-8-sig') as f:
-        lines = [translate_line(line) for line in f]
-    with open(ger_path, 'w', encoding='utf-8') as out:
-        out.writelines(lines)
+    """Translate a single localization file to German."""
+    with open(eng_path, "r", encoding="utf-8-sig") as f:
+        lines = f.readlines()
+
+    print(f"Translating {eng_path} -> {ger_path} ({len(lines)} lines)...")
+    translated = [translate_line(line) for line in lines]
+
+    with open(ger_path, "w", encoding="utf-8") as out:
+        out.writelines(translated)
+
+    print(f"Saved {ger_path}")
 
 
 if __name__ == '__main__':
