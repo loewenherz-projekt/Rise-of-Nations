@@ -10,18 +10,15 @@
 To translate the entire English localization directory into German run:
 
 ```bash
-export GOOGLE_APPLICATION_CREDENTIALS=/path/to/credentials.json
-pip install google-cloud-translate
+pip install google-cloud-translate google-auth-oauthlib
 python scripts/translate_directory_to_german.py localisation/english localisation/german
 ```
 
-These helper scripts rely on the official **Google Translate API**. You will
-need a service account JSON key to authenticate. Create a Google Cloud project,
-enable the **Cloud Translation API** and download a service account key file.
-Set the `GOOGLE_APPLICATION_CREDENTIALS` environment variable to point to that
-file before running the translation commands. Each English `.yml` file is then
-converted into its German counterpart (with `_l_german` filenames) using
-Google's translation service.
+Place the OAuth client secret JSON file from the Google Cloud console as
+`client_secret.json` in the repository root. The script launches a browser
+window for Google login and stores the resulting token in `token.json` for
+future runs. Each English `.yml` file is converted into its German counterpart
+(with `_l_german` filenames) using Google's translation service.
 
 [patreon-badge]: https://img.shields.io/static/v1?label=Patreon&message=Donate&color=orange&logo=patreon&style=for-the-badge
 [patreon-link]: http://patreon.com/RONMOD

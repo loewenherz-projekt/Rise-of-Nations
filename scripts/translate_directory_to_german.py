@@ -2,8 +2,40 @@ import os
 import re
 import sys
 from pathlib import Path
+
 from google.cloud import translate_v2 as translate
-client = translate.Client()
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
+
+SCOPES = ["https://www.googleapis.com/auth/cloud-translation"]
+TOKEN_FILE = "token.json"
+CLIENT_SECRETS_FILE = "client_secret.json"
+
+
+def get_credentials():
+    creds = None
+    if os.path.exists(TOKEN_FILE):
+        creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+        else:
+            if not os.path.exists(CLIENT_SECRETS_FILE):
+                print(
+                    f"Missing {CLIENT_SECRETS_FILE}. Download it from the Google Cloud Console."
+                )
+                sys.exit(1)
+            flow = InstalledAppFlow.from_client_secrets_file(
+                CLIENT_SECRETS_FILE, SCOPES
+            )
+            creds = flow.run_local_server(port=0)
+        with open(TOKEN_FILE, "w") as token:
+            token.write(creds.to_json())
+    return creds
+
+
+client = translate.Client(credentials=get_credentials())
 pattern = re.compile(r'^(\s*[^#\s][^:]*:\d+\s*")(.*)(".*)$')
 
 
