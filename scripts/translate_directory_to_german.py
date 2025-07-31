@@ -61,8 +61,14 @@ def translate_file(src: Path, dest: Path):
     with src.open("r", encoding="utf-8-sig") as f:
         lines = f.readlines()
 
-    print(f"  Translating {src} -> {dest} ({len(lines)} lines)...")
-    translated = [translate_line(line) for line in lines]
+    total_lines = len(lines)
+    print(f"  Translating {src} -> {dest} ({total_lines} lines)...")
+
+    translated = []
+    for i, line in enumerate(lines, start=1):
+        translated.append(translate_line(line))
+        if i % 50 == 0 or i == total_lines:
+            print(f"    {i}/{total_lines} lines translated")
 
     with dest.open("w", encoding="utf-8") as out:
         out.writelines(translated)
