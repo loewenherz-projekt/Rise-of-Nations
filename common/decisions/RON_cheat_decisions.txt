@@ -21,11 +21,13 @@ RON_cheat_decisions = {
 		
 		complete_effect = {
 			every_owned_state = {
+				# Basic Infrastructure
 				set_building_level = {
 					type = infrastructure
 					level = 10
 					instant_build = yes
 				}
+				# Production Buildings
 				set_building_level = {
 					type = industrial_complex
 					level = 10
@@ -41,8 +43,14 @@ RON_cheat_decisions = {
 					level = 10
 					instant_build = yes
 				}
+				# Military Buildings
 				set_building_level = {
 					type = air_base
+					level = 10
+					instant_build = yes
+				}
+				set_building_level = {
+					type = naval_base
 					level = 10
 					instant_build = yes
 				}
@@ -52,12 +60,50 @@ RON_cheat_decisions = {
 					instant_build = yes
 				}
 				set_building_level = {
+					type = coastal_fort
+					level = 10
+					instant_build = yes
+				}
+				# Technology & Research Buildings
+				set_building_level = {
 					type = radar_station
 					level = 6
 					instant_build = yes
 				}
 				set_building_level = {
 					type = fuel_silo
+					level = 5
+					instant_build = yes
+				}
+				set_building_level = {
+					type = nuclear_reactor
+					level = 1
+					instant_build = yes
+				}
+				# Research Facilities
+				set_building_level = {
+					type = tech_air
+					level = 1
+					instant_build = yes
+				}
+				set_building_level = {
+					type = tech_land
+					level = 1
+					instant_build = yes
+				}
+				set_building_level = {
+					type = tech_naval
+					level = 1
+					instant_build = yes
+				}
+				# Transportation
+				set_building_level = {
+					type = railway
+					level = 5
+					instant_build = yes
+				}
+				set_building_level = {
+					type = supply_node
 					level = 5
 					instant_build = yes
 				}

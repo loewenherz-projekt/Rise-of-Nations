@@ -6,7 +6,7 @@ RON_cheat_decisions_desc:0 "Development and testing commands for modders and pla
 
 ### Cheat Decisions ###
 RON_max_infrastructure:0 "§Y[CHEAT]§! Max All Infrastructure"
-RON_max_infrastructure_desc:0 "Instantly maximize all infrastructure, factories, dockyards, air bases, and defensive buildings in all owned states.\n\n§RThis is a cheat decision for development and testing purposes.§!"
+RON_max_infrastructure_desc:0 "Instantly maximize ALL buildings in all owned states:\n• Infrastructure, Factories, Dockyards\n• Air Bases, Naval Bases, Coastal Forts\n• Anti-Air, Radar, Fuel Silos\n• Railways, Supply Nodes\n• Research Facilities (Air, Land, Naval)\n• Nuclear Reactors\n\n§RThis is a cheat decision for development and testing purposes.§!"
 
 RON_unlock_all_research:0 "§Y[CHEAT]§! Unlock All Research"
 RON_unlock_all_research_desc:0 "Instantly unlock all major technologies including land, air, naval doctrines, equipment, industry, and nuclear research.\n\n§RThis is a cheat decision for development and testing purposes.§!"

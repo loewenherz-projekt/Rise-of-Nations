@@ -6,7 +6,7 @@ RON_cheat_decisions_desc:0 "Entwicklungs- und Testbefehle für Modder und Spiele
 
 ### Cheat Decisions ###
 RON_max_infrastructure:0 "§Y[CHEAT]§! Maximale Infrastruktur"
-RON_max_infrastructure_desc:0 "Maximiert sofort alle Infrastruktur, Fabriken, Werften, Luftstützpunkte und Verteidigungsanlagen in allen kontrollierten Staaten.\n\n§RDies ist eine Cheat-Entscheidung für Entwicklungs- und Testzwecke.§!"
+RON_max_infrastructure_desc:0 "Maximiert sofort ALLE Gebäude in allen kontrollierten Staaten:\n• Infrastruktur, Fabriken, Werften\n• Luftstützpunkte, Marinestützpunkte, Küstenbefestigungen\n• Flugabwehr, Radar, Treibstofftanks\n• Eisenbahnen, Nachschubknoten\n• Forschungseinrichtungen (Luft, Land, Marine)\n• Nuklearreaktoren\n\n§RDies ist eine Cheat-Entscheidung für Entwicklungs- und Testzwecke.§!"
 
 RON_unlock_all_research:0 "§Y[CHEAT]§! Alle Forschungen freischalten"
 RON_unlock_all_research_desc:0 "Schaltet sofort alle wichtigen Technologien frei, einschließlich Land-, Luft- und Marinedoktrinen, Ausrüstung, Industrie und Nuklearforschung.\n\n§RDies ist eine Cheat-Entscheidung für Entwicklungs- und Testzwecke.§!"
