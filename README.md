@@ -10,8 +10,15 @@
 To translate the entire English localization directory into German run:
 
 ```bash
-pip install google-cloud-translate google-auth-oauthlib
+conda env create -f environment.yml
+conda activate riseofnations
 python scripts/translate_directory_to_german.py localisation/english localisation/german
+```
+
+Alternatively install the required Python packages with `pip`:
+
+```bash
+pip install google-cloud-translate google-auth-oauthlib
 ```
 
 Place the OAuth client secret JSON file from the Google Cloud console as
