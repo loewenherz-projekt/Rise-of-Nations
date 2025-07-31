@@ -57,8 +57,14 @@ def translate_file(eng_path: str, ger_path: str):
     with open(eng_path, "r", encoding="utf-8-sig") as f:
         lines = f.readlines()
 
-    print(f"Translating {eng_path} -> {ger_path} ({len(lines)} lines)...")
-    translated = [translate_line(line) for line in lines]
+    total_lines = len(lines)
+    print(f"Translating {eng_path} -> {ger_path} ({total_lines} lines)...")
+
+    translated = []
+    for i, line in enumerate(lines, start=1):
+        translated.append(translate_line(line))
+        if i % 50 == 0 or i == total_lines:
+            print(f"  {i}/{total_lines} lines translated")
 
     with open(ger_path, "w", encoding="utf-8") as out:
         out.writelines(translated)
