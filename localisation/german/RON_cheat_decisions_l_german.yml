@@ -8,5 +8,11 @@ RON_cheat_decisions_desc:0 "Entwicklungs- und Testbefehle für Modder und Spiele
 RON_max_infrastructure:0 "§Y[CHEAT]§! Maximale Infrastruktur"
 RON_max_infrastructure_desc:0 "Maximiert sofort ALLE Gebäude in allen kontrollierten Staaten:\n• Infrastruktur, Fabriken, Werften\n• Luftstützpunkte, Marinestützpunkte, Küstenbefestigungen\n• Flugabwehr, Radar, Treibstofftanks\n• Eisenbahnen, Nachschubknoten\n• Forschungseinrichtungen (Luft, Land, Marine)\n• Nuklearreaktoren\n\n§RDies ist eine Cheat-Entscheidung für Entwicklungs- und Testzwecke.§!"
 
+RON_setup_optimal_army:0 "§Y[CHEAT]§! Optimale Armee erstellen"
+RON_setup_optimal_army_desc:0 "VOLLAUTOMATISCHE Armeeerstellung - keine manuelle Arbeit erforderlich:\n• Erstellt 3 optimierte Divisionsvorlagen mit moderner Ausrüstung\n• Trainiert sofort 18 Divisionen: 10 Infanterie, 5 Mechanisierte, 3 Panzer\n• Erstellt Luftgeschwader mit modernen Jägern und Schlachtflugzeugen\n• Fügt massive Mengen fortschrittlicher Ausrüstung zum Lager hinzu\n• Einheiten erscheinen in der Hauptstadt mit 50% Erfahrung\n\n§RKomplette Armee sofort einsatzbereit!§!"
+
+RON_spawn_modern_units:0 "§Y[CHEAT]§! 100 Moderne Einheiten erzeugen"
+RON_spawn_modern_units_desc:0 "MASSIVE SOFORT-ARMEE - Erstellt 100 Einheiten jeden Typs:\n• 100 Infanterie + 100 Motorisierte + 100 Mechanisierte + 100 Panzer-Divisionen\n• Luftgeschwader: Jäger, Schlachtflieger, Strategische Bomber an allen Flugplätzen\n• Marineflotte: Zerstörer, Kreuzer, Schlachtschiffe, Träger an allen Häfen\n• Alle Einheiten mit 80% Erfahrung und moderner Ausrüstung\n• Landeinheiten in Hauptstadt, Luft-/Marineeinheiten an jeweiligen Basen\n\n§R400+ Divisionen + komplette Luftwaffe + Marine mit einem Klick!§!"
+
 RON_unlock_all_research:0 "§Y[CHEAT]§! Alle Forschungen freischalten"
 RON_unlock_all_research_desc:0 "Schaltet sofort alle wichtigen Technologien frei, einschließlich Land-, Luft- und Marinedoktrinen, Ausrüstung, Industrie und Nuklearforschung.\n\n§RDies ist eine Cheat-Entscheidung für Entwicklungs- und Testzwecke.§!"

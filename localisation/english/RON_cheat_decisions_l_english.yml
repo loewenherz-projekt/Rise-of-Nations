@@ -8,5 +8,11 @@ RON_cheat_decisions_desc:0 "Development and testing commands for modders and pla
 RON_max_infrastructure:0 "§Y[CHEAT]§! Max All Infrastructure"
 RON_max_infrastructure_desc:0 "Instantly maximize ALL buildings in all owned states:\n• Infrastructure, Factories, Dockyards\n• Air Bases, Naval Bases, Coastal Forts\n• Anti-Air, Radar, Fuel Silos\n• Railways, Supply Nodes\n• Research Facilities (Air, Land, Naval)\n• Nuclear Reactors\n\n§RThis is a cheat decision for development and testing purposes.§!"
 
+RON_setup_optimal_army:0 "§Y[CHEAT]§! Setup Optimal Army"
+RON_setup_optimal_army_desc:0 "FULLY AUTOMATED army creation - no manual work required:\n• Creates 3 optimized division templates with modern equipment\n• Instantly trains 18 divisions: 10 Infantry, 5 Mechanized, 3 Tank\n• Creates air wings with modern fighters and CAS\n• Adds massive amounts of advanced equipment to stockpile\n• Units spawn in capital with 50% experience\n\n§RComplete army ready for immediate deployment!§!"
+
+RON_spawn_modern_units:0 "§Y[CHEAT]§! Spawn 100 Modern Units"
+RON_spawn_modern_units_desc:0 "MASSIVE INSTANT ARMY - Creates 100 units of every type:\n• 100 Infantry + 100 Motorized + 100 Mechanized + 100 Tank Divisions\n• Air wings: Fighters, CAS, Strategic Bombers at all airbases\n• Naval fleet: Destroyers, Cruisers, Battleships, Carriers at all ports\n• All units spawn with 80% experience and modern equipment\n• Land units spawn in capital, air/naval units at respective bases\n\n§R400+ divisions + full air force + navy in one click!§!"
+
 RON_unlock_all_research:0 "§Y[CHEAT]§! Unlock All Research"
 RON_unlock_all_research_desc:0 "Instantly unlock all major technologies including land, air, naval doctrines, equipment, industry, and nuclear research.\n\n§RThis is a cheat decision for development and testing purposes.§!"

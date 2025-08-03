@@ -1,0 +1,111 @@
+# Performance-optimierte Frontend-UI für Rise of Nations
+# Reduziert UI-Overhead und verbessert Responaiveness
+
+guiTypes = {
+	containerWindowType = {
+		name = "frontend_main"
+		size = { width = 1920 height = 1080 }
+		
+		# Deaktivierte Animationen für bessere Performance
+		animation = {
+			animationmaskfile = ""
+			animationtexturefile = ""
+			animationrotation = 0.0
+			animationlooping = no
+			animationtime = 0.0
+			animationdelay = 0.0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		
+		# Reduzierte Transparenz-Effekte
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+		
+		# Optimierte Button-States ohne komplexe Effekte
+		buttonType = {
+			name = "new_game_button"
+			quadTextureSprite = "GFX_main_lobby_button"
+			position = { x = 16 y = 200 }
+			buttonText = "FE_NEW"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
+		buttonType = {
+			name = "load_game_button" 
+			quadTextureSprite = "GFX_main_lobby_button"
+			position = { x = 16 y = 252 }
+			buttonText = "MENU_BAR_LOAD"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
+		buttonType = {
+			name = "tutorial_button"
+			quadTextureSprite = "GFX_main_lobby_button"
+			position = { x = 16 y = 304 }
+			buttonText = "FE_TUTORIAL"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
+		buttonType = {
+			name = "multiplayer_button"
+			quadTextureSprite = "GFX_main_lobby_button"
+			position = { x = 16 y = 356 }
+			buttonText = "FE_MULTIPLAYER"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
+		buttonType = {
+			name = "settings_button"
+			quadTextureSprite = "GFX_main_lobby_button"
+			position = { x = 16 y = 408 }
+			buttonText = "OPTIONS"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
+		buttonType = {
+			name = "credits_button"
+			quadTextureSprite = "GFX_main_lobby_button"
+			position = { x = 16 y = 460 }
+			buttonText = "FE_CREDITS"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
+		buttonType = {
+			name = "exit_button"
+			quadTextureSprite = "GFX_main_lobby_button"
+			position = { x = 16 y = 512 }
+			buttonText = "FE_EXIT"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
+		# Vereinfachter News-Feed ohne aufwändige Grafiken
+		containerWindowType = {
+			name = "news_feed"
+			position = { x = 1400 y = 200 }
+			size = { width = 500 height = 600 }
+			
+			# Minimale Grafiken für News
+			iconType = {
+				name = "news_bg"
+				spriteType = "GFX_tiled_window_transparent"
+				position = { x = 0 y = 0 }
+			}
+		}
+	}
+}

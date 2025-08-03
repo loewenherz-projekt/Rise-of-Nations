@@ -43,7 +43,7 @@ GER_improve_great_depression_2 = {
 	
 	if = {
 		limit = { has_idea = GER_great_depression_2 }
-		remove_idea = GER_great_depression_2
+		remove_ideas = GER_great_depression_2
 	}
 	
 	if = {

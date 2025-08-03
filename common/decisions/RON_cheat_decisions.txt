@@ -13,7 +13,7 @@ RON_cheat_decisions = {
 		
 		cost = 0
 		
-		days_re_enable = 30
+		days_re_enable = 1
 		
 		ai_will_do = {
 			factor = 0
@@ -30,17 +30,17 @@ RON_cheat_decisions = {
 				# Production Buildings
 				set_building_level = {
 					type = industrial_complex
-					level = 10
+					level = 80
 					instant_build = yes
 				}
 				set_building_level = {
 					type = arms_factory
-					level = 10
+					level = 80
 					instant_build = yes
 				}
 				set_building_level = {
 					type = dockyard
-					level = 10
+					level = 80
 					instant_build = yes
 				}
 				# Military Buildings
@@ -50,18 +50,8 @@ RON_cheat_decisions = {
 					instant_build = yes
 				}
 				set_building_level = {
-					type = naval_base
-					level = 10
-					instant_build = yes
-				}
-				set_building_level = {
 					type = anti_air_building
-					level = 5
-					instant_build = yes
-				}
-				set_building_level = {
-					type = coastal_fort
-					level = 10
+					level = 12
 					instant_build = yes
 				}
 				# Technology & Research Buildings
@@ -76,36 +66,1055 @@ RON_cheat_decisions = {
 					instant_build = yes
 				}
 				set_building_level = {
+					type = synthetic_refinery
+					level = 3
+					instant_build = yes
+				}
+				set_building_level = {
+					type = rocket_site
+					level = 1
+					instant_build = yes
+				}
+				set_building_level = {
 					type = nuclear_reactor
 					level = 1
 					instant_build = yes
 				}
-				# Research Facilities
+			}
+			every_owned_state = {
+				limit = { is_coastal = yes }
+				# Coastal State Buildings
 				set_building_level = {
-					type = tech_air
+					type = naval_base
+					level = 10
+					instant_build = yes
+				}
+				set_building_level = {
+					type = coastal_bunker
+					level = 10
+					instant_build = yes
+				}
+			}
+			every_owned_state = {
+				# State Level Special Buildings
+				set_building_level = {
+					type = stronghold_network
 					level = 1
 					instant_build = yes
 				}
-				set_building_level = {
-					type = tech_land
-					level = 1
-					instant_build = yes
+			}
+			every_controlled_state = {
+				every_province_in_state = {
+					# Province Level Buildings
+					set_building_level = {
+						type = bunker
+						level = 10
+						instant_build = yes
+					}
+					set_building_level = {
+						type = trench
+						level = 10
+						instant_build = yes
+					}
+					set_building_level = {
+						type = rail_way
+						level = 1
+						instant_build = yes
+					}
+					set_building_level = {
+						type = supply_node
+						level = 1
+						instant_build = yes
+					}
+					set_building_level = {
+						type = dam
+						level = 1
+						instant_build = yes
+					}
 				}
-				set_building_level = {
-					type = tech_naval
-					level = 1
-					instant_build = yes
+			}
+			every_controlled_state = {
+				every_province_in_state = {
+					# Experimental Sites / Special Project Facilities (Province Level)
+					set_building_level = {
+						type = nuclear_facility
+						level = 1
+						instant_build = yes
+					}
+					set_building_level = {
+						type = air_facility
+						level = 1
+						instant_build = yes
+					}
+					set_building_level = {
+						type = land_facility
+						level = 1
+						instant_build = yes
+					}
 				}
-				# Transportation
-				set_building_level = {
-					type = railway
-					level = 5
-					instant_build = yes
+			}
+			every_controlled_state = {
+				limit = { is_coastal = yes }
+				every_province_in_state = {
+					# Naval Facilities (Coastal Provinces Only)
+					set_building_level = {
+						type = naval_facility
+						level = 1
+						instant_build = yes
+					}
 				}
-				set_building_level = {
-					type = supply_node
-					level = 5
-					instant_build = yes
+			}
+		}
+	}
+
+	RON_setup_optimal_army = {
+		icon = generic_army
+		
+		allowed = {
+			always = yes
+		}
+		
+		available = {
+			always = yes
+		}
+		
+		cost = 0
+		
+		days_re_enable = 1
+		
+		ai_will_do = {
+			factor = 0
+		}
+		
+		complete_effect = {
+			# Add massive amounts of modern equipment to stockpile
+			add_equipment_to_stockpile = {
+				type = infantry_equipment_3
+				amount = 100000
+			}
+			add_equipment_to_stockpile = {
+				type = support_equipment_1
+				amount = 20000
+			}
+			add_equipment_to_stockpile = {
+				type = artillery_equipment_9
+				amount = 10000
+			}
+			add_equipment_to_stockpile = {
+				type = motorized_equipment_8
+				amount = 10000
+			}
+			add_equipment_to_stockpile = {
+				type = mechanized_equipment_12
+				amount = 8000
+			}
+			add_equipment_to_stockpile = {
+				type = heavy_tank_equipment_4
+				amount = 5000
+			}
+			add_equipment_to_stockpile = {
+				type = jet_fighter_equipment_16
+				amount = 3000
+			}
+			add_equipment_to_stockpile = {
+				type = jet_CAS_equipment_10
+				amount = 2000
+			}
+			
+			# Create modern infantry division template (7/2 with support)
+			division_template = {
+				name = "Moderne Infanterie"
+				priority = 2
+				
+				regiments = {
+					infantry = { x = 0 y = 0 }
+					infantry = { x = 0 y = 1 }
+					infantry = { x = 0 y = 2 }
+					infantry = { x = 1 y = 0 }
+					infantry = { x = 1 y = 1 }
+					infantry = { x = 1 y = 2 }
+					infantry = { x = 2 y = 0 }
+					
+					artillery = { x = 3 y = 0 }
+					artillery = { x = 3 y = 1 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					field_hospital = { x = 0 y = 2 }
+					logistics_company = { x = 0 y = 3 }
+					anti_air = { x = 0 y = 4 }
+				}
+			}
+			
+			# Create mechanized division template
+			division_template = {
+				name = "Mechanisierte Division"
+				priority = 2
+				
+				regiments = {
+					mechanized = { x = 0 y = 0 }
+					mechanized = { x = 0 y = 1 }
+					mechanized = { x = 0 y = 2 }
+					mechanized = { x = 1 y = 0 }
+					mechanized = { x = 1 y = 1 }
+					mechanized = { x = 1 y = 2 }
+					mechanized = { x = 2 y = 0 }
+					
+					sp_artillery = { x = 3 y = 0 }
+					sp_artillery = { x = 3 y = 1 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					maintenance_company = { x = 0 y = 2 }
+					logistics_company = { x = 0 y = 3 }
+					signal_company = { x = 0 y = 4 }
+				}
+			}
+			
+			# Create modern tank division template
+			division_template = {
+				name = "Moderne Panzer"
+				priority = 2
+				
+				regiments = {
+					heavy_armor = { x = 0 y = 0 }
+					heavy_armor = { x = 0 y = 1 }
+					heavy_armor = { x = 0 y = 2 }
+					heavy_armor = { x = 1 y = 0 }
+					heavy_armor = { x = 1 y = 1 }
+					
+					mechanized = { x = 2 y = 0 }
+					mechanized = { x = 2 y = 1 }
+					mechanized = { x = 2 y = 2 }
+					mechanized = { x = 3 y = 0 }
+					mechanized = { x = 3 y = 1 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					maintenance_company = { x = 0 y = 2 }
+					logistics_company = { x = 0 y = 3 }
+					signal_company = { x = 0 y = 4 }
+				}
+			}
+			
+			# Create futuristic main battle tank division (2030+)
+			division_template = {
+				name = "Zukunftspanzer 2030"
+				priority = 3
+				
+				regiments = {
+					modern_armor = { x = 0 y = 0 }
+					modern_armor = { x = 0 y = 1 }
+					modern_armor = { x = 0 y = 2 }
+					modern_armor = { x = 1 y = 0 }
+					modern_armor = { x = 1 y = 1 }
+					modern_armor = { x = 1 y = 2 }
+					
+					mechanized = { x = 2 y = 0 }
+					mechanized = { x = 2 y = 1 }
+					mechanized = { x = 2 y = 2 }
+					mechanized = { x = 3 y = 0 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					maintenance_company = { x = 0 y = 2 }
+					logistics_company = { x = 0 y = 3 }
+					signal_company = { x = 0 y = 4 }
+				}
+			}
+			
+			# Create light tank reconnaissance division
+			division_template = {
+				name = "Leichte Aufkl\u00e4rung"
+				priority = 2
+				
+				regiments = {
+					light_armor = { x = 0 y = 0 }
+					light_armor = { x = 0 y = 1 }
+					light_armor = { x = 0 y = 2 }
+					light_armor = { x = 1 y = 0 }
+					
+					motorized = { x = 2 y = 0 }
+					motorized = { x = 2 y = 1 }
+					motorized = { x = 2 y = 2 }
+				}
+				
+				support = {
+					recon = { x = 0 y = 0 }
+					engineer = { x = 0 y = 1 }
+					logistics_company = { x = 0 y = 2 }
+					signal_company = { x = 0 y = 3 }
+				}
+			}
+			
+			# Create heavy mechanized assault division
+			division_template = {
+				name = "Schwere Sturm-Division"
+				priority = 3
+				
+				regiments = {
+					mechanized = { x = 0 y = 0 }
+					mechanized = { x = 0 y = 1 }
+					mechanized = { x = 0 y = 2 }
+					mechanized = { x = 1 y = 0 }
+					mechanized = { x = 1 y = 1 }
+					mechanized = { x = 1 y = 2 }
+					mechanized = { x = 2 y = 0 }
+					
+					sp_artillery = { x = 3 y = 0 }
+					sp_artillery = { x = 3 y = 1 }
+					sp_anti_air = { x = 3 y = 2 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					maintenance_company = { x = 0 y = 2 }
+					logistics_company = { x = 0 y = 3 }
+					signal_company = { x = 0 y = 4 }
+				}
+			}
+			
+			# Create amphibious assault division
+			division_template = {
+				name = "Amphibische Sturmtruppen"
+				priority = 2
+				
+				regiments = {
+					marine = { x = 0 y = 0 }
+					marine = { x = 0 y = 1 }
+					marine = { x = 0 y = 2 }
+					marine = { x = 1 y = 0 }
+					marine = { x = 1 y = 1 }
+					marine = { x = 1 y = 2 }
+					marine = { x = 2 y = 0 }
+					
+					artillery = { x = 3 y = 0 }
+					artillery = { x = 3 y = 1 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					field_hospital = { x = 0 y = 2 }
+					logistics_company = { x = 0 y = 3 }
+					anti_air = { x = 0 y = 4 }
+				}
+			}
+			
+			# Create rocket artillery division
+			division_template = {
+				name = "Raketenartillerie"
+				priority = 2
+				
+				regiments = {
+					motorized = { x = 0 y = 0 }
+					motorized = { x = 0 y = 1 }
+					motorized = { x = 1 y = 0 }
+					motorized = { x = 1 y = 1 }
+					
+					motorized_rocket_artillery = { x = 2 y = 0 }
+					motorized_rocket_artillery = { x = 2 y = 1 }
+					motorized_rocket_artillery = { x = 3 y = 0 }
+					motorized_rocket_artillery = { x = 3 y = 1 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					logistics_company = { x = 0 y = 2 }
+					signal_company = { x = 0 y = 3 }
+				}
+			}
+			
+			# Create anti-air defense division
+			division_template = {
+				name = "Luftabwehr-Spezialdivision"
+				priority = 2
+				
+				regiments = {
+					motorized = { x = 0 y = 0 }
+					motorized = { x = 0 y = 1 }
+					motorized = { x = 1 y = 0 }
+					motorized = { x = 1 y = 1 }
+					
+					anti_air = { x = 2 y = 0 }
+					anti_air = { x = 2 y = 1 }
+					anti_air = { x = 3 y = 0 }
+					anti_air = { x = 3 y = 1 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					logistics_company = { x = 0 y = 2 }
+					signal_company = { x = 0 y = 3 }
+				}
+			}
+			
+			# Train divisions automatically - Infantry
+			capital_scope = {
+				create_unit = {
+					division = "name = \"1. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"3. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"4. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"5. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"6. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"7. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"8. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"9. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"10. Infanterie\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				
+				# Train mechanized divisions
+				create_unit = {
+					division = "name = \"1. Mechanisiert\" division_template = \"Mechanisierte Division\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Mechanisiert\" division_template = \"Mechanisierte Division\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"3. Mechanisiert\" division_template = \"Mechanisierte Division\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"4. Mechanisiert\" division_template = \"Mechanisierte Division\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"5. Mechanisiert\" division_template = \"Mechanisierte Division\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				
+				# Train tank divisions
+				create_unit = {
+					division = "name = \"1. Panzerdivision\" division_template = \"Moderne Panzer\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Panzerdivision\" division_template = \"Moderne Panzer\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"3. Panzerdivision\" division_template = \"Moderne Panzer\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				
+				# Train futuristic tank divisions (2030+)
+				create_unit = {
+					division = "name = \"1. Zukunftspanzer\" division_template = \"Zukunftspanzer 2030\" start_experience_factor = 0.8"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Zukunftspanzer\" division_template = \"Zukunftspanzer 2030\" start_experience_factor = 0.8"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"3. Zukunftspanzer\" division_template = \"Zukunftspanzer 2030\" start_experience_factor = 0.8"
+					owner = ROOT
+				}
+				
+				# Train light reconnaissance divisions
+				create_unit = {
+					division = "name = \"1. Aufkl\u00e4rungsregiment\" division_template = \"Leichte Aufkl\u00e4rung\" start_experience_factor = 0.6"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Aufkl\u00e4rungsregiment\" division_template = \"Leichte Aufkl\u00e4rung\" start_experience_factor = 0.6"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"3. Aufkl\u00e4rungsregiment\" division_template = \"Leichte Aufkl\u00e4rung\" start_experience_factor = 0.6"
+					owner = ROOT
+				}
+				
+				# Train heavy mechanized assault divisions
+				create_unit = {
+					division = "name = \"1. Sturmdivision\" division_template = \"Schwere Sturm-Division\" start_experience_factor = 0.7"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Sturmdivision\" division_template = \"Schwere Sturm-Division\" start_experience_factor = 0.7"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"3. Sturmdivision\" division_template = \"Schwere Sturm-Division\" start_experience_factor = 0.7"
+					owner = ROOT
+				}
+				
+				# Train amphibious assault divisions
+				create_unit = {
+					division = "name = \"1. Marineinfanterie\" division_template = \"Amphibische Sturmtruppen\" start_experience_factor = 0.6"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Marineinfanterie\" division_template = \"Amphibische Sturmtruppen\" start_experience_factor = 0.6"
+					owner = ROOT
+				}
+				
+				# Train rocket artillery divisions
+				create_unit = {
+					division = "name = \"1. Raketenartillerie\" division_template = \"Raketenartillerie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Raketenartillerie\" division_template = \"Raketenartillerie\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				
+				# Train anti-air defense divisions
+				create_unit = {
+					division = "name = \"1. Luftabwehr\" division_template = \"Luftabwehr-Spezialdivision\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Luftabwehr\" division_template = \"Luftabwehr-Spezialdivision\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+			}
+			
+			# Set up production lines for continuous equipment production
+			# Infantry equipment production
+			add_equipment_production = {
+				equipment = {
+					type = infantry_equipment_3
+					creator = "ROOT"
+				}
+				requested_factories = 15
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Support equipment production  
+			add_equipment_production = {
+				equipment = {
+					type = support_equipment_1
+					creator = "ROOT"
+				}
+				requested_factories = 5
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Artillery production
+			add_equipment_production = {
+				equipment = {
+					type = artillery_equipment_9
+					creator = "ROOT"
+				}
+				requested_factories = 8
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Motorized equipment production
+			add_equipment_production = {
+				equipment = {
+					type = motorized_equipment_8
+					creator = "ROOT"
+				}
+				requested_factories = 6
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Mechanized equipment production
+			add_equipment_production = {
+				equipment = {
+					type = mechanized_equipment_12
+					creator = "ROOT"
+				}
+				requested_factories = 8
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Heavy tank production
+			add_equipment_production = {
+				equipment = {
+					type = heavy_tank_equipment_4
+					creator = "ROOT"
+				}
+				requested_factories = 10
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Fighter aircraft production
+			add_equipment_production = {
+				equipment = {
+					type = jet_fighter_equipment_16
+					creator = "ROOT"
+				}
+				requested_factories = 8
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# CAS aircraft production
+			add_equipment_production = {
+				equipment = {
+					type = jet_CAS_equipment_10
+					creator = "ROOT"
+				}
+				requested_factories = 6
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Strategic bomber production
+			add_equipment_production = {
+				equipment = {
+					type = jet_strat_bomber_equipment_10
+					creator = "ROOT"
+				}
+				requested_factories = 4
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Modern tank production
+			add_equipment_production = {
+				equipment = {
+					type = modern_tank_equipment_14
+					creator = "ROOT"
+				}
+				requested_factories = 12
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Light tank production
+			add_equipment_production = {
+				equipment = {
+					type = light_tank_equipment_10
+					creator = "ROOT"
+				}
+				requested_factories = 8
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Medium tank production
+			add_equipment_production = {
+				equipment = {
+					type = medium_tank_equipment_3
+					creator = "ROOT"
+				}
+				requested_factories = 10
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Assault gun production
+			add_equipment_production = {
+				equipment = {
+					type = medium_assault_gun_equipment_16
+					creator = "ROOT"
+				}
+				requested_factories = 8
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Anti-tank equipment production
+			add_equipment_production = {
+				equipment = {
+					type = anti_tank_equipment_3
+					creator = "ROOT"
+				}
+				requested_factories = 4
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Anti-air equipment production
+			add_equipment_production = {
+				equipment = {
+					type = anti_air_equipment_3
+					creator = "ROOT"
+				}
+				requested_factories = 5
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Transport aircraft production
+			add_equipment_production = {
+				equipment = {
+					type = transport_plane_equipment_40
+					creator = "ROOT"
+				}
+				requested_factories = 3
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Attack helicopter production
+			add_equipment_production = {
+				equipment = {
+					type = attack_helicopter_equipment_8
+					creator = "ROOT"
+				}
+				requested_factories = 4
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Scout helicopter production
+			add_equipment_production = {
+				equipment = {
+					type = scout_helicopter_equipment_9
+					creator = "ROOT"
+				}
+				requested_factories = 2
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Heavy mechanized production
+			add_equipment_production = {
+				equipment = {
+					type = mechanized_heavy_equipment_12
+					creator = "ROOT"
+				}
+				requested_factories = 6
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Amphibious mechanized production
+			add_equipment_production = {
+				equipment = {
+					type = amphibious_mechanized_equipment_7
+					creator = "ROOT"
+				}
+				requested_factories = 4
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Heavy artillery production
+			add_equipment_production = {
+				equipment = {
+					type = heavy_artillery_equipment_9
+					creator = "ROOT"
+				}
+				requested_factories = 6
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Rocket artillery production
+			add_equipment_production = {
+				equipment = {
+					type = motorized_rocket_equipment_9
+					creator = "ROOT"
+				}
+				requested_factories = 5
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Self-propelled artillery production
+			add_equipment_production = {
+				equipment = {
+					type = sp_artillery_equipment_3
+					creator = "ROOT"
+				}
+				requested_factories = 6
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Railway gun production
+			add_equipment_production = {
+				equipment = {
+					type = railway_gun_equipment_4
+					creator = "ROOT"
+				}
+				requested_factories = 2
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# Ballistic missile production
+			add_equipment_production = {
+				equipment = {
+					type = ballistic_missile_equipment_3
+					creator = "ROOT"
+				}
+				requested_factories = 3
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# ICBM production
+			add_equipment_production = {
+				equipment = {
+					type = icbm_equipment_4
+					creator = "ROOT"
+				}
+				requested_factories = 2
+				progress = 0.1
+				efficiency = 100
+			}
+			
+			# SAM production
+			add_equipment_production = {
+				equipment = {
+					type = sam_equipment_6
+					creator = "ROOT"
+				}
+				requested_factories = 3
+				progress = 0.1
+				efficiency = 100
+			}
+
+			# Create air wings
+			random_owned_controlled_state = {
+				limit = { 
+					air_base > 0 
+				}
+				create_unit = {
+					division = "name = \"1. Jagdgeschwader\" division_template = \"Fighter\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2. Jagdgeschwader\" division_template = \"Fighter\" start_experience_factor = 0.5"  
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"1. Schlachtgeschwader\" division_template = \"CAS\" start_experience_factor = 0.5"
+					owner = ROOT
+				}
+			}
+		}
+	}
+
+	RON_spawn_modern_units = {
+		icon = generic_tank
+		
+		allowed = {
+			always = yes
+		}
+		
+		available = {
+			always = yes
+		}
+		
+		cost = 0
+		
+		days_re_enable = 1
+		
+		ai_will_do = {
+			factor = 0
+		}
+		
+		complete_effect = {
+			# Add equipment for 100 units of each type
+			add_equipment_to_stockpile = {
+				type = infantry_equipment_3
+				amount = 100000
+			}
+			add_equipment_to_stockpile = {
+				type = support_equipment_1
+				amount = 50000
+			}
+			add_equipment_to_stockpile = {
+				type = artillery_equipment_9
+				amount = 20000
+			}
+			add_equipment_to_stockpile = {
+				type = motorized_equipment_8
+				amount = 20000
+			}
+			add_equipment_to_stockpile = {
+				type = mechanized_equipment_12
+				amount = 15000
+			}
+			add_equipment_to_stockpile = {
+				type = heavy_tank_equipment_4
+				amount = 10000
+			}
+			
+			# Create infantry divisions (100 units)
+			capital_scope = {
+				# Infantry divisions (10 battalions each = 1000 total infantry battalions)
+				repeat = {
+					count = 100
+					create_unit = {
+						division = "name = \"Infanterie #\" division_template = \"Moderne Infanterie\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# Motorized divisions (100 units)
+				repeat = {
+					count = 100
+					create_unit = {
+						division = "name = \"Motorisiert #\" division_template = \"Motorisierte Division\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# Mechanized divisions (100 units)
+				repeat = {
+					count = 100
+					create_unit = {
+						division = "name = \"Mechanisiert #\" division_template = \"Mechanisierte Division\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# Tank divisions (100 units)
+				repeat = {
+					count = 100
+					create_unit = {
+						division = "name = \"Panzer #\" division_template = \"Moderne Panzer\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+			}
+			
+			# Create additional templates for variety
+			division_template = {
+				name = "Motorisierte Division"
+				priority = 2
+				
+				regiments = {
+					motorized = { x = 0 y = 0 }
+					motorized = { x = 0 y = 1 }
+					motorized = { x = 0 y = 2 }
+					motorized = { x = 1 y = 0 }
+					motorized = { x = 1 y = 1 }
+					motorized = { x = 1 y = 2 }
+					motorized = { x = 2 y = 0 }
+					
+					artillery = { x = 3 y = 0 }
+					artillery = { x = 3 y = 1 }
+				}
+				
+				support = {
+					engineer = { x = 0 y = 0 }
+					recon = { x = 0 y = 1 }
+					field_hospital = { x = 0 y = 2 }
+					logistics_company = { x = 0 y = 3 }
+					anti_air = { x = 0 y = 4 }
+				}
+			}
+			
+			# Create air units at airbases
+			every_owned_controlled_state = {
+				limit = { 
+					air_base > 0 
+				}
+				# Modern fighters (100 wings of 100 planes each = 10,000 fighters total)
+				repeat = {
+					count = 10
+					create_unit = {
+						division = "name = \"Jagdgeschwader #\" division_template = \"Fighter\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# CAS wings (100 wings)
+				repeat = {
+					count = 10  
+					create_unit = {
+						division = "name = \"Schlachtgeschwader #\" division_template = \"CAS\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# Strategic bombers (50 wings)
+				repeat = {
+					count = 5
+					create_unit = {
+						division = "name = \"Bombergeschwader #\" division_template = \"Strategic Bomber\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+			}
+			
+			# Create naval units at naval bases
+			every_owned_controlled_state = {
+				limit = { 
+					naval_base > 0 
+				}
+				# Modern destroyers (20 units)
+				repeat = {
+					count = 20
+					create_unit = {
+						division = "name = \"Zerstörer #\" division_template = \"Destroyer\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# Modern cruisers (15 units)
+				repeat = {
+					count = 15
+					create_unit = {
+						division = "name = \"Kreuzer #\" division_template = \"Light Cruiser\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# Modern battleships (10 units)
+				repeat = {
+					count = 10
+					create_unit = {
+						division = "name = \"Schlachtschiff #\" division_template = \"Battleship\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
+				}
+				
+				# Aircraft carriers (5 units)
+				repeat = {
+					count = 5
+					create_unit = {
+						division = "name = \"Flugzeugträger #\" division_template = \"Carrier\" start_experience_factor = 0.8"
+						owner = ROOT
+					}
 				}
 			}
 		}
